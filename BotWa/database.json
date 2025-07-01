@@ -24,12 +24,14 @@
       "users": {
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 0,
-          "exp": 126,
-          "usedcommands": 4,
-          "level": 6,
+          "bank": 9838,
+          "exp": 381,
+          "usedcommands": 8,
+          "level": 9,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "mineCooldown": 1751375337835,
+          "workCooldown": 1751375340130
         },
         "5218713339906@s.whatsapp.net": {
           "chocolates": 0,
@@ -58,7 +60,7 @@
   "settings": {
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 4,
+      "botcommando": 8,
       "namebot": "Sylphiette",
       "namebot2": "Sylphiette",
       "owner": "Oculto por privacidad",
