@@ -25,9 +25,9 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 735,
-          "usedcommands": 14,
-          "level": 12,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
           "banned": false,
           "reason": ""
         },
@@ -58,12 +58,12 @@
   "settings": {
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 17,
-      "namebot": "Texto Loco",
-      "namebot2": "Texto Loco",
+      "botcommando": 1,
+      "namebot": "Alya San",
+      "namebot2": "Alya",
       "owner": "Oculto por privacidad",
-      "banner": "https://stellarwa.xyz/files/1751338465870.jpg",
-      "currency": "DevAlexJs"
+      "banner": "https://stellarwa.xyz/files/1750777522797.jpg",
+      "currency": "StarCoins"
     }
   }
 }
