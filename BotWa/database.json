@@ -1,9 +1,18 @@
 {
   "users": {
+    "5492916450307@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𓂃 ࣪˖ ⋆.˚ ʚїɞ ⋆ 𝑨𝒍𝒆𝒙𝒊𝒖 ᜊ ⋆ ʚїɞ .˚⋆ ࣪˖ 𓂃",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
     "5218713339906@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 871 333 9906",
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11,8 +20,17 @@
     }
   },
   "chats": {
-    "5218713339906@s.whatsapp.net": {
+    "5492916450307@s.whatsapp.net": {
       "users": {
+        "5492916450307@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 44,
+          "usedcommands": 3,
+          "level": 4,
+          "banned": false,
+          "reason": ""
+        },
         "5218713339906@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
@@ -33,16 +51,17 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 0,
+      "botcommando": 3,
       "namebot": "Alya San",
       "namebot2": "Alya",
-      "owner": "Oculto por privacidad",
+      "owner": "Alexiuss",
       "banner": "https://stellarwa.xyz/files/1750777522797.jpg",
       "currency": "StarCoins"
     }
