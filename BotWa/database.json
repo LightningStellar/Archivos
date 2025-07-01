@@ -23,16 +23,13 @@
     "5492916450307@s.whatsapp.net": {
       "users": {
         "5492916450307@s.whatsapp.net": {
-          "chocolates": 7517,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 246,
-          "usedcommands": 6,
-          "level": 8,
+          "exp": 55,
+          "usedcommands": 3,
+          "level": 4,
           "banned": false,
-          "reason": "",
-          "mineCooldown": 1751386446594,
-          "workCooldown": 1751386448406,
-          "slutCooldown": 1751386450920
+          "reason": ""
         },
         "212609690006@s.whatsapp.net": {
           "chocolates": 0,
@@ -61,9 +58,9 @@
   "settings": {
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
-      "namebot": "Styles",
-      "namebot2": "Styles",
+      "botcommando": 3,
+      "namebot": "Alya San",
+      "namebot2": "Alya",
       "owner": "Oculto por privacidad",
       "banner": "https://stellarwa.xyz/files/1750777522797.jpg",
       "currency": "StarCoins"
