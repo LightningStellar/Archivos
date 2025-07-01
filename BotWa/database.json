@@ -24,14 +24,12 @@
       "users": {
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 9838,
-          "exp": 569,
-          "usedcommands": 10,
-          "level": 10,
+          "bank": 0,
+          "exp": 115,
+          "usedcommands": 3,
+          "level": 3,
           "banned": false,
-          "reason": "",
-          "mineCooldown": 1751375337835,
-          "workCooldown": 1751375340130
+          "reason": ""
         },
         "5218713339906@s.whatsapp.net": {
           "chocolates": 0,
@@ -60,12 +58,12 @@
   "settings": {
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 11,
-      "namebot": "Sylphiette",
-      "namebot2": "Sylphiette",
-      "owner": "Alexius",
-      "banner": "https://stellarwa.xyz/files/1751374652380.jpg",
-      "currency": "GataCoins"
+      "botcommando": 3,
+      "namebot": "Alya San",
+      "namebot2": "Alya",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1750777522797.jpg",
+      "currency": "StarCoins"
     }
   }
 }
