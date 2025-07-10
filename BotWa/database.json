@@ -6588,6 +6588,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573135861052@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8371,9 +8380,9 @@
         "51959789834@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 389,
-          "usedcommands": 8,
-          "level": 9,
+          "exp": 451,
+          "usedcommands": 9,
+          "level": 10,
           "banned": false,
           "reason": ""
         }
@@ -17652,7 +17661,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 434,
+      "botcommando": 435,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
