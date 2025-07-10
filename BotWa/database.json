@@ -373,6 +373,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51947356208@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "C'h",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -528,6 +537,15 @@
           "exp": 65,
           "usedcommands": 1,
           "level": 5,
+          "banned": false,
+          "reason": ""
+        },
+        "51947356208@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 50,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -870,7 +888,7 @@
           "bank": 0,
           "exp": 10,
           "usedcommands": 1,
-          "level": 0,
+          "level": 2,
           "banned": false,
           "reason": ""
         },
@@ -1080,7 +1098,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000015,
+      "botcommando": 1000000000016,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
