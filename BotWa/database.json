@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Sig&∆¶[",
+      "name": "✨“Seunghyun”✨",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5916,6 +5916,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "138933736321143@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212941090549@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Felix 🫩",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218444554218@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ale💜",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573016573393@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🥀/𝕸𝖔𝖗𝖙𝖎𝖈𝖎𝖆 𝕬𝖉𝖉𝖆𝖒𝖘\\💋",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6446,15 +6482,15 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": true,
+      "welcome": false,
       "nsfw": false,
-      "alerts": true,
+      "alerts": false,
       "gacha": true,
       "rpg": true,
       "adminonly": false,
       "primaryBot": "573135861052@s.whatsapp.net",
       "antilinks": true,
-      "bannedGrupo": false,
+      "bannedGrupo": true,
       "expired": 0
     },
     "120363417779718858@g.us": {
@@ -6548,6 +6584,15 @@
           "reason": ""
         },
         "170326004633800@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "138933736321143@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -9456,6 +9501,16 @@
           "banned": false,
           "reason": "",
           "Subs": 1752175289504
+        },
+        "5218444554218@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 89,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752178009384
         }
       },
       "sWelcome": "",
@@ -9506,6 +9561,15 @@
           "gender": "Mujer",
           "source": "Darling in the Franxx",
           "id": "0f53d159"
+        },
+        {
+          "userId": "5218444554218@s.whatsapp.net",
+          "name": "Toge Inumaki",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png",
+          "value": 22471,
+          "gender": "Hombre",
+          "source": "Jujutsu Kaisen",
+          "id": "ad81f1e9"
         }
       ]
     },
@@ -16009,6 +16073,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573222383628@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17205,6 +17278,15 @@
           "reason": ""
         },
         "5493513362305@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573016573393@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -21980,6 +22062,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5212941090549@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22018,6 +22109,65 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363422236376594@g.us": {
+      "users": {
+        "5216422302773@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 67,
+          "usedcommands": 1,
+          "level": 5,
+          "banned": false,
+          "reason": ""
+        },
+        "5217296633340@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363401340838296@g.us": {
+      "users": {
+        "5493816606043@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -22063,7 +22213,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 144,
+      "botcommando": 145,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -22073,7 +22223,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 512,
+      "botcommando": 514,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -22233,7 +22383,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 86,
+      "botcommando": 88,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
