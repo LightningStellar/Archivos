@@ -722,7 +722,7 @@
     "212609690006@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+212 609-690006",
+      "name": "Hatsune Miku",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ᑎ𝗶𝗰𝗼 ━━ ·̩͙✧ 🧭",
+      "name": "𓉱\u0018\u0011\u0011\u0011\u0018\u0011\u0018\u0018  𓂃̸̸̵ًُۣ﷼̸   𝗠̸̸ُ̧̧̆  ⸻̸  ꥇꥎ𝕿̸̶֫͠\u0011\u0011  𝗟̶⃞𝝣̸̸̶ۣ ͛  ً",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4388,7 +4388,16 @@
     "99372943548492@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ᑎ𝗶𝗰𝗼 ━━ ·̩͙✧ 🧭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573145417528@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⭐ᰰ࣮᪲ᰰ  —  ᖗᰍ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4937,12 +4946,12 @@
         "5215660242865@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 257,
-          "usedcommands": 5,
-          "level": 8,
+          "exp": 429,
+          "usedcommands": 7,
+          "level": 10,
           "banned": false,
           "reason": "",
-          "Subs": 1752125019864
+          "Subs": 1752153656116
         },
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
@@ -8058,6 +8067,15 @@
           "reason": ""
         },
         "34604242047@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573145417528@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -15373,7 +15391,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 676,
+      "botcommando": 678,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
