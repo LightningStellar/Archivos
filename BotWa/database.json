@@ -3100,7 +3100,7 @@
           "bank": 0,
           "exp": 86,
           "usedcommands": 1,
-          "level": 0,
+          "level": 5,
           "banned": false,
           "reason": "",
           "Subs": 1752136487975
@@ -7354,11 +7354,11 @@
           "mineCooldown": 1752122209926
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 713387,
+          "chocolates": 1273387,
           "bank": 0,
-          "exp": 4095,
-          "usedcommands": 83,
-          "level": 24,
+          "exp": 4106,
+          "usedcommands": 84,
+          "level": 25,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -7366,7 +7366,7 @@
           "nextReward": 15948,
           "workCooldown": 1752126605224,
           "mineCooldown": 1752126602924,
-          "rtCooldown": 1752134864614,
+          "rtCooldown": 1752137219686,
           "rwCooldown": 1752126231141,
           "buyCooldown": 0,
           "slutCooldown": 1752126609928,
@@ -10487,7 +10487,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 349,
+      "botcommando": 350,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
