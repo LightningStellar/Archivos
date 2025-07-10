@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝅄   〣    𝗡¡𝘁𝗵 ﹗   ⃝🐱    •",
+      "name": "Maximo Gabriel.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4124,6 +4124,23 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "フアン・フェリペ・ハラミージョ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215512138627@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Lacey ☆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363342460224969@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7708,6 +7725,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215512138627@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8119,8 +8145,8 @@
         "56987865578@s.whatsapp.net": {
           "chocolates": 18628,
           "bank": 0,
-          "exp": 2483,
-          "usedcommands": 29,
+          "exp": 2525,
+          "usedcommands": 30,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -14321,6 +14347,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363342460224969@newsletter": {
+      "users": {
+        "120363342460224969@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -14386,7 +14437,7 @@
     },
     "56987865578@s.whatsapp.net": {
       "self": false,
-      "botcommando": 36,
+      "botcommando": 37,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
