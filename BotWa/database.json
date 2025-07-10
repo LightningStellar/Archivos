@@ -785,7 +785,7 @@
     "5212294512405@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Han 💗",
+      "name": "+52 229 451 2405",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2579,15 +2579,6 @@
       "marry": "",
       "description": ""
     },
-    "5214426784774@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "𓆩𝑺𝒉𝝌֟፝𝒏𝒙𝒔 𝑫' 𝑲𝝌֟፝𝒎𝒊⸸𓆪",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
     "59168592533@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
@@ -2636,6 +2627,15 @@
     "120363287785242950@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212298856181@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Cere_871",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3507,10 +3507,10 @@
           "Subs": 1752120480155
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 63150,
+          "chocolates": 65744,
           "bank": 0,
-          "exp": 4672,
-          "usedcommands": 34,
+          "exp": 4718,
+          "usedcommands": 35,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -3518,7 +3518,7 @@
           "lastDaily": 1752120963489,
           "nextReward": 21426,
           "rtCooldown": 1752122966234,
-          "workCooldown": 1752122936910,
+          "workCooldown": 1752129795172,
           "crimeCooldown": 1752122949490,
           "mineCooldown": 1752122941094,
           "lastWeekly": 1752121198676,
@@ -3590,24 +3590,24 @@
           "reason": ""
         },
         "5219613301789@s.whatsapp.net": {
-          "chocolates": 1500000,
+          "chocolates": 1511586,
           "bank": 725921,
-          "exp": 9496,
-          "usedcommands": 82,
-          "level": 34,
+          "exp": 9922,
+          "usedcommands": 89,
+          "level": 35,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752129076572,
-          "crimeCooldown": 1752129074485,
-          "slutCooldown": 1752129082116,
+          "workCooldown": 1752129743719,
+          "crimeCooldown": 1752129745322,
+          "slutCooldown": 1752129747633,
           "dailyStreak": 1,
           "lastDaily": 1752126754667,
           "nextReward": 28176,
           "lastMonthly": 1752126764175,
           "lastWeekly": 1752126767078,
           "rtCooldown": 1752129534691,
-          "pptCooldown": 1752129091045,
-          "mineCooldown": 1752129127792,
+          "pptCooldown": 1752129753275,
+          "mineCooldown": 1752129749020,
           "roboCooldown": 1752128720124,
           "Subs": 1752127989860
         },
@@ -3639,19 +3639,6 @@
           "banned": false,
           "reason": "",
           "Subs": 1752129125826
-        },
-        "5214426784774@s.whatsapp.net": {
-          "chocolates": 3655,
-          "bank": 0,
-          "exp": 668,
-          "usedcommands": 11,
-          "level": 12,
-          "banned": false,
-          "reason": "",
-          "rtCooldown": 1752129635925,
-          "workCooldown": 1752129177313,
-          "crimeCooldown": 1752129179018,
-          "slutCooldown": 1752129182803
         },
         "59168592533@s.whatsapp.net": {
           "chocolates": 0,
@@ -6861,6 +6848,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5212298856181@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7886,6 +7882,24 @@
     "5212294512405@s.whatsapp.net": {
       "users": {
         "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5212294512405@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "212609690006@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -9463,6 +9477,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363419207187737@g.us": {
+      "users": {
+        "5212294512405@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 82,
+          "usedcommands": 1,
+          "level": 5,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -9498,7 +9537,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 405,
+      "botcommando": 413,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -9599,6 +9638,16 @@
     "5219613301789@s.whatsapp.net": {
       "self": false,
       "botcommando": 2,
+      "prefix": "/",
+      "namebot": "Sylphiette",
+      "namebot2": "Sylphy",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "currency": "SylphyCoins"
+    },
+    "5212294512405@s.whatsapp.net": {
+      "self": false,
+      "botcommando": 3,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
