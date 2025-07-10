@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "xd",
+      "name": "੭୧",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2156,7 +2156,7 @@
     "36082590736585@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🪷Njz°",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2166,6 +2166,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491137998879@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "୨ T.S.E ୧ (elle)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213332243404@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝗖̸꯭َ𝗛꯭ٍّ𝚵꯭ْ𝗥̷꯭ٗ𝖄𝗡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213112538581@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "!!",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3250,6 +3277,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491137998879@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3704,11 +3740,16 @@
         "5492324347631@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 86,
+          "usedcommands": 3,
+          "level": 5,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752167407382,
+          "nextReward": 2428,
+          "rwCooldown": 1752168321529,
+          "rtCooldown": 1752168036866
         },
         "5492233018994@s.whatsapp.net": {
           "chocolates": 0,
@@ -3804,8 +3845,8 @@
         "51962264360@s.whatsapp.net": {
           "chocolates": 25432,
           "bank": 0,
-          "exp": 6654,
-          "usedcommands": 74,
+          "exp": 6731,
+          "usedcommands": 75,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -3976,20 +4017,34 @@
           "reason": ""
         },
         "5492974124262@s.whatsapp.net": {
-          "chocolates": 2502,
+          "chocolates": 9129,
           "bank": 0,
-          "exp": 729,
-          "usedcommands": 15,
-          "level": 12,
+          "exp": 885,
+          "usedcommands": 18,
+          "level": 13,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752168158225,
-          "buyCooldown": 0,
-          "characters": [],
+          "buyCooldown": 1752168306099,
+          "characters": [
+            {
+              "name": "Juugo Nagayama",
+              "url": "https://stellarwa.xyz/files/1749354783877.jpg",
+              "value": 15000,
+              "gender": "Hombre",
+              "source": "Arifureta",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ],
           "workCooldown": 1752167899220,
           "mineCooldown": 1752167909795,
           "crimeCooldown": 1752167917855,
-          "slutCooldown": 1752167929777
+          "slutCooldown": 1752167929777,
+          "dailyStreak": 1,
+          "lastDaily": 1752167390046,
+          "nextReward": 37016,
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5492914407013@s.whatsapp.net": {
           "chocolates": 0,
@@ -4030,8 +4085,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 13156,
           "bank": 0,
-          "exp": 4523,
-          "usedcommands": 14,
+          "exp": 4597,
+          "usedcommands": 15,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -4062,13 +4117,13 @@
       "expired": 0,
       "personajesReservados": [
         {
-          "userId": "5492974124262@s.whatsapp.net",
-          "name": "Juugo Nagayama",
-          "url": "https://stellarwa.xyz/files/1749354783877.jpg",
-          "value": 15000,
+          "userId": "5492324347631@s.whatsapp.net",
+          "name": "Weisz Steiner",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139877-iS3Gk1VaIwrf.png",
+          "value": 472288,
           "gender": "Hombre",
-          "source": "Arifureta",
-          "id": "51705e75"
+          "source": "Edens zero",
+          "id": "91c804f8"
         }
       ]
     },
@@ -7262,6 +7317,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5213332243404@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7582,6 +7646,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5213112538581@s.whatsapp.net": {
+      "users": {
+        "5213112538581@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -7637,7 +7725,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 140,
+      "botcommando": 148,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
