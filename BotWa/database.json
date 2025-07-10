@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "Bianca",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2537,6 +2537,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50257423547@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Yorleni H",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363313973995816@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3689,6 +3706,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5213332243404@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4534,8 +4560,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 303903,
           "bank": 0,
-          "exp": 4731,
-          "usedcommands": 37,
+          "exp": 4759,
+          "usedcommands": 38,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -4565,14 +4591,14 @@
           "mineCooldown": 1752168683389
         },
         "51926887094@s.whatsapp.net": {
-          "chocolates": 39824,
+          "chocolates": 35824,
           "bank": 0,
-          "exp": 323,
-          "usedcommands": 11,
-          "level": 9,
+          "exp": 435,
+          "usedcommands": 14,
+          "level": 10,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752168553786,
+          "rtCooldown": 1752169172603,
           "workCooldown": 1752168499131,
           "mineCooldown": 1752168501449,
           "dailyStreak": 1,
@@ -8310,6 +8336,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56920449984@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8804,6 +8839,79 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5491166014036@s.whatsapp.net": {
+      "users": {
+        "5491166014036@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363403288987561@g.us": {
+      "users": {
+        "50257423547@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363313973995816@newsletter": {
+      "users": {
+        "120363313973995816@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -8859,7 +8967,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 242,
+      "botcommando": 246,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
