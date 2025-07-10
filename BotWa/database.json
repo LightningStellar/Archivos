@@ -3868,6 +3868,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56967379922@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Urzula",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4498,8 +4507,8 @@
         "5218444554218@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 115901,
-          "exp": 1152,
-          "usedcommands": 24,
+          "exp": 1205,
+          "usedcommands": 25,
           "level": 15,
           "banned": false,
           "reason": "",
@@ -12440,10 +12449,10 @@
           "reason": ""
         },
         "51939309894@s.whatsapp.net": {
-          "chocolates": 4370,
-          "bank": 17000,
-          "exp": 555,
-          "usedcommands": 67,
+          "chocolates": 0,
+          "bank": 22000,
+          "exp": 1028,
+          "usedcommands": 75,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -12692,6 +12701,15 @@
           "reason": ""
         },
         "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51963309930@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -13174,6 +13192,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56967379922@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13573,7 +13600,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 633,
+      "botcommando": 634,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -13703,7 +13730,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 75,
+      "botcommando": 83,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
