@@ -3012,6 +3012,15 @@
     "172765596405833@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "~Maxi",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "152222818128058@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
       "genre": "",
       "birth": "",
@@ -10790,6 +10799,15 @@
     "120363399959550040@g.us": {
       "users": {
         "172765596405833@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "152222818128058@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
