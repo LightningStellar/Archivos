@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8180,7 +8180,7 @@
     "123420868112510@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Santos",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8189,7 +8189,34 @@
     "73362755821690@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "Maki-ma   (Say)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34644682370@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⚔️🗡️the vigilantes🗡️⚔️",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363418420978828@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50685881937@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ꕥ𝓓𝓲𝓶𝓲𝓽𝓻𝓲 ིྀ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11237,6 +11264,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50685881937@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12252,9 +12288,9 @@
         "584248822945@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 69,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -14233,6 +14269,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363418420978828@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -19370,10 +19415,10 @@
           "rtCooldown": 0
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 786368,
+          "chocolates": 719349,
           "bank": 0,
-          "exp": 3777,
-          "usedcommands": 61,
+          "exp": 3940,
+          "usedcommands": 64,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -19386,8 +19431,8 @@
           "slutCooldown": 1752172145619,
           "workCooldown": 1752172188241,
           "pptCooldown": 1752172200365,
-          "rwCooldown": 1752184029496,
-          "buyCooldown": 1752184033074,
+          "rwCooldown": 1752186315218,
+          "buyCooldown": 1752186319761,
           "characters": [
             {
               "name": "Choji Ahane",
@@ -19428,10 +19473,18 @@
               "gender": "Hombre",
               "source": "Kono Subarashii Sekai ni Shukufuku wo!",
               "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Albert Yamada",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b273647-DByKPQyQaeOw.jpg",
+              "value": 67019,
+              "gender": "Hombre",
+              "source": "Classroom Of The Elite",
+              "claim": "jueves, 10 de julio de 2025"
             }
           ],
-          "characterCount": 2,
-          "totalRwcoins": 21904,
+          "characterCount": 3,
+          "totalRwcoins": 88923,
           "personajesEnVenta": []
         }
       },
@@ -22062,6 +22115,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34644682370@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30019,6 +30081,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50686297281@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30448,7 +30519,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 760,
+      "botcommando": 761,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -30598,7 +30669,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 59,
+      "botcommando": 62,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
