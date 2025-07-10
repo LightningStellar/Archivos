@@ -2865,6 +2865,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51964572227@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "MFTP",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -9474,6 +9483,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51964572227@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -10117,14 +10135,14 @@
     "120363399108260019@g.us": {
       "users": {
         "573228667071@s.whatsapp.net": {
-          "chocolates": 19459,
+          "chocolates": 58377,
           "bank": 0,
-          "exp": 5083,
-          "usedcommands": 12,
+          "exp": 5149,
+          "usedcommands": 14,
           "level": 27,
           "banned": false,
           "reason": "",
-          "rtCooldown": 0,
+          "rtCooldown": 1752136528952,
           "rwCooldown": 1752136768348,
           "crimeCooldown": 1752136491309,
           "mineCooldown": 1752136493330,
@@ -10377,7 +10395,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 23,
+      "botcommando": 25,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
