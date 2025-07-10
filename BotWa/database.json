@@ -482,7 +482,7 @@
     "573195735174@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ð . â® ðð¢ð§ð§ð¢ð¥ð .á",
+      "name": "𐔌 . ⋮ 𝗗𝗢𝗧𝗧𝗢𝗥𝗘 .ᐟ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1160,7 +1160,7 @@
     "306934127532@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Muzapan_Kibutsuji",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1231,7 +1231,25 @@
     "120363417779718858@g.us": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493454943881@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Zzz",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59164101614@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+591 64101614",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1614,8 +1632,8 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 77326,
           "bank": 0,
-          "exp": 7222,
-          "usedcommands": 38,
+          "exp": 7334,
+          "usedcommands": 40,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -1629,9 +1647,7 @@
           "nextReward": 39022,
           "lastWeekly": 1752163390690,
           "lastMonthly": 1752163392429,
-          "characters": [],
-          "voteCooldown": 1752170593828,
-          "personajesEnVenta": [
+          "characters": [
             {
               "name": "Bize Feuward Zengen",
               "url": "https://stellarwa.xyz/files/1749355939802.jpg",
@@ -1643,7 +1659,9 @@
               "vendedor": "5492916450307@s.whatsapp.net",
               "expira": "2025-07-13T16:34:03.936Z"
             }
-          ]
+          ],
+          "voteCooldown": 1752170593828,
+          "personajesEnVenta": []
         },
         "5218713339906@s.whatsapp.net": {
           "chocolates": 0,
@@ -2276,6 +2294,24 @@
           "reason": ""
         },
         "5215660242865@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493454943881@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59164101614@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -2986,6 +3022,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215564085088@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3072,7 +3117,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "51902486766@s.whatsapp.net": {
       "users": {
@@ -4453,7 +4499,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 43,
+      "botcommando": 45,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
