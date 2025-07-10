@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Karen",
+      "name": "M. Marcano.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5076,6 +5076,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "59162601105@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "N",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "47962453487836@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219518984708@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 951 898 4708",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "236047476764873@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7247,6 +7283,15 @@
           "reason": ""
         },
         "24102493797@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219518984708@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -10164,6 +10209,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "47962453487836@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -10676,8 +10730,8 @@
         "5215525237149@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 10257,
-          "exp": 614,
-          "usedcommands": 15,
+          "exp": 624,
+          "usedcommands": 16,
           "level": 12,
           "banned": false,
           "reason": "",
@@ -14400,7 +14454,7 @@
           "bank": 0,
           "exp": 30,
           "usedcommands": 1,
-          "level": 0,
+          "level": 3,
           "banned": false,
           "reason": ""
         }
@@ -15967,6 +16021,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "236047476764873@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17161,6 +17224,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "59162601105@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17596,7 +17668,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 90,
+      "botcommando": 91,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
