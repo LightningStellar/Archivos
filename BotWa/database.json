@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌕",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -527,7 +527,7 @@
     "5491126367355@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "﹒⌗﹒𝕿𝓸𝓂𝒶́𝓈. 🥀﹒౨ৎ˚₊‧",
+      "name": ".𝑌⃟𝑈𝑁𝐴𝐻┆⊹܀🦊⚋",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3470,6 +3470,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51908955220@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "「･𝑊𝑎𝑛𝑑𝑒𝑟𝑒𝑟･」",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3646,6 +3655,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51908955220@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12971,9 +12989,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 65,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -12988,7 +13006,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -13204,7 +13223,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 36,
+      "botcommando": 37,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
