@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⏤͟͟͞͞с̶к̶в̶и̶г̶л̶у̶┆⛓️‍💥",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6672,6 +6672,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573143227449@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "• .  𝑅𝒶𝓃  ٭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7002,18 +7011,21 @@
           "reason": ""
         },
         "593990564497@s.whatsapp.net": {
-          "chocolates": 6852,
-          "bank": 0,
-          "exp": 264,
-          "usedcommands": 5,
-          "level": 8,
+          "chocolates": 0,
+          "bank": 15403,
+          "exp": 404,
+          "usedcommands": 7,
+          "level": 10,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752180471616,
           "slutCooldown": 1752180473790,
           "pptCooldown": 1752180478697,
           "workCooldown": 1752180481371,
-          "mineCooldown": 1752180483114
+          "mineCooldown": 1752180483114,
+          "dailyStreak": 1,
+          "lastDaily": 1752179885897,
+          "nextReward": 5658
         },
         "17604773961@s.whatsapp.net": {
           "chocolates": 0,
@@ -10547,11 +10559,11 @@
           "reason": ""
         },
         "5214623046699@s.whatsapp.net": {
-          "chocolates": 4085,
-          "bank": 0,
-          "exp": 5816,
-          "usedcommands": 18,
-          "level": 28,
+          "chocolates": 0,
+          "bank": 6585,
+          "exp": 5879,
+          "usedcommands": 21,
+          "level": 29,
           "banned": false,
           "reason": "",
           "lastMonthly": 1752179661584,
@@ -24696,6 +24708,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573143227449@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24755,7 +24776,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 201,
+      "botcommando": 203,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -24765,7 +24786,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 609,
+      "botcommando": 612,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
