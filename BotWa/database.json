@@ -2901,6 +2901,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "595985164807@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "R€N¥ .C.J.N.G.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3214,6 +3223,15 @@
           "reason": ""
         },
         "243833710904@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "595985164807@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -3865,10 +3883,10 @@
         },
         "573228667071@s.whatsapp.net": {
           "chocolates": 3240,
-          "bank": 378349,
-          "exp": 2807,
-          "usedcommands": 41,
-          "level": 21,
+          "bank": 300000,
+          "exp": 2972,
+          "usedcommands": 44,
+          "level": 22,
           "banned": false,
           "reason": "",
           "Subs": 1752134774204,
@@ -3882,7 +3900,7 @@
           "lastMonthly": 1752135489449,
           "lastWeekly": 1752135493251,
           "pptCooldown": 1752136101554,
-          "rtCooldown": 1752136798387,
+          "rtCooldown": 1752137554521,
           "rwCooldown": 1752137670340
         },
         "573222383628@s.whatsapp.net": {
@@ -10480,7 +10498,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 541,
+      "botcommando": 544,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
