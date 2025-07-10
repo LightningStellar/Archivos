@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~Maxi",
+      "name": "xd",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2129,6 +2129,42 @@
     "172765596405833@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "~Maxi",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491166014036@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Braiaann",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573108324662@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🪷Njz°",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "36082590736585@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363399959550040@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
       "genre": "",
       "birth": "",
@@ -2512,6 +2548,15 @@
           "reason": ""
         },
         "37426948997334@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "36082590736585@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -3187,6 +3232,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491166014036@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573108324662@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3739,23 +3802,23 @@
           "reason": ""
         },
         "51962264360@s.whatsapp.net": {
-          "chocolates": 25516,
+          "chocolates": 25432,
           "bank": 0,
-          "exp": 6282,
-          "usedcommands": 68,
-          "level": 29,
+          "exp": 6654,
+          "usedcommands": 74,
+          "level": 30,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752167281730,
+          "workCooldown": 1752167937133,
           "dailyStreak": 1,
           "lastDaily": 1752165817705,
           "nextReward": 14396,
           "lastWeekly": 1752165824099,
           "lastMonthly": 1752165878614,
           "slutCooldown": 1752167292084,
-          "mineCooldown": 1752167286179,
+          "mineCooldown": 1752167951425,
           "crimeCooldown": 1752167296408,
-          "rtCooldown": 1752167278848,
+          "rtCooldown": 1752167968873,
           "roboCooldown": 0,
           "pptCooldown": 1752167344418
         },
@@ -3913,18 +3976,20 @@
           "reason": ""
         },
         "5492974124262@s.whatsapp.net": {
-          "chocolates": 3934,
+          "chocolates": 2502,
           "bank": 0,
-          "exp": 566,
-          "usedcommands": 11,
-          "level": 11,
+          "exp": 729,
+          "usedcommands": 15,
+          "level": 12,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752168158225,
           "buyCooldown": 0,
           "characters": [],
           "workCooldown": 1752167899220,
-          "mineCooldown": 1752167909795
+          "mineCooldown": 1752167909795,
+          "crimeCooldown": 1752167917855,
+          "slutCooldown": 1752167929777
         },
         "5492914407013@s.whatsapp.net": {
           "chocolates": 0,
@@ -4636,7 +4701,7 @@
           "bank": 0,
           "exp": 442,
           "usedcommands": 8,
-          "level": 9,
+          "level": 10,
           "banned": false,
           "reason": ""
         }
@@ -4790,6 +4855,15 @@
     "120363399959550040@g.us": {
       "users": {
         "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "120363399959550040@g.us": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -7563,7 +7637,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 130,
+      "botcommando": 140,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
