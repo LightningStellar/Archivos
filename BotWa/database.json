@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌷vale🌷",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7517,7 +7517,16 @@
     "203177840361701@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "rovi viajes0",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584121585841@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Leo Lombardo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7556,8 +7565,8 @@
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 57,
-          "usedcommands": 1,
+          "exp": 64,
+          "usedcommands": 2,
           "level": 4,
           "banned": false,
           "reason": "",
@@ -10295,6 +10304,15 @@
           "reason": ""
         },
         "5217223360281@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584121585841@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18052,9 +18070,9 @@
         "5493534413480@s.whatsapp.net": {
           "chocolates": 5000,
           "bank": 0,
-          "exp": 164,
-          "usedcommands": 3,
-          "level": 5,
+          "exp": 234,
+          "usedcommands": 4,
+          "level": 7,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -18321,15 +18339,15 @@
           "personajesEnVenta": []
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 4307561,
+          "chocolates": 3307561,
           "bank": 0,
-          "exp": 832,
-          "usedcommands": 15,
+          "exp": 845,
+          "usedcommands": 16,
           "level": 13,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752168805687,
-          "rtCooldown": 1752182792693,
+          "rtCooldown": 1752183469010,
           "personajesEnVenta": []
         },
         "5217851059776@s.whatsapp.net": {
@@ -18563,9 +18581,9 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 54196,
-          "exp": 5020,
-          "usedcommands": 51,
+          "bank": 53196,
+          "exp": 5161,
+          "usedcommands": 54,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -18579,8 +18597,21 @@
           "lastMonthly": 1752180238916,
           "slutCooldown": 1752183302929,
           "pptCooldown": 1752183305043,
-          "rwCooldown": 1752182779785,
-          "personajesEnVenta": []
+          "rwCooldown": 1752183729660,
+          "personajesEnVenta": [],
+          "buyCooldown": 1752183750392,
+          "characters": [
+            {
+              "name": "Iron",
+              "url": "https://stellarwa.xyz/files/1749348883759.jpg",
+              "value": 1000,
+              "gender": "Hombre",
+              "source": "Solo Leveling",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
@@ -18606,9 +18637,9 @@
         "51941001260@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 13106,
-          "exp": 348,
-          "usedcommands": 8,
-          "level": 8,
+          "exp": 412,
+          "usedcommands": 9,
+          "level": 9,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -18616,7 +18647,8 @@
           "nextReward": 13459,
           "crimeCooldown": 1752183226495,
           "mineCooldown": 1752183229458,
-          "workCooldown": 1752183231605
+          "workCooldown": 1752183231605,
+          "rwCooldown": 1752183777460
         }
       },
       "sWelcome": "",
@@ -18666,6 +18698,15 @@
           "gender": "Mujer",
           "source": "My Hero Academia",
           "id": "0e074e7e"
+        },
+        {
+          "userId": "51941001260@s.whatsapp.net",
+          "name": "Itsuka Kendo",
+          "url": "https://stellarwa.xyz/files/1750643623026.jpg",
+          "value": 20000,
+          "gender": "Mujer",
+          "source": "My Hero Academia",
+          "id": "65d941ec"
         }
       ],
       "expired": 0
@@ -27993,7 +28034,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 100,
+      "botcommando": 101,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -28073,7 +28114,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 165,
+      "botcommando": 169,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -28133,7 +28174,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 199,
+      "botcommando": 200,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -28183,7 +28224,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 43,
+      "botcommando": 44,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
