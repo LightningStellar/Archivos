@@ -2569,6 +2569,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5214426784774@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𓆩𝑺𝒉𝝌֟፝𝒏𝒙𝒔 𝑫' 𝑲𝝌֟፝𝒎𝒊⸸𓆪",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3336,8 +3345,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 4543675,
-          "exp": 7479,
-          "usedcommands": 74,
+          "exp": 7499,
+          "usedcommands": 75,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -3521,8 +3530,8 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 44281,
           "bank": 573295,
-          "exp": 7687,
-          "usedcommands": 46,
+          "exp": 7758,
+          "usedcommands": 48,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -3558,6 +3567,25 @@
           "banned": false,
           "reason": "",
           "Subs": 1752127806978
+        },
+        "5214426784774@s.whatsapp.net": {
+          "chocolates": 32044,
+          "bank": 0,
+          "exp": 4095,
+          "usedcommands": 9,
+          "level": 25,
+          "banned": false,
+          "reason": "",
+          "workCooldown": 1752128801666,
+          "crimeCooldown": 1752128804088,
+          "slutCooldown": 1752128805917,
+          "lastWeekly": 1752128208020,
+          "lastMonthly": 1752128210590,
+          "pptCooldown": 1752128817110,
+          "mineCooldown": 1752128818871,
+          "dailyStreak": 1,
+          "lastDaily": 1752128226952,
+          "nextReward": 10019
         }
       },
       "sWelcome": "",
@@ -9232,7 +9260,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 335,
+      "botcommando": 347,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
