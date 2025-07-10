@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
+      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3828,6 +3828,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Cacheto",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "143293581127833@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12375,8 +12384,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 14000,
-          "exp": 46,
-          "usedcommands": 41,
+          "exp": 60,
+          "usedcommands": 44,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -12964,6 +12973,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "143293581127833@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13308,7 +13326,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363392567897636@g.us": {
       "users": {
@@ -13600,7 +13619,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 50,
+      "botcommando": 53,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
