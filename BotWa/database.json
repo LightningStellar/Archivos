@@ -5746,8 +5746,8 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 329,
-          "usedcommands": 7,
+          "exp": 337,
+          "usedcommands": 8,
           "level": 9,
           "banned": false,
           "reason": ""
@@ -14455,15 +14455,15 @@
           "reason": ""
         },
         "51939309894@s.whatsapp.net": {
-          "chocolates": 336,
-          "bank": 36000,
-          "exp": 3239,
-          "usedcommands": 116,
+          "chocolates": 0,
+          "bank": 39000,
+          "exp": 3565,
+          "usedcommands": 122,
           "level": 23,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752156035638,
-          "mineCooldown": 1752153325986,
+          "workCooldown": 1752157275790,
+          "mineCooldown": 1752157281491,
           "rwCooldown": 1752153792034,
           "buyCooldown": 1752149709705,
           "lastWeekly": 1752148854570,
@@ -14488,8 +14488,8 @@
         "51904078847@s.whatsapp.net": {
           "chocolates": 47576,
           "bank": 0,
-          "exp": 2738,
-          "usedcommands": 19,
+          "exp": 2822,
+          "usedcommands": 20,
           "level": 21,
           "banned": false,
           "reason": "",
@@ -14500,7 +14500,8 @@
           "lastDaily": 1752156126221,
           "nextReward": 12026,
           "lastWeekly": 1752156151367,
-          "lastMonthly": 1752156173687
+          "lastMonthly": 1752156173687,
+          "roboCooldown": 0
         },
         "5218331102118@s.whatsapp.net": {
           "chocolates": 0,
@@ -17729,7 +17730,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 704,
+      "botcommando": 705,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -17859,7 +17860,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 148,
+      "botcommando": 155,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
