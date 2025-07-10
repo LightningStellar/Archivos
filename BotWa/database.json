@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🧐🥃",
+      "name": "˖ ֹ੭ ୧  𝐌ary   ⊹ ࣪ ⑅",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11523,6 +11523,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "255216100335816@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120796492079148@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216648191589@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "___aka333𓋹",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12680,6 +12707,15 @@
           "reason": ""
         },
         "118460046684271@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "120796492079148@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18730,25 +18766,26 @@
           "personajesEnVenta": []
         },
         "5218134044942@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 11286,
           "bank": 61350,
-          "exp": 8064,
-          "usedcommands": 82,
-          "level": 32,
+          "exp": 8478,
+          "usedcommands": 90,
+          "level": 33,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "crimeCooldown": 1752191405316,
-          "mineCooldown": 1752191408740,
-          "workCooldown": 1752191413099,
-          "rtCooldown": 1752191421775,
-          "slutCooldown": 1752191428635,
-          "pptCooldown": 1752191432084,
+          "crimeCooldown": 1752192219776,
+          "mineCooldown": 1752192225432,
+          "workCooldown": 1752192229047,
+          "rtCooldown": 1752192237214,
+          "slutCooldown": 1752192244451,
+          "pptCooldown": 1752192252146,
           "dailyStreak": 1,
           "lastDaily": 1752183243844,
           "nextReward": 23911,
           "lastWeekly": 1752183255593,
-          "lastMonthly": 1752183264573
+          "lastMonthly": 1752183264573,
+          "rwCooldown": 1752192505243
         },
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
@@ -18795,8 +18832,8 @@
         "51902486766@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 172555,
-          "exp": 10854,
-          "usedcommands": 72,
+          "exp": 10918,
+          "usedcommands": 73,
           "level": 36,
           "banned": false,
           "reason": "",
@@ -18989,6 +19026,15 @@
           "gender": "Hombre",
           "source": "Death Note",
           "id": "4e35e361"
+        },
+        {
+          "userId": "5218134044942@s.whatsapp.net",
+          "name": "Masahiko Kida",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n1931-kJH9pspSPKMJ.png",
+          "value": 93672,
+          "gender": "Hombre",
+          "source": "Death Note",
+          "id": "76a2b7d9"
         }
       ]
     },
@@ -24187,9 +24233,9 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 3302813,
           "bank": 0,
-          "exp": 4794,
-          "usedcommands": 85,
-          "level": 25,
+          "exp": 4833,
+          "usedcommands": 86,
+          "level": 26,
           "banned": false,
           "reason": "",
           "rtCooldown": 1752191576189,
@@ -24588,8 +24634,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 69477,
-          "exp": 2027,
-          "usedcommands": 134,
+          "exp": 2047,
+          "usedcommands": 135,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -24603,7 +24649,7 @@
           "lastMonthly": 1752180238916,
           "slutCooldown": 1752191378757,
           "pptCooldown": 1752191380513,
-          "rwCooldown": 1752191573021,
+          "rwCooldown": 1752192549208,
           "personajesEnVenta": [],
           "buyCooldown": 1752191586259,
           "characters": [
@@ -24821,6 +24867,15 @@
           "gender": "Hombre",
           "source": "Blue Lock",
           "id": "b442f407"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Miku",
+          "url": "https://stellarwa.xyz/files/1749149013411.jpg",
+          "value": 10000,
+          "gender": "Mujer",
+          "source": "Darling in the Franxx",
+          "id": "e078a735"
         }
       ],
       "expired": 0
@@ -36306,6 +36361,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5216648191589@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37387,6 +37451,15 @@
           "reason": ""
         },
         "120363417854225978@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "255216100335816@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -40326,9 +40399,9 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 37,
-          "usedcommands": 2,
-          "level": 1,
+          "exp": 199,
+          "usedcommands": 5,
+          "level": 6,
           "banned": false,
           "reason": ""
         }
@@ -40410,7 +40483,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 59,
+      "botcommando": 60,
       "prefix": "+",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40440,7 +40513,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 257,
+      "botcommando": 258,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40500,7 +40573,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 308,
+      "botcommando": 309,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40520,7 +40593,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 485,
+      "botcommando": 493,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40610,7 +40683,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 60,
+      "botcommando": 61,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40620,13 +40693,13 @@
     },
     "5219613301789@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1,
+      "botcommando": 3,
       "prefix": "/",
-      "namebot": "Sylphiette",
-      "namebot2": "Sylphy",
+      "namebot": "⋆𝐌֟𝐀𞄴𝐒֟𝐇𝐈፝𝐑𝐎̸̨⋅ ⳱𝐓𝐒𞄶𝐔̸ؙ𝐊𝐈𞄵𝐘𝐔𞄳𝐊𞄱𔘓",
+      "namebot2": "Mashiro",
       "owner": "Oculto por privacidad",
-      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
-      "currency": "SylphyCoins"
+      "banner": "https://stellarwa.xyz/files/1752191609280.jpg",
+      "currency": "𝗠𝗔𝗦𝗛𝗜𝗥𝗢𝚌𝚘𝚒𝚗𝚜"
     }
   }
 }
