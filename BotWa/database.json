@@ -2627,7 +2627,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 642 230 2773",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3526,6 +3526,40 @@
       "description": ""
     },
     "120363417102350880@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363296829821737@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50768646227@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝚅𝙴𝚁, 𝚕𝚒 .",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "225348377657580@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363400768017639@newsletter": {
       "metadatos": null,
       "metadatos2": null,
       "genre": "",
@@ -9723,6 +9757,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5212202410659@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -11055,6 +11098,15 @@
           "workCooldown": 1752170527395,
           "slutCooldown": 1752170529720,
           "pptCooldown": 1752170534285
+        },
+        "50768646227@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -11543,7 +11595,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401252542557@g.us": {
       "users": {
@@ -12984,6 +13037,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "225348377657580@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13189,6 +13251,54 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363296829821737@newsletter": {
+      "users": {
+        "120363296829821737@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363400768017639@newsletter": {
+      "users": {
+        "120363400768017639@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -13404,7 +13514,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 37,
+      "botcommando": 38,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
