@@ -45,7 +45,17 @@
       "marry": "",
       "description": ""
     },
-    "191534368559168@lid": {}
+    "191534368559168@lid": {},
+    "5218712620915@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "No session found to decrypt message": {}
   },
   "chats": {
     "5492916450307@s.whatsapp.net": {
@@ -132,6 +142,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5218712620915@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -144,7 +163,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363392315377581@g.us": {
       "users": {
