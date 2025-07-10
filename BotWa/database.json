@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Sig&∆¶[",
+      "name": "Olivia Rodrigo es vida.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8141,6 +8141,32 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "187823667818716@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51968204482@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Cesar",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363369916274243@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -9104,6 +9130,15 @@
           "reason": ""
         },
         "21646685540582@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "187823667818716@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -14034,9 +14069,9 @@
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 487,
-          "usedcommands": 10,
-          "level": 10,
+          "exp": 594,
+          "usedcommands": 12,
+          "level": 11,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -26758,6 +26793,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51968204482@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30053,6 +30097,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363369916274243@newsletter": {
+      "users": {
+        "120363369916274243@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -30068,12 +30136,12 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 111,
+      "botcommando": 113,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "owner": "⁞  ᰰ🎤᪾͓ 𝓘ᴠ͟ᴀ͟ɴ ◌  ⁞",
-      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "banner": "https://stellarwa.xyz/files/1752185177730.jpg",
       "currency": "SylphyCoins"
     },
     "56920449984@s.whatsapp.net": {
