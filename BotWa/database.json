@@ -58,7 +58,7 @@
     "5215660242865@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🪼",
+      "name": "+52 56 6024 2865",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -982,7 +982,7 @@
     "51963309930@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ઈ𝖨𝘃𝗮͡͡𝗻͜𝗻 🐋͓ᤋ",
+      "name": "+51 963 309 930",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "©ㅤㅤ𐌔ꓥ꯭ꓶ.꯭  𝖤☰𝖷𝗫ㅤㅤ🧢ґ",
+      "name": "This",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2017,6 +2017,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215561794881@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "rohan que rico te mueves",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573226427534@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🦠",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2352,12 +2370,12 @@
         "5215660242865@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 156,
-          "usedcommands": 3,
-          "level": 7,
+          "exp": 231,
+          "usedcommands": 4,
+          "level": 8,
           "banned": false,
           "reason": "",
-          "Subs": 1752123811999
+          "Subs": 1752124217402
         },
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
@@ -3912,7 +3930,7 @@
           "bank": 0,
           "exp": 93,
           "usedcommands": 1,
-          "level": 0,
+          "level": 5,
           "banned": false,
           "reason": ""
         },
@@ -4275,6 +4293,15 @@
           "reason": ""
         },
         "5215522567568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215561794881@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6670,6 +6697,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573226427534@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7008,6 +7044,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363400896568915@g.us": {
+      "users": {
+        "5215660242865@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 55,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -7093,7 +7154,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 40,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -7103,7 +7164,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 139,
+      "botcommando": 140,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -7120,6 +7181,16 @@
       "owner": "࿙⃛͜𝕬𝖋𝖗𝖔𝖉𝖎𝖙𝖊🪽⃝𝅦᳘֟፝͠◌⃘",
       "banner": "https://stellarwa.xyz/files/1752123296537.jpg",
       "currency": "𝑑𝑟𝑎𝑐𝑚𝑎𝑠 🏛️"
+    },
+    "5215660242865@s.whatsapp.net": {
+      "self": false,
+      "botcommando": 0,
+      "prefix": "/",
+      "namebot": "Sylphiette",
+      "namebot2": "Sylphy",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "currency": "SylphyCoins"
     }
   }
 }
