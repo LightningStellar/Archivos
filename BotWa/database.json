@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": ".+ﾟᗰEᑎTᗩᒪIᔕT🔮",
+      "name": ".  ᅠᅠᅠթᧉ𝗅𝗅ᅠᅠᅠ✿ᅠᅠᅠ𝗅oto",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3962,7 +3962,7 @@
     "50687717451@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+506 8771 7451",
+      "name": "🌦⃢黷 〫۫𑪔̣⋆۪࣪ໍ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4158,6 +4158,23 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363361303452018@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51958722189@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Tomatito",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6683,6 +6700,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51958722189@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 71,
+          "usedcommands": 1,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "Subs": 1752152052573
         }
       },
       "sWelcome": "",
@@ -14457,6 +14484,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363361303452018@newsletter": {
+      "users": {
+        "120363361303452018@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -14472,7 +14523,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000295,
+      "botcommando": 1000000000296,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
