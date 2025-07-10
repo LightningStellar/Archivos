@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⋆.𖥻 ִ ۫ᩚ❄️⃝𝐉𝑎𝒏z𓄹",
+      "name": "ׄ ִ ּ𐔌̷ִ̼̼͊۟🥠 Fuwa 𓏸⃘",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9834,6 +9834,31 @@
       "sBye": "",
       "welcome": true,
       "nsfw": true,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363395470706556@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
       "alerts": true,
       "gacha": true,
       "rpg": true,
