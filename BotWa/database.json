@@ -982,7 +982,7 @@
     "51963309930@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+51 963 309 930",
+      "name": "ઈ𝖨𝘃𝗮͡͡𝗻͜𝗻 🐋͓ᤋ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "Yo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3855,6 +3855,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Pochacco.ᐟ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584146060517@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Bonnie",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7294,6 +7303,15 @@
           "reason": ""
         },
         "5491122344559@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584146060517@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12422,10 +12440,10 @@
           "reason": ""
         },
         "51939309894@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 4370,
           "bank": 17000,
-          "exp": 262,
-          "usedcommands": 62,
+          "exp": 555,
+          "usedcommands": 67,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -12437,7 +12455,8 @@
           "dailyStreak": 1,
           "lastDaily": 1752148886597,
           "nextReward": 49353,
-          "roboCooldown": 0
+          "roboCooldown": 0,
+          "crimeCooldown": 1752150186688
         }
       },
       "sWelcome": "",
@@ -13604,7 +13623,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 80,
+      "botcommando": 81,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -13684,7 +13703,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 71,
+      "botcommando": 75,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
