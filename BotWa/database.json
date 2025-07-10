@@ -4021,11 +4021,11 @@
           "reason": ""
         },
         "51962264360@s.whatsapp.net": {
-          "chocolates": 27582,
+          "chocolates": 32046,
           "bank": 0,
-          "exp": 1053,
-          "usedcommands": 13,
-          "level": 14,
+          "exp": 1209,
+          "usedcommands": 17,
+          "level": 15,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -4036,7 +4036,8 @@
           "slutCooldown": 1752145338031,
           "workCooldown": 1752145345425,
           "crimeCooldown": 1752145351870,
-          "rwCooldown": 1752145786787
+          "rwCooldown": 1752145786787,
+          "mineCooldown": 1752145870420
         },
         "573159596290@s.whatsapp.net": {
           "chocolates": 0,
@@ -12090,7 +12091,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 582,
+      "botcommando": 586,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
