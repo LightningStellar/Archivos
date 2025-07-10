@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌕⃞፝֟͝ꭷ   ⠟",
+      "name": "M. Marcano.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2328,6 +2328,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217475178808@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 747 517 8808",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3248,6 +3257,15 @@
           "level": 6,
           "banned": false,
           "reason": ""
+        },
+        "5217475178808@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3760,6 +3778,15 @@
           "reason": ""
         },
         "5214361484149@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5217475178808@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6227,9 +6254,9 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 92387,
           "bank": 0,
-          "exp": 2525,
-          "usedcommands": 56,
-          "level": 20,
+          "exp": 2600,
+          "usedcommands": 57,
+          "level": 21,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -6341,6 +6368,17 @@
           "nextReward": 42898,
           "workCooldown": 1752124567133,
           "crimeCooldown": 1752124578550
+        },
+        "5213316279181@s.whatsapp.net": {
+          "chocolates": 1836,
+          "bank": 0,
+          "exp": 106,
+          "usedcommands": 2,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "rtCooldown": 0,
+          "mineCooldown": 1752126913685
         }
       },
       "sWelcome": "",
@@ -8369,7 +8407,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 253,
+      "botcommando": 256,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
