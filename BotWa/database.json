@@ -2247,6 +2247,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573222383628@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ja",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214361484149@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3661,6 +3679,15 @@
           "reason": ""
         },
         "51978921182@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5214361484149@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6119,8 +6146,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 90608,
           "bank": 0,
-          "exp": 1387,
-          "usedcommands": 33,
+          "exp": 1471,
+          "usedcommands": 34,
           "level": 16,
           "banned": false,
           "reason": "",
@@ -6130,17 +6157,18 @@
           "workCooldown": 1752121937366,
           "mineCooldown": 1752121939750,
           "rtCooldown": 1752125698567,
-          "rwCooldown": 1752126231141
+          "rwCooldown": 1752126231141,
+          "buyCooldown": 0
         },
         "5216141200934@s.whatsapp.net": {
-          "chocolates": 4257,
+          "chocolates": 4207,
           "bank": 0,
-          "exp": 2171,
-          "usedcommands": 43,
+          "exp": 2223,
+          "usedcommands": 45,
           "level": 19,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752123591635,
+          "rwCooldown": 1752126446768,
           "dailyStreak": 1,
           "lastDaily": 1752121465444,
           "nextReward": 43677,
@@ -6150,7 +6178,8 @@
           "mineCooldown": 1752123535718,
           "rtCooldown": 1752123552732,
           "roboCooldown": 1752124787424,
-          "pptCooldown": 1752123618164
+          "pptCooldown": 1752123618164,
+          "buyCooldown": 1752126463735
         },
         "5213310224249@s.whatsapp.net": {
           "chocolates": 2739,
@@ -6182,11 +6211,11 @@
           "rtCooldown": 1752123476475
         },
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 59220,
+          "chocolates": 59620,
           "bank": 0,
-          "exp": 5381,
-          "usedcommands": 57,
-          "level": 27,
+          "exp": 5540,
+          "usedcommands": 60,
+          "level": 28,
           "banned": false,
           "reason": "",
           "workCooldown": 1752125896461,
@@ -7986,6 +8015,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215634609976@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8025,6 +8063,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363420230859178@g.us": {
+      "users": {
+        "573222383628@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -8120,7 +8182,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 185,
+      "botcommando": 191,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
