@@ -3502,6 +3502,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363401993685850@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12233,6 +12242,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "120363401993685850@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12245,7 +12263,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363349916000764@newsletter": {
       "users": {
