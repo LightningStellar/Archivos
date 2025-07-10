@@ -2409,6 +2409,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573113007703@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "CH4KALON",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219981368291@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "izaa",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215517568579@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⋆ .  ࿔ Erick 🧊ˎˊ˗ ˚.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2672,6 +2699,15 @@
           "exp": 164,
           "usedcommands": 3,
           "level": 7,
+          "banned": false,
+          "reason": ""
+        },
+        "573113007703@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -3062,8 +3098,8 @@
         "5214623046699@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 35924,
-          "exp": 5466,
-          "usedcommands": 74,
+          "exp": 5533,
+          "usedcommands": 75,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -8526,6 +8562,40 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363403037533821@g.us": {
+      "users": {
+        "5219981368291@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215517568579@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -8561,7 +8631,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 210,
+      "botcommando": 211,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
