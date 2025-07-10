@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "୨ৎ 𝗆ꪱ𝗆ꪱႵᧉ !",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4271,7 +4271,7 @@
     "124369787474101@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "塩 ⚊ 𝓖𝗮𝗲𝗹 ᥐ🍷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4281,6 +4281,23 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "M I L L E R 💭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5622766551142@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363364355081913@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9384,9 +9401,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 551,
-          "usedcommands": 13,
-          "level": 11,
+          "exp": 635,
+          "usedcommands": 14,
+          "level": 12,
           "banned": false,
           "reason": "",
           "Subs": 1752168807526,
@@ -9471,21 +9488,32 @@
           "personajesEnVenta": []
         },
         "5491176203686@s.whatsapp.net": {
-          "chocolates": 34373,
+          "chocolates": 14373,
           "bank": 0,
-          "exp": 313,
-          "usedcommands": 5,
+          "exp": 405,
+          "usedcommands": 6,
           "level": 9,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752173651696,
-          "buyCooldown": 0,
-          "characters": [],
+          "buyCooldown": 1752173681348,
+          "characters": [
+            {
+              "name": "Toya Todoroki",
+              "url": "https://stellarwa.xyz/files/1750631053768.jpg",
+              "value": 20000,
+              "gender": "Hombre",
+              "source": "My Hero Academia",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ],
           "workCooldown": 1752173362196,
           "mineCooldown": 1752173366448,
           "dailyStreak": 1,
           "lastDaily": 1752172773531,
-          "nextReward": 30174
+          "nextReward": 30174,
+          "characterCount": null,
+          "totalRwcoins": null
         }
       },
       "sWelcome": "",
@@ -9500,17 +9528,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "5491176203686@s.whatsapp.net",
-          "name": "Toya Todoroki",
-          "url": "https://stellarwa.xyz/files/1750631053768.jpg",
-          "value": 20000,
-          "gender": "Hombre",
-          "source": "My Hero Academia",
-          "id": "5d40d137"
-        }
-      ]
+      "personajesReservados": []
     },
     "120363418788343750@g.us": {
       "users": {
@@ -13268,6 +13286,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5622766551142@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13390,8 +13417,8 @@
         "50499876820@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 316,
-          "usedcommands": 9,
+          "exp": 395,
+          "usedcommands": 10,
           "level": 9,
           "banned": false,
           "reason": "",
@@ -14535,6 +14562,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51902486766@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56958115618@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14547,7 +14592,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401605584548@g.us": {
       "users": {
@@ -15440,6 +15486,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -15452,7 +15507,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363378013435712@g.us": {
       "users": {
@@ -15672,7 +15728,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420722286384@g.us": {
       "users": {
@@ -15751,6 +15808,31 @@
     "120363294304989619@g.us": {
       "users": {
         "5213311318901@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363364355081913@newsletter": {
+      "users": {
+        "120363364355081913@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -15887,7 +15969,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 50,
+      "botcommando": 51,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -15957,7 +16039,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 84,
+      "botcommando": 86,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
