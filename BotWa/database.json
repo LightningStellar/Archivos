@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
+      "name": "Marti 🐱🐱🐱",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2735,6 +2735,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "─「тυυмι」─",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "257023862153370@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6933,6 +6942,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "257023862153370@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7081,8 +7099,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 433387,
           "bank": 0,
-          "exp": 3717,
-          "usedcommands": 75,
+          "exp": 3725,
+          "usedcommands": 76,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -9900,7 +9918,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 335,
+      "botcommando": 336,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
