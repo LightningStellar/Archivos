@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "٭⏤͟͟͞͞𝓕ʀᴀɴᴄɪsᴄᴀ",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4197,6 +4197,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363322593259208@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6784,8 +6792,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 368387,
           "bank": 0,
-          "exp": 8161,
-          "usedcommands": 73,
+          "exp": 8169,
+          "usedcommands": 75,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -6907,9 +6915,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 33,
+          "usedcommands": 1,
+          "level": 3,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -11940,10 +11948,10 @@
           "personajesEnVenta": []
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 793272,
+          "chocolates": 778272,
           "bank": 0,
-          "exp": 1772,
-          "usedcommands": 22,
+          "exp": 1908,
+          "usedcommands": 24,
           "level": 18,
           "banned": false,
           "reason": "",
@@ -11956,8 +11964,8 @@
           "slutCooldown": 1752172145619,
           "workCooldown": 1752172188241,
           "pptCooldown": 1752172200365,
-          "rwCooldown": 1752172506392,
-          "buyCooldown": 1752172511429,
+          "rwCooldown": 1752173417274,
+          "buyCooldown": 1752173420273,
           "characters": [
             {
               "name": "Choji Ahane",
@@ -11965,6 +11973,14 @@
               "value": 10000,
               "gender": "Hombre",
               "source": "Tokyo Revengers",
+              "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Mona Haulia",
+              "url": "https://stellarwa.xyz/files/1749354070027.jpg",
+              "value": 15000,
+              "gender": "Mujer",
+              "source": "Arifureta",
               "claim": "jueves, 10 de julio de 2025"
             }
           ],
@@ -12064,14 +12080,14 @@
     "120363418163055987@g.us": {
       "users": {
         "573103563906@s.whatsapp.net": {
-          "chocolates": 78363,
+          "chocolates": 176363,
           "bank": 0,
-          "exp": 1189,
-          "usedcommands": 25,
-          "level": 15,
+          "exp": 1351,
+          "usedcommands": 28,
+          "level": 16,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752172497830,
+          "rtCooldown": 1752173099790,
           "dailyStreak": 1,
           "lastDaily": 1752168195193,
           "nextReward": 33269,
@@ -15399,7 +15415,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "51981498340@s.whatsapp.net": {
       "users": {
@@ -15428,6 +15445,55 @@
     "120363297526001810@newsletter": {
       "users": {
         "120363297526001810@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363420722286384@g.us": {
+      "users": {
+        "5216646952956@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363322593259208@newsletter": {
+      "users": {
+        "120363322593259208@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -15503,7 +15569,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 380,
+      "botcommando": 383,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -15593,7 +15659,7 @@
     },
     "584268906600@s.whatsapp.net": {
       "self": false,
-      "botcommando": 14,
+      "botcommando": 15,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -15603,7 +15669,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 99,
+      "botcommando": 102,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -15653,7 +15719,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 21,
+      "botcommando": 22,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
