@@ -1176,6 +1176,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5212411648807@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213332243404@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝗖̸꯭َ𝗛꯭ٍّ𝚵꯭ْ𝗥̷꯭ٗ𝖄𝗡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1346,9 +1364,9 @@
         "51949397091@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 886,
-          "usedcommands": 16,
-          "level": 13,
+          "exp": 955,
+          "usedcommands": 17,
+          "level": 14,
           "banned": false,
           "reason": ""
         },
@@ -1944,10 +1962,10 @@
           "Subs": 1752119131346
         },
         "573144900715@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 26581,
-          "exp": 4184,
-          "usedcommands": 5,
+          "chocolates": 13581,
+          "bank": 0,
+          "exp": 4409,
+          "usedcommands": 10,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -1955,7 +1973,9 @@
           "dailyStreak": 1,
           "lastDaily": 1752120193213,
           "nextReward": 9937,
-          "lastMonthly": 1752120204423
+          "lastMonthly": 1752120204423,
+          "rwCooldown": 1752121177527,
+          "buyCooldown": 1752121184988
         }
       },
       "sWelcome": "",
@@ -2146,12 +2166,12 @@
         "50378355043@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 487,
-          "usedcommands": 8,
+          "exp": 523,
+          "usedcommands": 9,
           "level": 11,
           "banned": false,
           "reason": "",
-          "Subs": 1752119764988
+          "Subs": 1752120259929
         },
         "51980218350@s.whatsapp.net": {
           "chocolates": 0,
@@ -2331,22 +2351,22 @@
         "56974254856@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 613,
-          "usedcommands": 11,
+          "exp": 647,
+          "usedcommands": 13,
           "level": 12,
           "banned": false,
           "reason": "",
-          "Subs": 1752120121760
+          "Subs": 1752120264381
         },
         "5491144209120@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 147,
-          "usedcommands": 3,
+          "exp": 219,
+          "usedcommands": 4,
           "level": 6,
           "banned": false,
           "reason": "",
-          "Subs": 1752119992034
+          "Subs": 1752120284358
         },
         "50588285935@s.whatsapp.net": {
           "chocolates": 0,
@@ -2946,6 +2966,24 @@
           "reason": ""
         },
         "5215641155704@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5212411648807@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5213332243404@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -3565,7 +3603,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363376811438535@newsletter": {
       "users": {
@@ -3714,7 +3753,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000136,
+      "botcommando": 1000000000141,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -3734,7 +3773,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 83,
+      "botcommando": 88,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
