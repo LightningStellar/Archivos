@@ -776,7 +776,7 @@
     "50248151611@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
+      "name": "+502 4815 1611",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5999,12 +5999,12 @@
         "50248151611@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 159,
-          "usedcommands": 5,
+          "exp": 170,
+          "usedcommands": 6,
           "level": 7,
           "banned": false,
           "reason": "",
-          "Subs": 1752148520161
+          "Subs": 1752148966988
         },
         "5214437296458@s.whatsapp.net": {
           "chocolates": 0,
@@ -7375,6 +7375,15 @@
     "50248151611@s.whatsapp.net": {
       "users": {
         "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50248151611@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12285,8 +12294,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 14000,
-          "exp": 2400,
-          "usedcommands": 36,
+          "exp": 2430,
+          "usedcommands": 37,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -13301,7 +13310,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000285,
+      "botcommando": 1000000000286,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -13451,7 +13460,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 45,
+      "botcommando": 46,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -13472,6 +13481,16 @@
     "573135861052@s.whatsapp.net": {
       "self": false,
       "botcommando": 10,
+      "prefix": "/",
+      "namebot": "Sylphiette",
+      "namebot2": "Sylphy",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "currency": "SylphyCoins"
+    },
+    "50248151611@s.whatsapp.net": {
+      "self": false,
+      "botcommando": 0,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
