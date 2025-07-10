@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☬💥",
+      "name": "Mini pekka",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -244,7 +244,7 @@
     "584127335332@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.",
+      "name": "𝔍.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2434,7 +2434,7 @@
     "236773057818807@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "☬💥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2443,6 +2443,42 @@
     "120363163001782329@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "22974283432187@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212411648807@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491134195672@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🖤",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59178747769@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "578",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3563,6 +3599,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5212411648807@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491134195672@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4374,8 +4428,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 120671,
           "bank": 0,
-          "exp": 6819,
-          "usedcommands": 43,
+          "exp": 6918,
+          "usedcommands": 44,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -4395,8 +4449,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 40337,
           "bank": 0,
-          "exp": 4279,
-          "usedcommands": 28,
+          "exp": 4311,
+          "usedcommands": 29,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -5305,6 +5359,15 @@
           "reason": ""
         },
         "236773057818807@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "22974283432187@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -8371,6 +8434,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584127335332@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59178747769@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8625,7 +8706,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 228,
+      "botcommando": 230,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
