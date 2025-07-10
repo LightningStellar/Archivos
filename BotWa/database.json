@@ -3616,22 +3616,23 @@
           "Subs": 1752120480155
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 1390713,
+          "chocolates": 1140713,
           "bank": 0,
-          "exp": 5933,
-          "usedcommands": 58,
+          "exp": 6149,
+          "usedcommands": 61,
           "level": 29,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752120963489,
           "nextReward": 21426,
-          "rtCooldown": 1752131779951,
+          "rtCooldown": 1752132382113,
           "workCooldown": 1752129795172,
           "crimeCooldown": 1752129803304,
           "mineCooldown": 1752129799901,
           "lastWeekly": 1752121198676,
-          "lastMonthly": 1752121203914
+          "lastMonthly": 1752121203914,
+          "rwCooldown": 1752132728649
         },
         "51973887385@s.whatsapp.net": {
           "chocolates": 0,
@@ -4674,11 +4675,11 @@
           "slutCooldown": 1752123257429
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 750693,
+          "chocolates": 1450693,
           "bank": 0,
-          "exp": 862,
-          "usedcommands": 17,
-          "level": 13,
+          "exp": 975,
+          "usedcommands": 19,
+          "level": 14,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -4687,7 +4688,7 @@
           "crimeCooldown": 1752121725842,
           "mineCooldown": 1752121728847,
           "workCooldown": 1752121730773,
-          "rtCooldown": 1752131201195
+          "rtCooldown": 1752132407984
         },
         "56920449984@s.whatsapp.net": {
           "chocolates": 0,
@@ -9828,7 +9829,7 @@
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 1000000000035,
+      "botcommando": 1000000000037,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -9858,7 +9859,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 481,
+      "botcommando": 484,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
