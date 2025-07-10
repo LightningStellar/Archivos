@@ -226,7 +226,7 @@
     "5215660242865@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 56 6024 2865",
+      "name": "🪼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2627,7 +2627,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 642 230 2773",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3981,6 +3981,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "RCVV",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56958146863@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🪦",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11755,9 +11764,9 @@
         "5216141200934@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 4,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 81,
+          "usedcommands": 3,
+          "level": 2,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752172705115
@@ -13487,7 +13496,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420189008157@g.us": {
       "users": {
@@ -14762,6 +14772,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "56958146863@s.whatsapp.net": {
+      "users": {
+        "56958146863@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -14857,7 +14891,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 50,
+      "botcommando": 51,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -14917,7 +14951,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 74,
+      "botcommando": 75,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
