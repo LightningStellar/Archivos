@@ -785,7 +785,7 @@
     "5212294512405@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 229 451 2405",
+      "name": "Han 💗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "💫⚡",
+      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2696,6 +2696,15 @@
       "description": ""
     },
     "106773474181373@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "💫⚡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "3367623512265@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -6879,6 +6888,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "3367623512265@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -9650,6 +9668,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5212294512405@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 4,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -9834,7 +9861,7 @@
     },
     "5212294512405@s.whatsapp.net": {
       "self": false,
-      "botcommando": 3,
+      "botcommando": 4,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
