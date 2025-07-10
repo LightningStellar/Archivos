@@ -9015,7 +9015,7 @@
     "5493815503954@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ã¤ã¤ã¤Ìðã¤ã¤ã¤ã¤á ã¤á Íã¤ã¤ã¤ã¤ã¤á ã¤ð®ð.ã¤ã¤ã¤ã¤\nã¤ã¤ã¤ã¤ã¤ã¤ê¯­ððê¯­ððê¯­ðð¾ê¯­ã¤ã¤á á ã¤ã¤ â ã¤á á ã¤ã¤ã¤ð'ð½ððã¤ã¤",
+      "name": "ㅤㅤㅤ́𑁍ㅤㅤㅤㅤᅠㅤᅠ͜ㅤㅤㅤㅤㅤᅠㅤ𝖮𝗇.ㅤㅤㅤㅤ\nㅤㅤㅤㅤㅤㅤ꯭𝗋𝗈꯭𝗌𝗌꯭𝗂𝖾꯭ㅤㅤᅠᅠㅤㅤ “ ㅤᅠᅠㅤㅤㅤ𝗏'𝖽𝗋𝗏ㅤㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11678,7 +11678,25 @@
     "9642453237839@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "Enderman",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "221435947675851@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573504981572@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "...~",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12461,9 +12479,9 @@
         "17604773961@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 24956,
-          "exp": 1803,
-          "usedcommands": 31,
-          "level": 17,
+          "exp": 1877,
+          "usedcommands": 32,
+          "level": 18,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -12473,7 +12491,7 @@
           "roboCooldown": 0,
           "mineCooldown": 1752190529300,
           "slutCooldown": 1752190533688,
-          "rwCooldown": 1752190836920,
+          "rwCooldown": 1752192780118,
           "buyCooldown": 1752186712489,
           "personajesEnVenta": [],
           "characters": [
@@ -12601,6 +12619,15 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "d7909669"
+        },
+        {
+          "userId": "17604773961@s.whatsapp.net",
+          "name": "Gilthunder",
+          "url": "https://stellarwa.xyz/files/1749351574913.jpg",
+          "value": 50000,
+          "gender": "Hombre",
+          "source": "Los Siete Pecados Capitales",
+          "id": "792cd169"
         }
       ]
     },
@@ -23183,6 +23210,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573504981572@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24516,12 +24552,12 @@
         "5216141200934@s.whatsapp.net": {
           "chocolates": 1000000,
           "bank": 0,
-          "exp": 169,
-          "usedcommands": 6,
+          "exp": 189,
+          "usedcommands": 7,
           "level": 7,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752188945509,
+          "rwCooldown": 1752192791204,
           "personajesEnVenta": []
         },
         "5219932092138@s.whatsapp.net": {
@@ -24674,6 +24710,15 @@
           "gender": "Hombre",
           "source": "Mi tio es de otro Mundo",
           "id": "362d698d"
+        },
+        {
+          "userId": "5216141200934@s.whatsapp.net",
+          "name": "Eren Yeager",
+          "url": "https://stellarwa.xyz/files/1748788396097.jpg",
+          "value": 2000,
+          "gender": "Hombre",
+          "source": "Shingeki No Kyojin",
+          "id": "05819b5c"
         }
       ]
     },
@@ -38279,6 +38324,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "221435947675851@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40632,9 +40686,9 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 976,
-          "usedcommands": 16,
-          "level": 13,
+          "exp": 1021,
+          "usedcommands": 17,
+          "level": 14,
           "banned": false,
           "reason": ""
         }
@@ -40806,7 +40860,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 119,
+      "botcommando": 120,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40926,7 +40980,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 310,
+      "botcommando": 311,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41046,7 +41100,7 @@
     },
     "5219613301789@s.whatsapp.net": {
       "self": false,
-      "botcommando": 9,
+      "botcommando": 10,
       "prefix": "/ # . ! & + )",
       "namebot": "⋆𝐌֟𝐀𞄴𝐒֟𝐇𝐈፝𝐑𝐎̸̨⋅ ⳱𝐓𝐒𞄶𝐔̸ؙ𝐊𝐈𞄵𝐘𝐔𞄳𝐊𞄱𔘓",
       "namebot2": "Mashiro",
