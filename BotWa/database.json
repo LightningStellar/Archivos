@@ -3179,6 +3179,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491171043697@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "lucas",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5365,6 +5374,16 @@
           "banned": false,
           "reason": "",
           "Subs": 1752141699982
+        },
+        "5491171043697@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 44,
+          "usedcommands": 1,
+          "level": 4,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752143353841
         }
       },
       "sWelcome": "",
@@ -11280,7 +11299,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -11296,7 +11316,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000262,
+      "botcommando": 1000000000263,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
