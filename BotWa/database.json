@@ -7226,8 +7226,8 @@
         "5491135078568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 104285,
-          "exp": 6259,
-          "usedcommands": 18,
+          "exp": 6270,
+          "usedcommands": 19,
           "level": 29,
           "banned": false,
           "reason": "",
@@ -7241,7 +7241,8 @@
           "lastMonthly": 1752142059152,
           "pptCooldown": 1752142664130,
           "mineCooldown": 1752142673381,
-          "rtCooldown": 1752142683012
+          "rtCooldown": 1752142683012,
+          "roboCooldown": 0
         }
       },
       "sWelcome": "",
@@ -11214,6 +11215,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5491135078568@s.whatsapp.net": {
+      "users": {
+        "5491135078568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -11299,7 +11324,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 58,
+      "botcommando": 59,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
