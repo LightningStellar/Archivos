@@ -10743,12 +10743,17 @@
       "users": {
         "573058340821@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 0,
-          "exp": 22,
-          "usedcommands": 1,
-          "level": 0,
+          "bank": 35707,
+          "exp": 211,
+          "usedcommands": 6,
+          "level": 7,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752140027040,
+          "nextReward": 656,
+          "rwCooldown": 1752140937719,
+          "buyCooldown": 1752140942334
         },
         "573059040844@s.whatsapp.net": {
           "chocolates": 0,
@@ -10937,7 +10942,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1,
+      "botcommando": 6,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
