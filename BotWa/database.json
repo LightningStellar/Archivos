@@ -4259,6 +4259,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573136616042@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Jhoan",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13101,8 +13110,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 29000,
-          "exp": 1961,
-          "usedcommands": 90,
+          "exp": 2053,
+          "usedcommands": 91,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -13116,7 +13125,8 @@
           "nextReward": 49353,
           "roboCooldown": 0,
           "crimeCooldown": 1752150186688,
-          "slutCooldown": 1752153353675
+          "slutCooldown": 1752153353675,
+          "voteCooldown": 1752158338728
         },
         "51947019548@s.whatsapp.net": {
           "chocolates": 0,
@@ -14796,6 +14806,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573136616042@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14808,7 +14827,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -14974,7 +14994,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 105,
+      "botcommando": 106,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
