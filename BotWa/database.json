@@ -45,6 +45,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51974819791@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "CHICLAYO 🇵🇪",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215660242865@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🪼",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -85,6 +103,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51974819791@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -105,9 +132,9 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 100,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 188,
+          "usedcommands": 4,
+          "level": 7,
           "banned": false,
           "reason": ""
         },
@@ -158,16 +185,40 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363419574059419@g.us": {
+      "users": {
+        "5215660242865@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 2,
-      "prefix": "/",
+      "botcommando": 4,
+      "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
-      "owner": "Oculto por privacidad",
+      "owner": "DevAlexJs",
       "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
       "currency": "SylphyCoins"
     }
