@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "٭⏤͟͟͞͞𝓕ʀᴀɴᴄɪsᴄᴀ",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -926,7 +926,7 @@
     "584268906600@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+58 426-8906600",
+      "name": "٭⏤͟͟͞͞𝓕ʀᴀɴᴄɪsᴄᴀ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6746,7 +6746,7 @@
     "163561632444529@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "DG Gerand",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6756,6 +6756,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Arévalo",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51983249022@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝐃𝐚𝐧𝐢𝐞𝐥",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491156636236@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Del",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9164,6 +9182,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491156636236@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -10699,11 +10726,11 @@
           "mineCooldown": 1752180871577
         },
         "5214623046699@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 6585,
-          "exp": 6386,
-          "usedcommands": 29,
-          "level": 29,
+          "chocolates": 9385,
+          "bank": 0,
+          "exp": 6537,
+          "usedcommands": 31,
+          "level": 30,
           "banned": false,
           "reason": "",
           "lastMonthly": 1752179661584,
@@ -10729,7 +10756,8 @@
             }
           ],
           "characterCount": null,
-          "totalRwcoins": null
+          "totalRwcoins": null,
+          "rtCooldown": 1752180976627
         }
       },
       "sWelcome": "",
@@ -11230,6 +11258,15 @@
           "exp": 95,
           "usedcommands": 2,
           "level": 3,
+          "banned": false,
+          "reason": ""
+        },
+        "51983249022@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 18,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -13059,9 +13096,9 @@
         "5493521538906@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 3128,
-          "exp": 527,
-          "usedcommands": 11,
-          "level": 11,
+          "exp": 611,
+          "usedcommands": 12,
+          "level": 12,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752180911306,
@@ -16965,8 +17002,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 54278,
-          "exp": 3092,
-          "usedcommands": 15,
+          "exp": 3222,
+          "usedcommands": 19,
           "level": 22,
           "banned": false,
           "reason": "",
@@ -16979,7 +17016,8 @@
           "lastWeekly": 1752180237096,
           "lastMonthly": 1752180238916,
           "slutCooldown": 1752180840418,
-          "pptCooldown": 1752180842294
+          "pptCooldown": 1752180842294,
+          "rwCooldown": 1752181277610
         }
       },
       "sWelcome": "",
@@ -17002,6 +17040,15 @@
           "gender": "Mujer",
           "source": "Nekopara",
           "id": "a0a9e98f"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Alexander Hwang",
+          "url": "https://stellarwa.xyz/files/1749211225078.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "Apari3ncias",
+          "id": "713b9e6b"
         }
       ],
       "expired": 0
@@ -24981,7 +25028,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5493521538906@s.whatsapp.net": {
       "users": {
@@ -25056,7 +25104,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 87,
+      "botcommando": 88,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -25096,7 +25144,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 631,
+      "botcommando": 634,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -25136,7 +25184,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 76,
+      "botcommando": 80,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
