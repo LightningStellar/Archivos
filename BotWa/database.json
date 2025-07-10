@@ -758,7 +758,7 @@
     "5212202410659@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ã­ÂÂÃªÂ´Â´Ã­ÂÂÃ«ÂÂ¤.",
+      "name": "파괴하다.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2256,6 +2256,14 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𓋜 —  ۪🌙༘",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "189872467906721@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4169,8 +4177,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 1156,
           "bank": 0,
-          "exp": 5006,
-          "usedcommands": 22,
+          "exp": 5037,
+          "usedcommands": 23,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -4190,9 +4198,9 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 73,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -7839,6 +7847,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363400987345869@g.us": {
+      "users": {
+        "189872467906721@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -7894,7 +7926,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 170,
+      "botcommando": 173,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
