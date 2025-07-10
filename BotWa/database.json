@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☭卍 † Daryel † 卍☭",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3949,6 +3949,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51906425039@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Andre",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214181162993@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "SCDO",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216141200934@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "P",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51932423687@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "RCVV",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5543,6 +5579,15 @@
           "reason": ""
         },
         "5492993284402@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51932423687@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -11530,8 +11575,8 @@
         "5216646952956@s.whatsapp.net": {
           "chocolates": 93272,
           "bank": 0,
-          "exp": 1630,
-          "usedcommands": 17,
+          "exp": 1695,
+          "usedcommands": 19,
           "level": 17,
           "banned": false,
           "reason": "",
@@ -11654,8 +11699,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 83927,
           "bank": 0,
-          "exp": 632,
-          "usedcommands": 16,
+          "exp": 718,
+          "usedcommands": 17,
           "level": 12,
           "banned": false,
           "reason": "",
@@ -11690,11 +11735,11 @@
           "personajesEnVenta": []
         },
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 44907,
+          "chocolates": 44039,
           "bank": 0,
-          "exp": 2881,
-          "usedcommands": 54,
-          "level": 21,
+          "exp": 2892,
+          "usedcommands": 55,
+          "level": 22,
           "banned": false,
           "reason": "",
           "workCooldown": 1752172327501,
@@ -11702,10 +11747,20 @@
           "lastDaily": 1752168366779,
           "nextReward": 28907,
           "mineCooldown": 1752172336163,
-          "slutCooldown": 1752171727374,
+          "slutCooldown": 1752172379056,
           "crimeCooldown": 1752171737825,
           "personajesEnVenta": [],
           "rtCooldown": 1752171662123
+        },
+        "5216141200934@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 4,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752172705115
         }
       },
       "sWelcome": "",
@@ -11719,7 +11774,18 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": [
+        {
+          "userId": "5216141200934@s.whatsapp.net",
+          "name": "Hana Sunomiya",
+          "url": "https://stellarwa.xyz/files/1751835350782.jpg",
+          "value": 5000,
+          "gender": "Mujer",
+          "source": "Ijiranaide, Nagatoro-san",
+          "id": "16814d85"
+        }
+      ]
     },
     "120363317976001777@g.us": {
       "users": {
@@ -12701,6 +12767,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51906425039@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12713,7 +12788,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "226104778457091@lid": {
       "users": {
@@ -13154,6 +13230,15 @@
           "dailyStreak": 1,
           "lastDaily": 1752169849201,
           "nextReward": 35771
+        },
+        "5214181162993@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14170,9 +14255,9 @@
         "573219864357@s.whatsapp.net": {
           "chocolates": 2532,
           "bank": 0,
-          "exp": 252,
-          "usedcommands": 8,
-          "level": 8,
+          "exp": 595,
+          "usedcommands": 16,
+          "level": 11,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752172619124,
@@ -14832,7 +14917,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 71,
+      "botcommando": 74,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -14862,7 +14947,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 65,
+      "botcommando": 73,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -14882,7 +14967,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 16,
+      "botcommando": 18,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
