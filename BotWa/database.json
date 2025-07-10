@@ -2200,7 +2200,7 @@
     "5215536715999@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¹",
+      "name": "🌹",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20223,8 +20223,8 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 18589,
-          "exp": 6777,
-          "usedcommands": 24,
+          "exp": 6821,
+          "usedcommands": 25,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -20232,7 +20232,7 @@
           "dailyStreak": 1,
           "lastDaily": 1752182205448,
           "nextReward": 13667,
-          "rwCooldown": 1752185985581,
+          "rwCooldown": 1752186895852,
           "crimeCooldown": 1752182892033,
           "mineCooldown": 1752182893759,
           "workCooldown": 1752182899970,
@@ -20344,6 +20344,15 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "59e8a4f6"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Umi no Ie no Ane",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b164871-F0u5QCl1Dn9V.png",
+          "value": 8125,
+          "gender": "Mujer",
+          "source": "Nekopara",
+          "id": "fe49a4ca"
         }
       ],
       "expired": 0
@@ -31026,7 +31035,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 216,
+      "botcommando": 217,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
