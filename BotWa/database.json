@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "✨Mega✨",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2358,6 +2358,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573137368548@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+57 313 7368548",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "270935160553652@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50670666701@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝕾𝖆𝖓𝖏𝖎 ִֶָ ˖ ࣪ ୨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3465,6 +3492,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50670666701@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4295,11 +4331,11 @@
           "buyCooldown": 0
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 19062,
+          "chocolates": 25337,
           "bank": 0,
-          "exp": 3993,
-          "usedcommands": 19,
-          "level": 24,
+          "exp": 4063,
+          "usedcommands": 22,
+          "level": 25,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -4323,7 +4359,9 @@
           ],
           "characterCount": null,
           "totalRwcoins": null,
-          "pptCooldown": 1752168586055
+          "pptCooldown": 1752168586055,
+          "workCooldown": 1752168665594,
+          "mineCooldown": 1752168683389
         },
         "51926887094@s.whatsapp.net": {
           "chocolates": 39824,
@@ -4341,6 +4379,15 @@
           "nextReward": 15622
         },
         "56944420645@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573137368548@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -5178,6 +5225,15 @@
           "reason": ""
         },
         "120363399959550040@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "270935160553652@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -8237,7 +8293,7 @@
           "bank": 0,
           "exp": 145,
           "usedcommands": 3,
-          "level": 5,
+          "level": 6,
           "banned": false,
           "reason": "",
           "rtCooldown": 0
@@ -8263,6 +8319,67 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363317976001777@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363416974495754@g.us": {
+      "users": {
+        "5215522567568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 71,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752168987856
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "personajesReservados": [
+        {
+          "userId": "5215522567568@s.whatsapp.net",
+          "name": "Cinnamon",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126266-0ebV3eqXpwu9.jpg",
+          "value": 8359,
+          "gender": "Mujer",
+          "source": "Nekopara",
+          "id": "a0a9e98f"
+        }
+      ],
       "expired": 0
     }
   },
@@ -8319,7 +8436,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 215,
+      "botcommando": 218,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -8359,7 +8476,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 11,
+      "botcommando": 12,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
