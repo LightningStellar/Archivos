@@ -3188,6 +3188,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "59177763909@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Natt :)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3542,6 +3551,15 @@
           "exp": 80,
           "usedcommands": 2,
           "level": 4,
+          "banned": false,
+          "reason": ""
+        },
+        "59177763909@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
