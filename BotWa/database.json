@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Yo",
+      "name": "Bianca",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3632,6 +3632,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "144590694834264@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51997452389@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~Rocío °•°",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6988,6 +7006,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51997452389@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8149,6 +8176,15 @@
           "reason": ""
         },
         "71692198109310@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "144590694834264@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
