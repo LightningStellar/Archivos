@@ -545,7 +545,7 @@
     "5215513021315@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "àªð¨ðð®Í¡Í¡ð»Íð» ðÍá¤",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2352,7 +2352,7 @@
     "573103563906@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "á¶ á¶¸á¶áµáµ§âáµ¤!",
+      "name": "ᶠᶸᶜᵏᵧₒᵤ!",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2627,7 +2627,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": "ê§â¦ðððððá¬ê§",
       "metadatos2": "Ê·Ê°áµÊ³áµ",
-      "name": "+52 642 230 2773",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "Hombre",
       "birth": "viernes, 27 de febrero",
       "marry": "34683343365@s.whatsapp.net",
@@ -2645,7 +2645,7 @@
     "56978518168@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Â°â¢`  Â§uÅny Â° ðª½âÍ Öáá³ð¦ââ",
+      "name": "°•`  §uŋny ° 🪽⃝𝅦᳘֟፝͠◌⃘",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5659,6 +5659,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215641155704@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🌙⚡💧",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212632670721@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~操り人形🧠🎭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215665260904@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Alec",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "21307433443543@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6025,8 +6061,8 @@
           "exp": 1917,
           "usedcommands": 20,
           "level": 18,
-          "banned": false,
-          "reason": "",
+          "banned": true,
+          "reason": "No especificado",
           "personajesEnVenta": [],
           "rtCooldown": 1752176940435,
           "crimeCooldown": 1752176953437,
@@ -6041,8 +6077,8 @@
         "573135861052@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 6649,
-          "exp": 1141,
-          "usedcommands": 23,
+          "exp": 1161,
+          "usedcommands": 24,
           "level": 15,
           "banned": false,
           "reason": "",
@@ -6108,10 +6144,10 @@
           "personajesEnVenta": []
         },
         "593990564497@s.whatsapp.net": {
-          "chocolates": 45105,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 7007,
-          "usedcommands": 34,
+          "exp": 7104,
+          "usedcommands": 35,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -8817,17 +8853,17 @@
           "personajesEnVenta": []
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 927387,
+          "chocolates": 817564,
           "bank": 0,
-          "exp": 8541,
-          "usedcommands": 83,
+          "exp": 8757,
+          "usedcommands": 87,
           "level": 33,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752167139322,
           "nextReward": 1055,
-          "rtCooldown": 1752174850159,
+          "rtCooldown": 1752177092161,
           "crimeCooldown": 1752169320881,
           "mineCooldown": 1752169323515,
           "workCooldown": 1752169327399,
@@ -8835,8 +8871,8 @@
           "pptCooldown": 1752169344942,
           "lastWeekly": 1752167251198,
           "lastMonthly": 1752167268604,
-          "buyCooldown": 1752173460868,
-          "rwCooldown": 1752173457094,
+          "buyCooldown": 1752177407452,
+          "rwCooldown": 1752177402689,
           "characters": [
             {
               "name": "Yuzuha Shiba",
@@ -8853,10 +8889,18 @@
               "gender": "Hombre",
               "source": "Solo Leveling",
               "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Shigure Minazuki",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130308-YWQyfCBdkb0n.jpg",
+              "value": 9823,
+              "gender": "Mujer",
+              "source": "Nekopara",
+              "claim": "jueves, 10 de julio de 2025"
             }
           ],
-          "characterCount": null,
-          "totalRwcoins": null,
+          "characterCount": 1,
+          "totalRwcoins": 9823,
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
@@ -9517,6 +9561,15 @@
           "exp": 54,
           "usedcommands": 1,
           "level": 4,
+          "banned": false,
+          "reason": ""
+        },
+        "212632670721@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 52,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -14781,8 +14834,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 301363,
           "bank": 0,
-          "exp": 1672,
-          "usedcommands": 37,
+          "exp": 1717,
+          "usedcommands": 38,
           "level": 17,
           "banned": false,
           "reason": "",
@@ -16502,8 +16555,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 172102,
-          "exp": 732,
-          "usedcommands": 13,
+          "exp": 828,
+          "usedcommands": 14,
           "level": 12,
           "banned": false,
           "reason": "",
@@ -17997,6 +18050,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215665260904@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20968,6 +21030,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "21307433443543@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21032,6 +21103,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5215641155704@s.whatsapp.net": {
+      "users": {
+        "5215641155704@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -21077,7 +21172,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 108,
+      "botcommando": 110,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -21087,7 +21182,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 480,
+      "botcommando": 485,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -21187,7 +21282,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 148,
+      "botcommando": 149,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -21247,7 +21342,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 83,
+      "botcommando": 84,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
