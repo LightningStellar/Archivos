@@ -2359,7 +2359,7 @@
     "5219613301789@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Mood Erick",
+      "name": "𓆩𝑺𝒉𝝌֟፝𝒏𝒙𝒔 𝑫' 𝑲𝝌֟፝𝒎𝒊⸸𓆪",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2449,6 +2449,15 @@
     "120363373339400375@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214426784774@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𓆩𝑺𝒉𝝌֟፝𝒏𝒙𝒔 𝑫' 𝑲𝝌֟፝𝒎𝒊⸸𓆪",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3395,8 +3404,8 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 55789,
           "bank": 0,
-          "exp": 5599,
-          "usedcommands": 9,
+          "exp": 5693,
+          "usedcommands": 10,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -3408,6 +3417,24 @@
           "nextReward": 28176,
           "lastMonthly": 1752126764175,
           "lastWeekly": 1752126767078
+        },
+        "5214426784774@s.whatsapp.net": {
+          "chocolates": 725,
+          "bank": 0,
+          "exp": 2286,
+          "usedcommands": 8,
+          "level": 20,
+          "banned": false,
+          "reason": "",
+          "workCooldown": 1752127403871,
+          "crimeCooldown": 1752127407755,
+          "slutCooldown": 1752127409839,
+          "dailyStreak": 1,
+          "lastDaily": 1752126813560,
+          "nextReward": 30484,
+          "lastWeekly": 1752126815803,
+          "lastMonthly": 1752126819350,
+          "rtCooldown": 1752127438714
         }
       },
       "sWelcome": "",
@@ -8678,7 +8705,7 @@
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 1000000000022,
+      "botcommando": 1000000000023,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -8708,7 +8735,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 220,
+      "botcommando": 228,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
