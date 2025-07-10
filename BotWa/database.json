@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Kai",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4967,7 +4967,7 @@
     "5218136406546@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "à°ð«§ê¨ªê¨µ : ðux",
+      "name": "ఁ🫧ꨪꨵ : 𝐋ux",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6827,7 +6827,7 @@
     "5212311139131@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ð±ð¿",
+      "name": "🌱🌿",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11295,6 +11295,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "ٰ    N’ROSES",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51969820061@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "!!",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216182439906@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nayarit",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17355,6 +17373,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51969820061@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 5,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -18533,14 +18560,14 @@
           "rwCooldown": 1752190113548
         },
         "51902486766@s.whatsapp.net": {
-          "chocolates": 4699,
-          "bank": 159856,
-          "exp": 10703,
-          "usedcommands": 69,
+          "chocolates": 0,
+          "bank": 172555,
+          "exp": 10854,
+          "usedcommands": 72,
           "level": 36,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752190282251,
+          "rwCooldown": 1752192030938,
           "mineCooldown": 1752191690455,
           "buyCooldown": 1752174225219,
           "characters": [
@@ -18558,7 +18585,7 @@
           "crimeCooldown": 1752191694638,
           "workCooldown": 1752191696597,
           "pptCooldown": 1752191700620,
-          "rtCooldown": 1752188726931,
+          "rtCooldown": 1752191723317,
           "lastWeekly": 1752176772121,
           "lastMonthly": 1752176781057,
           "dailyStreak": 1,
@@ -18720,6 +18747,15 @@
           "gender": "Mujer",
           "source": "Classroom Of The Elite",
           "id": "36af6475"
+        },
+        {
+          "userId": "51902486766@s.whatsapp.net",
+          "name": "Raye Penber",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n7044-DjU28vbo11bb.png",
+          "value": 17399,
+          "gender": "Hombre",
+          "source": "Death Note",
+          "id": "4e35e361"
         }
       ]
     },
@@ -36339,6 +36375,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5216182439906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37926,6 +37971,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "238826186354883@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39466,6 +39520,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56987865578@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39646,6 +39709,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5215513730976@s.whatsapp.net": {
+      "users": {
+        "5215513730976@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -39701,7 +39788,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 918,
+      "botcommando": 919,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -39821,7 +39908,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 480,
+      "botcommando": 483,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -39911,7 +39998,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 56,
+      "botcommando": 57,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
