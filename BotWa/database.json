@@ -22,7 +22,7 @@
     "573019448245@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Hatsune Miku",
+      "name": "Sylphiette's",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -58,7 +58,7 @@
     "5215660242865@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 56 6024 2865",
+      "name": "🪼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -67,7 +67,7 @@
     "5218713339906@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Senko San",
+      "name": "Núm +52",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -776,7 +776,7 @@
     "50248151611@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+502 4815 1611",
+      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4502,6 +4502,15 @@
     "120363304392546215@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219581303528@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15614,6 +15623,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5219581303528@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -15626,7 +15644,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363400637428739@newsletter": {
       "users": {
@@ -15675,7 +15694,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
