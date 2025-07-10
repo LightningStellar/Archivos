@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝘑𝘶𝘭𝘺 ⃟🍏",
+      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2331,6 +2331,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56944420645@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "YUPI🦭🦭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4247,10 +4256,10 @@
           "reason": ""
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 1156,
+          "chocolates": 9671,
           "bank": 0,
-          "exp": 5389,
-          "usedcommands": 29,
+          "exp": 6373,
+          "usedcommands": 36,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -4258,11 +4267,11 @@
           "lastDaily": 1752167139322,
           "nextReward": 1055,
           "rtCooldown": 1752167750381,
-          "crimeCooldown": 1752167815100,
-          "mineCooldown": 1752167817534,
-          "workCooldown": 1752167822401,
-          "slutCooldown": 1752167827634,
-          "pptCooldown": 1752167834204,
+          "crimeCooldown": 1752168525710,
+          "mineCooldown": 1752168532353,
+          "workCooldown": 1752168539588,
+          "slutCooldown": 1752168545084,
+          "pptCooldown": 1752168575056,
           "lastWeekly": 1752167251198,
           "lastMonthly": 1752167268604,
           "buyCooldown": 0
@@ -4270,8 +4279,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 19011,
           "bank": 0,
-          "exp": 3702,
-          "usedcommands": 13,
+          "exp": 3790,
+          "usedcommands": 15,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -4298,16 +4307,28 @@
           "totalRwcoins": null
         },
         "51926887094@s.whatsapp.net": {
-          "chocolates": 7073,
+          "chocolates": 39824,
           "bank": 0,
-          "exp": 132,
-          "usedcommands": 5,
-          "level": 6,
+          "exp": 250,
+          "usedcommands": 9,
+          "level": 8,
           "banned": false,
           "reason": "",
-          "rtCooldown": 0,
+          "rtCooldown": 1752168553786,
           "workCooldown": 1752168499131,
-          "mineCooldown": 1752168501449
+          "mineCooldown": 1752168501449,
+          "dailyStreak": 1,
+          "lastDaily": 1752167924308,
+          "nextReward": 15622
+        },
+        "56944420645@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8219,7 +8240,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 195,
+      "botcommando": 208,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
