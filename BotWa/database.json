@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "Yo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3314,6 +3314,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51928766643@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3686,6 +3695,15 @@
           "exp": 105,
           "usedcommands": 2,
           "level": 4,
+          "banned": false,
+          "reason": ""
+        },
+        "51928766643@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 74,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -11784,7 +11802,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000265,
+      "botcommando": 1000000000266,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
