@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Angel Marquina",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3745,6 +3745,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51939717386@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Saul",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5688,6 +5697,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "212609690006@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -5903,8 +5921,8 @@
         "5493534413480@s.whatsapp.net": {
           "chocolates": 1606,
           "bank": 0,
-          "exp": 1846,
-          "usedcommands": 18,
+          "exp": 1952,
+          "usedcommands": 20,
           "level": 18,
           "banned": false,
           "reason": "",
@@ -6376,9 +6394,9 @@
         "5215660242865@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 59,
-          "usedcommands": 1,
-          "level": 4,
+          "exp": 104,
+          "usedcommands": 2,
+          "level": 6,
           "banned": false,
           "reason": "",
           "Subs": 1752171190910
@@ -6729,6 +6747,15 @@
           "exp": 82,
           "usedcommands": 2,
           "level": 5,
+          "banned": false,
+          "reason": ""
+        },
+        "51939717386@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 93,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -13544,6 +13571,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215522567568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13556,7 +13592,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363417102350880@newsletter": {
       "users": {
@@ -13701,13 +13738,32 @@
           "reason": ""
         },
         "5492916439595@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 20407,
           "bank": 0,
-          "exp": 73,
-          "usedcommands": 3,
-          "level": 5,
+          "exp": 310,
+          "usedcommands": 9,
+          "level": 8,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "mineCooldown": 1752171823097,
+          "slutCooldown": 1752171827805,
+          "rwCooldown": 1752172159586,
+          "dailyStreak": 1,
+          "lastDaily": 1752171266396,
+          "nextReward": 49325,
+          "buyCooldown": 1752172172414,
+          "characters": [
+            {
+              "name": "Hizashi Yamada",
+              "url": "https://stellarwa.xyz/files/1750638784897.jpg",
+              "value": 20000,
+              "gender": "Hombre",
+              "source": "My Hero Academia",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5492914407013@s.whatsapp.net": {
           "chocolates": 0,
@@ -13730,7 +13786,8 @@
       "primaryBot": "5492914407013@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     },
     "120363329529575948@g.us": {
       "users": {
@@ -13928,7 +13985,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 41,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -13968,7 +14025,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 339,
+      "botcommando": 343,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -13988,7 +14045,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -14008,7 +14065,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 49,
+      "botcommando": 50,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -14098,7 +14155,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 50,
+      "botcommando": 54,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -14128,7 +14185,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 38,
+      "botcommando": 39,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
