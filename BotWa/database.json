@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "☭卍 † Daryel † 卍☭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2663,7 +2663,7 @@
     "51939912310@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂ«ÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ§ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ­ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ°ÃÂÃÂ¬ÃÂÃÂ­ÃÂÃÂÃÂÃÂ¯ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ¤",
+      "name": "﹫﹙𝗥꯭ۧ𝗎𝗂 𬭛﹚ㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7270,6 +7270,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491158924253@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "イワン",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216183962774@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝗭𝗶Ⴕi𝙚ll  𝗹vs 𝗔lison",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51940647490@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "...",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7536,6 +7563,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5491158924253@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12115,6 +12151,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51940647490@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12305,6 +12350,15 @@
           "reason": ""
         },
         "59164598339@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216183962774@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18093,9 +18147,9 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 53812,
-          "exp": 3599,
-          "usedcommands": 29,
-          "level": 23,
+          "exp": 3733,
+          "usedcommands": 31,
+          "level": 24,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752182447112,
@@ -18108,7 +18162,7 @@
           "lastMonthly": 1752180238916,
           "slutCooldown": 1752182454380,
           "pptCooldown": 1752182456285,
-          "rwCooldown": 1752181277610,
+          "rwCooldown": 1752182779785,
           "personajesEnVenta": []
         },
         "59175015536@s.whatsapp.net": {
@@ -18151,6 +18205,15 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "713b9e6b"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Grayroad",
+          "url": "https://stellarwa.xyz/files/1749350696534.jpg",
+          "value": 50000,
+          "gender": "Hombre",
+          "source": "Los Siete Pecados Capitales",
+          "id": "a6dccf31"
         }
       ],
       "expired": 0
@@ -27189,7 +27252,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 104,
+      "botcommando": 106,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
