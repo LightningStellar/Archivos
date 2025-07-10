@@ -91,7 +91,15 @@
       "marry": "",
       "description": ""
     },
-    "5216351178185@s.whatsapp.net": {},
+    "5216351178185@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "¿A3? ⇆ B E T O ⁹⁹⁹",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
     "56974254856@s.whatsapp.net": {},
     "5214437296458@s.whatsapp.net": {},
     "5491166697213@s.whatsapp.net": {
@@ -172,7 +180,15 @@
       "marry": "",
       "description": ""
     },
-    "5355627926@s.whatsapp.net": {},
+    "5355627926@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Zoro",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
     "5219615762784@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
@@ -275,7 +291,7 @@
     "51913527859@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ᵒᵇⁱᵗᵒ.s",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -285,6 +301,27 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Chisato",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "Received message with old counter: 123, 120": {},
+    "Received message with old counter: 123, 122": {},
+    "Message absent from node": {},
+    "59162047838@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Mozevil",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51983530315@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "suclupeartemio91",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -405,13 +442,22 @@
         "51913527859@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
+          "exp": 79,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216673262529@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
           "exp": 0,
           "usedcommands": 0,
           "level": 0,
           "banned": false,
           "reason": ""
         },
-        "5216673262529@s.whatsapp.net": {
+        "51983530315@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -720,11 +766,12 @@
         "5215571921560@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 40,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "Subs": 1752117747438
         },
         "5491166697213@s.whatsapp.net": {
           "chocolates": 0,
@@ -736,6 +783,33 @@
           "reason": ""
         },
         "51926887094@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5355627926@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216351178185@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 10,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59162047838@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -889,7 +963,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000008,
+      "botcommando": 1000000000011,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
