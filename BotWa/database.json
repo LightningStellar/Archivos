@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Bianca",
+      "name": "𝘑𝘶𝘭𝘺 ⃟🍏",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2554,6 +2554,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491125640417@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "luka gooner 👅",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573213726476@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Robinson",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "158329942888634@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3708,6 +3735,15 @@
           "reason": ""
         },
         "5213332243404@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491125640417@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -5495,6 +5531,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "158329942888634@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6418,20 +6463,20 @@
           "reason": ""
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 674,
+          "chocolates": 38,
           "bank": 0,
-          "exp": 477,
-          "usedcommands": 7,
-          "level": 10,
+          "exp": 696,
+          "usedcommands": 13,
+          "level": 12,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752167836944,
           "nextReward": 39611,
-          "mineCooldown": 1752168440130,
-          "crimeCooldown": 1752168442790,
-          "workCooldown": 1752168444625,
-          "rtCooldown": 1752168459996
+          "mineCooldown": 1752169197338,
+          "crimeCooldown": 1752169195268,
+          "workCooldown": 1752169191562,
+          "rtCooldown": 1752169206628
         }
       },
       "sWelcome": "",
@@ -8911,6 +8956,31 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "573213726476@s.whatsapp.net": {
+      "users": {
+        "573213726476@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
       "bannedGrupo": false
     }
   },
@@ -9097,7 +9167,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 37,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
