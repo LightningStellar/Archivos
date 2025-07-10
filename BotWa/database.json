@@ -2395,6 +2395,15 @@
     "16518494556279@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "ᰔᩚ٭✰˚𝓖𝓲𝓼𝓮𝓵𝓵𝓮˚✰٭ᰔᩚ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120796492079148@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
       "genre": "",
       "birth": "",
@@ -5952,6 +5961,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "120796492079148@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6362,8 +6380,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 85387,
           "bank": 0,
-          "exp": 2703,
-          "usedcommands": 59,
+          "exp": 2794,
+          "usedcommands": 60,
           "level": 21,
           "banned": false,
           "reason": "",
@@ -8603,7 +8621,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 260,
+      "botcommando": 261,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
