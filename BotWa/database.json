@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~𝑘𝑖𝑎𝑎",
+      "name": "⻩⸻𝐉⃥𝐀⃥꯭𝐘",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3962,7 +3962,7 @@
     "50687717451@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+506 8771 7451",
+      "name": "🌦⃢黷 〫۫𑪔̣⋆۪࣪ໍ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7879,6 +7879,15 @@
           "reason": ""
         },
         "50256925876@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50687717451@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12677,11 +12686,11 @@
           "mineCooldown": 1752149468420
         },
         "573135861052@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 173460,
-          "exp": 1249,
-          "usedcommands": 12,
-          "level": 15,
+          "chocolates": 146359,
+          "bank": 0,
+          "exp": 1533,
+          "usedcommands": 16,
+          "level": 17,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -12689,11 +12698,12 @@
           "nextReward": 38775,
           "lastWeekly": 1752149321508,
           "lastMonthly": 1752149326575,
-          "workCooldown": 1752149929450,
+          "workCooldown": 1752153253641,
           "crimeCooldown": 1752149931998,
           "slutCooldown": 1752149933958,
           "mineCooldown": 1752149937616,
-          "rtCooldown": 1752149950763
+          "rtCooldown": 1752153248101,
+          "rwCooldown": 0
         },
         "59894951555@s.whatsapp.net": {
           "chocolates": 0,
@@ -14711,7 +14721,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -14897,7 +14908,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 28,
+      "botcommando": 32,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
