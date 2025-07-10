@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "｡･:*:･ﾟ｡★𝔹.𝔹.𝕝☆｡ﾟ･:*",
+      "name": "🌗 𝗔𝗜",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -261,7 +261,7 @@
     "5215522567568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⋆.𖥻 ִ ۫ᩚ❄️⃝𝐉𝑎𝒏z𓄹",
+      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
       "genre": "Hombre",
       "birth": "lunes, 21 de julio",
       "marry": "59175015536@s.whatsapp.net",
@@ -5992,7 +5992,7 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Ratoier🐾",
-      "genre": "",
+      "genre": "Mujer",
       "birth": "domingo, 26 de enero",
       "marry": "",
       "description": "Donde haya chisme ahí estaré."
@@ -7544,6 +7544,15 @@
     "120363300070360857@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215522695916@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": " 💖👸🏻",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10337,6 +10346,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5351524614@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215522695916@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -10447,11 +10474,11 @@
           "personajesEnVenta": []
         },
         "573222383628@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 4253,
           "bank": 0,
-          "exp": 27,
-          "usedcommands": 1,
-          "level": 3,
+          "exp": 41,
+          "usedcommands": 3,
+          "level": 4,
           "banned": false,
           "reason": "",
           "buyCooldown": 1752178307754,
@@ -10465,7 +10492,10 @@
               "claim": "jueves, 10 de julio de 2025"
             }
           ],
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "dailyStreak": 1,
+          "lastDaily": 1752182998198,
+          "nextReward": 10037
         }
       },
       "sWelcome": "",
@@ -12531,8 +12561,8 @@
         "51940647490@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 42,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
           "reason": ""
@@ -18524,8 +18554,8 @@
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 52552,
-          "exp": 6675,
-          "usedcommands": 51,
+          "exp": 6681,
+          "usedcommands": 52,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -18608,8 +18638,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 53196,
-          "exp": 5161,
-          "usedcommands": 54,
+          "exp": 5207,
+          "usedcommands": 56,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -28070,7 +28100,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -28126,7 +28157,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 720,
+      "botcommando": 721,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -28166,7 +28197,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 170,
+      "botcommando": 175,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
