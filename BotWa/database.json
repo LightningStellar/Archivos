@@ -1115,9 +1115,9 @@
         "51949397091@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 333,
-          "usedcommands": 7,
-          "level": 9,
+          "exp": 407,
+          "usedcommands": 8,
+          "level": 10,
           "banned": false,
           "reason": ""
         }
@@ -2865,7 +2865,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "56987865578@s.whatsapp.net": {
       "users": {
@@ -2965,7 +2966,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000095,
+      "botcommando": 1000000000096,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
