@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "UtsuOn",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7903,7 +7903,7 @@
     "5215522999585@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "✍️",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7922,6 +7922,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "🍓",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215613013880@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Pitt",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12948,9 +12957,9 @@
         "5493855844350@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 140,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 146,
+          "usedcommands": 3,
+          "level": 6,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -22727,6 +22736,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215613013880@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29545,7 +29563,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 746,
+      "botcommando": 747,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
