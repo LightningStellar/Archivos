@@ -3547,6 +3547,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363331074046835@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4772,9 +4780,9 @@
         "5511998790420@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 15754,
-          "exp": 1259,
-          "usedcommands": 8,
-          "level": 15,
+          "exp": 1316,
+          "usedcommands": 9,
+          "level": 16,
           "banned": false,
           "reason": "",
           "workCooldown": 1752147116258,
@@ -12412,6 +12420,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363331074046835@newsletter": {
+      "users": {
+        "120363331074046835@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -12447,7 +12479,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 609,
+      "botcommando": 610,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
