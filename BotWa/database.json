@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "Yo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3386,6 +3386,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "59162498526@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ׅ ۫ ᮫ 𓋜 𝓢𝒶𝓀𝓊𝓇𝒶᮫ׅ۫",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3996,9 +4005,9 @@
         "51962264360@s.whatsapp.net": {
           "chocolates": 27582,
           "bank": 0,
-          "exp": 827,
-          "usedcommands": 9,
-          "level": 13,
+          "exp": 1053,
+          "usedcommands": 13,
+          "level": 14,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -4008,7 +4017,8 @@
           "rtCooldown": 1752145325831,
           "slutCooldown": 1752145338031,
           "workCooldown": 1752145345425,
-          "crimeCooldown": 1752145351870
+          "crimeCooldown": 1752145351870,
+          "rwCooldown": 1752145786787
         },
         "573159596290@s.whatsapp.net": {
           "chocolates": 0,
@@ -6526,6 +6536,15 @@
           "reason": ""
         },
         "56987865578@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59162498526@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12035,7 +12054,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 578,
+      "botcommando": 582,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
