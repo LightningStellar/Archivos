@@ -12092,13 +12092,16 @@
           "reason": ""
         },
         "573135861052@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 24446,
           "bank": 0,
-          "exp": 323,
-          "usedcommands": 6,
-          "level": 9,
+          "exp": 378,
+          "usedcommands": 8,
+          "level": 10,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752149226300,
+          "nextReward": 1347
         },
         "573043790530@s.whatsapp.net": {
           "chocolates": 3608,
@@ -12384,8 +12387,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 14000,
-          "exp": 60,
-          "usedcommands": 44,
+          "exp": 153,
+          "usedcommands": 47,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -13619,7 +13622,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 53,
+      "botcommando": 56,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -13639,7 +13642,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 12,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
