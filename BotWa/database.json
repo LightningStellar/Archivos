@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6430,6 +6430,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50933472333@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "GABE🀄",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218441133683@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "˙⊹˚🕰",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51958386294@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Reese",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15914,14 +15941,14 @@
           "rtCooldown": 0
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 1408272,
+          "chocolates": 895272,
           "bank": 0,
-          "exp": 2796,
-          "usedcommands": 43,
-          "level": 21,
+          "exp": 2977,
+          "usedcommands": 46,
+          "level": 22,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752174168447,
+          "rtCooldown": 1752179728997,
           "dailyStreak": 1,
           "lastDaily": 1752171534601,
           "nextReward": 12535,
@@ -15930,8 +15957,8 @@
           "slutCooldown": 1752172145619,
           "workCooldown": 1752172188241,
           "pptCooldown": 1752172200365,
-          "rwCooldown": 1752174455934,
-          "buyCooldown": 1752174461733,
+          "rwCooldown": 1752180004901,
+          "buyCooldown": 1752180007998,
           "characters": [
             {
               "name": "Choji Ahane",
@@ -15956,10 +15983,18 @@
               "gender": "Hombre",
               "source": "Arifureta",
               "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Basho",
+              "url": "https://stellarwa.xyz/files/1750783103883.jpg",
+              "value": 13000,
+              "gender": "Hombre",
+              "source": "Hunter x Hunter",
+              "claim": "jueves, 10 de julio de 2025"
             }
           ],
-          "characterCount": null,
-          "totalRwcoins": null,
+          "characterCount": 1,
+          "totalRwcoins": 13000,
           "personajesEnVenta": []
         }
       },
@@ -23744,12 +23779,111 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "50933472333@s.whatsapp.net": {
+      "users": {
+        "50933472333@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "5218441133683@s.whatsapp.net": {
+      "users": {
+        "5218441133683@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363418775713957@g.us": {
+      "users": {
+        "56933563394@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363401873542000@g.us": {
+      "users": {
+        "51958386294@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "5212294512405@s.whatsapp.net": {
       "self": false,
-      "botcommando": 34,
+      "botcommando": 35,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -23809,7 +23943,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 40,
+      "botcommando": 42,
       "prefix": "+",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -23909,7 +24043,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 20,
+      "botcommando": 21,
       "prefix": "#",
       "namebot": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ§ÃÂÃÂ¸ÃÂÃÂÃÂÃÂ³ÃÂÃÂ¡ÃÂÃÂ·ÃÂÃÂÃÂÃÂ¡ÃÂÃÂ¤ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¯",
       "namebot2": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ§ÃÂÃÂ¸ÃÂÃÂÃÂÃÂ³ÃÂÃÂ¡ÃÂÃÂ·ÃÂÃÂÃÂÃÂ¡ÃÂÃÂ¤ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¯",
