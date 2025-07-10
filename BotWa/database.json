@@ -2712,6 +2712,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "18096404259@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𒈒Alisha Estefany Veras𒈞",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4871,10 +4880,10 @@
     "120363402724936929@g.us": {
       "users": {
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 157633,
+          "chocolates": 137633,
           "bank": 0,
-          "exp": 4986,
-          "usedcommands": 96,
+          "exp": 5130,
+          "usedcommands": 98,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -4889,7 +4898,7 @@
           "crimeCooldown": 1752127088312,
           "mineCooldown": 1752127091615,
           "workCooldown": 1752120612580,
-          "buyCooldown": 1752126680327,
+          "buyCooldown": 1752131957135,
           "slutCooldown": 1752127095588
         },
         "5493534413480@s.whatsapp.net": {
@@ -9588,7 +9597,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5218994114999@s.whatsapp.net": {
       "users": {
@@ -9677,6 +9687,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "18096404259@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -9722,18 +9741,18 @@
         "5215639686045@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 336,
-          "usedcommands": 6,
-          "level": 9,
+          "exp": 562,
+          "usedcommands": 10,
+          "level": 11,
           "banned": false,
           "reason": ""
         },
         "5216646952956@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 46,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 126,
+          "usedcommands": 2,
+          "level": 4,
           "banned": false,
           "reason": ""
         }
@@ -9795,7 +9814,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 101,
+      "botcommando": 108,
       "prefix": "<#></><.>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
