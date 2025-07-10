@@ -722,7 +722,7 @@
     "212609690006@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Kana Arima",
+      "name": "Hatsune Miku",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Yo",
+      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3841,6 +3841,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51913966065@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Standly 💯",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4260,6 +4269,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51913966065@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 66,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4576,15 +4594,15 @@
           "reason": ""
         },
         "51926887094@s.whatsapp.net": {
-          "chocolates": 478409,
+          "chocolates": 440137,
           "bank": 0,
-          "exp": 1737,
-          "usedcommands": 37,
+          "exp": 1780,
+          "usedcommands": 38,
           "level": 18,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752119151591,
-          "rtCooldown": 1752147730091,
+          "rtCooldown": 1752150072755,
           "workCooldown": 1752128116814,
           "mineCooldown": 1752128118748,
           "dailyStreak": 1,
@@ -12104,9 +12122,9 @@
         "573135861052@s.whatsapp.net": {
           "chocolates": 24446,
           "bank": 0,
-          "exp": 378,
-          "usedcommands": 8,
-          "level": 10,
+          "exp": 486,
+          "usedcommands": 10,
+          "level": 11,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -12397,8 +12415,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 17000,
-          "exp": 76,
-          "usedcommands": 58,
+          "exp": 160,
+          "usedcommands": 60,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -13482,7 +13500,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000286,
+      "botcommando": 1000000000287,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -13502,7 +13520,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 631,
+      "botcommando": 632,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -13632,7 +13650,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 67,
+      "botcommando": 69,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -13652,7 +13670,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 22,
+      "botcommando": 26,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
