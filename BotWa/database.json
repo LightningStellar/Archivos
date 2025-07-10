@@ -22,7 +22,7 @@
     "573019448245@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Num +57",
+      "name": "Sylphiette's",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -31,7 +31,7 @@
     "120363200595463475@g.us": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": {},
       "genre": "",
       "birth": "",
       "marry": "",
@@ -49,7 +49,7 @@
     "51974819791@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "CHICLAYO ðµðª",
+      "name": "CHICLAYO Ã°ÂÂÂµÃ°ÂÂÂª",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -58,7 +58,7 @@
     "5215660242865@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ðª¼",
+      "name": "Ã°ÂÂªÂ¼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -68,6 +68,48 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Senko San",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59160721071@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+591 60721071",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216671548329@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 667 154 8329",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216351178185@s.whatsapp.net": {},
+    "56974254856@s.whatsapp.net": {},
+    "5214437296458@s.whatsapp.net": {},
+    "5491166697213@s.whatsapp.net": {},
+    "5493812368753@s.whatsapp.net": {},
+    "120363392315377581@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "30228567085186@lid": {},
+    "51947773455@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Junior",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -114,6 +156,24 @@
           "reason": ""
         },
         "51974819791@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51947773455@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -224,9 +284,9 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 209,
-          "usedcommands": 5,
-          "level": 7,
+          "exp": 262,
+          "usedcommands": 6,
+          "level": 8,
           "banned": false,
           "reason": "",
           "Subs": 1752116882770
@@ -287,6 +347,83 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363403307677857@g.us": {
+      "users": {
+        "59160721071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216671548329@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573019448245@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363392315377581@g.us": {
+      "users": {
+        "120363392315377581@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -302,7 +439,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 7,
+      "botcommando": 8,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko",
