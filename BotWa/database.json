@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Bianca",
+      "name": "🍪͚ᰰ᮫໋      ᥴ᷼օ᷼օ᷼ƙ᷼ιǝ̫",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3640,7 +3640,7 @@
     "144590694834264@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Ainara (⁠ㆁ⁠ω⁠ㆁ⁠)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3650,6 +3650,32 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "~Rocío °•°",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56995925587@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "💔𝔸𝕞𝕠𝕣💔",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363351082374845@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56985410415@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "👍ser Tarro",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12185,6 +12211,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56995925587@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12719,6 +12754,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56985410415@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12884,6 +12928,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363351082374845@newsletter": {
+      "users": {
+        "120363351082374845@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
