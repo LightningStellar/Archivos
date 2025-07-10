@@ -354,7 +354,26 @@
       "marry": "",
       "description": ""
     },
-    "212675712863@s.whatsapp.net": {}
+    "212675712863@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "M1TAL3N",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "Received message with old counter: 127, 124": {},
+    "Received message with old counter: 127, 126": {},
+    "51959624728@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Lucho",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    }
   },
   "chats": {
     "120363200595463475@g.us": {
@@ -491,6 +510,24 @@
           "exp": 3,
           "usedcommands": 1,
           "level": 1,
+          "banned": false,
+          "reason": ""
+        },
+        "212675712863@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51959624728@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 65,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -1043,7 +1080,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000014,
+      "botcommando": 1000000000015,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
