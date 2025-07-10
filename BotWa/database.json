@@ -443,7 +443,7 @@
     "5215513021315@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "name": "+52 55 1302 1315",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2820,6 +2820,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5213314897364@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✿~°*☆⁠✧🌑✧☆*°•~⁠✿⁠",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3755,11 +3764,11 @@
           "Subs": 1752123149374
         },
         "573228667071@s.whatsapp.net": {
-          "chocolates": 41604,
-          "bank": 0,
-          "exp": 1102,
-          "usedcommands": 9,
-          "level": 15,
+          "chocolates": 100000,
+          "bank": 271644,
+          "exp": 1474,
+          "usedcommands": 16,
+          "level": 16,
           "banned": false,
           "reason": "",
           "Subs": 1752134774204,
@@ -3771,7 +3780,9 @@
           "lastDaily": 1752135485360,
           "nextReward": 23785,
           "lastMonthly": 1752135489449,
-          "lastWeekly": 1752135493251
+          "lastWeekly": 1752135493251,
+          "pptCooldown": 1752136101554,
+          "rtCooldown": 1752136124286
         },
         "573222383628@s.whatsapp.net": {
           "chocolates": 0,
@@ -5629,6 +5640,15 @@
           "reason": ""
         },
         "5491128638471@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5213314897364@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -10154,7 +10174,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 508,
+      "botcommando": 515,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
