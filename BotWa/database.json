@@ -3791,7 +3791,7 @@
     "79079072104625@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3800,7 +3800,34 @@
     "120363403307677857@g.us": {
       "metadatos": null,
       "metadatos2": null,
+      "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "22961068900@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+229 61 06 89 00",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "268689412771986@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491122344559@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Cacheto",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4213,6 +4240,15 @@
           "exp": 8,
           "usedcommands": 1,
           "level": 2,
+          "banned": false,
+          "reason": ""
+        },
+        "22961068900@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -5822,6 +5858,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "268689412771986@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7204,6 +7249,15 @@
           "reason": ""
         },
         "56957974514@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491122344559@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12321,8 +12375,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 14000,
-          "exp": 22,
-          "usedcommands": 39,
+          "exp": 46,
+          "usedcommands": 41,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -13546,7 +13600,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 48,
+      "botcommando": 50,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
