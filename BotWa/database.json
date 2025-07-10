@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "౨ৎ  ׂ Fairy 𐑞͡🍵᭡  ׄ ෆ",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4503,7 +4503,7 @@
     "18097757254@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "âÍÍÍðð¢ð¥ð ððððððâÍÍ â¢",
+      "name": "—͟͞͞𝗟𝗢𝗥𝗗 𝐈𝐂𝐇𝐈𝐆𝐎—͟͞ •",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5952,6 +5952,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5492966844055@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "˙˛֪ʓ֝եեɔ ֻ֙ʅυ꯱ ⴅιӄԍ־ 🌸",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6350,11 +6359,11 @@
           "lastWeekly": 1752176363758
         },
         "573135861052@s.whatsapp.net": {
-          "chocolates": 5269,
-          "bank": 6649,
-          "exp": 2760,
-          "usedcommands": 35,
-          "level": 21,
+          "chocolates": 0,
+          "bank": 4244,
+          "exp": 2984,
+          "usedcommands": 40,
+          "level": 22,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -6363,9 +6372,9 @@
           "lastDaily": 1752175502092,
           "nextReward": 47452,
           "crimeCooldown": 1752176111538,
-          "mineCooldown": 1752176114729,
+          "mineCooldown": 1752177781780,
           "slutCooldown": 1752176118400,
-          "rtCooldown": 1752176753591,
+          "rtCooldown": 1752177795713,
           "roboCooldown": 1752177865050,
           "lastWeekly": 1752176609694,
           "lastMonthly": 1752176615892
@@ -6421,10 +6430,10 @@
           "personajesEnVenta": []
         },
         "593990564497@s.whatsapp.net": {
-          "chocolates": 2974,
-          "bank": 0,
-          "exp": 7848,
-          "usedcommands": 50,
+          "chocolates": 0,
+          "bank": 85365,
+          "exp": 7982,
+          "usedcommands": 53,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -6436,7 +6445,7 @@
           "dailyStreak": 1,
           "lastDaily": 1752175689776,
           "nextReward": 2205,
-          "rtCooldown": 1752176927163,
+          "rtCooldown": 1752177787953,
           "lastWeekly": 1752175774983,
           "lastMonthly": 1752175781492,
           "roboCooldown": 1752177685634
@@ -6444,8 +6453,8 @@
         "573224401800@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 52109,
-          "exp": 3264,
-          "usedcommands": 32,
+          "exp": 3279,
+          "usedcommands": 33,
           "level": 23,
           "banned": false,
           "reason": "",
@@ -8059,6 +8068,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "18097757254@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492966844055@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -9503,17 +9530,34 @@
           "Subs": 1752175289504
         },
         "5218444554218@s.whatsapp.net": {
-          "chocolates": 5855,
+          "chocolates": 30067,
           "bank": 0,
-          "exp": 383,
-          "usedcommands": 7,
-          "level": 10,
+          "exp": 621,
+          "usedcommands": 12,
+          "level": 12,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752178009384,
           "workCooldown": 1752177744527,
           "mineCooldown": 1752177757818,
-          "slutCooldown": 1752177775513
+          "slutCooldown": 1752177775513,
+          "dailyStreak": 1,
+          "lastDaily": 1752177187604,
+          "nextReward": 48409,
+          "buyCooldown": 1752178098781,
+          "characters": [
+            {
+              "name": "Toge Inumaki",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png",
+              "value": 22471,
+              "gender": "Hombre",
+              "source": "Jujutsu Kaisen",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null,
+          "rtCooldown": 0
         }
       },
       "sWelcome": "",
@@ -9564,15 +9608,6 @@
           "gender": "Mujer",
           "source": "Darling in the Franxx",
           "id": "0f53d159"
-        },
-        {
-          "userId": "5218444554218@s.whatsapp.net",
-          "name": "Toge Inumaki",
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png",
-          "value": 22471,
-          "gender": "Hombre",
-          "source": "Jujutsu Kaisen",
-          "id": "ad81f1e9"
         }
       ]
     },
@@ -11741,7 +11776,7 @@
           "bank": 0,
           "exp": 161,
           "usedcommands": 2,
-          "level": 5,
+          "level": 7,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -22216,7 +22251,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 74,
+      "botcommando": 76,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -22226,7 +22261,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 150,
+      "botcommando": 156,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -22236,7 +22271,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 518,
+      "botcommando": 523,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -22276,7 +22311,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 60,
+      "botcommando": 61,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
