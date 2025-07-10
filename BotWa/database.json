@@ -2910,6 +2910,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584248685584@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+58 424-8685584",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3884,8 +3893,8 @@
         "573228667071@s.whatsapp.net": {
           "chocolates": 3240,
           "bank": 143302,
-          "exp": 3320,
-          "usedcommands": 50,
+          "exp": 3388,
+          "usedcommands": 51,
           "level": 23,
           "banned": false,
           "reason": "",
@@ -4970,6 +4979,15 @@
           "reason": ""
         },
         "34641964513@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584248685584@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -10498,7 +10516,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 550,
+      "botcommando": 551,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
