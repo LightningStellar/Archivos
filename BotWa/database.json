@@ -2171,7 +2171,16 @@
     "56992634682@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Rapthalia",
+      "name": "🎧ྀི♪⋆.✮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215531171152@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Adeliii✨🫶🏻",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2520,12 +2529,12 @@
         "5215660242865@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 231,
-          "usedcommands": 4,
+          "exp": 257,
+          "usedcommands": 5,
           "level": 8,
           "banned": false,
           "reason": "",
-          "Subs": 1752124217402
+          "Subs": 1752125019864
         },
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
@@ -7778,6 +7787,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5215531171152@s.whatsapp.net": {
+      "users": {
+        "5215531171152@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -7813,7 +7847,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 186,
+      "botcommando": 187,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
