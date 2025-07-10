@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝜗𝜚⋆₊˚ 𝑅𝘶𝘣𝘺 ๑˚. ᵎᵎ",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4184,6 +4184,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𝆬✝︎ 𝐀𝐥𝐞𝐱",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "22016052744233@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14491,6 +14500,15 @@
           "reason": ""
         },
         "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "22016052744233@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
