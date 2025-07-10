@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⻩⸻𝐉⃥𝐀⃥꯭𝐘",
+      "name": "𓉱\u0018\u0011\u0011\u0011\u0018\u0011\u0018\u0018  𓂃̸̸̵ًُۣ﷼̸   𝗠̸̸ُ̧̧̆  ⸻̸  ꥇꥎ𝕿̸̶֫͠\u0011\u0011  𝗟̶⃞𝝣̸̸̶ۣ ͛  ً",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4238,6 +4238,14 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Khalid lfsr",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363400935483227@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13082,15 +13090,15 @@
           "reason": ""
         },
         "51939309894@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 22000,
-          "exp": 1028,
-          "usedcommands": 75,
+          "chocolates": 329,
+          "bank": 28000,
+          "exp": 1444,
+          "usedcommands": 81,
           "level": 20,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752149847808,
-          "mineCooldown": 1752149859265,
+          "workCooldown": 1752153320736,
+          "mineCooldown": 1752153325986,
           "rwCooldown": 1752149629432,
           "buyCooldown": 1752149709705,
           "lastWeekly": 1752148854570,
@@ -13098,7 +13106,8 @@
           "lastDaily": 1752148886597,
           "nextReward": 49353,
           "roboCooldown": 0,
-          "crimeCooldown": 1752150186688
+          "crimeCooldown": 1752150186688,
+          "slutCooldown": 1752153353675
         },
         "51947019548@s.whatsapp.net": {
           "chocolates": 0,
@@ -14723,6 +14732,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363400935483227@newsletter": {
+      "users": {
+        "120363400935483227@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -14888,7 +14922,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 91,
+      "botcommando": 97,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
