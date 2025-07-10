@@ -758,7 +758,7 @@
     "5212202410659@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "íê´´íë¤.",
+      "name": "파괴하다.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1281,6 +1281,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215554556115@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 55 5455 6115",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1659,8 +1668,8 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 77326,
           "bank": 0,
-          "exp": 7367,
-          "usedcommands": 41,
+          "exp": 7516,
+          "usedcommands": 44,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -1674,19 +1683,7 @@
           "nextReward": 39022,
           "lastWeekly": 1752163390690,
           "lastMonthly": 1752163392429,
-          "characters": [
-            {
-              "name": "Bize Feuward Zengen",
-              "url": "https://stellarwa.xyz/files/1749355939802.jpg",
-              "value": 15000,
-              "gender": "Hombre",
-              "source": "Arifureta",
-              "claim": "jueves, 10 de julio de 2025",
-              "precio": 5000,
-              "vendedor": "5492916450307@s.whatsapp.net",
-              "expira": "2025-07-13T16:34:03.936Z"
-            }
-          ],
+          "characters": [],
           "voteCooldown": 1752170593828,
           "personajesEnVenta": []
         },
@@ -2348,6 +2345,15 @@
           "reason": ""
         },
         "59164101614@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215554556115@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -4493,6 +4499,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5215564085088@s.whatsapp.net": {
+      "users": {
+        "5215564085088@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -4568,7 +4598,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 46,
+      "botcommando": 49,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
