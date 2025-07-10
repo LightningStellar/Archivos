@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "٭⏤͟͟͞͞𝓕ʀᴀɴᴄɪsᴄᴀ",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3611,6 +3611,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "595984973332@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Dany (Beowulf's #1 fan)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3789,6 +3798,15 @@
           "personajesEnVenta": []
         },
         "51908955220@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "595984973332@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -13458,8 +13476,8 @@
       "currency": "SylphyCoins"
     },
     "212609690006@s.whatsapp.net": {
-      "self": true,
-      "botcommando": 330,
+      "self": false,
+      "botcommando": 333,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
