@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⁺₊⋆ ☾⋆⁺₊⋆",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -226,7 +226,7 @@
     "5215660242865@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🪼",
+      "name": "+52 56 6024 2865",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2627,7 +2627,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "+52 642 230 2773",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3758,7 +3758,7 @@
     "198092968181996@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Ｓｏｏ-Ｙｏｕｎｇ ᰔᩚˢ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3776,7 +3776,7 @@
     "1293372358868@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Bottsito",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3785,7 +3785,7 @@
     "241738677522479@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "⸙ 𝙇𝙤𝙠𝙞 ⸙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3803,7 +3803,15 @@
     "280242925109432@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218671713594@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Vela 🗣️‼️",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6365,8 +6373,8 @@
         "51926887094@s.whatsapp.net": {
           "chocolates": 46299,
           "bank": 0,
-          "exp": 815,
-          "usedcommands": 23,
+          "exp": 891,
+          "usedcommands": 24,
           "level": 13,
           "banned": false,
           "reason": "",
@@ -8932,6 +8940,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5218671713594@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -11425,11 +11442,11 @@
           "personajesEnVenta": []
         },
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 11780,
+          "chocolates": 21780,
           "bank": 0,
-          "exp": 1370,
-          "usedcommands": 24,
-          "level": 16,
+          "exp": 1753,
+          "usedcommands": 31,
+          "level": 17,
           "banned": false,
           "reason": "",
           "workCooldown": 1752171710401,
@@ -14112,7 +14129,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -14168,7 +14186,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 343,
+      "botcommando": 344,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -14268,7 +14286,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 44,
+      "botcommando": 51,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
