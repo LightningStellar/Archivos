@@ -1708,6 +1708,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50232973156@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "etter 💝💐",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51904078847@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "☆𝐏𝐫𝐢𝐧𝐜𝐞☁︎",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2643,6 +2661,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50232973156@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -2791,6 +2818,15 @@
           "banned": false,
           "reason": "",
           "workCooldown": 1752166223269
+        },
+        "51904078847@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 15,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -2856,8 +2892,8 @@
         "34605463333@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 1322,
-          "usedcommands": 22,
+          "exp": 1476,
+          "usedcommands": 25,
           "level": 16,
           "banned": false,
           "reason": ""
@@ -2901,9 +2937,9 @@
         "50369792152@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 127,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 199,
+          "usedcommands": 3,
+          "level": 6,
           "banned": false,
           "reason": ""
         }
@@ -6242,7 +6278,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 27,
+      "botcommando": 28,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -6252,7 +6288,7 @@
     },
     "5215660242865@s.whatsapp.net": {
       "self": false,
-      "botcommando": 22,
+      "botcommando": 26,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
