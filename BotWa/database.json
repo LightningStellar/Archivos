@@ -1194,6 +1194,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215615583503@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★🛡★",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1364,8 +1373,8 @@
         "51949397091@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 955,
-          "usedcommands": 17,
+          "exp": 1052,
+          "usedcommands": 18,
           "level": 14,
           "banned": false,
           "reason": ""
@@ -1794,9 +1803,9 @@
         "5214623046699@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 46159,
-          "exp": 3468,
-          "usedcommands": 36,
-          "level": 23,
+          "exp": 3717,
+          "usedcommands": 41,
+          "level": 24,
           "banned": false,
           "reason": "",
           "lastMonthly": 1752118333344,
@@ -1811,7 +1820,7 @@
           "crimeCooldown": 1752120313780,
           "workCooldown": 1752120331787,
           "buyCooldown": 1752119691892,
-          "rtCooldown": 1752119762297
+          "rtCooldown": 1752120954177
         },
         "51953265359@s.whatsapp.net": {
           "chocolates": 0,
@@ -2371,9 +2380,9 @@
         "50588285935@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 88,
-          "usedcommands": 2,
-          "level": 3,
+          "exp": 168,
+          "usedcommands": 3,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -3482,6 +3491,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215615583503@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3753,7 +3771,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000141,
+      "botcommando": 1000000000143,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -3773,7 +3791,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 88,
+      "botcommando": 93,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
