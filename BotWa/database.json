@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ainara (⁠ㆁ⁠ω⁠ㆁ⁠)",
+      "name": "Dancita 7",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4273,6 +4273,23 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "⚠︎",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363417663924536@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34604242047@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★ ⋆.˚꩜ (🪻🌻) ꩜⋆.˚ ★",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7923,6 +7940,15 @@
           "reason": ""
         },
         "50687717451@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34604242047@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -13128,8 +13154,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 29000,
-          "exp": 2053,
-          "usedcommands": 91,
+          "exp": 2152,
+          "usedcommands": 92,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -14847,6 +14873,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363417663924536@newsletter": {
+      "users": {
+        "120363417663924536@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -15012,7 +15063,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 106,
+      "botcommando": 107,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
