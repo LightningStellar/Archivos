@@ -7252,11 +7252,11 @@
           "rtCooldown": 1752134019385
         },
         "5219932092138@s.whatsapp.net": {
-          "chocolates": 31381,
+          "chocolates": 27381,
           "bank": 0,
-          "exp": 3272,
-          "usedcommands": 40,
-          "level": 22,
+          "exp": 3362,
+          "usedcommands": 41,
+          "level": 23,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -7265,7 +7265,7 @@
           "mineCooldown": 1752135367623,
           "workCooldown": 1752135369119,
           "lastWeekly": 1752121661823,
-          "rtCooldown": 1752130711062,
+          "rtCooldown": 1752135381886,
           "crimeCooldown": 1752130738029,
           "slutCooldown": 1752130744450
         },
@@ -9960,6 +9960,66 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "573228667071@s.whatsapp.net": {
+      "users": {
+        "573228667071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "212609690006@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363399108260019@g.us": {
+      "users": {
+        "573228667071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 98,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "rtCooldown": 0
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -10055,7 +10115,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 348,
+      "botcommando": 349,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -10106,6 +10166,16 @@
     "5212294512405@s.whatsapp.net": {
       "self": false,
       "botcommando": 4,
+      "prefix": "/",
+      "namebot": "Sylphiette",
+      "namebot2": "Sylphy",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "currency": "SylphyCoins"
+    },
+    "573228667071@s.whatsapp.net": {
+      "self": false,
+      "botcommando": 2,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
