@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝖢𝖺𝗂",
+      "name": "💫⚡",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2694,6 +2694,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "106773474181373@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3461,8 +3470,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 5330675,
-          "exp": 9119,
-          "usedcommands": 106,
+          "exp": 9143,
+          "usedcommands": 107,
           "level": 34,
           "banned": false,
           "reason": "",
@@ -6861,6 +6870,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "106773474181373@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6998,10 +7016,10 @@
           "mineCooldown": 1752122209926
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 303387,
+          "chocolates": 293387,
           "bank": 0,
-          "exp": 3474,
-          "usedcommands": 71,
+          "exp": 3626,
+          "usedcommands": 73,
           "level": 23,
           "banned": false,
           "reason": "",
@@ -7010,7 +7028,7 @@
           "nextReward": 15948,
           "workCooldown": 1752126605224,
           "mineCooldown": 1752126602924,
-          "rtCooldown": 1752130580306,
+          "rtCooldown": 1752131385690,
           "rwCooldown": 1752126231141,
           "buyCooldown": 0,
           "slutCooldown": 1752126609928,
@@ -9706,7 +9724,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 470,
+      "botcommando": 471,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -9766,7 +9784,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 330,
+      "botcommando": 332,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
