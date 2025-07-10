@@ -1611,6 +1611,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363330831335055@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3708,6 +3716,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5216646952956@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4010,15 +4027,15 @@
           "roboCooldown": 1752121265027
         },
         "5215524289643@s.whatsapp.net": {
-          "chocolates": 300,
-          "bank": 3030,
-          "exp": 1183,
-          "usedcommands": 11,
-          "level": 15,
+          "chocolates": 0,
+          "bank": 10631,
+          "exp": 1424,
+          "usedcommands": 15,
+          "level": 16,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752119557305,
-          "mineCooldown": 1752119564139,
+          "workCooldown": 1752122557647,
+          "mineCooldown": 1752122561229,
           "lastWeekly": 1752119391663,
           "rtCooldown": 1752120597310
         },
@@ -5501,6 +5518,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363330831335055@newsletter": {
+      "users": {
+        "120363330831335055@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -5556,7 +5598,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 44,
+      "botcommando": 47,
       "prefix": "#",
       "namebot": "━⃞🧸Ƴ᷍ᤢս͜к͡į",
       "namebot2": "━⃞🧸Ƴ᷍ᤢս͜к͡į",
@@ -5586,7 +5628,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 20,
+      "botcommando": 21,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
