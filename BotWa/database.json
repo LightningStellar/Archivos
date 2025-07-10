@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "bel",
+      "name": "✧･ﾟ: *✧･ﾟ:*",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -954,7 +954,7 @@
     "127599518953645@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~ Noa Ã¢ÂÂ",
+      "name": "~ Noa ☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2290,7 +2290,7 @@
     "53064807497975@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "✧･ﾟ: *✧･ﾟ:*",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4222,8 +4222,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 1156,
           "bank": 0,
-          "exp": 5129,
-          "usedcommands": 25,
+          "exp": 5347,
+          "usedcommands": 28,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -4241,11 +4241,11 @@
           "buyCooldown": 0
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 23011,
+          "chocolates": 19011,
           "bank": 0,
-          "exp": 3479,
-          "usedcommands": 9,
-          "level": 23,
+          "exp": 3630,
+          "usedcommands": 11,
+          "level": 24,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -4254,7 +4254,21 @@
           "lastWeekly": 1752167748263,
           "lastMonthly": 1752167752445,
           "crimeCooldown": 1752168359997,
-          "rtCooldown": 1752168383932
+          "rtCooldown": 1752168383932,
+          "rwCooldown": 1752168712323,
+          "buyCooldown": 1752168718967,
+          "characters": [
+            {
+              "name": "Misato Katsuragi",
+              "url": "https://stellarwa.xyz/files/1748907402081.jpg",
+              "value": 4000,
+              "gender": "Mujer",
+              "source": "Evangelion",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         }
       },
       "sWelcome": "",
@@ -6013,6 +6027,21 @@
           "level": 5,
           "banned": false,
           "reason": ""
+        },
+        "5493764838767@s.whatsapp.net": {
+          "chocolates": 35674,
+          "bank": 0,
+          "exp": 385,
+          "usedcommands": 6,
+          "level": 9,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752167836944,
+          "nextReward": 39611,
+          "mineCooldown": 1752168440130,
+          "crimeCooldown": 1752168442790,
+          "workCooldown": 1752168444625
         }
       },
       "sWelcome": "",
@@ -8130,7 +8159,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 35,
+      "botcommando": 36,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -8150,7 +8179,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 182,
+      "botcommando": 187,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -8280,7 +8309,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 25,
+      "botcommando": 30,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
