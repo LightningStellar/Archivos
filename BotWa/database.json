@@ -1419,7 +1419,7 @@
     "5215525237149@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "💕☕ Coffee's Versión ☕💕",
+      "name": "+52 55 2523 7149",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1465,6 +1465,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "+52 951 197 6996",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216141200934@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "P",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219611307262@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★Tsumugi Rintaro★",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213310224249@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🔥Coming Demon🔥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4895,6 +4922,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5219611307262@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4915,17 +4951,39 @@
         "5215525237149@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 166,
+          "usedcommands": 3,
+          "level": 5,
           "banned": false,
           "reason": ""
         },
         "573103563906@s.whatsapp.net": {
+          "chocolates": 4363,
+          "bank": 0,
+          "exp": 71,
+          "usedcommands": 4,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752121329958,
+          "nextReward": 15948
+        },
+        "5216141200934@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 78,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752122202646
+        },
+        "5213310224249@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 46,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
           "reason": ""
@@ -5087,7 +5145,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 0,
+      "botcommando": 10,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
