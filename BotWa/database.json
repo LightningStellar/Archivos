@@ -3582,6 +3582,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573017673721@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝐴𝐿𝐿𝑌",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4796,9 +4805,9 @@
         "51914114673@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 59011,
-          "exp": 5237,
-          "usedcommands": 14,
-          "level": 27,
+          "exp": 5409,
+          "usedcommands": 16,
+          "level": 28,
           "banned": false,
           "reason": "",
           "lastWeekly": 1752146328320,
@@ -5230,12 +5239,12 @@
         "5491144209120@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 219,
-          "usedcommands": 4,
-          "level": 6,
+          "exp": 301,
+          "usedcommands": 5,
+          "level": 9,
           "banned": false,
           "reason": "",
-          "Subs": 1752120284358
+          "Subs": 1752147597986
         },
         "50588285935@s.whatsapp.net": {
           "chocolates": 0,
@@ -10231,6 +10240,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573017673721@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12575,7 +12593,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000281,
+      "botcommando": 1000000000282,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -12595,7 +12613,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 622,
+      "botcommando": 624,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
