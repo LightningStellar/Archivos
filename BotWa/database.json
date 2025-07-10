@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1070,7 +1070,7 @@
     "5217761481738@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ.ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ³_ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂº.ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂµÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¾ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ½",
+      "name": "𝚂.𝙳_𝙺.𝙰𝙵𝚃𝙾𝙽",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6846,8 +6846,8 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 77326,
           "bank": 0,
-          "exp": 9367,
-          "usedcommands": 81,
+          "exp": 9409,
+          "usedcommands": 82,
           "level": 34,
           "banned": false,
           "reason": "",
@@ -10249,9 +10249,9 @@
         "51947773455@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 59,
-          "usedcommands": 3,
-          "level": 4,
+          "exp": 148,
+          "usedcommands": 5,
+          "level": 6,
           "banned": false,
           "reason": ""
         },
@@ -22831,6 +22831,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "573134217251@s.whatsapp.net": {
+      "users": {
+        "573135861052@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -22886,7 +22910,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 551,
+      "botcommando": 554,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
