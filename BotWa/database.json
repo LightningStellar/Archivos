@@ -3089,11 +3089,12 @@
         "573025164448@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 86,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "Subs": 1752136487975
         },
         "51958478601@s.whatsapp.net": {
           "chocolates": 0,
@@ -10273,7 +10274,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000250,
+      "botcommando": 1000000000251,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
