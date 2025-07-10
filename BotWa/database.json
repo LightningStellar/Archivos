@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "krásny lunárny 🪽❄️",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4767,6 +4767,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "167306709729406@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212481554285@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "﹫  𝐌𝕬̸̷꯭𝗧𝗘𝝣፝֟𖼄",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492915369401@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🍒`• ¡𝙼𝚎𝚗𝚝𝚒𝚝𝚊𝚜! •`🍒",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5266,6 +5293,15 @@
           "personajesEnVenta": []
         },
         "236734889636079@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "167306709729406@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6527,6 +6563,15 @@
           "reason": ""
         },
         "5212218892977@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5212481554285@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -8317,9 +8362,9 @@
         "51959789834@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 328,
-          "usedcommands": 7,
-          "level": 8,
+          "exp": 389,
+          "usedcommands": 8,
+          "level": 9,
           "banned": false,
           "reason": ""
         }
@@ -8554,7 +8599,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363393114233362@newsletter": {
       "users": {
@@ -9196,8 +9242,8 @@
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 15248,
-          "exp": 6716,
-          "usedcommands": 20,
+          "exp": 6744,
+          "usedcommands": 21,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -9211,7 +9257,8 @@
           "nextReward": 1523,
           "lastWeekly": 1752172740915,
           "lastMonthly": 1752172745666,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rwCooldown": 1752174766118
         },
         "56958115618@s.whatsapp.net": {
           "chocolates": 0,
@@ -9284,6 +9331,15 @@
           "gender": "Mujer",
           "source": "Date A Live",
           "id": "0d97c047"
+        },
+        {
+          "userId": "5219371465815@s.whatsapp.net",
+          "name": "Daigoro Banjo",
+          "url": "https://stellarwa.xyz/files/1750644686300.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "bb005a2b"
         }
       ]
     },
@@ -15090,6 +15146,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492915369401@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17341,6 +17406,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51939309894@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17560,7 +17634,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 432,
+      "botcommando": 433,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -17620,7 +17694,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
