@@ -6189,11 +6189,11 @@
           "mineCooldown": 1752122209926
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 93099,
+          "chocolates": 92387,
           "bank": 0,
-          "exp": 2306,
-          "usedcommands": 52,
-          "level": 19,
+          "exp": 2425,
+          "usedcommands": 54,
+          "level": 20,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -6204,13 +6204,14 @@
           "rtCooldown": 1752126349396,
           "rwCooldown": 1752126231141,
           "buyCooldown": 0,
-          "slutCooldown": 1752126609928
+          "slutCooldown": 1752126609928,
+          "crimeCooldown": 1752126616569
         },
         "5216141200934@s.whatsapp.net": {
           "chocolates": 3132,
           "bank": 0,
-          "exp": 2539,
-          "usedcommands": 56,
+          "exp": 2616,
+          "usedcommands": 57,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -6257,11 +6258,11 @@
           "rtCooldown": 1752126321374
         },
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 81889,
+          "chocolates": 211889,
           "bank": 0,
-          "exp": 6880,
-          "usedcommands": 85,
-          "level": 30,
+          "exp": 7083,
+          "usedcommands": 88,
+          "level": 31,
           "banned": false,
           "reason": "",
           "workCooldown": 1752126522017,
@@ -6273,7 +6274,7 @@
           "mineCooldown": 1752126539358,
           "lastWeekly": 1752121662347,
           "lastMonthly": 1752121686530,
-          "rtCooldown": 1752125931629
+          "rtCooldown": 1752126639717
         },
         "5217441174190@s.whatsapp.net": {
           "chocolates": 43053,
@@ -8233,7 +8234,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 24,
+      "botcommando": 25,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -8303,7 +8304,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 247,
+      "botcommando": 252,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
