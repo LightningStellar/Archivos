@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "░⃝⃕𓄸𐧶⛩️ᜲ̼⠠あ̶̫",
+      "name": "Далет",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4016,6 +4016,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𝓙𝓾𝓵𝔂 🌑",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219371465815@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~ Noa ☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13829,6 +13838,20 @@
           "nextReward": 49882,
           "lastWeekly": 1752150122787,
           "lastMonthly": 1752150126390
+        },
+        "5219371465815@s.whatsapp.net": {
+          "chocolates": 63,
+          "bank": 5833,
+          "exp": 308,
+          "usedcommands": 7,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "crimeCooldown": 1752151494170,
+          "mineCooldown": 1752151497723,
+          "workCooldown": 1752151503457,
+          "slutCooldown": 1752151509838,
+          "pptCooldown": 1752151514353
         }
       },
       "sWelcome": "",
@@ -14242,7 +14265,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 19,
+      "botcommando": 26,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
