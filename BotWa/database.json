@@ -3857,9 +3857,9 @@
         "573228667071@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 380591,
-          "exp": 2498,
-          "usedcommands": 35,
-          "level": 20,
+          "exp": 2556,
+          "usedcommands": 36,
+          "level": 21,
           "banned": false,
           "reason": "",
           "Subs": 1752134774204,
@@ -3873,7 +3873,8 @@
           "lastMonthly": 1752135489449,
           "lastWeekly": 1752135493251,
           "pptCooldown": 1752136101554,
-          "rtCooldown": 1752136798387
+          "rtCooldown": 1752136798387,
+          "rwCooldown": 1752137670340
         },
         "573222383628@s.whatsapp.net": {
           "chocolates": 0,
@@ -7356,8 +7357,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 1273387,
           "bank": 0,
-          "exp": 4106,
-          "usedcommands": 84,
+          "exp": 4169,
+          "usedcommands": 86,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -7367,7 +7368,7 @@
           "workCooldown": 1752126605224,
           "mineCooldown": 1752126602924,
           "rtCooldown": 1752137219686,
-          "rwCooldown": 1752126231141,
+          "rwCooldown": 1752137698381,
           "buyCooldown": 0,
           "slutCooldown": 1752126609928,
           "crimeCooldown": 1752126616569
@@ -7375,12 +7376,12 @@
         "5216141200934@s.whatsapp.net": {
           "chocolates": 4450,
           "bank": 0,
-          "exp": 3062,
-          "usedcommands": 67,
+          "exp": 3084,
+          "usedcommands": 68,
           "level": 22,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752129274066,
+          "rwCooldown": 1752137680992,
           "dailyStreak": 1,
           "lastDaily": 1752121465444,
           "nextReward": 43677,
@@ -10427,7 +10428,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 535,
+      "botcommando": 536,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -10487,7 +10488,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 350,
+      "botcommando": 353,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
