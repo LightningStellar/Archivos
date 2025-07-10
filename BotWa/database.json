@@ -2991,9 +2991,9 @@
         "5218444554218@s.whatsapp.net": {
           "chocolates": 100000,
           "bank": 25901,
-          "exp": 734,
-          "usedcommands": 16,
-          "level": 12,
+          "exp": 905,
+          "usedcommands": 19,
+          "level": 14,
           "banned": false,
           "reason": "",
           "rtCooldown": 1752127786932,
@@ -3457,8 +3457,8 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 324584,
-          "exp": 6336,
-          "usedcommands": 24,
+          "exp": 6359,
+          "usedcommands": 25,
           "level": 29,
           "banned": false,
           "reason": "",
@@ -4366,6 +4366,24 @@
           "Subs": 1752123247050
         },
         "573228667071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219613301789@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 4,
+          "usedcommands": 1,
+          "level": 1,
+          "banned": false,
+          "reason": ""
+        },
+        "5215571921560@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -8829,7 +8847,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -8845,7 +8864,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000233,
+      "botcommando": 1000000000234,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -8865,7 +8884,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 272,
+      "botcommando": 276,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
