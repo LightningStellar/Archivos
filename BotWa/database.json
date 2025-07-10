@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ruth Muñoz",
+      "name": "ᰔᩚ٭✰˚𝓖𝓲𝓼𝓮𝓵𝓵𝓮˚✰٭ᰔᩚ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2106,6 +2106,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "250495914524732@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493425564066@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ahn",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2360,6 +2378,15 @@
           "exp": 77,
           "usedcommands": 2,
           "level": 5,
+          "banned": false,
+          "reason": ""
+        },
+        "5493425564066@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 61,
+          "usedcommands": 1,
+          "level": 4,
           "banned": false,
           "reason": ""
         }
@@ -3228,12 +3255,12 @@
         "5215571921560@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 162,
-          "usedcommands": 6,
-          "level": 7,
+          "exp": 232,
+          "usedcommands": 7,
+          "level": 8,
           "banned": false,
           "reason": "",
-          "Subs": 1752122284647
+          "Subs": 1752124611939
         },
         "5491166697213@s.whatsapp.net": {
           "chocolates": 0,
@@ -7534,12 +7561,46 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363418036678801@g.us": {
+      "users": {
+        "250495914524732@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 1000000000020,
+      "botcommando": 1000000000021,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -7549,7 +7610,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000229,
+      "botcommando": 1000000000230,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
