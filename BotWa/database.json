@@ -919,7 +919,7 @@
     "56987865578@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+56 9 8786 5578",
+      "name": "𝘕𝘪𝘬𝘰𝘷𝘷𝘪𝘯𝘰 🦐",
       "genre": "Hombre",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⌇★˙ .¡PUR3꒷V4N1LL4! 𖦹˙★⌇",
+      "name": "Bianca",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3373,6 +3373,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "┈ 𝖢𝗋𝖾𝖺𝗆 ¡❄️!",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573016573393@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🥀/𝕸𝖔𝖗𝖙𝖎𝖈𝖎𝖆 𝕬𝖉𝖉𝖆𝖒𝖘\\💋",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6507,6 +6516,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56987865578@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6907,15 +6925,15 @@
     "120363401597262745@g.us": {
       "users": {
         "56987865578@s.whatsapp.net": {
-          "chocolates": 7100,
+          "chocolates": 8762,
           "bank": 0,
-          "exp": 632,
-          "usedcommands": 13,
-          "level": 11,
+          "exp": 741,
+          "usedcommands": 16,
+          "level": 12,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752124741638,
-          "mineCooldown": 1752124747137,
+          "workCooldown": 1752145271367,
+          "mineCooldown": 1752145268384,
           "dailyStreak": 1,
           "lastDaily": 1752124152600,
           "nextReward": 25872,
@@ -9766,6 +9784,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573016573393@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12030,7 +12057,7 @@
     },
     "56987865578@s.whatsapp.net": {
       "self": false,
-      "botcommando": 19,
+      "botcommando": 22,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
