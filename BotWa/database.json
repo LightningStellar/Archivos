@@ -919,7 +919,7 @@
     "56987865578@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝘕𝘪𝘬𝘰𝘷𝘷𝘪𝘯𝘰 🦐",
+      "name": "+56 9 8786 5578",
       "genre": "Hombre",
       "birth": "",
       "marry": "",
@@ -3904,6 +3904,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5216648348702@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 664 834 8702",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5551,9 +5560,9 @@
         "51923421667@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 36,
+          "usedcommands": 1,
+          "level": 3,
           "banned": false,
           "reason": ""
         },
@@ -5862,6 +5871,15 @@
           "reason": ""
         },
         "24102193041@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216648348702@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -13658,7 +13676,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000288,
+      "botcommando": 1000000000289,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -13838,7 +13856,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 4,
+      "botcommando": 5,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
