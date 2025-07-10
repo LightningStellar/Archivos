@@ -3538,6 +3538,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51925449525@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "lukitas",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4759,6 +4768,21 @@
           "dailyStreak": 1,
           "lastDaily": 1752146384323,
           "nextReward": 38454
+        },
+        "5511998790420@s.whatsapp.net": {
+          "chocolates": 13054,
+          "bank": 0,
+          "exp": 188,
+          "usedcommands": 4,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "workCooldown": 1752147116258,
+          "mineCooldown": 1752147124926,
+          "dailyStreak": 1,
+          "lastDaily": 1752146529010,
+          "nextReward": 44321,
+          "pptCooldown": 1752147134961
         }
       },
       "sWelcome": "",
@@ -10549,6 +10573,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51925449525@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12401,7 +12434,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 599,
+      "botcommando": 603,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
