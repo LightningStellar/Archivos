@@ -443,7 +443,7 @@
     "5215513021315@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "name": "+52 55 1302 1315",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -722,7 +722,7 @@
     "212609690006@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Hatsune Miku",
+      "name": "Kana Arima",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -919,7 +919,7 @@
     "56987865578@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝘕𝘪𝘬𝘰𝘷𝘷𝘪𝘯𝘰 🦐",
+      "name": "+56 9 8786 5578",
       "genre": "Hombre",
       "birth": "",
       "marry": "",
@@ -982,7 +982,7 @@
     "51963309930@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ઈ𝖨𝘃𝗮͡͡𝗻͜𝗻 🐋͓ᤋ",
+      "name": "+51 963 309 930",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Далет",
+      "name": "Bianca",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1745,7 +1745,7 @@
     "56920449984@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "୨𝕬𝖋𝖗𝖔𝖉𝖎𝖙𝖊୧",
+      "name": "+56 9 2044 9984",
       "genre": "Mujer",
       "birth": "jueves, 8 de mayo",
       "marry": "",
@@ -4029,6 +4029,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363419574059419@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363420566859884@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5301,6 +5319,15 @@
           "banned": false,
           "reason": "",
           "rwCooldown": 1752151011467
+        },
+        "120363419574059419@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6486,6 +6513,15 @@
           "banned": false,
           "reason": "",
           "Subs": 1752150252862
+        },
+        "120363420566859884@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13840,18 +13876,21 @@
           "lastMonthly": 1752150126390
         },
         "5219371465815@s.whatsapp.net": {
-          "chocolates": 63,
-          "bank": 5833,
-          "exp": 308,
-          "usedcommands": 7,
-          "level": 7,
+          "chocolates": 15882,
+          "bank": 5896,
+          "exp": 511,
+          "usedcommands": 10,
+          "level": 10,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752151494170,
           "mineCooldown": 1752151497723,
           "workCooldown": 1752151503457,
           "slutCooldown": 1752151509838,
-          "pptCooldown": 1752151514353
+          "pptCooldown": 1752151514353,
+          "dailyStreak": 1,
+          "lastDaily": 1752150958344,
+          "nextReward": 4615
         }
       },
       "sWelcome": "",
@@ -14265,7 +14304,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 29,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
