@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~𝑘𝑖𝑎𝑎",
+      "name": "M. Marcano.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2462,6 +2462,32 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215532720190@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 55 3272 0190",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "82799067426998@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50371734718@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+503 7173 4718",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2736,6 +2762,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215532720190@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -2936,11 +2971,11 @@
           "reason": ""
         },
         "5218444554218@s.whatsapp.net": {
-          "chocolates": 11901,
-          "bank": 0,
-          "exp": 363,
-          "usedcommands": 9,
-          "level": 9,
+          "chocolates": 0,
+          "bank": 11901,
+          "exp": 394,
+          "usedcommands": 10,
+          "level": 10,
           "banned": false,
           "reason": "",
           "rtCooldown": 0,
@@ -3217,7 +3252,7 @@
           "crimeCooldown": 1752119481037
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 651433,
+          "chocolates": 643675,
           "bank": 0,
           "exp": 6368,
           "usedcommands": 47,
@@ -3402,10 +3437,10 @@
           "reason": ""
         },
         "5219613301789@s.whatsapp.net": {
-          "chocolates": 339836,
-          "bank": 0,
-          "exp": 5964,
-          "usedcommands": 17,
+          "chocolates": 0,
+          "bank": 344584,
+          "exp": 6082,
+          "usedcommands": 19,
           "level": 29,
           "banned": false,
           "reason": "",
@@ -3419,14 +3454,15 @@
           "lastWeekly": 1752126767078,
           "rtCooldown": 1752127456916,
           "pptCooldown": 1752127499372,
-          "mineCooldown": 1752127508891
+          "mineCooldown": 1752127508891,
+          "roboCooldown": 1752128720124
         },
         "5214426784774@s.whatsapp.net": {
-          "chocolates": 725,
-          "bank": 0,
-          "exp": 2286,
-          "usedcommands": 8,
-          "level": 20,
+          "chocolates": 0,
+          "bank": 6056,
+          "exp": 2574,
+          "usedcommands": 14,
+          "level": 21,
           "banned": false,
           "reason": "",
           "workCooldown": 1752127403871,
@@ -3437,7 +3473,19 @@
           "nextReward": 30484,
           "lastWeekly": 1752126815803,
           "lastMonthly": 1752126819350,
-          "rtCooldown": 1752127438714
+          "rtCooldown": 1752127438714,
+          "roboCooldown": 1752128747878,
+          "mineCooldown": 1752127551111,
+          "pptCooldown": 1752127555266
+        },
+        "50371734718@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4020,6 +4068,15 @@
           "reason": ""
         },
         "205398489469059@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "82799067426998@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -8739,7 +8796,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 235,
+      "botcommando": 244,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
