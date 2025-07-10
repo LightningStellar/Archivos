@@ -4917,14 +4917,14 @@
     "120363402724936929@g.us": {
       "users": {
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 137633,
+          "chocolates": 133633,
           "bank": 0,
-          "exp": 5208,
-          "usedcommands": 101,
+          "exp": 5332,
+          "usedcommands": 103,
           "level": 27,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752131952562,
+          "rwCooldown": 1752133391149,
           "dailyStreak": 1,
           "lastDaily": 1752118591521,
           "nextReward": 17681,
@@ -4935,7 +4935,7 @@
           "crimeCooldown": 1752127088312,
           "mineCooldown": 1752127091615,
           "workCooldown": 1752120612580,
-          "buyCooldown": 1752131957135,
+          "buyCooldown": 1752133396079,
           "slutCooldown": 1752127095588
         },
         "5493534413480@s.whatsapp.net": {
@@ -9887,7 +9887,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 123,
+      "botcommando": 125,
       "prefix": "<#></><.>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
