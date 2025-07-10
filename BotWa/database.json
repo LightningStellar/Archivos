@@ -3450,10 +3450,10 @@
           "crimeCooldown": 1752119481037
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 6543675,
-          "exp": 8597,
-          "usedcommands": 95,
+          "chocolates": 6543675,
+          "bank": 0,
+          "exp": 8722,
+          "usedcommands": 98,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -3554,8 +3554,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 196713,
           "bank": 0,
-          "exp": 5473,
-          "usedcommands": 48,
+          "exp": 5522,
+          "usedcommands": 49,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -9651,7 +9651,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 452,
+      "botcommando": 456,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
