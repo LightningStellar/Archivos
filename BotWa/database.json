@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Joseph Joestar",
+      "name": "UtsuOn",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7692,6 +7692,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5213111148434@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🦦",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363420042275524@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12066,10 +12084,10 @@
           "personajesEnVenta": []
         },
         "51914114673@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 4111,
           "bank": 44303,
-          "exp": 3782,
-          "usedcommands": 17,
+          "exp": 3801,
+          "usedcommands": 18,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -12078,7 +12096,7 @@
           "nextReward": 19629,
           "lastWeekly": 1752180248160,
           "lastMonthly": 1752180260507,
-          "workCooldown": 1752182340812,
+          "workCooldown": 1752184253542,
           "mineCooldown": 1752182345827,
           "personajesEnVenta": [],
           "rwCooldown": 1752182656709,
@@ -12982,6 +13000,15 @@
           "reason": ""
         },
         "573505668326@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5213111148434@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -28273,6 +28300,24 @@
           "level": 5,
           "banned": false,
           "reason": ""
+        },
+        "120363420042275524@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573059040844@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28691,7 +28736,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 728,
+      "botcommando": 729,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
