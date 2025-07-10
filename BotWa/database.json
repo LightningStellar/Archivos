@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Karen",
+      "name": "☬💥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15849,14 +15849,14 @@
     "120363399108260019@g.us": {
       "users": {
         "573228667071@s.whatsapp.net": {
-          "chocolates": 3000000,
+          "chocolates": 0,
           "bank": 1974000,
-          "exp": 7000,
-          "usedcommands": 48,
+          "exp": 7127,
+          "usedcommands": 50,
           "level": 31,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752156651819,
+          "rtCooldown": 1752160163416,
           "rwCooldown": 1752156961792,
           "crimeCooldown": 1752151927435,
           "mineCooldown": 1752151929367,
@@ -20589,6 +20589,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363379573175047@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -20774,7 +20798,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 46,
+      "botcommando": 48,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
