@@ -8350,7 +8350,7 @@
     "131941579898937@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "~Quete ✨",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12317,8 +12317,8 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 497,
-          "usedcommands": 11,
+          "exp": 570,
+          "usedcommands": 12,
           "level": 11,
           "banned": false,
           "reason": "",
@@ -16581,11 +16581,12 @@
         "5214531458599@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 75,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "Subs": 1752186160761
         }
       },
       "sWelcome": "",
@@ -19711,14 +19712,14 @@
           "rtCooldown": 0
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 719349,
+          "chocolates": 669349,
           "bank": 0,
-          "exp": 3940,
-          "usedcommands": 64,
+          "exp": 4019,
+          "usedcommands": 65,
           "level": 24,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752185932986,
+          "rtCooldown": 1752186771611,
           "dailyStreak": 1,
           "lastDaily": 1752171534601,
           "nextReward": 12535,
@@ -30965,6 +30966,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5214531458599@s.whatsapp.net": {
+      "users": {
+        "5492914407013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -31020,7 +31046,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 774,
+      "botcommando": 775,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -31150,7 +31176,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 110,
+      "botcommando": 111,
       "prefix": "#/.",
       "namebot": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ£ÃÂÃÂÃÂÃÂ ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ®ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂÃÂÃÂ",
       "namebot2": "Megumin",
@@ -31170,7 +31196,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 62,
+      "botcommando": 63,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
