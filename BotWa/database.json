@@ -1673,6 +1673,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5492216714130@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝓐𝓷𝓰𝓮𝓵 🇧🇷",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1888,9 +1897,9 @@
         "51958478601@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 90,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 321,
+          "usedcommands": 5,
+          "level": 8,
           "banned": false,
           "reason": ""
         },
@@ -1918,6 +1927,15 @@
           "exp": 480,
           "usedcommands": 8,
           "level": 10,
+          "banned": false,
+          "reason": ""
+        },
+        "5492216714130@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 8,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -2998,9 +3016,9 @@
         "5214433711372@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 195,
-          "usedcommands": 5,
-          "level": 7,
+          "exp": 237,
+          "usedcommands": 7,
+          "level": 8,
           "banned": false,
           "reason": ""
         },
@@ -4805,8 +4823,8 @@
         "5493521538906@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 12142,
-          "exp": 777,
-          "usedcommands": 13,
+          "exp": 780,
+          "usedcommands": 14,
           "level": 13,
           "banned": false,
           "reason": "",
@@ -5675,7 +5693,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000201,
+      "botcommando": 1000000000207,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -5745,7 +5763,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 27,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
