@@ -49,7 +49,7 @@
     "51974819791@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "CHICLAYO Ã°ÂÂÂµÃ°ÂÂÂª",
+      "name": "CHICLAYO ÃÂ°ÃÂÃÂÃÂµÃÂ°ÃÂÃÂÃÂª",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -58,7 +58,7 @@
     "5215660242865@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ã°ÂÂªÂ¼",
+      "name": "ÃÂ°ÃÂÃÂªÃÂ¼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -133,7 +133,28 @@
       "birth": "",
       "marry": "",
       "description": ""
-    }
+    },
+    "5218712620915@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★彡[xɪ_ᴍɪɢᴜᴇʟᴏɴ77xx]彡★",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "No session found to decrypt message": {},
+    "15614809253@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "davi zuni 17",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "No matching sessions found for message": {},
+    "off": {}
   },
   "chats": {
     "120363200595463475@g.us": {
@@ -220,6 +241,15 @@
           "reason": ""
         },
         "51907204313@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "15614809253@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -330,9 +360,9 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 1939,
           "bank": 0,
-          "exp": 373,
-          "usedcommands": 8,
-          "level": 9,
+          "exp": 630,
+          "usedcommands": 12,
+          "level": 11,
           "banned": false,
           "reason": "",
           "Subs": 1752116882770,
@@ -348,6 +378,15 @@
           "reason": ""
         },
         "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218712620915@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -425,6 +464,15 @@
           "reason": ""
         },
         "573019448245@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -510,7 +558,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 999999999999,
+      "botcommando": 1000000000003,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
