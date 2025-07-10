@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⁺₊⋆ ☾⋆⁺₊⋆",
+      "name": "𝗫ֳֹܸ͗๎ᰯ᰷ᰭ᰷𐌄⃨𝗧𝗛⃖⃗⃖⃗🕸",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4529,6 +4529,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "~ Héctor ~",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363417995263692@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": {},
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15711,6 +15720,40 @@
     "120363304392546215@newsletter": {
       "users": {
         "120363304392546215@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363417995263692@g.us": {
+      "users": {
+        "120363417995263692@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573202902137@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
