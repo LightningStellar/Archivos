@@ -2506,6 +2506,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5492966560704@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Giu",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4375,13 +4384,14 @@
           "reason": ""
         },
         "5219613301789@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 3130,
           "bank": 0,
-          "exp": 4,
-          "usedcommands": 1,
-          "level": 1,
+          "exp": 65,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "workCooldown": 1752128047632
         },
         "5215571921560@s.whatsapp.net": {
           "chocolates": 0,
@@ -5083,6 +5093,15 @@
           "reason": ""
         },
         "5216141200934@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492966560704@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -8864,7 +8883,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000234,
+      "botcommando": 1000000000235,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
