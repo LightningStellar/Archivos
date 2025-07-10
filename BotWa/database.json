@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": ".  ᅠᅠᅠթᧉ𝗅𝗅ᅠᅠᅠ✿ᅠᅠᅠ𝗅oto",
+      "name": "𝜗𝜚⋆₊˚ 𝑅𝘶𝘣𝘺 ๑˚. ᵎᵎ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3962,7 +3962,7 @@
     "50687717451@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌦⃢黷 〫۫𑪔̣⋆۪࣪ໍ",
+      "name": "+506 8771 7451",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4175,6 +4175,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Tomatito",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59169885154@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝆬✝︎ 𝐀𝐥𝐞𝐱",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10702,6 +10711,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "59169885154@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14471,6 +14489,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14483,7 +14510,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363361303452018@newsletter": {
       "users": {
@@ -14508,6 +14536,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "51958722189@s.whatsapp.net": {
+      "users": {
+        "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
