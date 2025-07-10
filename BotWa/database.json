@@ -776,7 +776,7 @@
     "50248151611@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+502 4815 1611",
+      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3913,6 +3913,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "24107716825@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+241 07 71 68 25",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5880,6 +5889,15 @@
           "reason": ""
         },
         "5216648348702@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "24107716825@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -13592,13 +13610,18 @@
     "120363403398321615@g.us": {
       "users": {
         "50248151611@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 2845,
           "bank": 0,
-          "exp": 159,
-          "usedcommands": 4,
-          "level": 7,
+          "exp": 529,
+          "usedcommands": 9,
+          "level": 10,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "crimeCooldown": 1752150604700,
+          "mineCooldown": 1752150606483,
+          "slutCooldown": 1752150609341,
+          "pptCooldown": 1752150613774,
+          "workCooldown": 1752150615860
         }
       },
       "sWelcome": "",
@@ -13856,7 +13879,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 5,
+      "botcommando": 10,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
