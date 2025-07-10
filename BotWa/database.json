@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "✨~ | | エール | | ~✨",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3994,6 +3994,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56995583131@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "༺𝖀𝖓 𝖑𝖔𝖈𝖔 𝖒𝖆𝖘༻",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4181,6 +4190,15 @@
           "reason": ""
         },
         "595984973332@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56995583131@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6408,9 +6426,9 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 3970,
-          "usedcommands": 11,
-          "level": 24,
+          "exp": 4049,
+          "usedcommands": 12,
+          "level": 25,
           "banned": false,
           "reason": "",
           "workCooldown": 1752166770196,
@@ -6445,14 +6463,14 @@
           "personajesEnVenta": []
         },
         "5492974124262@s.whatsapp.net": {
-          "chocolates": 8136,
+          "chocolates": 11269,
           "bank": 0,
-          "exp": 1087,
-          "usedcommands": 21,
-          "level": 15,
+          "exp": 1382,
+          "usedcommands": 27,
+          "level": 16,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752168158225,
+          "rwCooldown": 1752172834643,
           "buyCooldown": 1752168306099,
           "characters": [
             {
@@ -6464,10 +6482,10 @@
               "claim": "jueves, 10 de julio de 2025"
             }
           ],
-          "workCooldown": 1752167899220,
-          "mineCooldown": 1752167909795,
-          "crimeCooldown": 1752167917855,
-          "slutCooldown": 1752167929777,
+          "workCooldown": 1752172500716,
+          "mineCooldown": 1752172509545,
+          "crimeCooldown": 1752172504256,
+          "slutCooldown": 1752172506505,
           "dailyStreak": 1,
           "lastDaily": 1752167390046,
           "nextReward": 37016,
@@ -6771,6 +6789,15 @@
           "gender": "Mujer",
           "source": "Sewayaki Kitsune no Senko-San",
           "id": "bccf441f"
+        },
+        {
+          "userId": "5492974124262@s.whatsapp.net",
+          "name": "Leone",
+          "url": "https://stellarwa.xyz/files/1749224032464.jpg",
+          "value": 30000,
+          "gender": "Mujer",
+          "source": "Akame ga Kill!",
+          "id": "22e724dd"
         }
       ]
     },
@@ -11706,14 +11733,14 @@
     "120363418163055987@g.us": {
       "users": {
         "573103563906@s.whatsapp.net": {
-          "chocolates": 83927,
+          "chocolates": 78927,
           "bank": 0,
-          "exp": 718,
-          "usedcommands": 17,
+          "exp": 787,
+          "usedcommands": 18,
           "level": 12,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752171885785,
+          "rtCooldown": 1752172497830,
           "dailyStreak": 1,
           "lastDaily": 1752168195193,
           "nextReward": 33269,
@@ -13991,8 +14018,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 161,
-          "usedcommands": 3,
+          "exp": 239,
+          "usedcommands": 4,
           "level": 7,
           "banned": false,
           "reason": "",
@@ -14851,7 +14878,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 349,
+      "botcommando": 356,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -14971,7 +14998,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 38,
+      "botcommando": 39,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -15011,7 +15038,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 40,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
