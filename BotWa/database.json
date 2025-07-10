@@ -722,7 +722,7 @@
     "212609690006@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Kana Arima",
+      "name": "Hatsune Miku",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌗 𝗔𝗜",
+      "name": "🌷vale🌷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3255,7 +3255,7 @@
     "573135861052@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+57 313 5861052",
+      "name": "Oliver aiku",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3507,6 +3507,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51914114673@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🌹{Ręnzø_FC20} 🌹",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4715,6 +4724,19 @@
           "banned": false,
           "reason": "",
           "Subs": 1752143611080
+        },
+        "51914114673@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 6883,
+          "exp": 419,
+          "usedcommands": 6,
+          "level": 10,
+          "banned": false,
+          "reason": "",
+          "lastWeekly": 1752146328320,
+          "workCooldown": 1752146936044,
+          "mineCooldown": 1752146939752,
+          "rwCooldown": 1752147247299
         }
       },
       "sWelcome": "",
@@ -12324,7 +12346,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 586,
+      "botcommando": 592,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
