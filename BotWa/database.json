@@ -785,7 +785,7 @@
     "5212294512405@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Han ÃÂ°ÃÂÃÂÃÂ",
+      "name": "Han 💗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⻩⸻𝐉⃥𝐀⃥꯭𝐘",
+      "name": "Karen",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3138,7 +3138,7 @@
     "5491133915075@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂ£ÃÂÃÂ ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ­ ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ°ÃÂ°ÃÂÃÂÃÂ³ÃÂ°ÃÂÃÂÃÂªÃÂ°ÃÂÃÂÃÂµÃÂ°ÃÂÃÂÃÂ°ÃÂ°ÃÂÃÂÃÂ´ ÃÂ£ÃÂÃÂ",
+      "name": "《 𝘌𝘭 𝘋𝘰𝘳𝘪𝘵𝘰𝘴 》",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4415,7 +4415,7 @@
     "212705774539@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ®ÃÂÃÂ§ÃÂÃÂÃÂÃÂ¯ ÃÂÃÂ§ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+      "name": "خالد العويني",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5876,6 +5876,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "27797061947507@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215540832426@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Pou",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584262356496@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "komazan",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6345,8 +6372,8 @@
         "212705774539@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 79,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
           "reason": ""
@@ -9930,6 +9957,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215540832426@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -10955,8 +10991,8 @@
         "5491135078568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 96844,
-          "exp": 7024,
-          "usedcommands": 35,
+          "exp": 7073,
+          "usedcommands": 37,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -12750,6 +12786,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584262356496@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13242,8 +13287,8 @@
         "50369792152@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 438,
-          "usedcommands": 8,
+          "exp": 530,
+          "usedcommands": 9,
           "level": 10,
           "banned": false,
           "reason": ""
@@ -15829,8 +15874,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 51058,
-          "exp": 1233,
-          "usedcommands": 176,
+          "exp": 27,
+          "usedcommands": 180,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -17735,6 +17780,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "27797061947507@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -19529,7 +19583,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000326,
+      "botcommando": 1000000000327,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -19629,7 +19683,7 @@
     },
     "5215660242865@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 30,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -19659,7 +19713,7 @@
     },
     "5212294512405@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 11,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -19679,7 +19733,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 208,
+      "botcommando": 212,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -19739,10 +19793,10 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 35,
       "prefix": "!",
-      "namebot": "ÃªÂ®Âº  ÃÂ´  Ã¯Â¹Â« Ã°ÂÂÂÃ°ÂÂÂºÃ°ÂÂÂ¼Ã°ÂÂÂÃ°ÂÂÂ¿Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ.  Ã¢ÂÂ   Ã¡Â±ÂÃ¡Â±Â",
-      "namebot2": "Ã°ÂÂÂ±Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ.  Ã¡Â¨Â¦Ã¢ÂÂ    ÃÂ ÃÂ  ÃÂ",
+      "namebot": "Hobie",
+      "namebot2": "Hobie",
       "owner": "Ã¯Â¹Â« Ã°ÂÂÂÃ¡Â´ÂÃ¡Â´ÂÃ¡Â´ÂÃÂÃÂÃ¡Â´ÂsÃ¡Â´Â",
       "banner": "https://stellarwa.xyz/files/1752155414229.jpg",
       "currency": ". ÃÂ· Ã Â½Â²Ã Â¾ÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃÂ.  Ã°ÂÂ§Â Ã¢ÂÂÃÂ"
