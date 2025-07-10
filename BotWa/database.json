@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Julián",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2943,6 +2943,50 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "223029179236440@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491168780233@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~🎨estrellita matsuno🎨~",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363282591996396@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56939030786@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "@៹ ࣪🎧⃝ ꒰ 𝓝ᥲ𝗍һᥲᥒ ៹ ࣪🖇️",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493704347335@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🛝⃞𝟏  . ოҽցᥙɾᥙᏪ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4203,6 +4247,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56939030786@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493704347335@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -5388,16 +5450,30 @@
           "reason": ""
         },
         "5493814623075@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 8132,
           "bank": 0,
-          "exp": 86,
-          "usedcommands": 2,
-          "level": 3,
+          "exp": 132,
+          "usedcommands": 5,
+          "level": 6,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752170178909,
-          "buyCooldown": 0,
-          "characters": []
+          "buyCooldown": 1752170249392,
+          "characters": [
+            {
+              "name": "Satoru Gojuou",
+              "url": "https://stellarwa.xyz/files/1748734788347.jpg",
+              "value": 1200,
+              "gender": "Hombre",
+              "source": "Jujutsu Kaisen",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ],
+          "dailyStreak": 1,
+          "lastDaily": 1752169342975,
+          "nextReward": 1581,
+          "characterCount": null,
+          "totalRwcoins": null
         }
       },
       "sWelcome": "",
@@ -5421,15 +5497,6 @@
           "gender": "Hombre",
           "source": "Hunter x Hunter",
           "id": "99bdc1a6"
-        },
-        {
-          "userId": "5493814623075@s.whatsapp.net",
-          "name": "Satoru Gojuou",
-          "url": "https://stellarwa.xyz/files/1748734788347.jpg",
-          "value": 1200,
-          "gender": "Hombre",
-          "source": "Jujutsu Kaisen",
-          "id": "0547d5e5"
         }
       ]
     },
@@ -9329,6 +9396,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491168780233@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -10174,9 +10250,9 @@
         "50499876820@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 26,
-          "usedcommands": 2,
-          "level": 3,
+          "exp": 79,
+          "usedcommands": 4,
+          "level": 4,
           "banned": false,
           "reason": ""
         },
@@ -10295,23 +10371,8 @@
           "level": 0,
           "banned": false,
           "reason": ""
-        }
-      },
-      "sWelcome": "",
-      "sBye": "",
-      "welcome": true,
-      "nsfw": false,
-      "alerts": true,
-      "gacha": true,
-      "rpg": true,
-      "adminonly": false,
-      "primaryBot": null,
-      "antilinks": true,
-      "bannedGrupo": false
-    },
-    "120363401287401762@g.us": {
-      "users": {
-        "[object Promise]": {
+        },
+        "56920449984@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -10333,6 +10394,64 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363401287401762@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "223029179236440@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363282591996396@newsletter": {
+      "users": {
+        "120363282591996396@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -10348,7 +10467,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 35,
+      "botcommando": 36,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -10388,7 +10507,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 297,
+      "botcommando": 300,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -10448,7 +10567,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 37,
+      "botcommando": 38,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
