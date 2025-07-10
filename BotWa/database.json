@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Bianca",
+      "name": "xd",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2830,9 +2830,9 @@
         "34605463333@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 1016,
-          "usedcommands": 17,
-          "level": 14,
+          "exp": 1273,
+          "usedcommands": 21,
+          "level": 15,
           "banned": false,
           "reason": ""
         },
@@ -3117,8 +3117,8 @@
         "51962264360@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 32081,
-          "exp": 4636,
-          "usedcommands": 43,
+          "exp": 4849,
+          "usedcommands": 46,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -4528,8 +4528,8 @@
         "573160505989@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 30006,
-          "exp": 5577,
-          "usedcommands": 32,
+          "exp": 5762,
+          "usedcommands": 35,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -6010,6 +6010,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5493886406088@s.whatsapp.net": {
+      "users": {
+        "5215522567568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -6025,7 +6049,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 33,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -6065,7 +6089,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 69,
+      "botcommando": 70,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -6085,7 +6109,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 59,
+      "botcommando": 60,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -6135,7 +6159,7 @@
     },
     "5215660242865@s.whatsapp.net": {
       "self": false,
-      "botcommando": 14,
+      "botcommando": 19,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -6145,7 +6169,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 30,
+      "botcommando": 31,
       "prefix": "!",
       "namebot": "ê®º  Ö´  ï¹« ððºð¼ðð¿ðððð.  â   á±á±",
       "namebot2": "ð±ðððð.  á¨¦â    × Û  ×",
