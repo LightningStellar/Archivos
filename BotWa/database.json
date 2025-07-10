@@ -444,7 +444,7 @@
           "bank": 0,
           "exp": 79,
           "usedcommands": 1,
-          "level": 0,
+          "level": 5,
           "banned": false,
           "reason": ""
         },
@@ -460,9 +460,9 @@
         "51983530315@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 3,
+          "usedcommands": 1,
+          "level": 1,
           "banned": false,
           "reason": ""
         }
@@ -647,12 +647,12 @@
         "59160721071@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 68,
-          "usedcommands": 2,
+          "exp": 147,
+          "usedcommands": 3,
           "level": 5,
           "banned": false,
           "reason": "",
-          "Subs": 1752117601696
+          "Subs": 1752117819334
         },
         "5216671548329@s.whatsapp.net": {
           "chocolates": 0,
@@ -948,6 +948,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5215571921560@s.whatsapp.net": {
+      "users": {
+        "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -963,7 +988,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000011,
+      "botcommando": 1000000000013,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
