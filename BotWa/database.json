@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☬💥",
+      "name": "Dex",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7192,9 +7192,9 @@
         "5493534413480@s.whatsapp.net": {
           "chocolates": 600000,
           "bank": 0,
-          "exp": 1658,
-          "usedcommands": 33,
-          "level": 17,
+          "exp": 1768,
+          "usedcommands": 35,
+          "level": 18,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -15848,10 +15848,10 @@
           "rwCooldown": 1752135779285
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 5000000,
+          "chocolates": 33000000,
           "bank": 0,
-          "exp": 8232,
-          "usedcommands": 54,
+          "exp": 8464,
+          "usedcommands": 59,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -15865,8 +15865,8 @@
           "lastMonthly": 1752150669993,
           "lastWeekly": 1752150673008,
           "pptCooldown": 1752151276923,
-          "rtCooldown": 1752159120511,
-          "rwCooldown": 1752157142177,
+          "rtCooldown": 1752160054730,
+          "rwCooldown": 1752160366398,
           "buyCooldown": 1752157150310
         },
         "120363399108260019@g.us": {
@@ -20461,6 +20461,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5218441133683@s.whatsapp.net": {
+      "users": {
+        "5491135078568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -20496,7 +20520,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 786,
+      "botcommando": 788,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -20616,7 +20640,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 174,
+      "botcommando": 179,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
