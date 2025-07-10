@@ -3564,8 +3564,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 1540713,
           "bank": 0,
-          "exp": 5653,
-          "usedcommands": 52,
+          "exp": 5706,
+          "usedcommands": 53,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -4620,11 +4620,11 @@
           "slutCooldown": 1752123257429
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 50693,
+          "chocolates": 750693,
           "bank": 0,
-          "exp": 683,
-          "usedcommands": 14,
-          "level": 12,
+          "exp": 862,
+          "usedcommands": 17,
+          "level": 13,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -4633,7 +4633,7 @@
           "crimeCooldown": 1752121725842,
           "mineCooldown": 1752121728847,
           "workCooldown": 1752121730773,
-          "rtCooldown": 1752130487837
+          "rtCooldown": 1752131201195
         },
         "56920449984@s.whatsapp.net": {
           "chocolates": 0,
@@ -4667,6 +4667,15 @@
           "slutCooldown": 1752128067186
         },
         "5215571921560@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34641964513@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -9667,7 +9676,7 @@
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 1000000000034,
+      "botcommando": 1000000000035,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -9677,7 +9686,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000245,
+      "botcommando": 1000000000247,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -9697,7 +9706,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 469,
+      "botcommando": 470,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
