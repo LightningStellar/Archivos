@@ -722,7 +722,7 @@
     "212609690006@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Hatsune Miku",
+      "name": "Kana Arima",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3434,7 +3434,7 @@
     "51950157136@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Momazos Sayori Fnf",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3826,9 +3826,9 @@
         "51950157136@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 69,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -7653,13 +7653,17 @@
         },
         "5491173606704@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 842,
-          "exp": 80,
-          "usedcommands": 2,
-          "level": 5,
+          "bank": 40758,
+          "exp": 208,
+          "usedcommands": 6,
+          "level": 6,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752146044386
+          "crimeCooldown": 1752146044386,
+          "mineCooldown": 1752146070505,
+          "dailyStreak": 1,
+          "lastDaily": 1752145495844,
+          "nextReward": 3521
         }
       },
       "sWelcome": "",
@@ -12140,7 +12144,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000268,
+      "botcommando": 1000000000269,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -12210,7 +12214,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 60,
+      "botcommando": 64,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
