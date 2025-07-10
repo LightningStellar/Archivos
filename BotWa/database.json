@@ -326,7 +326,35 @@
       "birth": "",
       "marry": "",
       "description": ""
-    }
+    },
+    "5215643532491@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Estoy Usando WhatsApp",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51953088575@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".11011001",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216671422127@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212675712863@s.whatsapp.net": {}
   },
   "chats": {
     "120363200595463475@g.us": {
@@ -649,7 +677,7 @@
           "bank": 0,
           "exp": 147,
           "usedcommands": 3,
-          "level": 5,
+          "level": 6,
           "banned": false,
           "reason": "",
           "Subs": 1752117819334
@@ -720,12 +748,12 @@
         "50378355043@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 77,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 162,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
           "reason": "",
-          "Subs": 1752117667438
+          "Subs": 1752117879460
         },
         "51980218350@s.whatsapp.net": {
           "chocolates": 0,
@@ -810,6 +838,33 @@
           "reason": ""
         },
         "59162047838@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215643532491@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51953088575@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216671422127@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -988,7 +1043,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000013,
+      "botcommando": 1000000000014,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
