@@ -96,7 +96,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -111,7 +112,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 5,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
