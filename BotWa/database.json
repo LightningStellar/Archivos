@@ -2919,6 +2919,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "114543153938673@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3891,10 +3900,10 @@
           "Subs": 1752123149374
         },
         "573228667071@s.whatsapp.net": {
-          "chocolates": 6203,
-          "bank": 0,
-          "exp": 3811,
-          "usedcommands": 58,
+          "chocolates": 0,
+          "bank": 24812,
+          "exp": 3954,
+          "usedcommands": 62,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -4705,6 +4714,15 @@
           "reason": ""
         },
         "112589027721218@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "114543153938673@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -10534,7 +10552,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 564,
+      "botcommando": 568,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
