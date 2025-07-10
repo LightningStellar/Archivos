@@ -5120,6 +5120,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50671805849@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Samantha Amador",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14430,8 +14439,8 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 336,
           "bank": 36000,
-          "exp": 3153,
-          "usedcommands": 113,
+          "exp": 3204,
+          "usedcommands": 114,
           "level": 22,
           "banned": false,
           "reason": "",
@@ -14461,8 +14470,8 @@
         "51904078847@s.whatsapp.net": {
           "chocolates": 47576,
           "bank": 0,
-          "exp": 2698,
-          "usedcommands": 17,
+          "exp": 2738,
+          "usedcommands": 19,
           "level": 21,
           "banned": false,
           "reason": "",
@@ -17595,6 +17604,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50671805849@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17823,7 +17841,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 143,
+      "botcommando": 146,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
