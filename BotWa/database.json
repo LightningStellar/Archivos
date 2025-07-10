@@ -3466,6 +3466,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51906292112@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Richy🖤",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3865,6 +3874,15 @@
           "exp": 86,
           "usedcommands": 1,
           "level": 5,
+          "banned": false,
+          "reason": ""
+        },
+        "51906292112@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 8,
+          "usedcommands": 1,
+          "level": 2,
           "banned": false,
           "reason": ""
         }
@@ -12204,7 +12222,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000270,
+      "botcommando": 1000000000271,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
