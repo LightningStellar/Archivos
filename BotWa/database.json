@@ -6859,6 +6859,58 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212705774539@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "خالد العويني",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215548985463@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "∿┆•🪭꙰◯∘꙳┛",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363161512213582@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "18093963614@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363170663023688@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "21810531795000@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -10355,15 +10407,15 @@
           "personajesEnVenta": []
         },
         "5492974124262@s.whatsapp.net": {
-          "chocolates": 84820,
-          "bank": 0,
-          "exp": 7063,
-          "usedcommands": 65,
+          "chocolates": 0,
+          "bank": 74840,
+          "exp": 7389,
+          "usedcommands": 70,
           "level": 31,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752181731724,
-          "buyCooldown": 1752177568777,
+          "buyCooldown": 1752181744347,
           "characters": [
             {
               "name": "Juugo Nagayama",
@@ -10380,6 +10432,14 @@
               "gender": "Mujer",
               "source": "Mob Psycho 100",
               "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Medoki",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/125384-jTjaeDbDgF4J.jpg",
+              "value": 9980,
+              "gender": "Mujer",
+              "source": "Charlotte",
+              "claim": "jueves, 10 de julio de 2025"
             }
           ],
           "workCooldown": 1752181361694,
@@ -10389,8 +10449,8 @@
           "dailyStreak": 1,
           "lastDaily": 1752167390046,
           "nextReward": 37016,
-          "characterCount": 1,
-          "totalRwcoins": 1000,
+          "characterCount": 2,
+          "totalRwcoins": 10980,
           "pptCooldown": 1752181412203,
           "personajesEnVenta": [],
           "lastWeekly": 1752176838931,
@@ -10437,10 +10497,10 @@
           "personajesEnVenta": []
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 1578769,
-          "bank": 0,
-          "exp": 9668,
-          "usedcommands": 102,
+          "chocolates": 0,
+          "bank": 1578769,
+          "exp": 9693,
+          "usedcommands": 103,
           "level": 35,
           "banned": false,
           "reason": "",
@@ -10907,15 +10967,6 @@
           "gender": "Mujer",
           "source": "Darling in the Franxx",
           "id": "0f53d159"
-        },
-        {
-          "userId": "5492974124262@s.whatsapp.net",
-          "name": "Medoki",
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125384-jTjaeDbDgF4J.jpg",
-          "value": 9980,
-          "gender": "Mujer",
-          "source": "Charlotte",
-          "id": "dec7d2ca"
         }
       ]
     },
@@ -11375,6 +11426,15 @@
           "exp": 18,
           "usedcommands": 1,
           "level": 3,
+          "banned": false,
+          "reason": ""
+        },
+        "212705774539@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 53,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -13195,11 +13255,11 @@
           "roboCooldown": 0
         },
         "51963309930@s.whatsapp.net": {
-          "chocolates": 100,
-          "bank": 53124,
-          "exp": 3008,
-          "usedcommands": 21,
-          "level": 21,
+          "chocolates": 0,
+          "bank": 52657,
+          "exp": 3357,
+          "usedcommands": 27,
+          "level": 23,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -13207,7 +13267,7 @@
           "lastDaily": 1752175445560,
           "nextReward": 3524,
           "workCooldown": 1752181244517,
-          "crimeCooldown": 1752176124986,
+          "crimeCooldown": 1752181473428,
           "mineCooldown": 1752181276789,
           "lastMonthly": 1752180737791,
           "lastWeekly": 1752180838425
@@ -22991,6 +23051,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215548985463@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24447,6 +24516,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "21810531795000@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25323,6 +25410,78 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363161512213582@newsletter": {
+      "users": {
+        "120363161512213582@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363420679486645@g.us": {
+      "users": {
+        "18093963614@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363170663023688@newsletter": {
+      "users": {
+        "120363170663023688@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -25338,7 +25497,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 90,
+      "botcommando": 91,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -25348,7 +25507,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 13,
+      "botcommando": 14,
       "prefix": "/",
       "namebot": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ ÃÂÃÂ¿ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¨DIÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ£ BÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ¬ÃÂÃÂ°ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ³ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
       "namebot2": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ  ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ   ÃÂÃÂ ÃÂÃÂ¿ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¬ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂªÃÂÃÂ½ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂ³ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂ",
@@ -25378,7 +25537,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 649,
+      "botcommando": 655,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -25458,7 +25617,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 96,
+      "botcommando": 101,
       "prefix": "!",
       "namebot": "ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂº  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´  ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ« ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.  ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ   ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ",
       "namebot2": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.  ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ    ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
