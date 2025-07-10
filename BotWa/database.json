@@ -17519,16 +17519,16 @@
         },
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 45128,
-          "exp": 5143,
-          "usedcommands": 39,
-          "level": 27,
+          "bank": 51031,
+          "exp": 5528,
+          "usedcommands": 47,
+          "level": 28,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752159072123,
-          "mineCooldown": 1752159074715,
-          "workCooldown": 1752159079899,
-          "slutCooldown": 1752159085106,
+          "crimeCooldown": 1752159817193,
+          "mineCooldown": 1752159819825,
+          "workCooldown": 1752159824152,
+          "slutCooldown": 1752159830366,
           "pptCooldown": 1752159094919,
           "dailyStreak": 1,
           "lastDaily": 1752150958344,
@@ -17596,10 +17596,10 @@
         },
         "593968273893@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 35043,
-          "exp": 4005,
-          "usedcommands": 32,
-          "level": 24,
+          "bank": 30742,
+          "exp": 4158,
+          "usedcommands": 36,
+          "level": 25,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -17612,7 +17612,9 @@
           "pptCooldown": 1752159428778,
           "rtCooldown": 1752159464776,
           "lastWeekly": 1752153821722,
-          "lastMonthly": 1752153832450
+          "lastMonthly": 1752153832450,
+          "rwCooldown": 1752160092506,
+          "buyCooldown": 1752160107280
         },
         "56958115618@s.whatsapp.net": {
           "chocolates": 0,
@@ -17728,6 +17730,15 @@
           "reason": ""
         },
         "5219371465815@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "593968273893@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -20579,7 +20590,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 186,
+      "botcommando": 198,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
