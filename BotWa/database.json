@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "🛑ΩOmega ZeroΩ🛑",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10750,7 +10750,7 @@
     "595971282559@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "@L❤️🖤",
+      "name": "Ado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11064,6 +11064,32 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Richy🖤",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "33269571686447@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56933903117@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ptapialatorre",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363416189617749@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19813,10 +19839,10 @@
           "personajesEnVenta": []
         },
         "5216422302773@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 312791,
-          "exp": 2036,
-          "usedcommands": 45,
+          "chocolates": 212791,
+          "bank": 0,
+          "exp": 2127,
+          "usedcommands": 47,
           "level": 19,
           "banned": false,
           "reason": "",
@@ -19827,7 +19853,7 @@
           "dailyStreak": 1,
           "lastDaily": 1752169966383,
           "nextReward": 2022,
-          "rtCooldown": 1752190349527,
+          "rtCooldown": 1752191232103,
           "crimeCooldown": 1752173039298,
           "slutCooldown": 1752173042484,
           "rwCooldown": 1752190656620,
@@ -23618,8 +23644,8 @@
         "5215525237149@s.whatsapp.net": {
           "chocolates": 1690,
           "bank": 0,
-          "exp": 676,
-          "usedcommands": 14,
+          "exp": 756,
+          "usedcommands": 16,
           "level": 12,
           "banned": false,
           "reason": "",
@@ -23627,14 +23653,25 @@
           "dailyStreak": 1,
           "lastDaily": 1752190567913,
           "nextReward": 10354,
-          "mineCooldown": 1752191172328
+          "mineCooldown": 1752191172328,
+          "buyCooldown": 1752191481035,
+          "characters": [
+            {
+              "name": "Choi Jong-in",
+              "url": "https://stellarwa.xyz/files/1749348717608.jpg",
+              "value": 1000,
+              "gender": "Hombre",
+              "source": "Solo Leveling",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ]
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 125561,
+          "chocolates": 125747,
           "bank": 0,
-          "exp": 1466,
-          "usedcommands": 29,
-          "level": 16,
+          "exp": 1588,
+          "usedcommands": 31,
+          "level": 17,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752168805687,
@@ -23653,7 +23690,10 @@
             }
           ],
           "characterCount": null,
-          "totalRwcoins": null
+          "totalRwcoins": null,
+          "dailyStreak": 1,
+          "lastDaily": 1752190591052,
+          "nextReward": 22334
         },
         "5217851059776@s.whatsapp.net": {
           "chocolates": 194592,
@@ -23722,16 +23762,19 @@
           "personajesEnVenta": []
         },
         "5217441174190@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 8927,
           "bank": 0,
-          "exp": 401,
-          "usedcommands": 8,
+          "exp": 452,
+          "usedcommands": 9,
           "level": 10,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752191421068,
           "buyCooldown": 0,
-          "characters": []
+          "characters": [],
+          "dailyStreak": 1,
+          "lastDaily": 1752190622622,
+          "nextReward": 47854
         }
       },
       "sWelcome": "",
@@ -23809,15 +23852,6 @@
           "gender": "Mujer",
           "source": "Blue Archie",
           "id": "24a9d964"
-        },
-        {
-          "userId": "5217441174190@s.whatsapp.net",
-          "name": "Choi Jong-in",
-          "url": "https://stellarwa.xyz/files/1749348717608.jpg",
-          "value": 1000,
-          "gender": "Hombre",
-          "source": "Solo Leveling",
-          "id": "b29dc09a"
         }
       ]
     },
@@ -36466,6 +36500,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "33269571686447@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36478,7 +36521,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363417854225978@g.us": {
       "users": {
@@ -36584,6 +36628,15 @@
     "56933903117@s.whatsapp.net": {
       "users": {
         "56920449984@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56933903117@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -38995,6 +39048,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363416189617749@newsletter": {
+      "users": {
+        "120363416189617749@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -39150,7 +39228,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 273,
+      "botcommando": 276,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -39170,7 +39248,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 452,
+      "botcommando": 454,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -39260,7 +39338,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 50,
+      "botcommando": 51,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
