@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "﹒⌗﹒𝕿𝓸𝓂𝒶́𝓈. 🥀﹒౨ৎ˚₊‧",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -527,7 +527,7 @@
     "5491126367355@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": ".𝑌⃟𝑈𝑁𝐴𝐻┆⊹܀🦊⚋",
+      "name": "﹒⌗﹒𝕿𝓸𝓂𝒶́𝓈. 🥀﹒౨ৎ˚₊‧",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2627,7 +2627,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "+52 642 230 2773",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3447,7 +3447,7 @@
     "228140542644378@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "lugo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11353,6 +11353,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "126410148548800@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12064,7 +12073,7 @@
           "bank": 0,
           "exp": 38,
           "usedcommands": 1,
-          "level": 0,
+          "level": 4,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -12092,15 +12101,15 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": true,
+      "welcome": false,
       "nsfw": false,
-      "alerts": true,
+      "alerts": false,
       "gacha": true,
       "rpg": true,
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false,
+      "bannedGrupo": true,
       "expired": 0
     },
     "120363384572015776@g.us": {
@@ -12922,6 +12931,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5212294340974@s.whatsapp.net": {
+      "users": {
+        "5212294512405@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -13057,7 +13091,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 54,
+      "botcommando": 55,
       "prefix": "!",
       "namebot": "ê®º  Ö´  ï¹« ððºð¼ðð¿ðððð.  â   á±á±",
       "namebot2": "ð±ðððð.  á¨¦â    × Û  ×",
