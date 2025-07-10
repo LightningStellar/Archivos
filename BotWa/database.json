@@ -76,7 +76,7 @@
     "59160721071@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+591 60721071",
+      "name": "monxx de temu",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -110,6 +110,25 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Junior",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493813625340@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★•°♡ TANJIRO KAMADO ★°•♡○",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "No session record": {},
+    "51907204313@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "I'm panchoman",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -181,6 +200,33 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492916450307@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493813625340@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51907204313@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -191,7 +237,7 @@
       "gacha": true,
       "rpg": true,
       "adminonly": false,
-      "primaryBot": null,
+      "primaryBot": "5218713339906@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
@@ -282,14 +328,15 @@
     "120363416930479619@g.us": {
       "users": {
         "5492916450307@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 1939,
           "bank": 0,
-          "exp": 262,
-          "usedcommands": 6,
-          "level": 8,
+          "exp": 373,
+          "usedcommands": 8,
+          "level": 9,
           "banned": false,
           "reason": "",
-          "Subs": 1752116882770
+          "Subs": 1752116882770,
+          "workCooldown": 1752117762000
         },
         "573019448245@s.whatsapp.net": {
           "chocolates": 0,
@@ -424,12 +471,36 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "59160721071@s.whatsapp.net": {
+      "users": {
+        "59160721071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 10,
+      "botcommando": 11,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -439,8 +510,8 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 8,
-      "prefix": "/",
+      "botcommando": 10,
+      "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
       "owner": "DevAlexJs",
