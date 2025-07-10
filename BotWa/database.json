@@ -100,7 +100,15 @@
       "marry": "",
       "description": ""
     },
-    "56974254856@s.whatsapp.net": {},
+    "56974254856@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "bot 🔥",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
     "5214437296458@s.whatsapp.net": {},
     "5491166697213@s.whatsapp.net": {
       "metadatos": null,
@@ -419,7 +427,7 @@
     "5215513021315@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 55 1302 1315",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1004,6 +1012,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215512223806@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Melina",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2103,6 +2120,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56974254856@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 71,
+          "usedcommands": 1,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "Subs": 1752119589590
         }
       },
       "sWelcome": "",
@@ -2465,18 +2492,19 @@
     "120363402724936929@g.us": {
       "users": {
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 93721,
+          "chocolates": 93647,
           "bank": 0,
-          "exp": 780,
-          "usedcommands": 13,
-          "level": 12,
+          "exp": 884,
+          "usedcommands": 15,
+          "level": 13,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752119468867,
           "dailyStreak": 1,
           "lastDaily": 1752118591521,
           "nextReward": 17681,
-          "rtCooldown": 1752119991640
+          "rtCooldown": 1752119991640,
+          "pptCooldown": 1752120173219
         },
         "5493534413480@s.whatsapp.net": {
           "chocolates": 0,
@@ -2923,12 +2951,22 @@
           "bank": 3830,
           "exp": 1030,
           "usedcommands": 5,
-          "level": 7,
+          "level": 14,
           "banned": false,
           "reason": "",
           "workCooldown": 1752119557305,
           "mineCooldown": 1752119564139,
           "lastWeekly": 1752119391663
+        },
+        "5215512223806@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 2,
+          "usedcommands": 1,
+          "level": 1,
+          "banned": false,
+          "reason": "",
+          "roboCooldown": 0
         }
       },
       "sWelcome": "",
@@ -3136,6 +3174,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363401340838296@g.us": {
+      "users": {
+        "5215513021315@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 99,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -3151,7 +3214,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000102,
+      "botcommando": 1000000000103,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -3181,7 +3244,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 12,
+      "botcommando": 14,
       "prefix": "<#></><.>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -3191,7 +3254,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 29,
       "prefix": "#",
       "namebot": "━⃞🧸Ƴ᷍ᤢս͜к͡į",
       "namebot2": "━⃞🧸Ƴ᷍ᤢս͜к͡į",
