@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "~Maxi",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3238,6 +3238,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "⸙ 𝙇𝙤𝙠𝙞 ⸙",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56942623135@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🫶🏻",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9660,6 +9669,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56942623135@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -9672,7 +9690,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5215635301246@s.whatsapp.net": {
       "users": {
