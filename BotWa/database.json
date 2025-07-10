@@ -3026,6 +3026,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491131271358@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "`°•☆🫐°wafles°•🍃°•`☆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -10762,8 +10771,8 @@
         "573058340821@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 35707,
-          "exp": 211,
-          "usedcommands": 6,
+          "exp": 232,
+          "usedcommands": 7,
           "level": 7,
           "banned": false,
           "reason": "",
@@ -10774,6 +10783,15 @@
           "buyCooldown": 1752140942334
         },
         "573059040844@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491131271358@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -10994,7 +11012,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
