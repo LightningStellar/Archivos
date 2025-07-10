@@ -3778,6 +3778,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56957974514@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Alan",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7159,6 +7168,15 @@
           "reason": ""
         },
         "573022916572@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56957974514@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12265,18 +12283,21 @@
           "reason": ""
         },
         "51939309894@s.whatsapp.net": {
-          "chocolates": 250,
-          "bank": 10000,
-          "exp": 2219,
-          "usedcommands": 30,
-          "level": 19,
+          "chocolates": 0,
+          "bank": 14000,
+          "exp": 2400,
+          "usedcommands": 36,
+          "level": 20,
           "banned": false,
           "reason": "",
           "workCooldown": 1752149235469,
           "mineCooldown": 1752149250058,
           "rwCooldown": 1752149629432,
           "buyCooldown": 1752149709705,
-          "lastWeekly": 1752148854570
+          "lastWeekly": 1752148854570,
+          "dailyStreak": 1,
+          "lastDaily": 1752148886597,
+          "nextReward": 49353
         }
       },
       "sWelcome": "",
@@ -13430,7 +13451,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 45,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
