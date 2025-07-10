@@ -7962,6 +7962,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493718327547@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "The King's👑🤴",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584141219366@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "☕ — Ꮇ.𝑵•☆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -10877,6 +10895,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573222383628@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13774,9 +13801,9 @@
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 284,
-          "usedcommands": 4,
-          "level": 8,
+          "exp": 307,
+          "usedcommands": 5,
+          "level": 9,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -14368,6 +14395,16 @@
           "lastWeekly": 1752179380484,
           "lastMonthly": 1752179387545,
           "personajesEnVenta": []
+        },
+        "584141219366@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 86,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752185578949
         }
       },
       "sWelcome": "",
@@ -14409,6 +14446,15 @@
           "gender": "Hombre",
           "source": "Arifureta",
           "id": "11394fd9"
+        },
+        {
+          "userId": "584141219366@s.whatsapp.net",
+          "name": "Yamcha",
+          "url": "https://stellarwa.xyz/files/1748799622842.jpg",
+          "value": 1000,
+          "gender": "Hombre",
+          "source": "Dragon Ball",
+          "id": "7c602530"
         }
       ]
     },
@@ -19181,10 +19227,10 @@
           "nextReward": 25193
         },
         "5213316279181@s.whatsapp.net": {
-          "chocolates": 57728,
+          "chocolates": 62354,
           "bank": 0,
-          "exp": 870,
-          "usedcommands": 17,
+          "exp": 952,
+          "usedcommands": 19,
           "level": 13,
           "banned": false,
           "reason": "",
@@ -19192,8 +19238,8 @@
           "lastDaily": 1752175851961,
           "nextReward": 42156,
           "rtCooldown": 1752185221543,
-          "workCooldown": 1752182821448,
-          "mineCooldown": 1752182823129,
+          "workCooldown": 1752185224241,
+          "mineCooldown": 1752185226044,
           "personajesEnVenta": []
         }
       },
@@ -19363,25 +19409,25 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 64475,
-          "exp": 1217,
-          "usedcommands": 74,
+          "bank": 76626,
+          "exp": 1802,
+          "usedcommands": 84,
           "level": 28,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752184123980,
-          "mineCooldown": 1752184127305,
-          "workCooldown": 1752184133135,
+          "crimeCooldown": 1752185267650,
+          "mineCooldown": 1752185269375,
+          "workCooldown": 1752185271660,
           "dailyStreak": 1,
           "lastDaily": 1752180234990,
           "nextReward": 24968,
           "lastWeekly": 1752180237096,
           "lastMonthly": 1752180238916,
-          "slutCooldown": 1752184135441,
-          "pptCooldown": 1752184137025,
-          "rwCooldown": 1752183729660,
+          "slutCooldown": 1752185274342,
+          "pptCooldown": 1752185276447,
+          "rwCooldown": 1752185539720,
           "personajesEnVenta": [],
-          "buyCooldown": 1752183750392,
+          "buyCooldown": 1752185560715,
           "characters": [
             {
               "name": "Iron",
@@ -19389,6 +19435,14 @@
               "value": 1000,
               "gender": "Hombre",
               "source": "Solo Leveling",
+              "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Rei Kurosaki",
+              "url": "https://stellarwa.xyz/files/1748936538389.jpg",
+              "value": 1000,
+              "gender": "Mujer",
+              "source": "Mob Psycho 100",
               "claim": "jueves, 10 de julio de 2025"
             }
           ],
@@ -20080,6 +20134,15 @@
           "reason": ""
         },
         "584127570056@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493718327547@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29683,7 +29746,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 198,
+      "botcommando": 207,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -29723,7 +29786,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 112,
+      "botcommando": 113,
       "prefix": "!",
       "namebot": "ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂº  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´  ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ« ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.  ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ   ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ",
       "namebot2": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.  ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ    ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
@@ -29743,7 +29806,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 209,
+      "botcommando": 211,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -29753,7 +29816,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 21,
+      "botcommando": 22,
       "prefix": "#",
       "namebot": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ§ÃÂÃÂ¸ÃÂÃÂÃÂÃÂ³ÃÂÃÂ¡ÃÂÃÂ·ÃÂÃÂÃÂÃÂ¡ÃÂÃÂ¤ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¯",
       "namebot2": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ§ÃÂÃÂ¸ÃÂÃÂÃÂÃÂ³ÃÂÃÂ¡ÃÂÃÂ·ÃÂÃÂÃÂÃÂ¡ÃÂÃÂ¤ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¯",
@@ -29763,7 +29826,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 321,
+      "botcommando": 322,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
