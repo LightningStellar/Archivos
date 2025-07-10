@@ -10117,14 +10117,25 @@
     "120363399108260019@g.us": {
       "users": {
         "573228667071@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 19459,
           "bank": 0,
-          "exp": 180,
-          "usedcommands": 3,
-          "level": 7,
+          "exp": 5083,
+          "usedcommands": 12,
+          "level": 27,
           "banned": false,
           "reason": "",
-          "rtCooldown": 0
+          "rtCooldown": 0,
+          "rwCooldown": 1752136768348,
+          "crimeCooldown": 1752136491309,
+          "mineCooldown": 1752136493330,
+          "workCooldown": 1752136495063,
+          "slutCooldown": 1752136496843,
+          "dailyStreak": 1,
+          "lastDaily": 1752135899082,
+          "nextReward": 41370,
+          "lastMonthly": 1752135902683,
+          "lastWeekly": 1752135905441,
+          "pptCooldown": 1752136511522
         },
         "17604773961@s.whatsapp.net": {
           "chocolates": 0,
@@ -10246,7 +10257,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 520,
+      "botcommando": 521,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -10366,7 +10377,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 15,
+      "botcommando": 23,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
