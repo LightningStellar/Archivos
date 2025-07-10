@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "˖ ֹ੭ ୧  𝐌ary   ⊹ ࣪ ⑅",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7759,7 +7759,25 @@
     "73418422636790@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "Alex",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "121002365288551@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51973645983@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "dea",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10854,6 +10872,15 @@
           "level": 4,
           "banned": false,
           "reason": ""
+        },
+        "50499876820@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12165,10 +12192,10 @@
           "personajesEnVenta": []
         },
         "51914114673@s.whatsapp.net": {
-          "chocolates": 10755,
-          "bank": 44303,
-          "exp": 4608,
-          "usedcommands": 23,
+          "chocolates": 0,
+          "bank": 34268,
+          "exp": 4839,
+          "usedcommands": 28,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -12181,7 +12208,7 @@
           "mineCooldown": 1752184284007,
           "personajesEnVenta": [],
           "rwCooldown": 1752184737237,
-          "buyCooldown": 1752182666170,
+          "buyCooldown": 1752184767269,
           "characters": [
             {
               "name": "Iron",
@@ -12189,6 +12216,14 @@
               "value": 1000,
               "gender": "Hombre",
               "source": "Solo Leveling",
+              "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Maya Satou",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163519-as1ccGaDehxI.jpg",
+              "value": 20790,
+              "gender": "Mujer",
+              "source": "Classroom Of The Elite",
               "claim": "jueves, 10 de julio de 2025"
             }
           ],
@@ -12299,15 +12334,6 @@
           "gender": "Mujer",
           "source": "Darling in the Franxx",
           "id": "0f53d159"
-        },
-        {
-          "userId": "51914114673@s.whatsapp.net",
-          "name": "Maya Satou",
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163519-as1ccGaDehxI.jpg",
-          "value": 20790,
-          "gender": "Mujer",
-          "source": "Classroom Of The Elite",
-          "id": "cc0263e4"
         }
       ]
     },
@@ -12867,6 +12893,15 @@
           "reason": ""
         },
         "51942080817@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51973645983@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18814,8 +18849,8 @@
         "5219932092138@s.whatsapp.net": {
           "chocolates": 7308073,
           "bank": 0,
-          "exp": 1311,
-          "usedcommands": 31,
+          "exp": 1388,
+          "usedcommands": 32,
           "level": 16,
           "banned": false,
           "reason": "",
@@ -23706,6 +23741,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50499876820@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27951,6 +27995,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "121002365288551@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28986,7 +29039,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 736,
+      "botcommando": 741,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -29086,7 +29139,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 202,
+      "botcommando": 203,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
