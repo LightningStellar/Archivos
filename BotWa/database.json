@@ -2436,6 +2436,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491134318169@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "román",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4888,6 +4897,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491134318169@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6416,8 +6434,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 85387,
           "bank": 0,
-          "exp": 2794,
-          "usedcommands": 60,
+          "exp": 2887,
+          "usedcommands": 61,
           "level": 21,
           "banned": false,
           "reason": "",
@@ -8691,7 +8709,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 261,
+      "botcommando": 262,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
