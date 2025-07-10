@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "M. Marcano.",
+      "name": "🌕⃞፝֟͝ꭷ   ⠟",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2305,7 +2305,25 @@
     "110767223349353@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "krásny lunárny 🪽❄️",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215630152439@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ñam",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216864066860@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Mr.visual🦭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4692,6 +4710,15 @@
           "reason": ""
         },
         "56945800616@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216864066860@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -7151,6 +7178,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215630152439@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8202,7 +8238,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "56958146863@s.whatsapp.net": {
       "users": {
