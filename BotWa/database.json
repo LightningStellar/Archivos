@@ -446,7 +446,7 @@
     "5212291109664@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Â«ââªSOFIâªâÂ»",
+      "name": "«★♪SOFI♪★»",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5030,7 +5030,7 @@
     "5214733017412@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ê¨ââ ðá´É´á´á´ÉªÊá´âá­á¦ | Õ²ÖÎ±Õ°",
+      "name": "ꨄ❀┆ 𝐇ᴀɴᴇᴍɪʏᴀ↝᭄ღ | ղօαհ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5978,6 +5978,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215639686045@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝕯",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6646,9 +6655,9 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 77326,
           "bank": 0,
-          "exp": 8823,
-          "usedcommands": 71,
-          "level": 33,
+          "exp": 9041,
+          "usedcommands": 75,
+          "level": 34,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752163672977,
@@ -8220,6 +8229,26 @@
           "rwCooldown": 1752172975096,
           "crimeCooldown": 1752172694201,
           "personajesEnVenta": []
+        },
+        "573222383628@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 27,
+          "usedcommands": 1,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "buyCooldown": 1752178307754,
+          "characters": [
+            {
+              "name": "Yuzuru Yamai",
+              "url": "https://stellarwa.xyz/files/1751833384144.jpg",
+              "value": 12000,
+              "gender": "Mujer",
+              "source": "Date A Live",
+              "claim": "jueves, 10 de julio de 2025"
+            }
+          ]
         }
       },
       "sWelcome": "",
@@ -8234,17 +8263,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "5491132791503@s.whatsapp.net",
-          "name": "Yuzuru Yamai",
-          "url": "https://stellarwa.xyz/files/1751833384144.jpg",
-          "value": 12000,
-          "gender": "Mujer",
-          "source": "Date A Live",
-          "id": "211f7c68"
-        }
-      ]
+      "personajesReservados": []
     },
     "120363319326807840@newsletter": {
       "users": {
@@ -16955,7 +16974,7 @@
           "bank": 0,
           "exp": 120,
           "usedcommands": 2,
-          "level": 4,
+          "level": 6,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -19188,6 +19207,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215639686045@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22350,7 +22378,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 533,
+      "botcommando": 537,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -22390,7 +22418,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 61,
+      "botcommando": 62,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
