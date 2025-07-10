@@ -4515,13 +4515,18 @@
           "reason": ""
         },
         "59172299466@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 20511,
           "bank": 0,
-          "exp": 75,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 259,
+          "usedcommands": 6,
+          "level": 8,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752146973006,
+          "nextReward": 12975,
+          "workCooldown": 1752147590417,
+          "rwCooldown": 1752147899131
         },
         "56987865578@s.whatsapp.net": {
           "chocolates": 0,
@@ -12449,7 +12454,7 @@
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 1000000000040,
+      "botcommando": 1000000000041,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -12479,7 +12484,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 610,
+      "botcommando": 613,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
