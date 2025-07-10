@@ -5800,9 +5800,9 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 729,
-          "usedcommands": 15,
-          "level": 12,
+          "exp": 821,
+          "usedcommands": 16,
+          "level": 13,
           "banned": false,
           "reason": "",
           "Subs": 1752156910755
@@ -5837,8 +5837,8 @@
         "5215513021315@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 216,
-          "usedcommands": 4,
+          "exp": 266,
+          "usedcommands": 5,
           "level": 8,
           "banned": false,
           "reason": "",
@@ -12420,8 +12420,8 @@
         "34605463333@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 223,
-          "usedcommands": 4,
+          "exp": 243,
+          "usedcommands": 5,
           "level": 8,
           "banned": false,
           "reason": ""
@@ -14548,9 +14548,9 @@
         "51939309894@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 38058,
-          "exp": 4362,
-          "usedcommands": 135,
-          "level": 25,
+          "exp": 76,
+          "usedcommands": 138,
+          "level": 26,
           "banned": false,
           "reason": "",
           "workCooldown": 1752157275790,
@@ -15267,7 +15267,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "59175793267@s.whatsapp.net": {
       "users": {
@@ -17831,7 +17832,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 715,
+      "botcommando": 717,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -17881,7 +17882,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 91,
+      "botcommando": 92,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -17911,7 +17912,7 @@
     },
     "5215660242865@s.whatsapp.net": {
       "self": false,
-      "botcommando": 21,
+      "botcommando": 22,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -17961,7 +17962,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 172,
+      "botcommando": 174,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
