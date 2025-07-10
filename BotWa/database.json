@@ -2524,6 +2524,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215511898363@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214621173511@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Todinno",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3523,6 +3541,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5214621173511@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 36,
+          "usedcommands": 1,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "Subs": 1752127806978
         }
       },
       "sWelcome": "",
@@ -5132,6 +5160,15 @@
           "reason": ""
         },
         "5492966560704@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215511898363@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -8922,6 +8959,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5215511898363@s.whatsapp.net": {
+      "users": {
+        "5215511898363@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -8957,7 +9018,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 312,
+      "botcommando": 313,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
