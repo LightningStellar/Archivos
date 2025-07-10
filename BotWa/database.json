@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2624,6 +2624,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5216422302773@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "222887378210951@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56978518168@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "°•`  §uŋny ° 🪽⃝𝅦᳘֟፝͠◌⃘",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573235511077@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🌕⃞፝֟͝ꭷ   ⠟",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3794,6 +3830,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573235511077@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4603,22 +4648,22 @@
           "reason": ""
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 110671,
+          "chocolates": 99387,
           "bank": 0,
-          "exp": 7144,
-          "usedcommands": 49,
+          "exp": 7450,
+          "usedcommands": 57,
           "level": 31,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752167139322,
           "nextReward": 1055,
-          "rtCooldown": 1752168597846,
-          "crimeCooldown": 1752168525710,
-          "mineCooldown": 1752168532353,
-          "workCooldown": 1752168539588,
-          "slutCooldown": 1752168545084,
-          "pptCooldown": 1752168575056,
+          "rtCooldown": 1752169297884,
+          "crimeCooldown": 1752169320881,
+          "mineCooldown": 1752169323515,
+          "workCooldown": 1752169327399,
+          "slutCooldown": 1752169330255,
+          "pptCooldown": 1752169344942,
           "lastWeekly": 1752167251198,
           "lastMonthly": 1752167268604,
           "buyCooldown": 1752169310326,
@@ -4703,6 +4748,15 @@
           "reason": ""
         },
         "5491136729022@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6910,6 +6964,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56978518168@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7573,6 +7636,15 @@
     "120363395470706556@g.us": {
       "users": {
         "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "222887378210951@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -9158,7 +9230,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 249,
+      "botcommando": 257,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
