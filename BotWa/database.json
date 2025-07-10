@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⻩⸻𝐉⃥𝐀⃥꯭𝐘",
+      "name": "Han 💗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6498,6 +6498,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363313973995816@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7716,14 +7724,14 @@
           "reason": ""
         },
         "5217772876163@s.whatsapp.net": {
-          "chocolates": 100000,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 364,
-          "usedcommands": 6,
-          "level": 9,
+          "exp": 390,
+          "usedcommands": 7,
+          "level": 10,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752131157301
+          "rtCooldown": 1752161635086
         },
         "5215525237149@s.whatsapp.net": {
           "chocolates": 0,
@@ -7963,9 +7971,9 @@
         "5492974124262@s.whatsapp.net": {
           "chocolates": 10170,
           "bank": 0,
-          "exp": 895,
-          "usedcommands": 16,
-          "level": 13,
+          "exp": 42,
+          "usedcommands": 19,
+          "level": 14,
           "banned": false,
           "reason": "",
           "workCooldown": 1752161593042,
@@ -11308,9 +11316,9 @@
         "5491135078568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 98,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -17223,8 +17231,8 @@
         "5491135078568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 665,
-          "usedcommands": 14,
+          "exp": 677,
+          "usedcommands": 15,
           "level": 12,
           "banned": false,
           "reason": ""
@@ -18319,8 +18327,8 @@
         "51902486766@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 32770,
-          "exp": 5137,
-          "usedcommands": 39,
+          "exp": 5193,
+          "usedcommands": 40,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -21769,13 +21777,38 @@
         "573058340821@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 242,
-          "usedcommands": 4,
-          "level": 7,
+          "exp": 280,
+          "usedcommands": 5,
+          "level": 8,
           "banned": false,
           "reason": ""
         },
         "573059040844@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363313973995816@newsletter": {
+      "users": {
+        "120363313973995816@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -21832,7 +21865,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 809,
+      "botcommando": 813,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -21882,7 +21915,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 125,
+      "botcommando": 126,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -21992,7 +22025,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 270,
+      "botcommando": 272,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -22022,7 +22055,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 75,
+      "botcommando": 76,
       "prefix": "!",
       "namebot": "ꮺ  ִ  ﹫ 𝓙𝖺𝖼𝗄𝖿𝗋𝗈𝗌𝗍.  ❄   ᱉᱉",
       "namebot2": "𝕱𝗋𝗈𝗌𝗍.  ᨦ‌    ׅ ۟  ׁ",
