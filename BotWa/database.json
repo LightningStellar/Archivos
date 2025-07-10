@@ -13610,11 +13610,11 @@
     "120363403398321615@g.us": {
       "users": {
         "50248151611@s.whatsapp.net": {
-          "chocolates": 2845,
-          "bank": 0,
-          "exp": 529,
-          "usedcommands": 9,
-          "level": 10,
+          "chocolates": 0,
+          "bank": 2845,
+          "exp": 730,
+          "usedcommands": 12,
+          "level": 12,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752150604700,
@@ -13879,7 +13879,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 13,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
