@@ -2946,6 +2946,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363407370275038@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -10532,6 +10540,31 @@
           "reason": ""
         },
         "17604773961@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363407370275038@newsletter": {
+      "users": {
+        "120363407370275038@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
