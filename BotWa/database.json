@@ -8221,6 +8221,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51929399062@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Sin Nombre",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "18063331629@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+1 806-333-1629",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51931366139@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 931 366 139",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11273,6 +11300,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215615583503@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -11898,6 +11934,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "18063331629@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12956,6 +13001,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51931366139@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13610,6 +13664,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51929399062@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 2,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30463,7 +30526,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -30519,7 +30583,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 761,
+      "botcommando": 762,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
