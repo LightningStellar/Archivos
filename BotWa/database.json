@@ -722,7 +722,7 @@
     "212609690006@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Hatsune Miku",
+      "name": "Kana Arima",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2963,6 +2963,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212691587712@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Rachid Ayt Malek",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3299,6 +3308,15 @@
           "exp": 0,
           "usedcommands": 0,
           "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "212691587712@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 72,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -7552,10 +7570,10 @@
           "rtCooldown": 1752134019385
         },
         "5219932092138@s.whatsapp.net": {
-          "chocolates": 28342,
+          "chocolates": 98342,
           "bank": 0,
-          "exp": 3474,
-          "usedcommands": 43,
+          "exp": 3542,
+          "usedcommands": 46,
           "level": 23,
           "banned": false,
           "reason": "",
@@ -7565,7 +7583,7 @@
           "mineCooldown": 1752139835088,
           "workCooldown": 1752139831518,
           "lastWeekly": 1752121661823,
-          "rtCooldown": 1752135381886,
+          "rtCooldown": 1752139902531,
           "crimeCooldown": 1752130738029,
           "slutCooldown": 1752130744450
         },
@@ -10637,7 +10655,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000257,
+      "botcommando": 1000000000258,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
@@ -10717,7 +10735,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 360,
+      "botcommando": 363,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
