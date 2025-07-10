@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Bianca",
+      "name": "🍰𐚁 ֹ ִ 𝓔𝓶𝓲 ! ୧ ֹ ִ🍩",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3255,7 +3255,7 @@
     "573135861052@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Oliver aiku",
+      "name": "+57 313 5861052",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3994,13 +3994,18 @@
           "reason": ""
         },
         "51962264360@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 26902,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 640,
+          "usedcommands": 5,
+          "level": 12,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752144706302,
+          "nextReward": 39165,
+          "lastWeekly": 1752144711237,
+          "rtCooldown": 1752145325831
         },
         "573159596290@s.whatsapp.net": {
           "chocolates": 0,
@@ -12027,7 +12032,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 570,
+      "botcommando": 575,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
