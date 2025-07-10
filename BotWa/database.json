@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Neko",
+      "name": "🍪͚ᰰ᮫໋      ᥴ᷼օ᷼օ᷼ƙ᷼ιǝ̫",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12130,6 +12130,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12142,7 +12151,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363416688565062@g.us": {
       "users": {
