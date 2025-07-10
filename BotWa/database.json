@@ -722,7 +722,7 @@
     "212609690006@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Kana Arima",
+      "name": "Hatsune Miku",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3962,7 +3962,7 @@
     "50687717451@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌦⃢黷 〫۫𑪔̣⋆۪࣪ໍ",
+      "name": "+506 8771 7451",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4043,6 +4043,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "18093995320@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Day💕",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5135,24 +5144,24 @@
         },
         "573228667071@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 24812,
-          "exp": 3954,
-          "usedcommands": 62,
-          "level": 24,
+          "bank": 22405,
+          "exp": 4346,
+          "usedcommands": 68,
+          "level": 25,
           "banned": false,
           "reason": "",
           "Subs": 1752134774204,
-          "crimeCooldown": 1752138595827,
-          "mineCooldown": 1752138597538,
+          "crimeCooldown": 1752151601731,
+          "mineCooldown": 1752151603238,
           "workCooldown": 1752138599298,
-          "slutCooldown": 1752138602281,
+          "slutCooldown": 1752151609453,
           "dailyStreak": 1,
           "lastDaily": 1752135485360,
           "nextReward": 23785,
           "lastMonthly": 1752135489449,
           "lastWeekly": 1752135493251,
           "pptCooldown": 1752136101554,
-          "rtCooldown": 1752138416098,
+          "rtCooldown": 1752151634041,
           "rwCooldown": 1752137670340
         },
         "573222383628@s.whatsapp.net": {
@@ -12708,18 +12717,20 @@
     "120363402357012910@g.us": {
       "users": {
         "573058340821@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 3665,
           "bank": 35707,
-          "exp": 232,
-          "usedcommands": 7,
-          "level": 8,
+          "exp": 341,
+          "usedcommands": 9,
+          "level": 9,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752140027040,
           "nextReward": 656,
           "rwCooldown": 1752140937719,
-          "buyCooldown": 1752140942334
+          "buyCooldown": 1752140942334,
+          "workCooldown": 1752151614753,
+          "slutCooldown": 1752151618594
         },
         "573059040844@s.whatsapp.net": {
           "chocolates": 0,
@@ -14048,6 +14059,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "18093995320@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14060,7 +14080,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363367580547041@g.us": {
       "users": {
@@ -14114,7 +14135,7 @@
   "settings": {
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 1000000000041,
+      "botcommando": 1000000000042,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -14144,7 +14165,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 640,
+      "botcommando": 646,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -14214,7 +14235,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 18,
+      "botcommando": 19,
       "prefix": "/",
       "namebot": "❜ ࿙⃛͜ΛFЯӨDIƬΣ BӨƬ🪉⃝𝅦᳘֟፝͠◌⃘",
       "namebot2": "📖  ⃕   ࿙⃛͜𝕬𝖋𝖗𝖔𝖉𝖎𝖙𝖊🪽⃝𝅦᳘֟፝͠◌⃘",
