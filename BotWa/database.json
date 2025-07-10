@@ -3584,8 +3584,8 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 500000,
           "bank": 2225921,
-          "exp": 9131,
-          "usedcommands": 76,
+          "exp": 9245,
+          "usedcommands": 78,
           "level": 34,
           "banned": false,
           "reason": "",
@@ -5341,6 +5341,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573195735174@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6936,10 +6945,10 @@
           "rtCooldown": 1752129242781
         },
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 186043,
+          "chocolates": 186643,
           "bank": 0,
-          "exp": 8276,
-          "usedcommands": 114,
+          "exp": 8426,
+          "usedcommands": 117,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -6985,14 +6994,14 @@
           "crimeCooldown": 1752124578550
         },
         "5213316279181@s.whatsapp.net": {
-          "chocolates": 2671,
+          "chocolates": 671,
           "bank": 0,
-          "exp": 202,
-          "usedcommands": 4,
+          "exp": 208,
+          "usedcommands": 5,
           "level": 7,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752126923539,
+          "rtCooldown": 1752129355112,
           "mineCooldown": 1752126913685,
           "workCooldown": 1752126918509
         }
@@ -9388,7 +9397,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 389,
+      "botcommando": 391,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune Miku",
@@ -9448,7 +9457,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 302,
+      "botcommando": 306,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
