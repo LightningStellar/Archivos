@@ -1526,7 +1526,7 @@
     "5491162724649@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Â°â¢\\_...â..._/â¢Â°",
+      "name": "°•\\_...☆..._/•°",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4205,6 +4205,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "52780903485615@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6790,11 +6799,11 @@
           "personajesEnVenta": []
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 368387,
+          "chocolates": 367387,
           "bank": 0,
-          "exp": 8169,
-          "usedcommands": 75,
-          "level": 32,
+          "exp": 8264,
+          "usedcommands": 77,
+          "level": 33,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -6808,8 +6817,8 @@
           "pptCooldown": 1752169344942,
           "lastWeekly": 1752167251198,
           "lastMonthly": 1752167268604,
-          "buyCooldown": 1752169310326,
-          "rwCooldown": 1752169306729,
+          "buyCooldown": 1752173460868,
+          "rwCooldown": 1752173457094,
           "characters": [
             {
               "name": "Yuzuha Shiba",
@@ -6817,6 +6826,14 @@
               "value": 10000,
               "gender": "Mujer",
               "source": "Tokyo Revengers",
+              "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Choi Jong-in",
+              "url": "https://stellarwa.xyz/files/1749348717608.jpg",
+              "value": 1000,
+              "gender": "Hombre",
+              "source": "Solo Leveling",
               "claim": "jueves, 10 de julio de 2025"
             }
           ],
@@ -10555,6 +10572,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "52780903485615@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12055,6 +12081,15 @@
           "personajesEnVenta": []
         },
         "59162601105@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491162724649@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -15569,7 +15604,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 383,
+      "botcommando": 385,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
