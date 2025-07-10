@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "🧐🥃",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -874,7 +874,7 @@
     "5491133915075@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ£ÃÂÃÂÃÂÃÂ ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ­ ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ³ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂµÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ´ ÃÂÃÂ£ÃÂÃÂÃÂÃÂ",
+      "name": "《 𝘌𝘭 𝘋𝘰𝘳𝘪𝘵𝘰𝘴 》",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6362,6 +6362,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51902376841@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "݁🍃⃞¡Criss !ꕮ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6579,6 +6588,15 @@
           "personajesEnVenta": []
         },
         "5217131072636@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51902376841@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6932,11 +6950,11 @@
           "workCooldown": 1752178691736
         },
         "573128732144@s.whatsapp.net": {
-          "chocolates": 56461,
-          "bank": 0,
-          "exp": 805,
-          "usedcommands": 6,
-          "level": 13,
+          "chocolates": 0,
+          "bank": 54011,
+          "exp": 2234,
+          "usedcommands": 12,
+          "level": 19,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752179447506,
@@ -6946,7 +6964,10 @@
           "pptCooldown": 1752179456061,
           "dailyStreak": 1,
           "lastDaily": 1752178860123,
-          "nextReward": 4161
+          "nextReward": 4161,
+          "lastMonthly": 1752178863946,
+          "lastWeekly": 1752178868542,
+          "rtCooldown": 1752179484323
         }
       },
       "sWelcome": "",
@@ -8939,8 +8960,8 @@
         "5215660242865@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 131,
-          "usedcommands": 3,
+          "exp": 212,
+          "usedcommands": 4,
           "level": 6,
           "banned": false,
           "reason": "",
@@ -10575,16 +10596,16 @@
           "bank": 0,
           "exp": 254,
           "usedcommands": 3,
-          "level": 7,
+          "level": 8,
           "banned": false,
           "reason": ""
         },
         "51952784405@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 77,
+          "usedcommands": 4,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -23559,7 +23580,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 188,
+      "botcommando": 192,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -23569,7 +23590,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 578,
+      "botcommando": 584,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -23579,7 +23600,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 40,
       "prefix": "+",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -23639,7 +23660,7 @@
     },
     "5215660242865@s.whatsapp.net": {
       "self": false,
-      "botcommando": 62,
+      "botcommando": 63,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -23729,7 +23750,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 97,
+      "botcommando": 99,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
