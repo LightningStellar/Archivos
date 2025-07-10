@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Diego.C",
+      "name": "ᰔᩚ٭✰˚𝓖𝓲𝓼𝓮𝓵𝓵𝓮˚✰٭ᰔᩚ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1710,6 +1710,24 @@
     "120363299987554149@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491166114769@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 11 6611-4769",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573007401641@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Sh ╶⃝⃤",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3893,6 +3911,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573007401641@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -5824,6 +5851,30 @@
     "120363299987554149@newsletter": {
       "users": {
         "120363299987554149@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363416593633452@g.us": {
+      "users": {
+        "5491166114769@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
