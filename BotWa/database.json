@@ -4087,6 +4087,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492324347631@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6656,10 +6665,10 @@
           "mineCooldown": 1752122209926
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 183387,
+          "chocolates": 173387,
           "bank": 0,
-          "exp": 3185,
-          "usedcommands": 66,
+          "exp": 3259,
+          "usedcommands": 67,
           "level": 22,
           "banned": false,
           "reason": "",
@@ -6668,7 +6677,7 @@
           "nextReward": 15948,
           "workCooldown": 1752126605224,
           "mineCooldown": 1752126602924,
-          "rtCooldown": 1752127640779,
+          "rtCooldown": 1752128298245,
           "rwCooldown": 1752126231141,
           "buyCooldown": 0,
           "slutCooldown": 1752126609928,
@@ -9008,7 +9017,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 269,
+      "botcommando": 270,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
