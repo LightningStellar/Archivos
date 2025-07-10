@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valen ☆",
+      "name": ".",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2182,7 +2182,7 @@
     "5213332243404@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂµÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ·ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¡",
+      "name": "𝗖̸꯭َ𝗛꯭ٍّ𝚵꯭ْ𝗥̷꯭ٗ𝖄𝗡",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7661,6 +7661,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "593996527509@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "july",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -16658,6 +16667,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "52780903485615@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28429,6 +28447,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "593996527509@s.whatsapp.net": {
+      "users": {
+        "593996527509@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
