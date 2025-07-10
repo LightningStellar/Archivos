@@ -56,7 +56,16 @@
       "description": ""
     },
     "No session found to decrypt message": {},
-    "No matching sessions found for message": {}
+    "No matching sessions found for message": {},
+    "5492994291548@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Jonas",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    }
   },
   "chats": {
     "5492916450307@s.whatsapp.net": {
@@ -170,6 +179,30 @@
     "120363392315377581@g.us": {
       "users": {
         "120363392315377581@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "status@broadcast": {
+      "users": {
+        "5492994291548@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
