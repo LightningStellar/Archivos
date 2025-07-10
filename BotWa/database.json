@@ -1027,7 +1027,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ꞌꞋ ࣪ 𝐀𝐥͟ᥱ ݂ 🕸̌",
+      "name": "~𝑘𝑖𝑎𝑎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4219,7 +4219,16 @@
     "34205773889789@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "𓍯 ִֶָₑᗰy۶ৎ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573228545835@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".ᐟ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10338,6 +10347,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573228545835@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14634,6 +14652,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363400342492674@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
