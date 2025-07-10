@@ -529,9 +529,9 @@
         "59160721071@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 62,
+          "usedcommands": 1,
+          "level": 4,
           "banned": false,
           "reason": ""
         },
@@ -738,7 +738,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000005,
+      "botcommando": 1000000000006,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
