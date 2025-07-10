@@ -333,7 +333,7 @@
     "5493812368753@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ã£ÂÂ Ã°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂÃ°ÂÂÂ Ã£ÂÂ» Ã¨ÂÂÃ¦Â¥Â½Ã¥Â»Â» Ã£ÂÂÃ¢ÂÂ",
+      "name": "『 𝘐𝘚𝘈𝘎𝘐 ・ 蜂楽廻 』┃",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3845,8 +3845,8 @@
         "51962264360@s.whatsapp.net": {
           "chocolates": 25432,
           "bank": 0,
-          "exp": 6731,
-          "usedcommands": 75,
+          "exp": 6781,
+          "usedcommands": 77,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -4017,11 +4017,11 @@
           "reason": ""
         },
         "5492974124262@s.whatsapp.net": {
-          "chocolates": 9129,
+          "chocolates": 8136,
           "bank": 0,
-          "exp": 885,
-          "usedcommands": 18,
-          "level": 13,
+          "exp": 1087,
+          "usedcommands": 21,
+          "level": 15,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752168158225,
@@ -4044,7 +4044,8 @@
           "lastDaily": 1752167390046,
           "nextReward": 37016,
           "characterCount": null,
-          "totalRwcoins": null
+          "totalRwcoins": null,
+          "pptCooldown": 1752168054012
         },
         "5492914407013@s.whatsapp.net": {
           "chocolates": 0,
@@ -4085,8 +4086,8 @@
         "51928701104@s.whatsapp.net": {
           "chocolates": 13156,
           "bank": 0,
-          "exp": 4597,
-          "usedcommands": 15,
+          "exp": 4693,
+          "usedcommands": 17,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -4100,7 +4101,8 @@
           "slutCooldown": 1752167827634,
           "pptCooldown": 1752167834204,
           "lastWeekly": 1752167251198,
-          "lastMonthly": 1752167268604
+          "lastMonthly": 1752167268604,
+          "buyCooldown": 0
         }
       },
       "sWelcome": "",
@@ -4200,11 +4202,12 @@
         "5493812368753@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 112,
+          "usedcommands": 2,
+          "level": 3,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "rwCooldown": 1752168337335
         },
         "50258570250@s.whatsapp.net": {
           "chocolates": 0,
@@ -4335,7 +4338,18 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": [
+        {
+          "userId": "5493812368753@s.whatsapp.net",
+          "name": "Gon Freecss",
+          "url": "https://stellarwa.xyz/files/1750784487378.jpg",
+          "value": 13000,
+          "gender": "Hombre",
+          "source": "Hunter x Hunter",
+          "id": "99bdc1a6"
+        }
+      ]
     },
     "212609690006@s.whatsapp.net": {
       "users": {
@@ -7669,7 +7683,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -7725,7 +7740,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 148,
+      "botcommando": 157,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
