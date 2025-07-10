@@ -2981,6 +2981,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51969820061@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "!!",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3326,6 +3335,15 @@
           "exp": 72,
           "usedcommands": 1,
           "level": 5,
+          "banned": false,
+          "reason": ""
+        },
+        "51969820061@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 49,
+          "usedcommands": 1,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -10673,7 +10691,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1000000000258,
+      "botcommando": 1000000000259,
       "prefix": "/#.",
       "namebot": "Senko San",
       "namebot2": "Senko",
