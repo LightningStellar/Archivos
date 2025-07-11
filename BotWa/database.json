@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "axcelgonzalez2007",
+      "name": "肺がかゆい",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2603,6 +2603,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493546568751@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Gato Sabio",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573058340821@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "｡･:*:･ﾟ｡★𝔹.𝔹.𝕝☆｡ﾟ･:*",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3474,6 +3492,15 @@
           "reason": ""
         },
         "593993712884@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493546568751@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -5227,10 +5254,10 @@
           "personajesEnVenta": []
         },
         "50236933411@s.whatsapp.net": {
-          "chocolates": 9115,
-          "bank": 14179,
-          "exp": 6179,
-          "usedcommands": 17,
+          "chocolates": 0,
+          "bank": 22666,
+          "exp": 6312,
+          "usedcommands": 20,
           "level": 29,
           "banned": false,
           "reason": "",
@@ -5244,7 +5271,7 @@
           "lastWeekly": 1752235864275,
           "lastMonthly": 1752235866750,
           "slutCooldown": 1752239906034,
-          "pptCooldown": 1752236472067,
+          "pptCooldown": 1752239907968,
           "personajesEnVenta": []
         }
       },
@@ -9325,6 +9352,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363399212258053@g.us": {
+      "users": {
+        "573058340821@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -9390,7 +9441,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 37,
+      "botcommando": 40,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
