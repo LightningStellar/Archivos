@@ -11792,6 +11792,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50664899894@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Aydan🖤",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21428,23 +21437,23 @@
           "personajesEnVenta": []
         },
         "5492324347631@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 4982,
           "bank": 0,
-          "exp": 10466,
-          "usedcommands": 88,
-          "level": 36,
+          "exp": 11137,
+          "usedcommands": 95,
+          "level": 37,
           "banned": false,
           "reason": "",
           "rtCooldown": 1752221508295,
           "dailyStreak": 1,
           "lastDaily": 1752203140354,
           "nextReward": 715,
-          "workCooldown": 1752221491406,
-          "mineCooldown": 1752221499641,
-          "crimeCooldown": 1752221493133,
-          "slutCooldown": 1752221494704,
+          "workCooldown": 1752222712379,
+          "mineCooldown": 1752222719363,
+          "crimeCooldown": 1752222714168,
+          "slutCooldown": 1752222715769,
           "personajesEnVenta": [],
-          "pptCooldown": 1752220567937,
+          "pptCooldown": 1752222723249,
           "reportime": 1752208378426,
           "lastWeekly": 1752214673288,
           "lastMonthly": 1752214676153
@@ -36703,6 +36712,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50664899894@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40172,7 +40190,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 343,
+      "botcommando": 350,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
