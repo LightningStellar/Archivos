@@ -92,7 +92,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "+52 642 230 2773",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "✮$NUNEW$✮",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6995,7 +6995,7 @@
     "51963309930@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ઈ𝖨𝘃𝗮͡͡𝗻͜𝗻 🐋͓ᤋ",
+      "name": "+51 963 309 930",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11858,6 +11858,41 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5218992572602@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✦",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "225937442500804@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363331208649650@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59174619623@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ">≤",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -15645,17 +15680,17 @@
           "personajesEnVenta": []
         },
         "5216422302773@s.whatsapp.net": {
-          "chocolates": 927,
+          "chocolates": 348,
           "bank": 61929,
-          "exp": 1388,
-          "usedcommands": 26,
+          "exp": 1450,
+          "usedcommands": 29,
           "level": 16,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
           "workCooldown": 1752253027592,
           "mineCooldown": 1752244470497,
-          "crimeCooldown": 1752244476171,
+          "crimeCooldown": 1752253051724,
           "slutCooldown": 1752243050273,
           "rtCooldown": 1752247876800,
           "Subs": 1752242615857,
@@ -18302,8 +18337,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 25258,
           "bank": 0,
-          "exp": 1716,
-          "usedcommands": 76,
+          "exp": 1849,
+          "usedcommands": 78,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -20882,6 +20917,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "225937442500804@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21658,6 +21702,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5218992572602@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32733,6 +32786,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59174619623@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33077,9 +33139,9 @@
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 92,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -35088,6 +35150,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5491135078568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35831,6 +35902,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363331208649650@newsletter": {
+      "users": {
+        "120363331208649650@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -35886,7 +35981,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 316,
+      "botcommando": 319,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -35956,7 +36051,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 83,
+      "botcommando": 85,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -36056,7 +36151,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 15,
+      "botcommando": 16,
       "prefix": "!",
       "namebot": "ꮺ  ִ  ﹫ 𝓙𝖺𝖼𝗄𝖿𝗋𝗈𝗌𝗍.  ❄   ᱉᱉",
       "namebot2": "𝕱𝗋𝗈𝗌𝗍.  ᨦ‌    ׅ ۟  ׁ",
