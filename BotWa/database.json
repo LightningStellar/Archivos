@@ -452,7 +452,7 @@
     "573228667071@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "C.R",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21118,11 +21118,37 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363284003812446@g.us": {
       "users": {
         "50254598443@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "573228667071@s.whatsapp.net": {
+      "users": {
+        "573228667071@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
