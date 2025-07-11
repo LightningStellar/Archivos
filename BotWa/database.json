@@ -1853,6 +1853,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219622739355@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🇦🇱    ̶͟͞𝐋𝚎𝚐𝚘 ﾶ  ݂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51912786549@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ali - Ren - Lu",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56933903117@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ptapialatorre",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2547,6 +2574,15 @@
           "reason": ""
         },
         "573229526635@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219622739355@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6538,6 +6574,55 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "51912786549@s.whatsapp.net": {
+      "users": {
+        "51912786549@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "56933903117@s.whatsapp.net": {
+      "users": {
+        "56933903117@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
