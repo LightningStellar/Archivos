@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ainara (⁠ㆁ⁠ω⁠ㆁ⁠)",
+      "name": "Michu",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7214,6 +7214,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50686764990@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Isaac👺",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51931239799@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492617043978@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ʂαɱαҽʅ♥︎🌹",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -8831,6 +8858,15 @@
           "reason": ""
         },
         "595986163941@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50686764990@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12005,6 +12041,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5213310224249@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -16105,6 +16150,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51931239799@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23705,6 +23759,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492617043978@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24017,7 +24080,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
