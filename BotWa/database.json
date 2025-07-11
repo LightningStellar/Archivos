@@ -12105,6 +12105,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "3797053083671@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493718327547@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "The King's👑🤴",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -27940,6 +27958,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493718327547@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 56,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "@user Bienvenidx a este grupo de ezquisofrenicos espero la pases bien sin más te dejo las reglas para que las leas @desc sin tienes alguna duda no dudes en etiquetarme oh algún otro admin",
@@ -30247,18 +30274,18 @@
           "totalRwcoins": null
         },
         "5219932092138@s.whatsapp.net": {
-          "chocolates": 12122,
+          "chocolates": 16687,
           "bank": 0,
-          "exp": 1516,
-          "usedcommands": 33,
-          "level": 16,
+          "exp": 1739,
+          "usedcommands": 38,
+          "level": 18,
           "banned": false,
           "reason": "",
           "workCooldown": 1752226808863,
-          "mineCooldown": 1752208179172,
+          "mineCooldown": 1752226810429,
           "rtCooldown": 1752226727848,
-          "slutCooldown": 1752208183905,
-          "crimeCooldown": 1752208189336,
+          "slutCooldown": 1752226821633,
+          "crimeCooldown": 1752226824533,
           "rwCooldown": 1752205691027,
           "dailyStreak": 1,
           "lastDaily": 1752204834959,
@@ -33651,6 +33678,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "3797053083671@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41029,7 +41065,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": true,
-      "botcommando": 93,
+      "botcommando": 94,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -41079,7 +41115,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 158,
+      "botcommando": 159,
       "prefix": "#/",
       "namebot": "Tsumugi Rintaro",
       "namebot2": "Tsumugi Rintaro",
@@ -41109,7 +41145,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 155,
+      "botcommando": 156,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41309,7 +41345,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 162,
+      "botcommando": 165,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
