@@ -3598,6 +3598,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50589251627@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "♡➹Janet..",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5343,6 +5352,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50589251627@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -5393,9 +5411,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 27,
+          "usedcommands": 2,
+          "level": 3,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -5466,10 +5484,10 @@
           "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 529560,
+          "chocolates": 400000,
           "bank": 0,
-          "exp": 1528,
-          "usedcommands": 12,
+          "exp": 1709,
+          "usedcommands": 14,
           "level": 17,
           "banned": false,
           "reason": "",
@@ -5481,7 +5499,7 @@
           "mineCooldown": 1752242022081,
           "lastMonthly": 1752241427053,
           "lastWeekly": 1752241432121,
-          "rtCooldown": 1752242054401
+          "rtCooldown": 1752242681195
         },
         "573143237521@s.whatsapp.net": {
           "chocolates": 0,
@@ -5514,10 +5532,10 @@
           "personajesEnVenta": []
         },
         "5511998790420@s.whatsapp.net": {
-          "chocolates": 6480,
+          "chocolates": 6630,
           "bank": 51543,
-          "exp": 760,
-          "usedcommands": 20,
+          "exp": 957,
+          "usedcommands": 23,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -12688,7 +12706,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 107,
+      "botcommando": 114,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
