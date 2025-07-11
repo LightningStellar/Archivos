@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "肺がかゆい",
+      "name": "𓆩𝑵𝒊𝒄𝒐𓆪",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7209,7 +7209,7 @@
     "584121937388@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Vinotinto🍷",
+      "name": "𝐒𝐚𝐫𝐢𝐭𝐚 🎐",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18047,6 +18047,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "🪨✬★𝒜𝑅𝐸✬★🪨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "79594669498477@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "71962764263604@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -29369,8 +29387,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 111253,
-          "exp": 3552,
-          "usedcommands": 232,
+          "exp": 3636,
+          "usedcommands": 234,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -32265,6 +32283,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50660525643@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33196,6 +33223,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "71962764263604@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39138,8 +39174,8 @@
         "5212331515986@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 2314,
-          "exp": 82,
-          "usedcommands": 62,
+          "exp": 86,
+          "usedcommands": 63,
           "level": 10,
           "banned": false,
           "reason": "",
@@ -42344,15 +42380,15 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 380175,
           "bank": 0,
-          "exp": 3578,
-          "usedcommands": 61,
+          "exp": 3595,
+          "usedcommands": 63,
           "level": 23,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752254886666,
           "workCooldown": 1752254889884,
           "rtCooldown": 1752264983060,
-          "rwCooldown": 1752261194861,
+          "rwCooldown": 1752265335864,
           "buyCooldown": 1752256569450,
           "characters": [],
           "personajesEnVenta": [
@@ -42477,6 +42513,15 @@
           "gender": "Hombre",
           "source": "Arifureta",
           "id": "f465af5a"
+        },
+        {
+          "userId": "573103563906@s.whatsapp.net",
+          "name": "Mabel Laybelle",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205569-uFcBLlhb3pM2.jpg",
+          "value": 476282,
+          "gender": "Mujer",
+          "source": "Mi tio es de otro Mundo",
+          "id": "74159230"
         }
       ]
     },
@@ -42555,6 +42600,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493812074317@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -49953,6 +50007,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "79594669498477@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -54768,7 +54831,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 363,
+      "botcommando": 365,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -54828,7 +54891,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 251,
+      "botcommando": 252,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -54848,7 +54911,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 259,
+      "botcommando": 261,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
