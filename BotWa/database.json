@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🪫̵̼࣪ ۫  𝐆̷̸𝗘̷̤ؒ𝐊𝐊𝚫",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12038,6 +12038,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "707",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "33986629877764@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "63020675940538@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -29488,6 +29506,15 @@
           "reason": "",
           "rwCooldown": 1752210871855,
           "personajesEnVenta": []
+        },
+        "63020675940538@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38193,6 +38220,15 @@
           "personajesEnVenta": []
         },
         "5214433715909@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "33986629877764@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
