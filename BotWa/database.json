@@ -1092,6 +1092,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56972803247@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "O",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493813600475@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ᵃᵛʳ🗨️𝕰𝖙𝖊𝖗𝖓𝖆𝖑 𝖂𝖗𝖆𝖙𝖍• ꖂ👓",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1340,6 +1358,21 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493764838767@s.whatsapp.net": {
+          "chocolates": 1513,
+          "bank": 0,
+          "exp": 184,
+          "usedcommands": 4,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752235031381,
+          "dailyStreak": 1,
+          "lastDaily": 1752234137683,
+          "nextReward": 46530,
+          "buyCooldown": 0,
+          "characters": []
         }
       },
       "sWelcome": "",
@@ -1353,7 +1386,18 @@
       "primaryBot": "5492914407013@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": [
+        {
+          "userId": "5493764838767@s.whatsapp.net",
+          "name": "Yui Sagakure",
+          "url": "https://stellarwa.xyz/files/1751833532416.jpg",
+          "value": 12000,
+          "gender": "Mujer",
+          "source": "Date A Live",
+          "id": "169e746c"
+        }
+      ]
     },
     "5216422302773@s.whatsapp.net": {
       "users": {
@@ -2154,11 +2198,11 @@
           "reason": ""
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 52831,
+          "chocolates": 7831,
           "bank": 0,
-          "exp": 3123,
-          "usedcommands": 9,
-          "level": 22,
+          "exp": 3393,
+          "usedcommands": 14,
+          "level": 23,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -2168,7 +2212,22 @@
           "lastMonthly": 1752234059539,
           "lastWeekly": 1752234064087,
           "crimeCooldown": 1752234670901,
-          "mineCooldown": 1752234673646
+          "mineCooldown": 1752234673646,
+          "rtCooldown": 1752234693329,
+          "rwCooldown": 1752235006770,
+          "buyCooldown": 1752235013656,
+          "characters": [
+            {
+              "name": "Teruo Hazukashi",
+              "url": "https://stellarwa.xyz/files/1750636346432.jpg",
+              "value": 20000,
+              "gender": "Hombre",
+              "source": "My Hero Academia",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         }
       },
       "sWelcome": "",
@@ -2182,7 +2241,8 @@
       "primaryBot": "5218713339906@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     },
     "212609690006@s.whatsapp.net": {
       "users": {
@@ -3442,6 +3502,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493813600475@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3945,6 +4014,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56972803247@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3957,7 +4035,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401703859951@g.us": {
       "users": {
@@ -3987,7 +4066,7 @@
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 14,
       "prefix": "/",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -4037,7 +4116,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 18,
+      "botcommando": 23,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
