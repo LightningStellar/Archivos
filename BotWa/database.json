@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "El Pepe",
+      "name": "🄷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4456,7 +4456,7 @@
     "5215513021315@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 55 1302 1315",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17545,6 +17545,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363328250062862@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -24197,6 +24205,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50254598443@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28644,8 +28661,8 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 42605,
-          "exp": 7881,
-          "usedcommands": 89,
+          "exp": 8000,
+          "usedcommands": 91,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -28687,8 +28704,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 91328,
-          "exp": 1628,
-          "usedcommands": 201,
+          "exp": 1801,
+          "usedcommands": 203,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -34719,8 +34736,8 @@
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 38766,
-          "exp": 5748,
-          "usedcommands": 62,
+          "exp": 5772,
+          "usedcommands": 63,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -34735,7 +34752,7 @@
           "nextReward": 28971,
           "lastWeekly": 1752256999384,
           "lastMonthly": 1752257002107,
-          "rwCooldown": 1752258170966,
+          "rwCooldown": 1752263985683,
           "buyCooldown": 1752258198825,
           "characters": [
             {
@@ -34814,9 +34831,9 @@
         },
         "51902486766@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 156701,
-          "exp": 12284,
-          "usedcommands": 115,
+          "bank": 154391,
+          "exp": 12500,
+          "usedcommands": 122,
           "level": 38,
           "banned": false,
           "reason": "",
@@ -34828,12 +34845,12 @@
           "pptCooldown": 1752263650682,
           "workCooldown": 1752263646551,
           "rtCooldown": 1752263660400,
-          "slutCooldown": 1752262660166,
+          "slutCooldown": 1752263679830,
           "personajesEnVenta": [],
           "lastWeekly": 1752248661709,
           "lastMonthly": 1752248667660,
-          "rwCooldown": 1752259697369,
-          "buyCooldown": 1752249607718,
+          "rwCooldown": 1752263969419,
+          "buyCooldown": 1752263988309,
           "characters": [
             {
               "name": "Ellen Mira Mathers",
@@ -34841,6 +34858,14 @@
               "value": 12000,
               "gender": "Mujer",
               "source": "Date A Live",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Saki Shima",
+              "url": "https://stellarwa.xyz/files/1751817873245.jpg",
+              "value": 361,
+              "gender": "Mujer",
+              "source": "Yuru Camp",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -34967,6 +34992,15 @@
           "gender": "Hombre",
           "source": "Mob Psycho",
           "id": "b9e69a67"
+        },
+        {
+          "userId": "5219371465815@s.whatsapp.net",
+          "name": "Kyudai Garaki",
+          "url": "https://stellarwa.xyz/files/1750644738399.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "35d74436"
         }
       ]
     },
@@ -52908,6 +52942,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50248151611@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -53196,6 +53239,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363328250062862@newsletter": {
+      "users": {
+        "120363328250062862@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -53211,7 +53278,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 174,
+      "botcommando": 175,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -53261,7 +53328,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 332,
+      "botcommando": 335,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -53361,7 +53428,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 49,
+      "botcommando": 50,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -53401,7 +53468,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 475,
+      "botcommando": 482,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
