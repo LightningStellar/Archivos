@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "El Pepe",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -961,7 +961,7 @@
     "393518509171@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☆ ͡ ݂      ຣ⍺ʑ.    ۫ 🕯️ ࣪ ",
+      "name": "+39 351 850 9171",
       "genre": "Mujer",
       "birth": "jueves, 2 de octubre",
       "marry": "",
@@ -22820,6 +22820,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𓆉~",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56973378694@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "miguel",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218444950767@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "FLFrosty",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -63943,6 +63961,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5218444950767@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -69589,6 +69616,40 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363420290065329@g.us": {
+      "users": {
+        "5215615583503@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56973378694@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -69874,7 +69935,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": true,
-      "botcommando": 31,
+      "botcommando": 32,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
