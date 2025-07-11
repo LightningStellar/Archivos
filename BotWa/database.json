@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valentina",
+      "name": "axcelgonzalez2007",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -816,7 +816,7 @@
     "573143227449@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ .  ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¶ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ  ÃÂÃÂÃÂÃÂ­",
+      "name": "• .  𝑅𝒶𝓃  ٭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11928,6 +11928,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573143227449@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -18826,11 +18835,11 @@
           "personajesEnVenta": []
         },
         "5216422302773@s.whatsapp.net": {
-          "chocolates": 9317,
+          "chocolates": 6660,
           "bank": 0,
-          "exp": 477,
-          "usedcommands": 10,
-          "level": 10,
+          "exp": 1599,
+          "usedcommands": 13,
+          "level": 17,
           "banned": false,
           "reason": "",
           "workCooldown": 1752210792776,
@@ -18853,14 +18862,16 @@
           ],
           "characterCount": null,
           "totalRwcoins": null,
-          "crimeCooldown": 1752211023184
+          "crimeCooldown": 1752211023184,
+          "slutCooldown": 1752211045483,
+          "lastWeekly": 1752210486241
         },
         "5214426784774@s.whatsapp.net": {
-          "chocolates": 4334,
-          "bank": 0,
-          "exp": 443,
-          "usedcommands": 8,
-          "level": 10,
+          "chocolates": 0,
+          "bank": 13513,
+          "exp": 6755,
+          "usedcommands": 19,
+          "level": 30,
           "banned": false,
           "reason": "",
           "rtCooldown": 1752210866372,
@@ -18869,7 +18880,16 @@
           "characters": [],
           "characterCount": 0,
           "totalRwcoins": 0,
-          "workCooldown": 1752211025704
+          "workCooldown": 1752211025704,
+          "crimeCooldown": 1752211036250,
+          "slutCooldown": 1752211039802,
+          "mineCooldown": 1752211046409,
+          "pptCooldown": 1752211060924,
+          "dailyStreak": 1,
+          "lastDaily": 1752210464444,
+          "nextReward": 28135,
+          "lastWeekly": 1752210468875,
+          "lastMonthly": 1752210472721
         },
         "50489132730@s.whatsapp.net": {
           "chocolates": 0,
@@ -30500,8 +30520,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 71792,
-          "exp": 10423,
-          "usedcommands": 86,
+          "exp": 10506,
+          "usedcommands": 88,
           "level": 36,
           "banned": false,
           "reason": "",
@@ -30523,7 +30543,7 @@
           "bank": 0,
           "exp": 260,
           "usedcommands": 4,
-          "level": 7,
+          "level": 8,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -34260,7 +34280,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": true,
-      "botcommando": 81,
+      "botcommando": 82,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -34310,7 +34330,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 82,
+      "botcommando": 85,
       "prefix": "#/",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
@@ -34320,7 +34340,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 12,
+      "botcommando": 13,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -34480,7 +34500,7 @@
     },
     "5219613301789@s.whatsapp.net": {
       "self": false,
-      "botcommando": 82,
+      "botcommando": 91,
       "prefix": "+ ­",
       "namebot": "⋆𝐌֟𝐀𞄴𝐒֟𝐇𝐈፝𝐑𝐎̸̨⋅ ⳱𝐓𝐒𞄶𝐔̸ؙ𝐊𝐈𞄵𝐘𝐔𞄳𝐊𞄱𔘓",
       "namebot2": "Mashiro",
