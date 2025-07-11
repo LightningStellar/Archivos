@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ユリディア・サンチェス",
+      "name": "☆ ୨𝓢𝓪𝓰𝓮 ୧ ☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12515,7 +12515,7 @@
     "191671824335096@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ઈ𝖨𝘃𝗮͡͡𝗻͜𝗻 🐋͓ᤋ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12543,6 +12543,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "poyo",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "169058603368644@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "222913735196914@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51913174789@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "달콤한 저주",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -16266,6 +16293,15 @@
           "reason": ""
         },
         "5355395633@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51913174789@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -20568,11 +20604,11 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 50809,
-          "bank": 449191,
-          "exp": 7452,
-          "usedcommands": 59,
-          "level": 31,
+          "chocolates": 0,
+          "bank": 400000,
+          "exp": 7709,
+          "usedcommands": 67,
+          "level": 32,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752240723906,
@@ -20584,8 +20620,8 @@
           "slutCooldown": 1752240729620,
           "lastMonthly": 1752239027242,
           "lastWeekly": 1752239032602,
-          "rtCooldown": 1752251226991,
-          "rwCooldown": 1752248353090,
+          "rtCooldown": 1752254446757,
+          "rwCooldown": 1752254763088,
           "buyCooldown": 1752246876151,
           "characters": [
             {
@@ -20759,6 +20795,15 @@
           "gender": "Hombre",
           "source": "Re:Zero",
           "id": "54b27fbc"
+        },
+        {
+          "userId": "573143237521@s.whatsapp.net",
+          "name": "Kouki Amanogawa",
+          "url": "https://stellarwa.xyz/files/1749354061288.jpg",
+          "value": 15000,
+          "gender": "Hombre",
+          "source": "Arifureta",
+          "id": "95ba0985"
         }
       ]
     },
@@ -23636,6 +23681,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "169058603368644@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24068,6 +24122,15 @@
           "personajesEnVenta": []
         },
         "210518342111466@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "222913735196914@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -28109,8 +28172,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 59,
-          "usedcommands": 4,
+          "exp": 105,
+          "usedcommands": 5,
           "level": 4,
           "banned": false,
           "reason": "",
@@ -37528,7 +37591,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 118,
+      "botcommando": 119,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37638,17 +37701,17 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 106,
+      "botcommando": 108,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
-      "owner": "yo",
+      "owner": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "banner": "https://stellarwa.xyz/files/1752242839094.jpg",
       "currency": "SylphyCoins"
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 128,
+      "botcommando": 136,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
