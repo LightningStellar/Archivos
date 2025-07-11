@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valen ☆",
+      "name": "Jonny🤑🤙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4990,6 +4990,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "64304887947424@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "593996527509@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "july",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -8270,6 +8288,15 @@
           "reason": ""
         },
         "5213317230201@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "64304887947424@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -11827,8 +11854,8 @@
         "593968273893@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 71689,
-          "exp": 5094,
-          "usedcommands": 69,
+          "exp": 5159,
+          "usedcommands": 70,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -13567,9 +13594,9 @@
         "5217296633340@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 122,
+          "usedcommands": 2,
+          "level": 6,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -13594,6 +13621,24 @@
           "reason": ""
         },
         "5493716412232@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "593996527509@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34683343365@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -16773,7 +16818,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 51,
+      "botcommando": 53,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -16853,7 +16898,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 117,
+      "botcommando": 118,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
