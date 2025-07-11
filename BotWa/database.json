@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Matagdeinnere",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7627,7 +7627,7 @@
     "5491135078568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "﹒⌗﹒𝕿𝓸𝓂𝒶́𝓈. 🥀﹒౨ৎ˚₊‧",
+      "name": "ა﹒⌗﹒𝒥 𝐓 𝓂. 🧣﹒౨ৎ˚₊‧ 𝓈",
       "genre": "Hombre",
       "birth": "viernes, 14 de marzo",
       "marry": "",
@@ -18670,6 +18670,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56956973504@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤㅤㅤ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "67951164190742@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215532727312@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𓃇 ꯭۪۪🍼̸ۖ  𝖡⵿ᮓ꯭ׅׄ𝗕ⵃ̸͟",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -22719,6 +22746,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56956973504@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25486,6 +25522,15 @@
           "reason": ""
         },
         "5492612518714@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215532727312@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29868,6 +29913,15 @@
           "reason": ""
         },
         "28463234863161@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "67951164190742@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -36435,11 +36489,11 @@
           "lastMonthly": 1752242897074
         },
         "5219371465815@s.whatsapp.net": {
-          "chocolates": 200,
-          "bank": 50315,
-          "exp": 9488,
-          "usedcommands": 121,
-          "level": 34,
+          "chocolates": 10200,
+          "bank": 60515,
+          "exp": 9676,
+          "usedcommands": 127,
+          "level": 35,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752266470388,
@@ -53255,6 +53309,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493812074317@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -54161,6 +54224,24 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "226104778457091@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -54173,7 +54254,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5492975049224@s.whatsapp.net": {
       "users": {
@@ -56792,7 +56874,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 616,
+      "botcommando": 621,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
@@ -56832,7 +56914,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 11,
+      "botcommando": 12,
       "prefix": "#",
       "namebot": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
       "namebot2": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
