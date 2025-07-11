@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "æ",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -26427,6 +26427,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "12244869121@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30153,9 +30162,9 @@
         },
         "573143237521@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 3488000,
-          "exp": 1180,
-          "usedcommands": 101,
+          "bank": 52320000,
+          "exp": 1285,
+          "usedcommands": 105,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -30168,7 +30177,7 @@
           "slutCooldown": 1752240729620,
           "lastMonthly": 1752239027242,
           "lastWeekly": 1752239032602,
-          "rtCooldown": 1752261000365,
+          "rtCooldown": 1752268434957,
           "rwCooldown": 1752261463553,
           "buyCooldown": 1752261467301,
           "characters": [
@@ -37849,8 +37858,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 142142,
-          "exp": 9799,
-          "usedcommands": 143,
+          "exp": 9846,
+          "usedcommands": 144,
           "level": 35,
           "banned": false,
           "reason": "",
@@ -37866,13 +37875,14 @@
           "pptCooldown": 1752267673016,
           "personajesEnVenta": [],
           "rtCooldown": 1752265726933,
-          "roboCooldown": 1752269146646
+          "roboCooldown": 1752269146646,
+          "rwCooldown": 1752268726164
         },
         "593968273893@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 103628,
-          "exp": 10685,
-          "usedcommands": 171,
+          "exp": 10744,
+          "usedcommands": 172,
           "level": 36,
           "banned": false,
           "reason": "",
@@ -38151,6 +38161,15 @@
           "gender": "Hombre",
           "source": "Assassination Classroom",
           "id": "f4acb447"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Fudousan Gyousha",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329387-trbVuGAg6ZBS.png",
+          "value": 3105,
+          "gender": "Hombre",
+          "source": "Kono Subarashii Sekai ni Shukufuku wo!",
+          "id": "9ad62f4c"
         }
       ]
     },
@@ -59113,7 +59132,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -59159,7 +59179,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 58,
+      "botcommando": 59,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -59249,7 +59269,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 199,
+      "botcommando": 202,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -59279,7 +59299,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 61,
+      "botcommando": 63,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
