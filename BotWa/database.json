@@ -27763,10 +27763,10 @@
           "personajesEnVenta": []
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 1616458,
+          "chocolates": 1116458,
           "bank": 0,
-          "exp": 4021,
-          "usedcommands": 22,
+          "exp": 4158,
+          "usedcommands": 24,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -27774,19 +27774,20 @@
           "dailyStreak": 1,
           "lastDaily": 1752202609742,
           "nextReward": 6118,
-          "rtCooldown": 1752213435606,
+          "rtCooldown": 1752214940601,
           "personajesEnVenta": [],
-          "lastMonthly": 1752206397809
+          "lastMonthly": 1752206397809,
+          "rwCooldown": 1752215281216
         },
         "5216141200934@s.whatsapp.net": {
           "chocolates": 62913,
           "bank": 0,
-          "exp": 2065,
-          "usedcommands": 44,
+          "exp": 2118,
+          "usedcommands": 45,
           "level": 19,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752208262328,
+          "rwCooldown": 1752215270156,
           "mineCooldown": 1752206987212,
           "workCooldown": 1752207304283,
           "slutCooldown": 1752205511158,
@@ -27907,6 +27908,24 @@
           "gender": "Hombre",
           "source": "Assassination Classroom",
           "id": "1f1fded4"
+        },
+        {
+          "userId": "5216141200934@s.whatsapp.net",
+          "name": "Fugetsu Hui Guo Rou",
+          "url": "https://stellarwa.xyz/files/1750784443410.jpg",
+          "value": 13000,
+          "gender": "Mujer",
+          "source": "Hunter x Hunter",
+          "id": "c3809c81"
+        },
+        {
+          "userId": "5213310224249@s.whatsapp.net",
+          "name": "Shingo Midou",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n5174-cYFDgXOjy3Ms.png",
+          "value": 46878,
+          "gender": "Hombre",
+          "source": "Death Note",
+          "id": "5400099d"
         }
       ]
     },
@@ -32331,18 +32350,18 @@
           "totalRwcoins": null
         },
         "5215522567568@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 47483,
-          "exp": 2578,
-          "usedcommands": 32,
+          "chocolates": 8755,
+          "bank": 77483,
+          "exp": 2926,
+          "usedcommands": 39,
           "level": 21,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
           "rwCooldown": 1752212993179,
-          "crimeCooldown": 1752211403335,
-          "mineCooldown": 1752211404935,
-          "workCooldown": 1752211414424,
+          "crimeCooldown": 1752214978800,
+          "mineCooldown": 1752214980682,
+          "workCooldown": 1752214982115,
           "rtCooldown": 1752211418917,
           "slutCooldown": 1752211424020,
           "pptCooldown": 1752211428002,
@@ -32387,9 +32406,9 @@
         },
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 38514,
-          "exp": 7095,
-          "usedcommands": 62,
+          "bank": 8514,
+          "exp": 7339,
+          "usedcommands": 65,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -37220,7 +37239,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 260,
+      "botcommando": 269,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37280,7 +37299,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 40,
       "prefix": "#/.",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37290,7 +37309,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 129,
+      "botcommando": 132,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
