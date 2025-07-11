@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "GET TO ME",
+      "name": "ᰔᩚ Uzuki ᰔᩚ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12257,6 +12257,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "40459044941971@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363416189617749@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18074,6 +18091,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "40459044941971@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41374,6 +41400,30 @@
     "120363194108779847@newsletter": {
       "users": {
         "120363194108779847@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363416189617749@newsletter": {
+      "users": {
+        "120363416189617749@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
