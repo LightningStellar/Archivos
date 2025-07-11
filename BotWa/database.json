@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌒Mita.miku_nino🌑🌑",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4456,7 +4456,7 @@
     "5215513021315@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "name": "+52 55 1302 1315",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14133,6 +14133,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217224174748@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Sebas",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "194395018162296@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215537199358@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𐨎 🪆   ֹᦈ᳟𝅼ꭑ𝅼͟꯴ۘ   മ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51985111206@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𓍯 ִֶָₑᗰy۶ৎ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19923,6 +19959,15 @@
           "reason": ""
         },
         "5492216202181@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573166534866@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29438,6 +29483,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215537199358@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29827,6 +29881,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5217224174748@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -42359,9 +42422,9 @@
         "5215513021315@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 291,
-          "usedcommands": 5,
-          "level": 8,
+          "exp": 309,
+          "usedcommands": 6,
+          "level": 9,
           "banned": false,
           "reason": ""
         }
@@ -42460,6 +42523,65 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "194395018162296@lid": {
+      "users": {
+        "194395018162296@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363418304181609@g.us": {
+      "users": {
+        "51985111206@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -42705,7 +42827,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 4,
+      "botcommando": 5,
       "prefix": "#",
       "namebot": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
       "namebot2": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
