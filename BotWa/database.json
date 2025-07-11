@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Angel Navarro",
+      "name": "—  # ( ゼウス)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14316,7 +14316,7 @@
     "185233785806964@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ricardo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14326,6 +14326,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "all for us.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59175667839@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "JUSTINIANO",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492975406684@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34655370421@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "(⁠.⁠ ⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20181,6 +20208,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492975406684@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20687,6 +20723,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34655370421@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29175,8 +29220,8 @@
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 22304,
-          "exp": 3840,
-          "usedcommands": 28,
+          "exp": 3910,
+          "usedcommands": 29,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -31375,6 +31420,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59175667839@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "@user Bienvenidx a este grupo de ezquisofrenicos espero la pases bien sin más te dejo las reglas para que las leas @desc sin tienes alguna duda no dudes en etiquetarme oh algún otro admin",
@@ -42363,7 +42417,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363402447903155@g.us": {
       "users": {
@@ -43382,7 +43437,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 252,
+      "botcommando": 253,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
