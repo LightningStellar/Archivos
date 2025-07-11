@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1597,7 +1597,7 @@
     "50248151611@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+502 4815 1611",
+      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -22325,10 +22325,10 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 400000,
-          "exp": 7709,
-          "usedcommands": 67,
+          "chocolates": 3200000,
+          "bank": 0,
+          "exp": 8064,
+          "usedcommands": 74,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -22341,8 +22341,8 @@
           "slutCooldown": 1752240729620,
           "lastMonthly": 1752239027242,
           "lastWeekly": 1752239032602,
-          "rtCooldown": 1752254446757,
-          "rwCooldown": 1752254763088,
+          "rtCooldown": 1752256692821,
+          "rwCooldown": 1752257004534,
           "buyCooldown": 1752246876151,
           "characters": [
             {
@@ -22568,6 +22568,15 @@
           "gender": "Mujer",
           "source": "Blue Archie",
           "id": "e5a74afb"
+        },
+        {
+          "userId": "573143237521@s.whatsapp.net",
+          "name": "Daniel Park(segundo cuerpo)",
+          "url": "https://stellarwa.xyz/files/1749211280128.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "Apari3ncias",
+          "id": "25781313"
         }
       ]
     },
@@ -28154,18 +28163,18 @@
       "users": {
         "50248151611@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 56697,
-          "exp": 6613,
-          "usedcommands": 35,
-          "level": 30,
+          "bank": 69127,
+          "exp": 7876,
+          "usedcommands": 41,
+          "level": 32,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "crimeCooldown": 1752248659781,
-          "mineCooldown": 1752248661206,
-          "slutCooldown": 1752248664688,
-          "workCooldown": 1752248673614,
-          "pptCooldown": 1752248668204,
+          "crimeCooldown": 1752256694136,
+          "mineCooldown": 1752256690649,
+          "slutCooldown": 1752256697000,
+          "workCooldown": 1752256698313,
+          "pptCooldown": 1752256702871,
           "dailyStreak": 1,
           "lastDaily": 1752242887535,
           "nextReward": 23886,
@@ -29353,6 +29362,15 @@
           "personajesEnVenta": []
         },
         "5219371465815@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50248151611@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -34065,8 +34083,8 @@
         "5217851059776@s.whatsapp.net": {
           "chocolates": 179109,
           "bank": 0,
-          "exp": 7042,
-          "usedcommands": 146,
+          "exp": 7124,
+          "usedcommands": 147,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -34147,9 +34165,9 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 62635,
           "bank": 0,
-          "exp": 1857,
-          "usedcommands": 33,
-          "level": 18,
+          "exp": 2068,
+          "usedcommands": 36,
+          "level": 19,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752254886666,
@@ -34157,17 +34175,20 @@
           "rtCooldown": 1752256159008,
           "rwCooldown": 1752256843145,
           "buyCooldown": 1752256569450,
-          "characters": [
+          "characters": [],
+          "personajesEnVenta": [
             {
               "name": "Meliodas",
               "url": "https://stellarwa.xyz/files/1749349870070.jpg",
               "value": 50000,
               "gender": "Hombre",
               "source": "Los Siete Pecados Capitales",
-              "claim": "viernes, 11 de julio de 2025"
+              "claim": "viernes, 11 de julio de 2025",
+              "precio": 5000,
+              "vendedor": "573103563906@s.whatsapp.net",
+              "expira": "2025-07-14T17:47:44.278Z"
             }
-          ],
-          "personajesEnVenta": []
+          ]
         }
       },
       "sWelcome": "",
@@ -41151,7 +41172,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 158,
+      "botcommando": 164,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41161,7 +41182,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 195,
+      "botcommando": 199,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41221,7 +41242,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 213,
+      "botcommando": 220,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
