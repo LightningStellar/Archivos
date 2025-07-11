@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "axcelgonzalez2007",
+      "name": "1ssy",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18691,11 +18691,11 @@
           "personajesEnVenta": []
         },
         "5219613301789@s.whatsapp.net": {
-          "chocolates": 3150828,
+          "chocolates": 2482754,
           "bank": 0,
-          "exp": 1633,
-          "usedcommands": 26,
-          "level": 17,
+          "exp": 1869,
+          "usedcommands": 30,
+          "level": 18,
           "banned": false,
           "reason": "",
           "workCooldown": 1752210694660,
@@ -18709,7 +18709,21 @@
           "lastWeekly": 1752207200560,
           "lastMonthly": 1752207203857,
           "rtCooldown": 1752210738234,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rwCooldown": 1752211182221,
+          "buyCooldown": 1752211193366,
+          "characters": [
+            {
+              "name": "Rebecca Bluegarden",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126467-y4nX1uDjZ2VZ.png",
+              "value": 418074,
+              "gender": "Mujer",
+              "source": "Edens zero",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "51978769289@s.whatsapp.net": {
           "chocolates": 0,
@@ -18722,27 +18736,43 @@
           "personajesEnVenta": []
         },
         "5216422302773@s.whatsapp.net": {
-          "chocolates": 14298,
+          "chocolates": 11535,
           "bank": 0,
-          "exp": 213,
-          "usedcommands": 4,
-          "level": 8,
+          "exp": 432,
+          "usedcommands": 8,
+          "level": 10,
           "banned": false,
           "reason": "",
           "workCooldown": 1752210792776,
           "dailyStreak": 1,
           "lastDaily": 1752210202717,
           "nextReward": 49931,
-          "rtCooldown": 1752210836599
+          "rtCooldown": 1752210836599,
+          "mineCooldown": 1752210856631,
+          "rwCooldown": 1752211186278,
+          "buyCooldown": 1752211200467,
+          "characters": [
+            {
+              "name": "Eris",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120658-SJ9YrXEluqaX.jpg",
+              "value": 3416,
+              "gender": "Mujer",
+              "source": "Kono Subarashii Sekai ni Shukufuku wo!",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5214426784774@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 8,
-          "usedcommands": 1,
-          "level": 2,
+          "exp": 103,
+          "usedcommands": 2,
+          "level": 6,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "rtCooldown": 1752210866372
         }
       },
       "sWelcome": "",
@@ -30345,8 +30375,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 71792,
-          "exp": 10358,
-          "usedcommands": 84,
+          "exp": 10363,
+          "usedcommands": 85,
           "level": 36,
           "banned": false,
           "reason": "",
@@ -30366,12 +30396,13 @@
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 56,
+          "usedcommands": 1,
+          "level": 4,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rwCooldown": 1752211167297
         },
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
@@ -30520,6 +30551,15 @@
           "gender": "Hombre",
           "source": "Arifureta",
           "id": "ad76e7ae"
+        },
+        {
+          "userId": "5215522567568@s.whatsapp.net",
+          "name": "Shea Haulia",
+          "url": "https://stellarwa.xyz/files/1749676817256.jpg",
+          "value": 2500,
+          "gender": "Mujer",
+          "source": "Aletia Galdea Vesperitio avatarl",
+          "id": "b9b1e49e"
         }
       ]
     },
@@ -33669,6 +33709,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51428005560565@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34093,7 +34142,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 76,
+      "botcommando": 80,
       "prefix": "#/",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
@@ -34233,7 +34282,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 16,
+      "botcommando": 17,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -34253,7 +34302,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 116,
+      "botcommando": 117,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -34263,7 +34312,7 @@
     },
     "5219613301789@s.whatsapp.net": {
       "self": false,
-      "botcommando": 66,
+      "botcommando": 71,
       "prefix": "+ ­",
       "namebot": "⋆𝐌֟𝐀𞄴𝐒֟𝐇𝐈፝𝐑𝐎̸̨⋅ ⳱𝐓𝐒𞄶𝐔̸ؙ𝐊𝐈𞄵𝐘𝐔𞄳𝐊𞄱𔘓",
       "namebot2": "Mashiro",
