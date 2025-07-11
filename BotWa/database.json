@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝗦𝗟𝗘𝗘𝗣𝗘𝗥ㅤ|ㅤ ߹ᯅ߹ )",
+      "name": "Joaquin",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12109,7 +12109,7 @@
     "3797053083671@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Joaquin",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12119,6 +12119,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "The King's👑🤴",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492645113806@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Joaquin",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "38165683413234@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -33364,6 +33382,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492645113806@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 100,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36767,6 +36794,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "38165683413234@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38355,6 +38391,15 @@
           "reason": ""
         },
         "33986629877764@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492314467148@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -41155,7 +41200,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 28,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
