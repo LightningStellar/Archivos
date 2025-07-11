@@ -10348,6 +10348,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491155016814@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Agus",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "223162339950842@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19323,8 +19341,8 @@
         "51926887094@s.whatsapp.net": {
           "chocolates": 1142979,
           "bank": 0,
-          "exp": 2125,
-          "usedcommands": 36,
+          "exp": 2168,
+          "usedcommands": 37,
           "level": 19,
           "banned": false,
           "reason": "",
@@ -34850,6 +34868,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "223162339950842@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35653,6 +35680,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491155016814@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35665,7 +35701,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "50495793543@s.whatsapp.net": {
       "users": {
@@ -35745,7 +35782,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 261,
+      "botcommando": 262,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
