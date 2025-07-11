@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Satan",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23839,6 +23839,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Xior",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "230914974060795@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -60432,12 +60441,14 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 156,
+          "usedcommands": 3,
+          "level": 7,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rwCooldown": 1752279098772,
+          "buyCooldown": 0
         },
         "59177080963@s.whatsapp.net": {
           "chocolates": 0,
@@ -60564,6 +60575,15 @@
           "gender": "Mujer",
           "source": "Mob Psycho 100",
           "id": "f3ac6e0c"
+        },
+        {
+          "userId": "51967524493@s.whatsapp.net",
+          "name": "Yu Hojo",
+          "url": "https://stellarwa.xyz/files/1750647605294.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "f5ae067e"
         }
       ]
     },
@@ -71331,6 +71351,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "230914974060795@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -72915,7 +72944,7 @@
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 122,
+      "botcommando": 125,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
