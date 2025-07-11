@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "★ㅤㅤ𝐕. 𝖾ll !ㅤㅤ᛬ㅤㅤㅤ⃝⃞🌟",
+      "name": "⠟🍒̼̼֟፝  ﹫𝐄𝗹𝘆͡𝗮͜𝗻 !! ׂ۪ ﹖？",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10895,6 +10895,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "94760181704@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "F",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11247,6 +11256,15 @@
           "reason": ""
         },
         "5493814623075@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "94760181704@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -27972,10 +27990,10 @@
           "personajesEnVenta": []
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 1116458,
+          "chocolates": 8116458,
           "bank": 0,
-          "exp": 4171,
-          "usedcommands": 25,
+          "exp": 4301,
+          "usedcommands": 27,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -27983,7 +28001,7 @@
           "dailyStreak": 1,
           "lastDaily": 1752202609742,
           "nextReward": 6118,
-          "rtCooldown": 1752214940601,
+          "rtCooldown": 1752215799304,
           "personajesEnVenta": [],
           "lastMonthly": 1752206397809,
           "rwCooldown": 1752215281216
@@ -28035,8 +28053,8 @@
         "5217851059776@s.whatsapp.net": {
           "chocolates": 157146,
           "bank": 0,
-          "exp": 1359,
-          "usedcommands": 28,
+          "exp": 1416,
+          "usedcommands": 30,
           "level": 16,
           "banned": false,
           "reason": "",
@@ -32527,12 +32545,12 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 81490,
-          "exp": 14454,
-          "usedcommands": 167,
+          "exp": 14516,
+          "usedcommands": 168,
           "level": 41,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752215165906,
+          "rwCooldown": 1752216073030,
           "crimeCooldown": 1752213513659,
           "mineCooldown": 1752213516069,
           "workCooldown": 1752213517676,
@@ -32864,6 +32882,15 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "cbd54502"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "L Lawliet",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png",
+          "value": 20640,
+          "gender": "Hombre",
+          "source": "Death Note",
+          "id": "cd1dd582"
         }
       ]
     },
@@ -37419,7 +37446,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 22,
+      "botcommando": 23,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37449,7 +37476,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 24,
+      "botcommando": 25,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37539,7 +37566,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 330,
+      "botcommando": 331,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37609,7 +37636,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 132,
+      "botcommando": 134,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
