@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24885,6 +24885,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "42305444663357@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29589,10 +29598,10 @@
           "personajesEnVenta": []
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 7916458,
+          "chocolates": 7716458,
           "bank": 0,
-          "exp": 4308,
-          "usedcommands": 28,
+          "exp": 4389,
+          "usedcommands": 29,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -29600,7 +29609,7 @@
           "dailyStreak": 1,
           "lastDaily": 1752202609742,
           "nextReward": 6118,
-          "rtCooldown": 1752216916609,
+          "rtCooldown": 1752222014217,
           "personajesEnVenta": [],
           "lastMonthly": 1752206397809,
           "rwCooldown": 1752215281216
@@ -40200,7 +40209,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 149,
+      "botcommando": 150,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
