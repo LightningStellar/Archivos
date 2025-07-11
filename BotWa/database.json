@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23407,9 +23407,9 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 366,
-          "usedcommands": 8,
-          "level": 9,
+          "exp": 408,
+          "usedcommands": 9,
+          "level": 10,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -28078,8 +28078,8 @@
         "56958115618@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 13191,
-          "exp": 1153,
-          "usedcommands": 13,
+          "exp": 1221,
+          "usedcommands": 14,
           "level": 15,
           "banned": false,
           "reason": "",
@@ -28094,7 +28094,7 @@
           "slutCooldown": 1752170529720,
           "pptCooldown": 1752170534285,
           "personajesEnVenta": [],
-          "rwCooldown": 1752191737084
+          "rwCooldown": 1752198121335
         },
         "50768646227@s.whatsapp.net": {
           "chocolates": 0,
@@ -28109,8 +28109,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 83408,
-          "exp": 554,
-          "usedcommands": 186,
+          "exp": 559,
+          "usedcommands": 187,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -28124,7 +28124,7 @@
           "lastMonthly": 1752180238916,
           "slutCooldown": 1752195159793,
           "pptCooldown": 1752195161830,
-          "rwCooldown": 1752196455376,
+          "rwCooldown": 1752198080971,
           "personajesEnVenta": [],
           "buyCooldown": 1752196502374,
           "characters": [
@@ -28371,6 +28371,24 @@
           "gender": "Hombre",
           "source": "Dragon Ball",
           "id": "e48061ac"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Senju Akashi",
+          "url": "https://stellarwa.xyz/files/1749160917176.jpg",
+          "value": 10000,
+          "gender": "Hombre",
+          "source": "Tokyo Revengers",
+          "id": "0fba85b1"
+        },
+        {
+          "userId": "56958115618@s.whatsapp.net",
+          "name": "Beldia",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136042-uqU81vphQIUY.jpg",
+          "value": 1040,
+          "gender": "Hombre",
+          "source": "Kono Subarashii Sekai ni Shukufuku wo!",
+          "id": "81cbb88f"
         }
       ],
       "expired": 0
@@ -48050,7 +48068,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 50,
+      "botcommando": 51,
       "prefix": "/",
       "namebot": "❜ ࿙⃛͜ΛFЯӨDIƬΣ BӨƬ🪉⃝𝅦᳘֟፝͠◌⃘",
       "namebot2": "📖  ⃕   ࿙⃛͜𝕬𝖋𝖗𝖔𝖉𝖎𝖙𝖊🪽⃝𝅦᳘֟፝͠◌⃘",
@@ -48120,7 +48138,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 297,
+      "botcommando": 298,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -48200,7 +48218,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 655,
+      "botcommando": 656,
       "prefix": "/",
       "namebot": "Seven 707",
       "namebot2": "Seven 707",
@@ -48290,7 +48308,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 115,
+      "botcommando": 116,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
