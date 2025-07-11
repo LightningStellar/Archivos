@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Valen ☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2369,8 +2369,8 @@
       "description": ""
     },
     "5217296633340@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
+      "metadatos": "de shark",
+      "metadatos2": "no robar",
       "name": "shark",
       "genre": "",
       "birth": "",
@@ -5079,6 +5079,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212632670721@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~操り人形🧠🎭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34663525911@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "kachiii 🧸",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6571,6 +6589,15 @@
           "personajesEnVenta": []
         },
         "584125922759@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34663525911@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -9259,6 +9286,15 @@
           "reason": ""
         },
         "212774815663@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "212632670721@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -13710,9 +13746,9 @@
         "5217296633340@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 262,
-          "usedcommands": 4,
-          "level": 8,
+          "exp": 416,
+          "usedcommands": 8,
+          "level": 10,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -13722,7 +13758,7 @@
           "bank": 0,
           "exp": 20,
           "usedcommands": 1,
-          "level": 0,
+          "level": 3,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -16932,7 +16968,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 18,
+      "botcommando": 19,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -17012,7 +17048,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 54,
+      "botcommando": 57,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
