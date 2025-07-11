@@ -19449,9 +19449,9 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 185,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 211,
+          "usedcommands": 4,
+          "level": 7,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -35692,20 +35692,25 @@
         },
         "5215565270181@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 3940,
-          "exp": 540,
-          "usedcommands": 11,
-          "level": 10,
+          "bank": 46502,
+          "exp": 2215,
+          "usedcommands": 17,
+          "level": 19,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752209289037,
+          "rwCooldown": 1752231386134,
           "personajesEnVenta": [],
           "crimeCooldown": 1752231042170,
           "mineCooldown": 1752231044369,
           "workCooldown": 1752231045535,
           "slutCooldown": 1752231047785,
           "pptCooldown": 1752231051057,
-          "rtCooldown": 1752231057519
+          "rtCooldown": 1752231057519,
+          "dailyStreak": 1,
+          "lastDaily": 1752230469774,
+          "nextReward": 41312,
+          "lastWeekly": 1752230473245,
+          "lastMonthly": 1752230477313
         },
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
@@ -36043,6 +36048,15 @@
           "gender": "Hombre",
           "source": "Death Note",
           "id": "7b267508"
+        },
+        {
+          "userId": "5215565270181@s.whatsapp.net",
+          "name": "Chelsea",
+          "url": "https://stellarwa.xyz/files/1749226095294.jpg",
+          "value": 30000,
+          "gender": "Mujer",
+          "source": "Akame ga Kill!",
+          "id": "189e012b"
         }
       ]
     },
@@ -42038,7 +42052,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 7,
+      "botcommando": 9,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -42078,7 +42092,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 401,
+      "botcommando": 407,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
