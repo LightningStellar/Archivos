@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "—  # ( ゼウス)",
+      "name": "Valentina",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -46512,8 +46512,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 158130,
-          "exp": 799,
-          "usedcommands": 69,
+          "exp": 825,
+          "usedcommands": 70,
           "level": 19,
           "banned": false,
           "reason": "",
@@ -46588,9 +46588,9 @@
         "5212331515986@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 2314,
-          "exp": 943,
+          "exp": 31,
           "usedcommands": 91,
-          "level": 13,
+          "level": 14,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -67334,6 +67334,40 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5219932092138@s.whatsapp.net": {
+      "users": {
+        "5215525237149@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219932092138@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -67459,7 +67493,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 314,
+      "botcommando": 315,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
