@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ユリディア・サンチェス",
+      "name": "S̸I̸M̸O̸N̸ R̸I̸L̸E̸Y̸",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13345,6 +13345,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "123420868112510@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51928701104@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "fuego",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20783,6 +20801,19 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51928701104@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 10358,
+          "exp": 139,
+          "usedcommands": 4,
+          "level": 6,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752255411484,
+          "nextReward": 3382,
+          "rtCooldown": 1752256019801
         }
       },
       "sWelcome": "",
@@ -26647,6 +26678,15 @@
           "reason": ""
         },
         "14169315213557@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "123420868112510@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -36173,8 +36213,8 @@
         "573160505989@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 43968,
-          "exp": 4649,
-          "usedcommands": 22,
+          "exp": 4696,
+          "usedcommands": 23,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -39806,7 +39846,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 129,
+      "botcommando": 130,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -39846,7 +39886,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 348,
+      "botcommando": 352,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -39916,7 +39956,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 115,
+      "botcommando": 116,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -40006,7 +40046,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 54,
+      "botcommando": 55,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
