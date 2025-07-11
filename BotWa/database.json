@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "Brei",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1277,6 +1277,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Magnetius",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "115161042051115@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584247071211@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ratashlyn",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59168100806@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꧁༒☬ᴬᴸᵛᴬᴿᴼ☬༒꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3541,6 +3568,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "59168100806@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4778,6 +4814,54 @@
     "5218134538546@s.whatsapp.net": {
       "users": {
         "5218134538546@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363206813712481@g.us": {
+      "users": {
+        "115161042051115@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363317978709946@g.us": {
+      "users": {
+        "584247071211@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
