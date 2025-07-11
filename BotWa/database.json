@@ -1866,7 +1866,7 @@
     "51912786549@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
+      "name": "Ali - Ren - Lu",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2273,6 +2273,15 @@
       "description": ""
     },
     "263767178891315@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "194613893673090@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -6597,11 +6606,11 @@
           "reason": ""
         },
         "573128732144@s.whatsapp.net": {
-          "chocolates": 1658,
-          "bank": 0,
-          "exp": 1303,
-          "usedcommands": 7,
-          "level": 15,
+          "chocolates": 0,
+          "bank": 1658,
+          "exp": 1461,
+          "usedcommands": 9,
+          "level": 16,
           "banned": false,
           "reason": "",
           "workCooldown": 1752238681656,
@@ -8040,6 +8049,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363377794446513@g.us": {
+      "users": {
+        "194613893673090@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -8175,7 +8208,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 30,
+      "botcommando": 32,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
