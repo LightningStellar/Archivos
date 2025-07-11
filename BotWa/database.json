@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "axcelgonzalez2007",
+      "name": "Valentina",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2065,7 +2065,7 @@
     "5492915133907@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ¢ÃÂÃÂªÃÂÃÂ»ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¦AngelÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¦ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ°ÃÂÃÂ¢ÃÂÃÂªÃÂÃÂ¼",
+      "name": "⪻𖤐•┈┈┈••✦Angel✦••┈┈┈•✰⪼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9463,6 +9463,41 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363376938051286@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363417854225978@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215551816171@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "নীলㅤㅤㅤ&ㅤㅤㅤ𝖫𝗈𝗏𝖾",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "169058603368644@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12005,6 +12040,15 @@
           "personajesEnVenta": []
         },
         "56988127329@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215551816171@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -22928,10 +22972,10 @@
           "rwCooldown": 1752209468104
         },
         "5218134044942@s.whatsapp.net": {
-          "chocolates": 5619,
-          "bank": 21188,
-          "exp": 2383,
-          "usedcommands": 50,
+          "chocolates": 0,
+          "bank": 28807,
+          "exp": 2481,
+          "usedcommands": 53,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -26693,6 +26737,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "169058603368644@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27405,6 +27458,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363417854225978@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29742,8 +29804,8 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 40087,
-          "exp": 5249,
-          "usedcommands": 33,
+          "exp": 5303,
+          "usedcommands": 34,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -29868,6 +29930,15 @@
           "gender": "Hombre",
           "source": "Assassination Classroom",
           "id": "3bfeaf2b"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Kouki Amanogawa",
+          "url": "https://stellarwa.xyz/files/1749354061288.jpg",
+          "value": 15000,
+          "gender": "Hombre",
+          "source": "Arifureta",
+          "id": "ad76e7ae"
         }
       ]
     },
@@ -32971,6 +33042,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363376938051286@newsletter": {
+      "users": {
+        "120363376938051286@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -32996,7 +33091,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 279,
+      "botcommando": 282,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
@@ -33196,7 +33291,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 100,
+      "botcommando": 101,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
