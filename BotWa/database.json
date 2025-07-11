@@ -5195,6 +5195,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "593960603654@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "lvs.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "219670397345917@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573012855884@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "夜. 𝑲𝒖𝒓𝒐𝒌𝒂𝒛𝒆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34653533601@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6761,6 +6797,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34653533601@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -10172,6 +10217,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "219670397345917@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14812,6 +14866,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573012855884@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -15456,6 +15519,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "593960603654@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17432,13 +17504,14 @@
         "5215621445713@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 96,
-          "usedcommands": 2,
-          "level": 2,
+          "exp": 161,
+          "usedcommands": 3,
+          "level": 7,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752245890735,
-          "buyCooldown": 0
+          "buyCooldown": 0,
+          "characters": []
         },
         "5215656917842@s.whatsapp.net": {
           "chocolates": 0,
@@ -17481,6 +17554,31 @@
           "id": "c5de82e7"
         }
       ],
+      "expired": 0
+    },
+    "120363418036678801@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
       "expired": 0
     }
   },
@@ -17577,7 +17675,7 @@
     },
     "5219613301789@s.whatsapp.net": {
       "self": false,
-      "botcommando": 66,
+      "botcommando": 67,
       "prefix": "/ # + ­",
       "namebot": "⋆𝐌֟𝐀𞄴𝐒֟𝐇𝐈፝𝐑𝐎̸̨⋅ ⳱𝐓𝐒𞄶𝐔̸ؙ𝐊𝐈𞄵𝐘𝐔𞄳𝐊𞄱𔘓",
       "namebot2": "Mashiro",
