@@ -1657,11 +1657,11 @@
     "120363399108260019@g.us": {
       "users": {
         "584127526004@s.whatsapp.net": {
-          "chocolates": 56164,
+          "chocolates": 56178,
           "bank": 0,
-          "exp": 475,
-          "usedcommands": 6,
-          "level": 10,
+          "exp": 845,
+          "usedcommands": 13,
+          "level": 13,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -1669,7 +1669,20 @@
           "nextReward": 13998,
           "workCooldown": 1752232333734,
           "slutCooldown": 1752232339133,
-          "mineCooldown": 1752232341120
+          "mineCooldown": 1752232341120,
+          "pptCooldown": 1752232347997,
+          "rwCooldown": 1752232670791,
+          "buyCooldown": 1752232702892,
+          "characters": [
+            {
+              "name": "Mukuro Hoshimiya",
+              "url": "https://stellarwa.xyz/files/1751832895114.jpg",
+              "value": 12000,
+              "gender": "Mujer",
+              "source": "Date A Live",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ]
         },
         "573228667071@s.whatsapp.net": {
           "chocolates": 0,
@@ -1681,11 +1694,11 @@
           "reason": ""
         },
         "573112055515@s.whatsapp.net": {
-          "chocolates": 32034,
-          "bank": 0,
-          "exp": 332,
-          "usedcommands": 5,
-          "level": 9,
+          "chocolates": 0,
+          "bank": 32034,
+          "exp": 457,
+          "usedcommands": 8,
+          "level": 10,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -1693,7 +1706,10 @@
           "nextReward": 17539,
           "mineCooldown": 1752232331320,
           "slutCooldown": 1752232334116,
-          "crimeCooldown": 1752232344653
+          "crimeCooldown": 1752232344653,
+          "rwCooldown": 1752232676813,
+          "buyCooldown": 0,
+          "characters": []
         }
       },
       "sWelcome": "",
@@ -1707,7 +1723,18 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": [
+        {
+          "userId": "584127526004@s.whatsapp.net",
+          "name": "Native",
+          "url": "https://stellarwa.xyz/files/1750647637366.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "15bfe2bd"
+        }
+      ]
     }
   },
   "settings": {
@@ -1843,7 +1870,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 12,
+      "botcommando": 22,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
