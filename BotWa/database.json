@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☭卍 † Daryel † 卍☭",
+      "name": "︎ ︎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18581,6 +18581,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34624924720@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+34 624 92 47 20",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363315044186906@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -36311,17 +36328,17 @@
         },
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 58290,
-          "exp": 7507,
-          "usedcommands": 94,
-          "level": 31,
+          "bank": 68315,
+          "exp": 8792,
+          "usedcommands": 100,
+          "level": 33,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752265132512,
-          "mineCooldown": 1752265135339,
-          "workCooldown": 1752265139860,
-          "slutCooldown": 1752265143958,
-          "pptCooldown": 1752265150093,
+          "crimeCooldown": 1752266470388,
+          "mineCooldown": 1752266472601,
+          "workCooldown": 1752266474102,
+          "slutCooldown": 1752266476985,
+          "pptCooldown": 1752266481182,
           "personajesEnVenta": [],
           "dailyStreak": 1,
           "lastDaily": 1752256991927,
@@ -43158,10 +43175,10 @@
     "120363418163055987@g.us": {
       "users": {
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 234830,
+          "chocolates": 184830,
           "bank": 0,
-          "exp": 8400,
-          "usedcommands": 168,
+          "exp": 8615,
+          "usedcommands": 171,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -43174,8 +43191,8 @@
           "crimeCooldown": 1752258514700,
           "rtCooldown": 1752262921609,
           "personajesEnVenta": [],
-          "rwCooldown": 1752260470236,
-          "buyCooldown": 1752260476115,
+          "rwCooldown": 1752266746513,
+          "buyCooldown": 1752266758826,
           "characters": [
             {
               "name": "Coconut",
@@ -43196,6 +43213,14 @@
             {
               "name": "Hauser",
               "url": "https://stellarwa.xyz/files/1749351581296.jpg",
+              "value": 50000,
+              "gender": "Hombre",
+              "source": "Los Siete Pecados Capitales",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Escanor",
+              "url": "https://stellarwa.xyz/files/1749350118543.jpg",
               "value": 50000,
               "gender": "Hombre",
               "source": "Los Siete Pecados Capitales",
@@ -43221,23 +43246,24 @@
           "mineCooldown": 1752258421043
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 8861,
+          "chocolates": 14559,
           "bank": 0,
-          "exp": 5664,
-          "usedcommands": 42,
-          "level": 28,
+          "exp": 5872,
+          "usedcommands": 45,
+          "level": 29,
           "banned": false,
           "reason": "",
           "rtCooldown": 1752260434569,
-          "workCooldown": 1752265166052,
-          "mineCooldown": 1752265171923,
+          "workCooldown": 1752266472664,
+          "mineCooldown": 1752266476974,
           "dailyStreak": 1,
           "lastDaily": 1752249237314,
           "nextReward": 15408,
           "personajesEnVenta": [],
           "lastMonthly": 1752252354119,
           "lastWeekly": 1752252361425,
-          "rwCooldown": 1752258601275
+          "rwCooldown": 1752258601275,
+          "buyCooldown": 0
         },
         "5219932092138@s.whatsapp.net": {
           "chocolates": 2783,
@@ -56350,6 +56376,54 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "34624924720@s.whatsapp.net": {
+      "users": {
+        "34624924720@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363315044186906@newsletter": {
+      "users": {
+        "120363315044186906@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -56365,7 +56439,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 185,
+      "botcommando": 186,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56445,7 +56519,7 @@
     },
     "5219613301789@s.whatsapp.net": {
       "self": false,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "+ ? ­",
       "namebot": "⋆𝐌֟𝐀𞄴𝐒֟𝐇𝐈፝𝐑𝐎̸̨⋅ ⳱𝐓𝐒𞄶𝐔̸ؙ𝐊𝐈𞄵𝐘𝐔𞄳𝐊𞄱𔘓",
       "namebot2": "Mashiro",
@@ -56495,7 +56569,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 271,
+      "botcommando": 278,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56555,7 +56629,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 595,
+      "botcommando": 599,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
