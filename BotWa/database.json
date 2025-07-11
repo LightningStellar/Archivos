@@ -17342,8 +17342,8 @@
         "5216646952956@s.whatsapp.net": {
           "chocolates": 145395,
           "bank": 0,
-          "exp": 5951,
-          "usedcommands": 46,
+          "exp": 5999,
+          "usedcommands": 47,
           "level": 29,
           "banned": false,
           "reason": "",
@@ -32350,11 +32350,11 @@
           "totalRwcoins": null
         },
         "5215522567568@s.whatsapp.net": {
-          "chocolates": 8755,
-          "bank": 77483,
-          "exp": 2926,
-          "usedcommands": 39,
-          "level": 21,
+          "chocolates": 95211,
+          "bank": 0,
+          "exp": 3684,
+          "usedcommands": 47,
+          "level": 24,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -32362,20 +32362,21 @@
           "crimeCooldown": 1752214978800,
           "mineCooldown": 1752214980682,
           "workCooldown": 1752214982115,
-          "rtCooldown": 1752211418917,
-          "slutCooldown": 1752211424020,
-          "pptCooldown": 1752211428002,
+          "rtCooldown": 1752214989064,
+          "slutCooldown": 1752214993705,
+          "pptCooldown": 1752214996645,
           "dailyStreak": 1,
           "lastDaily": 1752210834533,
           "nextReward": 19774,
           "lastWeekly": 1752210840507,
-          "lastMonthly": 1752210844245
+          "lastMonthly": 1752210844245,
+          "buyCooldown": 0
         },
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 43367,
-          "exp": 7403,
-          "usedcommands": 67,
+          "exp": 7482,
+          "usedcommands": 68,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -32390,7 +32391,7 @@
           "lastWeekly": 1752205413668,
           "lastMonthly": 1752205422205,
           "personajesEnVenta": [],
-          "rwCooldown": 1752213742795,
+          "rwCooldown": 1752215346172,
           "buyCooldown": 0
         },
         "5215565270181@s.whatsapp.net": {
@@ -32632,6 +32633,15 @@
           "gender": "Hombre",
           "source": "Los Siete Pecados Capitales",
           "id": "917d4fd1"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Danjuro Tobita",
+          "url": "https://stellarwa.xyz/files/1750637489772.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "c1be3bad"
         }
       ]
     },
@@ -37119,7 +37129,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 18,
+      "botcommando": 19,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37169,7 +37179,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 60,
+      "botcommando": 61,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37239,7 +37249,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 269,
+      "botcommando": 277,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
