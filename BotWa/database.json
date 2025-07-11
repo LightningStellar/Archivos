@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🛑ΩOmega ZeroΩ🛑",
+      "name": "マーシアとキム",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11755,6 +11755,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "272283813847121@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "22789784375343@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20102,8 +20120,8 @@
         "573160505989@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 30225,
-          "exp": 6028,
-          "usedcommands": 41,
+          "exp": 6047,
+          "usedcommands": 43,
           "level": 29,
           "banned": false,
           "reason": "",
@@ -24645,10 +24663,10 @@
           "totalRwcoins": null
         },
         "5219932092138@s.whatsapp.net": {
-          "chocolates": 8577765,
+          "chocolates": 8477765,
           "bank": 0,
-          "exp": 2982,
-          "usedcommands": 60,
+          "exp": 3024,
+          "usedcommands": 61,
           "level": 22,
           "banned": false,
           "reason": "",
@@ -24656,7 +24674,7 @@
           "mineCooldown": 1752191922775,
           "buyCooldown": 0,
           "rwCooldown": 1752191074704,
-          "rtCooldown": 1752191677519,
+          "rtCooldown": 1752192620081,
           "personajesEnVenta": [],
           "dailyStreak": 1,
           "lastDaily": 1752175843900,
@@ -26156,6 +26174,15 @@
           "reason": ""
         },
         "179766493761704@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "22789784375343@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -37842,6 +37869,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "272283813847121@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38847,6 +38883,15 @@
           "reason": ""
         },
         "238826186354883@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216463068634@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -40623,7 +40668,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420813939662@g.us": {
       "users": {
@@ -40997,7 +41043,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 154,
+      "botcommando": 155,
       "prefix": "#",
       "namebot": "ââ  ð ÍðÍÌ± ÍðÍÍÌ± âÍð ðÒ á­¡Â° .",
       "namebot2": "ââ  ð ÍðÍÌ± ÍðÍÍÌ± âÍð ðÒ á­¡Â° .",
@@ -41137,7 +41183,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 313,
+      "botcommando": 314,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41247,7 +41293,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41257,7 +41303,7 @@
     },
     "5219613301789@s.whatsapp.net": {
       "self": false,
-      "botcommando": 19,
+      "botcommando": 20,
       "prefix": "+ ) ­",
       "namebot": "⋆𝐌֟𝐀𞄴𝐒֟𝐇𝐈፝𝐑𝐎̸̨⋅ ⳱𝐓𝐒𞄶𝐔̸ؙ𝐊𝐈𞄵𝐘𝐔𞄳𝐊𞄱𔘓",
       "namebot2": "Mashiro",
