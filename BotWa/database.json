@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3243,7 +3243,7 @@
     "93231425536233@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "𔓕𝅄 \" 𝚬𝖬𖩐ΞɌ𝐎Ɍ \" 👑ᩙᩝ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13655,7 +13655,7 @@
     "195541740871748@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "arlechino🩸",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13692,6 +13692,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𒂟   ⁹⁹’𝕭𝖑𝖔𝖔𝖉ㅤㅤ&𓈄ㅤ 𝐬͟, ͟ ͟ ͟ ͟ ͟ ͟’𝗀͟𝖺͟𝗅͟.ㅤ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51972574456@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Keyra Ale",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "593986451670@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Unterwelt.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5217207092834@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 720 709 2834",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -28027,6 +28054,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5217207092834@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32670,6 +32706,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "593986451670@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32907,6 +32952,15 @@
           "personajesEnVenta": []
         },
         "120363369493077111@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "71091036884993@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -34093,8 +34147,8 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 62635,
           "bank": 0,
-          "exp": 1800,
-          "usedcommands": 30,
+          "exp": 1857,
+          "usedcommands": 33,
           "level": 18,
           "banned": false,
           "reason": "",
@@ -39867,6 +39921,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51972574456@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39879,7 +39942,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5217821527993@s.whatsapp.net": {
       "users": {
@@ -40882,7 +40946,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420042616355@g.us": {
       "users": {
@@ -41096,7 +41161,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 192,
+      "botcommando": 195,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
