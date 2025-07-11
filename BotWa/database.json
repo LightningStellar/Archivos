@@ -1225,7 +1225,7 @@
     "5219613301789@s.whatsapp.net": {
       "metadatos": "𝗪𝜠𝚩 𝚰𝚳𝚸𝚵 +52 961 330 1789",
       "metadatos2": "𝘽𝙔: ⸀𝜡͢𝜢̊𝜜͎𝜥𝜒ૌ𔒴🕸🐉",
-      "name": "𓆩𝑺𝒉𝝌֟፝𝒏𝒙𝒔 𝑫' 𝑲𝝌֟፝𝒎𝒊⸸𓆪",
+      "name": "+52 961 330 1789",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12270,6 +12270,24 @@
     "120363416189617749@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491125660437@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⻩⸻𝐉⃥𝐀⃥꯭𝐘",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363421019316204@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27401,6 +27419,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "120363421019316204@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41478,6 +41505,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363400698298484@g.us": {
+      "users": {
+        "5491125660437@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
