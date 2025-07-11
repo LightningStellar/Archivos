@@ -13456,6 +13456,51 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50239291359@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Dulce :D",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584242553633@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "alexgarnez403",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584247256149@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Luis",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573011069488@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~HioriOnTop",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491125253103@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝚒'𝚖 𝚌𝚑𝚒𝚐𝚒𝚗",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14038,11 +14083,11 @@
           "reason": ""
         },
         "573102725961@s.whatsapp.net": {
-          "chocolates": 10504,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 461,
-          "usedcommands": 9,
-          "level": 10,
+          "exp": 1147,
+          "usedcommands": 14,
+          "level": 14,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -14052,7 +14097,9 @@
           "mineCooldown": 1752197211510,
           "slutCooldown": 1752197215077,
           "workCooldown": 1752197216864,
-          "crimeCooldown": 1752197220197
+          "crimeCooldown": 1752197220197,
+          "lastWeekly": 1752196651360,
+          "lastMonthly": 1752196661758
         }
       },
       "sWelcome": "",
@@ -17396,6 +17443,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584242553633@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20211,6 +20267,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491125253103@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 99,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21837,6 +21902,24 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584247256149@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573011069488@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24843,6 +24926,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584242553633@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24855,7 +24947,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "18687313926@s.whatsapp.net": {
       "users": {
@@ -26884,11 +26977,11 @@
           "rtCooldown": 0
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 1719985,
+          "chocolates": 1719865,
           "bank": 0,
-          "exp": 6384,
-          "usedcommands": 97,
-          "level": 29,
+          "exp": 6478,
+          "usedcommands": 99,
+          "level": 30,
           "banned": false,
           "reason": "",
           "rtCooldown": 1752196745328,
@@ -26900,8 +26993,8 @@
           "slutCooldown": 1752172145619,
           "workCooldown": 1752172188241,
           "pptCooldown": 1752194957340,
-          "rwCooldown": 1752196216863,
-          "buyCooldown": 1752196220931,
+          "rwCooldown": 1752197582552,
+          "buyCooldown": 1752197586000,
           "characters": [
             {
               "name": "Choji Ahane",
@@ -26990,10 +27083,18 @@
               "gender": "Mujer",
               "source": "Arifureta",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Yuu Otosaka",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88950-0ER2ke5pswxq.png",
+              "value": 120,
+              "gender": "Hombre",
+              "source": "Charlotte",
+              "claim": "viernes, 11 de julio de 2025"
             }
           ],
-          "characterCount": 8,
-          "totalRwcoins": 237923,
+          "characterCount": 9,
+          "totalRwcoins": 238043,
           "personajesEnVenta": [],
           "lastWeekly": 1752194162796
         }
@@ -28154,6 +28255,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50239291359@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47322,7 +47432,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 172,
+      "botcommando": 174,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -47332,7 +47442,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 314,
+      "botcommando": 315,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -47342,7 +47452,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1035,
+      "botcommando": 1036,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -47422,7 +47532,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 145,
+      "botcommando": 146,
       "prefix": "!",
       "namebot": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂº  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ« ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ   ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
       "namebot2": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ.  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ    ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ  ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
@@ -47492,7 +47602,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 89,
+      "botcommando": 90,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -47502,7 +47612,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 179,
+      "botcommando": 180,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
@@ -47572,7 +47682,7 @@
     },
     "5216421056593@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 11,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
