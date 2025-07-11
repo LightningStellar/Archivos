@@ -12625,6 +12625,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363401343939863@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21941,8 +21950,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 86102,
-          "exp": 2995,
-          "usedcommands": 64,
+          "exp": 3066,
+          "usedcommands": 65,
           "level": 22,
           "banned": false,
           "reason": "",
@@ -26326,8 +26335,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 81198,
-          "exp": 64,
-          "usedcommands": 157,
+          "exp": 44,
+          "usedcommands": 158,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -43122,6 +43131,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "120363401343939863@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -44443,7 +44461,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 274,
+      "botcommando": 275,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44523,7 +44541,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 559,
+      "botcommando": 560,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
