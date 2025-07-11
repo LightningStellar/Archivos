@@ -12141,6 +12141,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584127005145@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "〇⃘ ִ   ᩘ❄️፝",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14581,6 +14590,15 @@
           "reason": ""
         },
         "5212411648807@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584127005145@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -33386,8 +33404,8 @@
         "5492645113806@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 753,
-          "usedcommands": 13,
+          "exp": 837,
+          "usedcommands": 14,
           "level": 13,
           "banned": false,
           "reason": "",
@@ -41201,7 +41219,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 40,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
