@@ -12382,6 +12382,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "241854490628136@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -35683,14 +35692,20 @@
         },
         "5215565270181@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 0,
-          "exp": 143,
-          "usedcommands": 2,
-          "level": 6,
+          "bank": 3940,
+          "exp": 540,
+          "usedcommands": 11,
+          "level": 10,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752209289037,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "crimeCooldown": 1752231042170,
+          "mineCooldown": 1752231044369,
+          "workCooldown": 1752231045535,
+          "slutCooldown": 1752231047785,
+          "pptCooldown": 1752231051057,
+          "rtCooldown": 1752231057519
         },
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
@@ -41814,6 +41829,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363354127813521@g.us": {
+      "users": {
+        "241854490628136@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -42039,7 +42078,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 394,
+      "botcommando": 401,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -42099,7 +42138,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 49,
+      "botcommando": 51,
       "prefix": "#/.",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
