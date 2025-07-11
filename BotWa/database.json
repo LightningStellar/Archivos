@@ -12287,7 +12287,34 @@
     "120363421019316204@g.us": {
       "metadatos": null,
       "metadatos2": null,
+      "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363323021189670@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216635093258@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Kyouko Hori",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219931301976@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꧁𝑄in Y𝑒_L𝑖nᴿ͢𝐬꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21618,6 +21645,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492916439595@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27421,6 +27457,24 @@
           "reason": ""
         },
         "120363421019316204@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216635093258@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219931301976@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -41509,6 +41563,31 @@
     "120363400698298484@g.us": {
       "users": {
         "5491125660437@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363323021189670@g.us": {
+      "users": {
+        "120363323021189670@g.us": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
