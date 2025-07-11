@@ -12015,6 +12015,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217321187298@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Cappy 🦦",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18979,9 +18988,9 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 98,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 185,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -21760,21 +21769,21 @@
           "personajesEnVenta": []
         },
         "5492324347631@s.whatsapp.net": {
-          "chocolates": 140975,
+          "chocolates": 140000,
           "bank": 0,
-          "exp": 11884,
-          "usedcommands": 103,
+          "exp": 12268,
+          "usedcommands": 109,
           "level": 38,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752224175447,
+          "rtCooldown": 1752225171841,
           "dailyStreak": 1,
           "lastDaily": 1752203140354,
           "nextReward": 715,
-          "workCooldown": 1752224152319,
-          "mineCooldown": 1752224159603,
-          "crimeCooldown": 1752224155526,
-          "slutCooldown": 1752224157547,
+          "workCooldown": 1752225158102,
+          "mineCooldown": 1752225164815,
+          "crimeCooldown": 1752225161545,
+          "slutCooldown": 1752225163238,
           "personajesEnVenta": [],
           "pptCooldown": 1752224165559,
           "reportime": 1752208378426,
@@ -27796,6 +27805,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5217321187298@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "@user Bienvenidx a este grupo de ezquisofrenicos espero la pases bien sin más te dejo las reglas para que las leas @desc sin tienes alguna duda no dudes en etiquetarme oh algún otro admin",
@@ -40804,7 +40822,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 368,
+      "botcommando": 374,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -40934,7 +40952,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 2,
+      "botcommando": 3,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
