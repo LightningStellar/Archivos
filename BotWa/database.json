@@ -1634,8 +1634,8 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "~ Noa ☆",
-      "genre": "",
-      "birth": "",
+      "genre": "Hombre",
+      "birth": "domingo, 7 de octubre",
       "marry": "",
       "description": ""
     },
@@ -20408,6 +20408,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56949380107@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤㅤㅤㅤㅤㅤ  ᶻ 𝘇 𐰁 ㅤㅤㅤㅤㅤㅤㅤ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "22136294998263@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -30598,7 +30616,7 @@
           "bank": 0,
           "exp": 169,
           "usedcommands": 3,
-          "level": 5,
+          "level": 7,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -34968,6 +34986,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56949380107@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39550,8 +39577,8 @@
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 86730,
-          "exp": 14066,
-          "usedcommands": 197,
+          "exp": 14226,
+          "usedcommands": 200,
           "level": 40,
           "banned": false,
           "reason": "",
@@ -41708,6 +41735,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "22136294998263@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -42451,8 +42487,8 @@
         "5217296633340@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 120,
-          "usedcommands": 13,
+          "exp": 181,
+          "usedcommands": 14,
           "level": 11,
           "banned": false,
           "reason": "",
@@ -62258,7 +62294,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 281,
+      "botcommando": 282,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -62298,7 +62334,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 69,
+      "botcommando": 70,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -62338,7 +62374,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 815,
+      "botcommando": 817,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
