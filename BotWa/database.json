@@ -11262,6 +11262,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34647208461@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Danna Pineda",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13502,6 +13511,15 @@
           "personajesEnVenta": []
         },
         "5212462992216@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34647208461@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -35678,6 +35696,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
