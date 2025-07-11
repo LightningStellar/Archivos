@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Satan",
+      "name": "ꞌꞋ ࣪ 𝐀𝐥͟ᥱ ݂ 🕸̌",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4209,7 +4209,6 @@
     "52780903485615@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ivonn",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6402,7 +6401,7 @@
     "51954532672@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Kizo_2_0",
+      "name": "+51 954 532 672",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13273,7 +13272,7 @@
     "33221890834667@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": ".🐉>𝐀𝐥𝐞𝐱𝐚<🐉.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18797,9 +18796,9 @@
         "51954532672@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 91,
-          "usedcommands": 1,
-          "level": 5,
+          "exp": 155,
+          "usedcommands": 3,
+          "level": 7,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -36106,6 +36105,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "52780903485615@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -46262,6 +46270,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "212609690006@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -46635,9 +46652,9 @@
         "5216241576973@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 48,
+          "usedcommands": 1,
+          "level": 4,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -46645,15 +46662,15 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": true,
+      "welcome": false,
       "nsfw": false,
-      "alerts": true,
+      "alerts": false,
       "gacha": true,
       "rpg": true,
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false,
+      "bannedGrupo": true,
       "expired": 0
     },
     "120363333173926876@g.us": {
@@ -46694,7 +46711,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 172,
+      "botcommando": 174,
       "prefix": "#",
       "namebot": "ââ  ð ÍðÍÌ± ÍðÍÍÌ± âÍð ðÒ á­¡Â° .",
       "namebot2": "ââ  ð ÍðÍÌ± ÍðÍÍÌ± âÍð ðÒ á­¡Â° .",
@@ -46734,7 +46751,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1005,
+      "botcommando": 1007,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -46764,7 +46781,7 @@
     },
     "50687717451@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 29,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46894,7 +46911,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 176,
+      "botcommando": 177,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
