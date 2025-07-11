@@ -11729,6 +11729,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51962783270@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 962 783 270",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -26088,6 +26097,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51962783270@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34436,8 +34454,8 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 64299,
-          "exp": 8224,
-          "usedcommands": 80,
+          "exp": 8316,
+          "usedcommands": 81,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -34452,7 +34470,7 @@
           "workCooldown": 1752216779272,
           "slutCooldown": 1752216781173,
           "pptCooldown": 1752216784471,
-          "rwCooldown": 1752220042096,
+          "rwCooldown": 1752222435970,
           "buyCooldown": 1752213694862,
           "characters": [
             {
@@ -34760,6 +34778,15 @@
           "gender": "Hombre",
           "source": "Tokyo Revengers",
           "id": "6894ff4c"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Stephen Loud",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
+          "value": 67136,
+          "gender": "Hombre",
+          "source": "Death Note",
+          "id": "7b267508"
         }
       ]
     },
@@ -39914,6 +39941,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "51923712594@s.whatsapp.net": {
+      "users": {
+        "50489132730@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -40139,7 +40190,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 381,
+      "botcommando": 382,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
