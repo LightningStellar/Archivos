@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✿︎𝒢𝒶́𝓂ℯ𝓏 𝒟  ☾︎🤍☽︎ ✿︎",
+      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11011,6 +11011,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573143596150@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Martinsito",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20586,9 +20595,9 @@
         "51922674236@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 44950,
-          "exp": 333,
-          "usedcommands": 7,
-          "level": 9,
+          "exp": 429,
+          "usedcommands": 8,
+          "level": 10,
           "banned": false,
           "reason": "",
           "workCooldown": 1752216313420,
@@ -32748,8 +32757,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 81490,
-          "exp": 14816,
-          "usedcommands": 177,
+          "exp": 14906,
+          "usedcommands": 178,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -37674,6 +37683,61 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363399108260019@g.us": {
+      "users": {
+        "573143596150@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 105,
+          "usedcommands": 2,
+          "level": 6,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752216719004
+        },
+        "573135861052@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573228667071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0,
+      "personajesReservados": [
+        {
+          "userId": "573143596150@s.whatsapp.net",
+          "name": "Abuela de Ging y Mito",
+          "url": "https://stellarwa.xyz/files/1750782823122.jpg",
+          "value": 13000,
+          "gender": "Mujer",
+          "source": "Hunter x Hunter",
+          "id": "0c3364e6"
+        }
+      ]
     }
   },
   "settings": {
@@ -37729,7 +37793,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 302,
+      "botcommando": 303,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -37779,7 +37843,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 23,
+      "botcommando": 24,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37889,7 +37953,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 11,
+      "botcommando": 13,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
