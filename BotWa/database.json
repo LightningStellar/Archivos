@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "★ㅤㅤ𝐕. 𝖾ll !ㅤㅤ᛬ㅤㅤㅤ⃝⃞🌟",
+      "name": "🐼╮𝕰𝖘𝖒𝖊 ╮✨",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10877,6 +10877,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50230736317@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+502 3073 6317",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14528,6 +14537,15 @@
           "personajesEnVenta": []
         },
         "2349133016158@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50230736317@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -32491,8 +32509,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 81490,
-          "exp": 13925,
-          "usedcommands": 157,
+          "exp": 14028,
+          "usedcommands": 159,
           "level": 40,
           "banned": false,
           "reason": "",
@@ -37155,7 +37173,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401626713834@g.us": {
       "users": {
@@ -37497,7 +37516,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 310,
+      "botcommando": 312,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
