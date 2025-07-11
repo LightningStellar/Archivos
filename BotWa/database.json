@@ -17528,6 +17528,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363359703162985@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -28627,12 +28635,12 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 52605,
-          "exp": 7480,
-          "usedcommands": 81,
+          "exp": 7587,
+          "usedcommands": 83,
           "level": 31,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752262072479,
+          "rwCooldown": 1752263883847,
           "personajesEnVenta": [],
           "crimeCooldown": 1752262315453,
           "mineCooldown": 1752262317551,
@@ -28662,12 +28670,12 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 91328,
-          "exp": 1341,
-          "usedcommands": 197,
+          "exp": 1414,
+          "usedcommands": 198,
           "level": 41,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752262638105,
+          "rwCooldown": 1752263850884,
           "crimeCooldown": 1752262397556,
           "mineCooldown": 1752262399371,
           "workCooldown": 1752262401004,
@@ -28988,6 +28996,24 @@
           "gender": "Hombre",
           "source": "Arifureta",
           "id": "cb92fd21"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Yuuka Sonobe",
+          "url": "https://stellarwa.xyz/files/1749353111455.jpg",
+          "value": 15000,
+          "gender": "Mujer",
+          "source": "Arifureta",
+          "id": "1e48dc6d"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Takeomi Akashi",
+          "url": "https://stellarwa.xyz/files/1749161860391.jpg",
+          "value": 10000,
+          "gender": "Hombre",
+          "source": "Tokyo Revengers",
+          "id": "83313bb7"
         }
       ]
     },
@@ -34683,11 +34709,11 @@
           "lastMonthly": 1752242897074
         },
         "5219371465815@s.whatsapp.net": {
-          "chocolates": 2500,
-          "bank": 38066,
-          "exp": 5374,
-          "usedcommands": 55,
-          "level": 27,
+          "chocolates": 0,
+          "bank": 38766,
+          "exp": 5748,
+          "usedcommands": 62,
+          "level": 28,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752263506316,
@@ -52368,7 +52394,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363384328454790@g.us": {
       "users": {
@@ -53102,6 +53129,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363359703162985@newsletter": {
+      "users": {
+        "120363359703162985@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -53137,7 +53189,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 54,
+      "botcommando": 55,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -53167,7 +53219,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 320,
+      "botcommando": 324,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -53307,7 +53359,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 464,
+      "botcommando": 469,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
