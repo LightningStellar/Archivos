@@ -12087,6 +12087,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56976361490@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "`    💤   @𝐘ᴜɪ    ୭  ˎˊ˗",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -17709,6 +17718,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56976361490@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30211,16 +30229,16 @@
           "totalRwcoins": null
         },
         "5219932092138@s.whatsapp.net": {
-          "chocolates": 16122,
+          "chocolates": 12122,
           "bank": 0,
-          "exp": 1437,
-          "usedcommands": 31,
+          "exp": 1451,
+          "usedcommands": 32,
           "level": 16,
           "banned": false,
           "reason": "",
           "workCooldown": 1752208181831,
           "mineCooldown": 1752208179172,
-          "rtCooldown": 1752207496223,
+          "rtCooldown": 1752226727848,
           "slutCooldown": 1752208183905,
           "crimeCooldown": 1752208189336,
           "rwCooldown": 1752205691027,
@@ -41264,7 +41282,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 159,
+      "botcommando": 160,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
