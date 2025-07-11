@@ -92,7 +92,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 642 230 2773",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valen ☆",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5097,6 +5097,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573228545835@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".ᐟ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "22347369189540@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584147310434@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Carlos Pérez",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6663,6 +6690,15 @@
           "personajesEnVenta": []
         },
         "5217131072636@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573228545835@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -12209,6 +12245,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584147310434@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -12560,6 +12605,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "22347369189540@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13746,8 +13800,8 @@
         "5217296633340@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 416,
-          "usedcommands": 8,
+          "exp": 430,
+          "usedcommands": 9,
           "level": 10,
           "banned": false,
           "reason": "",
@@ -13768,7 +13822,7 @@
           "bank": 0,
           "exp": 47,
           "usedcommands": 3,
-          "level": 3,
+          "level": 4,
           "banned": false,
           "reason": ""
         },
@@ -16432,6 +16486,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584243403568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17048,7 +17111,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 57,
+      "botcommando": 58,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
