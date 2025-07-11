@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ainara (⁠ㆁ⁠ω⁠ㆁ⁠)",
+      "name": "Valentina",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20126,7 +20126,7 @@
     "42288348704895@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ㅤㅤ𝗗𝖺𝗇  ㅤㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20135,7 +20135,7 @@
     "144590694834264@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Ainara (⁠ㆁ⁠ω⁠ㆁ⁠)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20145,6 +20145,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "A,ntö (つ≧▽≦)つ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216561457861@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "᮫๋֢ ּ۫💕 ۪࠭ ּ𑁯ᨘ۪݀𝚖𝚊𝚍ᨘ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492241614739@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216644844886@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Azúl",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27293,6 +27320,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5216561457861@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492241614739@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29366,8 +29411,8 @@
         "5492974124262@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 21,
-          "exp": 6676,
-          "usedcommands": 74,
+          "exp": 6736,
+          "usedcommands": 75,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -30958,6 +31003,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "93231425536233@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32293,25 +32347,25 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 123001,
-          "exp": 5485,
-          "usedcommands": 273,
+          "bank": 102381,
+          "exp": 5933,
+          "usedcommands": 282,
           "level": 41,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752270372269,
-          "crimeCooldown": 1752268299701,
-          "mineCooldown": 1752268301524,
-          "workCooldown": 1752268303244,
+          "crimeCooldown": 1752270111946,
+          "mineCooldown": 1752270113687,
+          "workCooldown": 1752270115298,
           "dailyStreak": 1,
           "lastDaily": 1752235861574,
           "nextReward": 48419,
           "lastWeekly": 1752235864275,
           "lastMonthly": 1752235866750,
-          "slutCooldown": 1752268306950,
-          "pptCooldown": 1752267118059,
+          "slutCooldown": 1752270117099,
+          "pptCooldown": 1752270119761,
           "personajesEnVenta": [],
-          "buyCooldown": 1752268414649,
+          "buyCooldown": 1752270406820,
           "characters": [
             {
               "name": "Katsuki Bakugo",
@@ -32359,6 +32413,14 @@
               "value": 10000,
               "gender": "Mujer",
               "source": "Vocaloid",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Eri",
+              "url": "https://stellarwa.xyz/files/1750634190402.jpg",
+              "value": 20000,
+              "gender": "Mujer",
+              "source": "My Hero Academia",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -32710,15 +32772,6 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "a6710b1e"
-        },
-        {
-          "userId": "50236933411@s.whatsapp.net",
-          "name": "Eri",
-          "url": "https://stellarwa.xyz/files/1750634190402.jpg",
-          "value": 20000,
-          "gender": "Mujer",
-          "source": "My Hero Academia",
-          "id": "a43ca5c4"
         }
       ]
     },
@@ -35143,6 +35196,15 @@
           "personajesEnVenta": []
         },
         "5359807885@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216644844886@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -58256,7 +58318,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363263466636910@newsletter": {
       "users": {
@@ -61163,7 +61226,7 @@
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 100,
+      "botcommando": 101,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -61213,7 +61276,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 630,
+      "botcommando": 631,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -61223,7 +61286,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 437,
+      "botcommando": 445,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
