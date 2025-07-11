@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Alexx",
+      "name": "Rɪᴢᴢʟʏ 🂱",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1916,6 +1916,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "122071761817733@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "97328388153363@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2955,6 +2973,15 @@
           "reason": ""
         },
         "87518800293911@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "97328388153363@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6234,6 +6261,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "122071761817733@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6246,7 +6282,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363403307677857@g.us": {
       "users": {
