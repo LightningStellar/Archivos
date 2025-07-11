@@ -6674,7 +6674,7 @@
     "212613866741868@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "👾",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10335,9 +10335,9 @@
         "593990564497@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 467,
-          "usedcommands": 9,
-          "level": 10,
+          "exp": 700,
+          "usedcommands": 13,
+          "level": 12,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752243884171,
@@ -10349,7 +10349,8 @@
           "lastDaily": 1752243312023,
           "nextReward": 32138,
           "rtCooldown": 1752243923441,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "roboCooldown": 0
         },
         "584144498455@s.whatsapp.net": {
           "chocolates": 0,
@@ -22173,7 +22174,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 103,
+      "botcommando": 107,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
