@@ -1128,6 +1128,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363318658152224@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51973645983@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "dea",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2299,8 +2317,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 7831,
           "bank": 0,
-          "exp": 3393,
-          "usedcommands": 14,
+          "exp": 3447,
+          "usedcommands": 15,
           "level": 23,
           "banned": false,
           "reason": "",
@@ -3324,6 +3342,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51973645983@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4280,6 +4307,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363318658152224@g.us": {
+      "users": {
+        "120363318658152224@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -4335,7 +4386,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 23,
+      "botcommando": 24,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
