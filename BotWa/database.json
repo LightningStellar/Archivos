@@ -1638,6 +1638,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "213434775900387@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3850,6 +3859,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56920449984@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3862,7 +3880,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5219613301789@s.whatsapp.net": {
       "users": {
@@ -5845,15 +5864,17 @@
         },
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 5924,
-          "exp": 176,
-          "usedcommands": 4,
-          "level": 6,
+          "bank": 9967,
+          "exp": 399,
+          "usedcommands": 7,
+          "level": 9,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752236831724,
           "mineCooldown": 1752236834862,
-          "workCooldown": 1752236843146
+          "workCooldown": 1752236843146,
+          "slutCooldown": 1752236848422,
+          "pptCooldown": 1752236852786
         }
       },
       "sWelcome": "",
@@ -5896,6 +5917,30 @@
     "120363402281708164@g.us": {
       "users": {
         "5491122877897@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363420484518570@g.us": {
+      "users": {
+        "213434775900387@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6121,7 +6166,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 5,
+      "botcommando": 8,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
