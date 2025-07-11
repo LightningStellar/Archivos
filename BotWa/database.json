@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Sig&∆¶[",
+      "name": "jota pension",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12475,6 +12475,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5359171793@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Karlaa",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5270461784316@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19143,8 +19161,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 260,
           "bank": 0,
-          "exp": 2400,
-          "usedcommands": 90,
+          "exp": 2445,
+          "usedcommands": 91,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -23528,6 +23546,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5270461784316@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26714,6 +26741,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5359171793@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28423,8 +28459,8 @@
         "5216646952956@s.whatsapp.net": {
           "chocolates": 842973,
           "bank": 0,
-          "exp": 5445,
-          "usedcommands": 46,
+          "exp": 5533,
+          "usedcommands": 48,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -37420,7 +37456,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 334,
+      "botcommando": 335,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37490,7 +37526,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 98,
+      "botcommando": 99,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -37550,13 +37586,13 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 65,
-      "prefix": "/",
+      "botcommando": 66,
+      "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
       "owner": "Oculto por privacidad",
       "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
-      "currency": "SylphyCoins"
+      "currency": "dolares"
     },
     "56987865578@s.whatsapp.net": {
       "self": false,
