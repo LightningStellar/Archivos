@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "axcelgonzalez2007",
+      "name": "Joel",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18214,7 +18214,7 @@
     "248863390748768@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🌑𝓝𝓪𝓽𝔂☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18233,6 +18233,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215540232616@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 55 4023 2616",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -29598,10 +29607,10 @@
           "voteCooldown": 0
         },
         "50236933411@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 111253,
-          "exp": 3842,
-          "usedcommands": 237,
+          "chocolates": 50,
+          "bank": 111203,
+          "exp": 3973,
+          "usedcommands": 240,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -29617,7 +29626,7 @@
           "slutCooldown": 1752264666022,
           "pptCooldown": 1752264667748,
           "personajesEnVenta": [],
-          "buyCooldown": 1752261585360,
+          "buyCooldown": 1752265733670,
           "characters": [
             {
               "name": "Katsuki Bakugo",
@@ -29649,6 +29658,14 @@
               "value": 1000,
               "gender": "Mujer",
               "source": "Solo Leveling",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Alice Maresato",
+              "url": "https://stellarwa.xyz/files/1748788054144.jpg",
+              "value": 50,
+              "gender": "Mujer",
+              "source": "Highschool of the Dead",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -29944,15 +29961,6 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "93c38ad7"
-        },
-        {
-          "userId": "5215522567568@s.whatsapp.net",
-          "name": "Alice Maresato",
-          "url": "https://stellarwa.xyz/files/1748788054144.jpg",
-          "value": 50,
-          "gender": "Mujer",
-          "source": "Highschool of the Dead",
-          "id": "e4ada15f"
         }
       ]
     },
@@ -52414,6 +52422,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215540232616@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -55289,6 +55306,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215540232616@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -55368,7 +55394,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 369,
+      "botcommando": 372,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
