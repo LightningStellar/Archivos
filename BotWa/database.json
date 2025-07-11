@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "★マリジョ★",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -22162,6 +22162,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "+57 311 2746208",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "67779365494918@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -46691,8 +46700,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 158130,
-          "exp": 1107,
-          "usedcommands": 77,
+          "exp": 1312,
+          "usedcommands": 80,
           "level": 19,
           "banned": false,
           "reason": "",
@@ -50366,16 +50375,16 @@
           "rtCooldown": 1752265093999
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 475175,
+          "chocolates": 445175,
           "bank": 0,
-          "exp": 4263,
-          "usedcommands": 76,
+          "exp": 4349,
+          "usedcommands": 77,
           "level": 25,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752254886666,
           "workCooldown": 1752254889884,
-          "rtCooldown": 1752273946443,
+          "rtCooldown": 1752274719133,
           "rwCooldown": 1752271752145,
           "buyCooldown": 1752256569450,
           "characters": [],
@@ -54849,6 +54858,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "67779365494918@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -67775,7 +67793,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 322,
+      "botcommando": 325,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -67935,7 +67953,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": true,
-      "botcommando": 20,
+      "botcommando": 21,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
