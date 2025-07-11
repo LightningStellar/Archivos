@@ -439,6 +439,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584127526004@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "J.A.⚽🗣️🔥",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573228667071@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573112055515@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ssair Tomás Diaz😎",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491160460225@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "๋ ࣭ ༯⭑𝟎𝟎:𝟎𝟎๋ ࣭ ⭑.ᐟ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1569,6 +1605,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491160460225@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -1594,6 +1639,61 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363399108260019@g.us": {
+      "users": {
+        "584127526004@s.whatsapp.net": {
+          "chocolates": 56164,
+          "bank": 0,
+          "exp": 475,
+          "usedcommands": 6,
+          "level": 10,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752231731609,
+          "nextReward": 13998,
+          "workCooldown": 1752232333734,
+          "slutCooldown": 1752232339133,
+          "mineCooldown": 1752232341120
+        },
+        "573228667071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573112055515@s.whatsapp.net": {
+          "chocolates": 32034,
+          "bank": 0,
+          "exp": 332,
+          "usedcommands": 5,
+          "level": 9,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752231725913,
+          "nextReward": 17539,
+          "mineCooldown": 1752232331320,
+          "slutCooldown": 1752232334116,
+          "crimeCooldown": 1752232344653
         }
       },
       "sWelcome": "",
@@ -1743,7 +1843,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1,
+      "botcommando": 12,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
