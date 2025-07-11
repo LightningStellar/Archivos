@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "...🔥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14779,7 +14779,7 @@
     "34605463333@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "BRANDON BLACK :)",
+      "name": "Brandon AD",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -16477,7 +16477,7 @@
     "148198349893770@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🄷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -16486,7 +16486,7 @@
     "16596357660750@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "💤🪬Trenmu🚂📷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -16513,6 +16513,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "+591 71875931",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212699799629915@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "176798570696795@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20848,8 +20866,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 5522,
           "bank": 0,
-          "exp": 3770,
-          "usedcommands": 75,
+          "exp": 3788,
+          "usedcommands": 76,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -24491,21 +24509,21 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 6161,
           "bank": 0,
-          "exp": 1119,
-          "usedcommands": 146,
+          "exp": 1352,
+          "usedcommands": 150,
           "level": 27,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752234043237,
           "nextReward": 30177,
-          "workCooldown": 1752261081596,
+          "workCooldown": 1752261780322,
           "lastMonthly": 1752234059539,
           "lastWeekly": 1752234064087,
-          "crimeCooldown": 1752261087286,
-          "mineCooldown": 1752261084047,
+          "crimeCooldown": 1752261791095,
+          "mineCooldown": 1752261785770,
           "rtCooldown": 1752261312880,
           "rwCooldown": 1752261034902,
           "buyCooldown": 1752235013656,
@@ -27179,12 +27197,12 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 49379,
-          "exp": 4770,
-          "usedcommands": 45,
+          "exp": 4859,
+          "usedcommands": 46,
           "level": 26,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752261157941,
+          "rwCooldown": 1752262072479,
           "personajesEnVenta": [],
           "crimeCooldown": 1752252364276,
           "mineCooldown": 1752252366517,
@@ -27511,6 +27529,15 @@
           "gender": "Hombre",
           "source": "Hunter x Hunter",
           "id": "c03863a5"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Jack Hanma",
+          "url": "https://stellarwa.xyz/files/1749004129297.jpg",
+          "value": 40000,
+          "gender": "Hombre",
+          "source": "Baki Hanma",
+          "id": "d5421953"
         }
       ]
     },
@@ -30642,6 +30669,15 @@
           "personajesEnVenta": []
         },
         "186561098461240@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "212699799629915@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -49723,6 +49759,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50236933411@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -49741,6 +49786,55 @@
     "120363287213047120@newsletter": {
       "users": {
         "120363287213047120@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "5491140849256@s.whatsapp.net": {
+      "users": {
+        "5491140849256@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363419681821240@g.us": {
+      "users": {
+        "176798570696795@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -49816,7 +49910,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 486,
+      "botcommando": 491,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -49826,7 +49920,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 259,
+      "botcommando": 260,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
