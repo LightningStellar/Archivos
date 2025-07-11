@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🐱ғʟᴏʀᴇɴᴄɪᴀシ︎",
+      "name": "☆ ׂ . 🌟⃞֟፝͝ू  ׂ . ☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1530,7 +1530,7 @@
     "5219331124248@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂµ",
+      "name": "🇯🇵",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10783,6 +10783,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Raphael",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34622347566@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ona🌈",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -25886,6 +25895,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34622347566@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26831,6 +26849,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50660951022@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32317,9 +32344,9 @@
       "users": {
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 81490,
-          "exp": 13230,
-          "usedcommands": 139,
+          "bank": 31490,
+          "exp": 13243,
+          "usedcommands": 141,
           "level": 39,
           "banned": false,
           "reason": "",
@@ -32335,7 +32362,7 @@
           "lastWeekly": 1752204478340,
           "lastMonthly": 1752204480136,
           "personajesEnVenta": [],
-          "buyCooldown": 1752212808925,
+          "buyCooldown": 1752215373724,
           "characters": [
             {
               "name": "Sakura",
@@ -32343,6 +32370,14 @@
               "value": 5000,
               "gender": "Mujer",
               "source": "Ijiranaide, Nagatoro-san",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Zeldris",
+              "url": "https://stellarwa.xyz/files/1749350004582.jpg",
+              "value": 50000,
+              "gender": "Hombre",
+              "source": "Los Siete Pecados Capitales",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -32352,13 +32387,13 @@
         "5215522567568@s.whatsapp.net": {
           "chocolates": 95211,
           "bank": 0,
-          "exp": 3684,
-          "usedcommands": 47,
+          "exp": 3863,
+          "usedcommands": 52,
           "level": 24,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "rwCooldown": 1752212993179,
+          "rwCooldown": 1752215394819,
           "crimeCooldown": 1752214978800,
           "mineCooldown": 1752214980682,
           "workCooldown": 1752214982115,
@@ -32375,8 +32410,8 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 43367,
-          "exp": 7482,
-          "usedcommands": 68,
+          "exp": 7491,
+          "usedcommands": 69,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -32408,8 +32443,8 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 8514,
-          "exp": 7339,
-          "usedcommands": 65,
+          "exp": 7405,
+          "usedcommands": 66,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -32626,15 +32661,6 @@
           "id": "ead8fad7"
         },
         {
-          "userId": "50236933411@s.whatsapp.net",
-          "name": "Zeldris",
-          "url": "https://stellarwa.xyz/files/1749350004582.jpg",
-          "value": 50000,
-          "gender": "Hombre",
-          "source": "Los Siete Pecados Capitales",
-          "id": "917d4fd1"
-        },
-        {
           "userId": "573235511077@s.whatsapp.net",
           "name": "Danjuro Tobita",
           "url": "https://stellarwa.xyz/files/1750637489772.jpg",
@@ -32642,6 +32668,15 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "c1be3bad"
+        },
+        {
+          "userId": "5215522567568@s.whatsapp.net",
+          "name": "Heemin Kim",
+          "url": "https://stellarwa.xyz/files/1749212547091.jpg",
+          "value": 1000,
+          "gender": "Hombre",
+          "source": "Apari3ncias",
+          "id": "cbd54502"
         }
       ]
     },
@@ -37249,7 +37284,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 277,
+      "botcommando": 286,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
