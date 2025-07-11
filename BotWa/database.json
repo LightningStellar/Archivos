@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⠟🍒̼̼֟፝  ﹫𝐄𝗹𝘆͡𝗮͜𝗻 !! ׂ۪ ﹖？",
+      "name": "Ratoier🐾",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10519,6 +10519,51 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50664548292@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ciel",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213512804006@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "❄🌹시엘 팬텀하이브~🥀🫀..✨💤",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "67568475861209@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363416652770873@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "15517868401@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "15517868401",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12859,6 +12904,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5213512804006@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17954,6 +18008,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363416652770873@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24596,11 +24659,11 @@
           "totalRwcoins": null
         },
         "51902486766@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 179886,
-          "exp": 6945,
-          "usedcommands": 75,
-          "level": 30,
+          "chocolates": 3000,
+          "bank": 171886,
+          "exp": 7087,
+          "usedcommands": 77,
+          "level": 31,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752206371579,
@@ -24713,7 +24776,7 @@
           "rwCooldown": 1752206660398
         },
         "50236933411@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 5000,
           "bank": 88455,
           "exp": 7989,
           "usedcommands": 46,
@@ -26190,6 +26253,15 @@
           "personajesEnVenta": []
         },
         "5359679522@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50664548292@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -30802,6 +30874,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "67568475861209@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36316,6 +36397,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "15517868401@s.whatsapp.net": {
+      "users": {
+        "15517868401@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -36341,7 +36446,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 336,
+      "botcommando": 338,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
