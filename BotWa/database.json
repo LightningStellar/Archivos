@@ -11217,6 +11217,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5212462992216@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🦐🇷🇺✨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363313059454809@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "74951675617520@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13446,6 +13473,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5212462992216@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17726,6 +17762,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "74951675617520@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20231,6 +20276,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "53670465028162@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20969,6 +21023,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "106610231885971@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21126,6 +21189,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "106610231885971@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22773,6 +22845,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363313059454809@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33364,9 +33445,9 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 64299,
-          "exp": 8122,
-          "usedcommands": 78,
-          "level": 32,
+          "exp": 8207,
+          "usedcommands": 79,
+          "level": 33,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -33380,7 +33461,7 @@
           "workCooldown": 1752216779272,
           "slutCooldown": 1752216781173,
           "pptCooldown": 1752216784471,
-          "rwCooldown": 1752216378112,
+          "rwCooldown": 1752218009648,
           "buyCooldown": 1752213694862,
           "characters": [
             {
@@ -33634,6 +33715,15 @@
           "gender": "Hombre",
           "source": "Hunter x Hunter",
           "id": "0ebb66fa"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Liliana S. B. Heilig",
+          "url": "https://stellarwa.xyz/files/1749353089844.jpg",
+          "value": 15000,
+          "gender": "Hombre",
+          "source": "Arifureta",
+          "id": "6ea820d0"
         }
       ]
     },
@@ -38606,7 +38696,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 370,
+      "botcommando": 371,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
