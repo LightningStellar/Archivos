@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valentina",
+      "name": "axcelgonzalez2007",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20172,6 +20172,32 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Azúl",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "277214436274197@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215531171152@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Adeliii✨🫶🏻",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "169642987397170@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -41973,8 +41999,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 55,
-          "usedcommands": 12,
+          "exp": 116,
+          "usedcommands": 13,
           "level": 10,
           "banned": false,
           "reason": "",
@@ -42033,15 +42059,15 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": false,
+      "welcome": true,
       "nsfw": false,
-      "alerts": false,
+      "alerts": true,
       "gacha": true,
       "rpg": true,
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": true,
+      "bannedGrupo": false,
       "expired": 0
     },
     "120363384135009684@g.us": {
@@ -47463,6 +47489,15 @@
           "personajesEnVenta": []
         },
         "2808908644548@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "169642987397170@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -57611,6 +57646,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "277214436274197@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -60956,6 +61000,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215531171152@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -60968,7 +61021,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363393013626741@g.us": {
       "users": {
@@ -61221,6 +61275,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363398604987723@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -61346,7 +61424,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 279,
+      "botcommando": 281,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
