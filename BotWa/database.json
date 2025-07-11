@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "『✦ Jose⏤͟͟͞͞★✦』",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21667,6 +21667,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56962200375@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✨Catrina🥀(NightXkiller)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573007076948@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝓥al💤 🌌",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -26011,6 +26029,15 @@
           "personajesEnVenta": []
         },
         "5493832433088@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56939488956@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -34610,16 +34637,16 @@
         },
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 74,
-          "exp": 877,
-          "usedcommands": 17,
-          "level": 13,
+          "bank": 0,
+          "exp": 1153,
+          "usedcommands": 22,
+          "level": 15,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752273631003,
           "personajesEnVenta": [],
-          "crimeCooldown": 1752259877091,
-          "mineCooldown": 1752259878975,
+          "crimeCooldown": 1752273369105,
+          "mineCooldown": 1752273365504,
           "workCooldown": 1752259882060,
           "slutCooldown": 1752259884139,
           "pptCooldown": 1752259888846
@@ -45655,15 +45682,15 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": false,
+      "welcome": true,
       "nsfw": false,
-      "alerts": false,
+      "alerts": true,
       "gacha": true,
       "rpg": true,
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": true,
+      "bannedGrupo": false,
       "expired": 0
     },
     "120363365160650926@g.us": {
@@ -45749,8 +45776,8 @@
         "5212331515986@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 2314,
-          "exp": 69,
-          "usedcommands": 75,
+          "exp": 96,
+          "usedcommands": 76,
           "level": 10,
           "banned": false,
           "reason": "",
@@ -53311,6 +53338,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573007076948@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -54966,6 +55002,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56962200375@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -65919,6 +65964,40 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363419457218789@g.us": {
+      "users": {
+        "106455243964495@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -65934,7 +66013,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 232,
+      "botcommando": 233,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -65984,7 +66063,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 451,
+      "botcommando": 455,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -66044,7 +66123,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 288,
+      "botcommando": 289,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
