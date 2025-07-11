@@ -1504,6 +1504,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219611307262@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★Tsumugi Rintaro★",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34614293473@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+34 614 29 34 73",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2205,6 +2223,24 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34614293473@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5214531458599@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -2217,7 +2253,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363281827263578@g.us": {
       "users": {
@@ -3413,6 +3450,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5219611307262@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3425,7 +3471,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363203531737080@g.us": {
       "users": {
