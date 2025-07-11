@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "name": "威廉",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15270,7 +15270,7 @@
     "207357346881748@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🍰𐚁ɑׁ꯱hׁׅ֮ᥣׁꫀׁׅܻ݊ᨮׁׅ֮୧🍩",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15295,6 +15295,32 @@
       "description": ""
     },
     "263036833149073@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🔥",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "66194136674424@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363337523982310@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "159605732728865@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -19562,11 +19588,11 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 28,
+          "chocolates": 3348,
           "bank": 0,
-          "exp": 1972,
-          "usedcommands": 36,
-          "level": 18,
+          "exp": 2105,
+          "usedcommands": 38,
+          "level": 19,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752235031381,
@@ -19585,8 +19611,8 @@
             }
           ],
           "personajesEnVenta": [],
-          "workCooldown": 1752254897241,
-          "mineCooldown": 1752254899989,
+          "workCooldown": 1752259583284,
+          "mineCooldown": 1752259585877,
           "crimeCooldown": 1752254902251,
           "characterCount": null,
           "totalRwcoins": null,
@@ -25330,11 +25356,11 @@
           "personajesEnVenta": []
         },
         "5215522567568@s.whatsapp.net": {
-          "chocolates": 43364,
-          "bank": 0,
-          "exp": 5210,
-          "usedcommands": 15,
-          "level": 17,
+          "chocolates": 0,
+          "bank": 43364,
+          "exp": 5326,
+          "usedcommands": 17,
+          "level": 27,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -25349,7 +25375,18 @@
           "lastDaily": 1752258914321,
           "nextReward": 5095,
           "lastWeekly": 1752258917638,
-          "lastMonthly": 1752258922971
+          "lastMonthly": 1752258922971,
+          "buyCooldown": 1752259829472,
+          "characters": [
+            {
+              "name": "Zeldris",
+              "url": "https://stellarwa.xyz/files/1749350004582.jpg",
+              "value": 50000,
+              "gender": "Hombre",
+              "source": "Los Siete Pecados Capitales",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ]
         },
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
@@ -25375,8 +25412,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 70605,
-          "exp": 10724,
-          "usedcommands": 98,
+          "exp": 10733,
+          "usedcommands": 99,
           "level": 36,
           "banned": false,
           "reason": "",
@@ -25456,14 +25493,22 @@
           "pptCooldown": 1752251624950
         },
         "56958115618@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 62825,
           "bank": 0,
-          "exp": 115,
-          "usedcommands": 2,
-          "level": 6,
+          "exp": 5568,
+          "usedcommands": 9,
+          "level": 28,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752259479929
+          "rwCooldown": 1752259479929,
+          "dailyStreak": 1,
+          "lastDaily": 1752258969862,
+          "nextReward": 39437,
+          "lastMonthly": 1752258972928,
+          "lastWeekly": 1752258976083,
+          "crimeCooldown": 1752259579689,
+          "mineCooldown": 1752259582418,
+          "workCooldown": 1752259584965
         }
       },
       "sWelcome": "",
@@ -25514,15 +25559,6 @@
           "gender": "Mujer",
           "source": "Date A Live",
           "id": "a1a849fc"
-        },
-        {
-          "userId": "573235511077@s.whatsapp.net",
-          "name": "Zeldris",
-          "url": "https://stellarwa.xyz/files/1749350004582.jpg",
-          "value": 50000,
-          "gender": "Hombre",
-          "source": "Los Siete Pecados Capitales",
-          "id": "699222a0"
         },
         {
           "userId": "59175015536@s.whatsapp.net",
@@ -32152,6 +32188,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "159605732728865@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34043,8 +34088,8 @@
         "5212331515986@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 2314,
-          "exp": 87,
-          "usedcommands": 34,
+          "exp": 144,
+          "usedcommands": 35,
           "level": 10,
           "banned": false,
           "reason": "",
@@ -45903,6 +45948,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "66194136674424@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -45966,6 +46020,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363337523982310@newsletter": {
+      "users": {
+        "120363337523982310@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -46001,7 +46080,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 34,
+      "botcommando": 36,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46011,7 +46090,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 35,
+      "botcommando": 36,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46021,7 +46100,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 385,
+      "botcommando": 387,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46031,7 +46110,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 161,
+      "botcommando": 167,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46071,7 +46150,7 @@
     },
     "50687717451@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 11,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46131,7 +46210,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 41,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
