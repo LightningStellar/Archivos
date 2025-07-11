@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Satan",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17968,8 +17968,8 @@
         "5492974124262@s.whatsapp.net": {
           "chocolates": 8556,
           "bank": 72912,
-          "exp": 8293,
-          "usedcommands": 88,
+          "exp": 8303,
+          "usedcommands": 89,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -19068,8 +19068,8 @@
         "51947773455@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 826,
-          "usedcommands": 20,
+          "exp": 937,
+          "usedcommands": 22,
           "level": 13,
           "banned": false,
           "reason": "",
@@ -24526,6 +24526,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "259322089050361@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26888,8 +26897,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 86983,
-          "exp": 211,
-          "usedcommands": 179,
+          "exp": 249,
+          "usedcommands": 180,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -26903,7 +26912,7 @@
           "lastMonthly": 1752180238916,
           "slutCooldown": 1752195159793,
           "pptCooldown": 1752195161830,
-          "rwCooldown": 1752194824668,
+          "rwCooldown": 1752196455376,
           "personajesEnVenta": [],
           "buyCooldown": 1752191586259,
           "characters": [
@@ -27141,6 +27150,15 @@
           "gender": "Hombre",
           "source": "Dragon Ball",
           "id": "e48061ac"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Mary Kenwood",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n1933-WNDtxqOr1d51.png",
+          "value": 3575,
+          "gender": "Mujer",
+          "source": "Death Note",
+          "id": "ba701e1e"
         }
       ],
       "expired": 0
@@ -27724,9 +27742,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 812,
-          "usedcommands": 14,
-          "level": 13,
+          "exp": 962,
+          "usedcommands": 17,
+          "level": 14,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -32972,6 +32990,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5212215808332@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -45610,7 +45637,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 985,
+      "botcommando": 988,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -45650,7 +45677,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 290,
+      "botcommando": 291,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -45770,7 +45797,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 168,
+      "botcommando": 170,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
@@ -45840,7 +45867,7 @@
     },
     "5216421056593@s.whatsapp.net": {
       "self": false,
-      "botcommando": 8,
+      "botcommando": 9,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
