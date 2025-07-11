@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Leo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7627,7 +7627,7 @@
     "5491135078568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "﹒⌗﹒𝕿𝓸𝓂𝒶́𝓈. 🥀﹒౨ৎ˚₊‧",
+      "name": "+54 9 11 3507-8568",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12391,6 +12391,23 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "٭★𝑲𝑨𝑮𝑬𝒀𝑨𝑴𝑨★٭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "30215480803465@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363160523010575@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19043,10 +19060,10 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 4760,
+          "chocolates": 260,
           "bank": 0,
-          "exp": 2252,
-          "usedcommands": 86,
+          "exp": 2329,
+          "usedcommands": 88,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -19058,7 +19075,7 @@
           "lastWeekly": 1752234064087,
           "crimeCooldown": 1752253465379,
           "mineCooldown": 1752253460396,
-          "rtCooldown": 1752253136368,
+          "rtCooldown": 1752253998904,
           "rwCooldown": 1752235006770,
           "buyCooldown": 1752235013656,
           "characters": [
@@ -26664,6 +26681,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "30215480803465@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34178,16 +34204,17 @@
       "users": {
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 8053,
-          "exp": 124,
-          "usedcommands": 4,
-          "level": 6,
+          "bank": 8553,
+          "exp": 1707,
+          "usedcommands": 6,
+          "level": 17,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
           "dailyStreak": 1,
           "lastDaily": 1752253325579,
-          "nextReward": 21042
+          "nextReward": 21042,
+          "lastMonthly": 1752253356332
         },
         "573160505989@s.whatsapp.net": {
           "chocolates": 0,
@@ -37136,6 +37163,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363160523010575@newsletter": {
+      "users": {
+        "120363160523010575@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -37171,7 +37222,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 19,
+      "botcommando": 20,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37191,7 +37242,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 330,
+      "botcommando": 332,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37361,7 +37412,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 33,
       "prefix": "!",
       "namebot": "ꮺ  ִ  ﹫ 𝓙𝖺𝖼𝗄𝖿𝗋𝗈𝗌𝗍.  ❄   ᱉᱉",
       "namebot2": "𝕱𝗋𝗈𝗌𝗍.  ᨦ‌    ׅ ۟  ׁ",
