@@ -16687,6 +16687,15 @@
         "59893512900@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
+          "exp": 41,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56933563394@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
           "exp": 0,
           "usedcommands": 0,
           "level": 0,
@@ -20380,7 +20389,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 52,
+      "botcommando": 53,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -20450,7 +20459,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 15,
+      "botcommando": 16,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
