@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Edgardo",
+      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11064,6 +11064,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491154998252@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nataly🐥✨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13266,6 +13275,15 @@
           "reason": ""
         },
         "5491127571952@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491154998252@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -32855,12 +32873,12 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 81490,
-          "exp": 14906,
-          "usedcommands": 178,
+          "exp": 14992,
+          "usedcommands": 179,
           "level": 41,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752216073030,
+          "rwCooldown": 1752217001115,
           "crimeCooldown": 1752213513659,
           "mineCooldown": 1752213516069,
           "workCooldown": 1752213517676,
@@ -33230,6 +33248,15 @@
           "gender": "Hombre",
           "source": "Blue Lock",
           "id": "be4cc5ca"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Dorado",
+          "url": "https://stellarwa.xyz/files/1750784211379.jpg",
+          "value": 13000,
+          "gender": "Hombre",
+          "source": "Hunter x Hunter",
+          "id": "0ebb66fa"
         }
       ]
     },
@@ -38086,7 +38113,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 348,
+      "botcommando": 349,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
