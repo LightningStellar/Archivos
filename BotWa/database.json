@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~Maxi",
+      "name": "Ｓｏｏ-Ｙｏｕｎｇᰔᩚˢ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19902,6 +19902,24 @@
       "description": ""
     },
     "184739562578087@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Diego.C",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "104419463024873@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "102138919284970@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -40526,6 +40544,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "104419463024873@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -57677,6 +57704,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "102138919284970@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -60751,7 +60787,7 @@
     },
     "56971328562@s.whatsapp.net": {
       "self": false,
-      "botcommando": 28,
+      "botcommando": 29,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
