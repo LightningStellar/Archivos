@@ -13270,8 +13270,8 @@
         "573224401800@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 66628,
-          "exp": 3902,
-          "usedcommands": 48,
+          "exp": 3999,
+          "usedcommands": 50,
           "level": 24,
           "banned": false,
           "reason": "",
@@ -13311,8 +13311,8 @@
         "17604773961@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 24956,
-          "exp": 1877,
-          "usedcommands": 32,
+          "exp": 1936,
+          "usedcommands": 33,
           "level": 18,
           "banned": false,
           "reason": "",
@@ -17493,10 +17493,10 @@
           "personajesEnVenta": []
         },
         "51928701104@s.whatsapp.net": {
-          "chocolates": 6874536,
-          "bank": 0,
-          "exp": 11154,
-          "usedcommands": 132,
+          "chocolates": 0,
+          "bank": 6873536,
+          "exp": 11290,
+          "usedcommands": 134,
           "level": 37,
           "banned": false,
           "reason": "",
@@ -17511,7 +17511,7 @@
           "pptCooldown": 1752183313994,
           "lastWeekly": 1752167251198,
           "lastMonthly": 1752167268604,
-          "buyCooldown": 1752183233574,
+          "buyCooldown": 1752194897516,
           "rwCooldown": 1752194888359,
           "characters": [
             {
@@ -17553,10 +17553,18 @@
               "gender": "Hombre",
               "source": "Hunter x Hunter",
               "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Cell",
+              "url": "https://stellarwa.xyz/files/1748800262743.jpg",
+              "value": 1000,
+              "gender": "Hombre",
+              "source": "Dragon Ball",
+              "claim": "viernes, 11 de julio de 2025"
             }
           ],
-          "characterCount": 3,
-          "totalRwcoins": 620592,
+          "characterCount": 4,
+          "totalRwcoins": 621592,
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
@@ -18106,15 +18114,6 @@
           "gender": "Mujer",
           "source": "Darling in the Franxx",
           "id": "0f53d159"
-        },
-        {
-          "userId": "51928701104@s.whatsapp.net",
-          "name": "Cell",
-          "url": "https://stellarwa.xyz/files/1748800262743.jpg",
-          "value": 1000,
-          "gender": "Hombre",
-          "source": "Dragon Ball",
-          "id": "3a511922"
         }
       ]
     },
@@ -26173,9 +26172,9 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 77198,
-          "exp": 2488,
-          "usedcommands": 143,
+          "bank": 81198,
+          "exp": 2689,
+          "usedcommands": 147,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -26227,7 +26226,8 @@
             }
           ],
           "characterCount": 1,
-          "totalRwcoins": 10000
+          "totalRwcoins": 10000,
+          "rtCooldown": 1752194638476
         },
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
@@ -44037,6 +44037,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5213328287209@s.whatsapp.net": {
+      "users": {
+        "51963309930@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -44072,7 +44097,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 131,
+      "botcommando": 134,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44092,7 +44117,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 952,
+      "botcommando": 954,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -44132,7 +44157,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 263,
+      "botcommando": 266,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44202,7 +44227,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 23,
+      "botcommando": 24,
       "prefix": "#",
       "namebot": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯",
       "namebot2": "ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯",
