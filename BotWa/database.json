@@ -11567,6 +11567,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50586989853@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "㆒ 𝕳꯭꯭꯭𝖺𝗇 𝕵𝗂𝗌𝗎𝗇𝗀",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21122,14 +21131,14 @@
           "personajesEnVenta": []
         },
         "5492324347631@s.whatsapp.net": {
-          "chocolates": 9162,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 9907,
-          "usedcommands": 80,
+          "exp": 10026,
+          "usedcommands": 82,
           "level": 35,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752217262525,
+          "rtCooldown": 1752220575953,
           "dailyStreak": 1,
           "lastDaily": 1752203140354,
           "nextReward": 715,
@@ -28187,6 +28196,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50586989853@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39567,7 +39585,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 331,
+      "botcommando": 333,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -39607,7 +39625,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 146,
+      "botcommando": 147,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
