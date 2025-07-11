@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "tu mamá en cuatro",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23799,6 +23799,41 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363392087983047@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "180831628853476@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218683032680@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "chicol",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492233018994@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 223 301-8994",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34458,6 +34493,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492233018994@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37073,6 +37117,15 @@
           "personajesEnVenta": []
         },
         "53747405320361@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "180831628853476@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -40237,9 +40290,9 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 86,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 126,
+          "usedcommands": 3,
+          "level": 6,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -53170,12 +53223,12 @@
         "5216141200934@s.whatsapp.net": {
           "chocolates": 11474,
           "bank": 0,
-          "exp": 784,
-          "usedcommands": 14,
+          "exp": 846,
+          "usedcommands": 15,
           "level": 13,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752277483221,
+          "rwCooldown": 1752278982466,
           "personajesEnVenta": [],
           "mineCooldown": 1752277264394,
           "workCooldown": 1752275531904,
@@ -53329,6 +53382,15 @@
           "gender": "Hombre",
           "source": "Arifureta",
           "id": "cd738d60"
+        },
+        {
+          "userId": "5216141200934@s.whatsapp.net",
+          "name": "Mitsuha Miyamizu",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121514-MGI7JRluscpz.png",
+          "value": 792384,
+          "gender": "Mujer",
+          "source": "Your Name",
+          "id": "aa167dfb"
         }
       ]
     },
@@ -63519,6 +63581,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5218683032680@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -72779,6 +72850,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363392087983047@newsletter": {
+      "users": {
+        "120363392087983047@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -72924,7 +73019,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 340,
+      "botcommando": 341,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -73014,7 +73109,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 35,
+      "botcommando": 36,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
