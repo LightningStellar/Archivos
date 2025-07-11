@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Karen",
+      "name": "axcelgonzalez2007",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3099,7 +3099,7 @@
     "18095202787@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+1 809-520-2787",
+      "name": "yagata",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3280,6 +3280,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "pollito",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212783156795@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+212 783-156795",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573147170787@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~⊰⁠⊹ฺకᴬᵀᴼᴿᵁメ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8836,6 +8854,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "212783156795@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -11435,6 +11462,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363418220426687@g.us": {
+      "users": {
+        "573147170787@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
