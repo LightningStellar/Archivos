@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ğãɓřįəł",
+      "name": "Valentina",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13484,7 +13484,7 @@
     "5214428709920@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "⁠☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13932,6 +13932,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "MιƙαAƈƙ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493425469047@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🏯ᩚᩖ ꒱꒱ Nere / Wos  𓈃 💘",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212645853956@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "اشرف حاجي",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17832,6 +17850,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493425469047@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21063,6 +21090,15 @@
           "reason": ""
         },
         "5214591097621@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "212645853956@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -31601,9 +31637,9 @@
         "5212225063048@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 30330,
-          "exp": 621,
-          "usedcommands": 8,
-          "level": 11,
+          "exp": 645,
+          "usedcommands": 9,
+          "level": 12,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -41566,6 +41602,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41578,7 +41623,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401446686821@g.us": {
       "users": {
@@ -41844,7 +41890,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 136,
+      "botcommando": 137,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
