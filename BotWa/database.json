@@ -11280,6 +11280,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219991199648@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "utsuro",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13529,6 +13538,24 @@
           "reason": ""
         },
         "34647208461@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216442293257@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219991199648@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -26917,9 +26944,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 22136,
           "bank": 0,
-          "exp": 504,
-          "usedcommands": 8,
-          "level": 10,
+          "exp": 696,
+          "usedcommands": 11,
+          "level": 12,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -38627,7 +38654,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 121,
+      "botcommando": 124,
       "prefix": "#/",
       "namebot": "Tsumugi Rintaro",
       "namebot2": "Tsumugi Rintaro",
