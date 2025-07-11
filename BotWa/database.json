@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Sarmiento Amao",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3020,7 +3020,7 @@
     "274259750441093@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "r",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3038,7 +3038,7 @@
     "124653221728390@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "衛生兵🍮",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3074,6 +3074,14 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𝘔𝘰𝘯𝘬𝘺 𝘋' 𝘓𝘶𝘧𝘧𝘺",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363416409380841@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10808,6 +10816,31 @@
     "120363342460224969@newsletter": {
       "users": {
         "120363342460224969@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363416409380841@newsletter": {
+      "users": {
+        "120363416409380841@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
