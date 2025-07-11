@@ -1522,6 +1522,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5216871236854@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "| 𝐑𝐢𝐦𝐮𝐫𝐮 𝐃𝐞𝐢𝐝𝐚𝐝~",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50236933411@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ratoier🐾",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573105390485@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⏤͟͟͞͞⃞⃝🍼ೄ⌑​᭄sʜᴏʏᴏ ིྀྀ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3278,6 +3305,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573105390485@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3543,6 +3579,26 @@
           "reason": "",
           "rwCooldown": 1752234385804,
           "personajesEnVenta": []
+        },
+        "50236933411@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 17076,
+          "exp": 5761,
+          "usedcommands": 12,
+          "level": 28,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752236739796,
+          "crimeCooldown": 1752236454210,
+          "mineCooldown": 1752236456104,
+          "workCooldown": 1752236458131,
+          "dailyStreak": 1,
+          "lastDaily": 1752235861574,
+          "nextReward": 48419,
+          "lastWeekly": 1752235864275,
+          "lastMonthly": 1752235866750,
+          "slutCooldown": 1752236468467,
+          "pptCooldown": 1752236472067
         }
       },
       "sWelcome": "",
@@ -3566,6 +3622,15 @@
           "gender": "Mujer",
           "source": "Charlotte",
           "id": "c5f2a253"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Chikuchi Togeike",
+          "url": "https://stellarwa.xyz/files/1750643666974.jpg",
+          "value": 20000,
+          "gender": "Mujer",
+          "source": "My Hero Academia",
+          "id": "c0cfc879"
         }
       ]
     },
@@ -5505,6 +5570,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363389742802559@g.us": {
+      "users": {
+        "5216871236854@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -5520,7 +5609,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -5570,7 +5659,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 19,
+      "botcommando": 31,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
