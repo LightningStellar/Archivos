@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🔥",
+      "name": "௮௵ଢ଼ 𝐋𝐈 ଢ଼ஜஹ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17557,7 +17557,51 @@
     "143495528505599@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "⎯̲⃗⸺֭֟🌘⵿̅୲⟸¨̲𝁼",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363373683100922@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216862313321@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ñe",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212296159177@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝙉𝙖𝙣𝙖♡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "131941579898937@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215564934017@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "osoriomarcela495",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21804,6 +21848,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5216862313321@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24216,6 +24269,15 @@
           "personajesEnVenta": []
         },
         "50254598443@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215564934017@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -28713,8 +28775,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 100650,
-          "exp": 2302,
-          "usedcommands": 210,
+          "exp": 2387,
+          "usedcommands": 211,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -33934,6 +33996,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "131941579898937@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -50653,6 +50724,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5212296159177@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -53281,6 +53361,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363373683100922@newsletter": {
+      "users": {
+        "120363373683100922@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -53346,7 +53451,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 341,
+      "botcommando": 342,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
