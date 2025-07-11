@@ -11774,6 +11774,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34613310257@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✡︎ʀᴜɪ ᴋᴀsʜɪᴍɪʀᴏ¡★!",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34465,8 +34474,8 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 48327,
-          "exp": 8805,
-          "usedcommands": 96,
+          "exp": 8827,
+          "usedcommands": 97,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -34481,7 +34490,7 @@
           "lastWeekly": 1752205413668,
           "lastMonthly": 1752205422205,
           "personajesEnVenta": [],
-          "rwCooldown": 1752219581384,
+          "rwCooldown": 1752222777508,
           "buyCooldown": 1752216175152,
           "characters": [
             {
@@ -34841,6 +34850,15 @@
           "gender": "Hombre",
           "source": "Death Note",
           "id": "7b267508"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Haru Nanakusa",
+          "url": "https://stellarwa.xyz/files/1749310165059.jpg",
+          "value": 5000,
+          "gender": "Mujer",
+          "source": "Call of the Night",
+          "id": "7e2e25e1"
         }
       ]
     },
@@ -40055,6 +40073,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "34613310257@s.whatsapp.net": {
+      "users": {
+        "34613310257@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -40280,7 +40323,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 382,
+      "botcommando": 383,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
