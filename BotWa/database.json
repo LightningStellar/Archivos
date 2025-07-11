@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~♡~",
+      "name": "Angel Navarro",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14303,6 +14303,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215524958486@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤ𝖲𝖺𝗅𝗏𝖺𝗍𝗈𝗋𝖾.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "185233785806964@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493364072498@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "all for us.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18210,6 +18237,24 @@
           "reason": ""
         },
         "573001643078@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215524958486@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493364072498@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -22936,6 +22981,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "185233785806964@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22992,6 +23046,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "185233785806964@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29111,23 +29174,37 @@
         },
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 20441,
-          "exp": 2657,
-          "usedcommands": 19,
-          "level": 21,
+          "bank": 22304,
+          "exp": 3840,
+          "usedcommands": 28,
+          "level": 24,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752256441090,
-          "mineCooldown": 1752256442656,
-          "workCooldown": 1752256445978,
-          "slutCooldown": 1752256450703,
-          "pptCooldown": 1752256453393,
+          "crimeCooldown": 1752257874133,
+          "mineCooldown": 1752257876517,
+          "workCooldown": 1752257878061,
+          "slutCooldown": 1752257880738,
+          "pptCooldown": 1752257883300,
           "personajesEnVenta": [],
           "dailyStreak": 1,
           "lastDaily": 1752256991927,
           "nextReward": 28971,
           "lastWeekly": 1752256999384,
-          "lastMonthly": 1752257002107
+          "lastMonthly": 1752257002107,
+          "rwCooldown": 1752258170966,
+          "buyCooldown": 1752258198825,
+          "characters": [
+            {
+              "name": "Eiro Touwa",
+              "url": "https://stellarwa.xyz/files/1750637493321.jpg",
+              "value": 4500,
+              "gender": "Mujer",
+              "source": "Denpa Onna to Seishun Otoko",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
@@ -43115,7 +43192,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 144,
+      "botcommando": 145,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -43215,7 +43292,7 @@
     },
     "51954532672@s.whatsapp.net": {
       "self": false,
-      "botcommando": 21,
+      "botcommando": 22,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -43305,7 +43382,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 244,
+      "botcommando": 252,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
