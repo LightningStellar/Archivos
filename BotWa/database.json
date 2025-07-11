@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "❛ ּ 🪭 𖧧\n𝙳𝙰𝙽",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15942,7 +15942,7 @@
     "212614591892@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+212 614-591892",
+      "name": "0614591892",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23026,6 +23026,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50254211378@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+502 5421 1378",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -30935,6 +30944,15 @@
           "reason": ""
         },
         "595971282559@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50254211378@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -51724,10 +51742,10 @@
           "mineCooldown": 1752258421043
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 6788549,
+          "chocolates": 6784549,
           "bank": 0,
-          "exp": 7007,
-          "usedcommands": 65,
+          "exp": 7085,
+          "usedcommands": 67,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -51740,8 +51758,8 @@
           "personajesEnVenta": [],
           "lastMonthly": 1752252354119,
           "lastWeekly": 1752252361425,
-          "rwCooldown": 1752275833188,
-          "buyCooldown": 1752270325812,
+          "rwCooldown": 1752277490184,
+          "buyCooldown": 1752277496214,
           "characters": [
             {
               "name": "Toppo",
@@ -51750,8 +51768,18 @@
               "gender": "Hombre",
               "source": "Dragon Ball ",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Mikasa Ackerman",
+              "url": "https://stellarwa.xyz/files/1748788627177.jpg",
+              "value": 4000,
+              "gender": "Mujer",
+              "source": "Shingeki No Kyojin",
+              "claim": "viernes, 11 de julio de 2025"
             }
-          ]
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5219932092138@s.whatsapp.net": {
           "chocolates": 360,
@@ -51772,16 +51800,16 @@
           "rtCooldown": 1752277011187
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 315175,
+          "chocolates": 215175,
           "bank": 0,
-          "exp": 4839,
-          "usedcommands": 85,
+          "exp": 4893,
+          "usedcommands": 86,
           "level": 26,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752254886666,
           "workCooldown": 1752254889884,
-          "rtCooldown": 1752276582948,
+          "rtCooldown": 1752277184602,
           "rwCooldown": 1752275837096,
           "buyCooldown": 1752256569450,
           "characters": [],
@@ -51805,12 +51833,12 @@
         "5216141200934@s.whatsapp.net": {
           "chocolates": 10252,
           "bank": 0,
-          "exp": 629,
-          "usedcommands": 9,
-          "level": 11,
+          "exp": 668,
+          "usedcommands": 11,
+          "level": 12,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752275773602,
+          "rwCooldown": 1752277483221,
           "personajesEnVenta": [],
           "mineCooldown": 1752275526944,
           "workCooldown": 1752275531904,
@@ -51955,6 +51983,15 @@
           "gender": "Hombre",
           "source": "Mob Psycho",
           "id": "bbadc3c2"
+        },
+        {
+          "userId": "5216141200934@s.whatsapp.net",
+          "name": "Atsushi Tamai",
+          "url": "https://stellarwa.xyz/files/1749354162395.jpg",
+          "value": 15000,
+          "gender": "Hombre",
+          "source": "Arifureta",
+          "id": "cd738d60"
         }
       ]
     },
@@ -52900,6 +52937,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "32693475639536@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -52936,6 +52982,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "32693475639536@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -70179,6 +70234,60 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "51940238781@s.whatsapp.net": {
+      "users": {
+        "51963309930@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363401597262745@g.us": {
+      "users": {
+        "56987865578@s.whatsapp.net": {
+          "chocolates": 7147,
+          "bank": 0,
+          "exp": 79,
+          "usedcommands": 3,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "workCooldown": 1752277228531,
+          "mineCooldown": 1752277230977,
+          "rwCooldown": 1752277534287
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0,
+      "personajesReservados": []
     }
   },
   "settings": {
@@ -70194,7 +70303,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 255,
+      "botcommando": 256,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -70324,7 +70433,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 323,
+      "botcommando": 328,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -70374,7 +70483,7 @@
     },
     "56987865578@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 13,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
