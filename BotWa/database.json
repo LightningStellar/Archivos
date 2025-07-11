@@ -33931,13 +33931,13 @@
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 4607,
-          "usedcommands": 69,
+          "exp": 4618,
+          "usedcommands": 70,
           "level": 26,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "rwCooldown": 1752219623372,
+          "rwCooldown": 1752220571409,
           "crimeCooldown": 1752214978800,
           "mineCooldown": 1752214980682,
           "workCooldown": 1752214982115,
@@ -34325,6 +34325,15 @@
           "gender": "Hombre",
           "source": "Assassination Classroom",
           "id": "98944922"
+        },
+        {
+          "userId": "5215522567568@s.whatsapp.net",
+          "name": "Chonbo Kureiji",
+          "url": "https://stellarwa.xyz/files/1749154256917.jpg",
+          "value": 10000,
+          "gender": "Hombre",
+          "source": "Tokyo Revengers",
+          "id": "6894ff4c"
         }
       ]
     },
@@ -39591,7 +39600,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 379,
+      "botcommando": 380,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
