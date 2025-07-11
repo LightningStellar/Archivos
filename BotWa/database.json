@@ -124,6 +124,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491123460835@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Julio🐼👑",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573019448245@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Sylphiette's",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363404263588155@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51904290180@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "￶￶￶￶￶￶ʜᴜ ᴛᴀᴏ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -217,7 +253,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363421019316204@g.us": {
       "users": {
@@ -249,8 +286,8 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 970,
-          "usedcommands": 16,
+          "exp": 1010,
+          "usedcommands": 18,
           "level": 14,
           "banned": false,
           "reason": ""
@@ -299,6 +336,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573019448245@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492914407013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -309,7 +364,7 @@
       "gacha": true,
       "rpg": true,
       "adminonly": false,
-      "primaryBot": null,
+      "primaryBot": "5492914407013@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
@@ -435,12 +490,70 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "status@broadcast": {
+      "users": {
+        "5491123460835@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363404263588155@g.us": {
+      "users": {
+        "120363404263588155@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51904290180@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 9,
+      "botcommando": 10,
       "prefix": "/",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -480,7 +593,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 0,
+      "botcommando": 1,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
