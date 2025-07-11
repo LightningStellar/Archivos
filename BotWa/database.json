@@ -11962,6 +11962,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5218134721154@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 81 3472 1154",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "176750956916765@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21698,14 +21716,14 @@
           "personajesEnVenta": []
         },
         "5492324347631@s.whatsapp.net": {
-          "chocolates": 84065,
+          "chocolates": 140975,
           "bank": 0,
-          "exp": 11743,
-          "usedcommands": 101,
-          "level": 37,
+          "exp": 11884,
+          "usedcommands": 103,
+          "level": 38,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752222733524,
+          "rtCooldown": 1752224175447,
           "dailyStreak": 1,
           "lastDaily": 1752203140354,
           "nextReward": 715,
@@ -39032,6 +39050,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5218134721154@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39058,6 +39085,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "176750956916765@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39070,7 +39106,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363403307677857@g.us": {
       "users": {
@@ -40601,7 +40638,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 365,
+      "botcommando": 367,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
