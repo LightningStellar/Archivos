@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12587,7 +12587,7 @@
     "279757627379898@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "—...°• F",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12606,6 +12606,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493813537725@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "freakkki",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20933,6 +20942,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493813537725@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37671,7 +37689,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
