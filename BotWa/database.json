@@ -3772,7 +3772,7 @@
     "51962264360@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+51 962 264 360",
+      "name": "..",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23834,6 +23834,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51933988599@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Xior",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -37518,8 +37527,8 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 88568,
-          "exp": 4819,
-          "usedcommands": 47,
+          "exp": 4843,
+          "usedcommands": 48,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -37616,6 +37625,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51933988599@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38067,6 +38085,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5216141200934@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -44552,6 +44579,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "279401061187647@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -72939,7 +72975,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 491,
+      "botcommando": 492,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
