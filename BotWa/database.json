@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "axcelgonzalez2007",
+      "name": "˖ ֹ੭ ୧  𝐌ary   ⊹ ࣪ ⑅",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19824,7 +19824,7 @@
     "56946695496@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝙺𝚊𝚣𝚞𝚑𝚊",
+      "name": ".",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -22189,6 +22189,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Rosita",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "32693475639536@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -44958,6 +44967,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "32693475639536@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -46228,23 +46246,23 @@
           "totalRwcoins": null
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 1302147,
+          "chocolates": 801147,
           "bank": 0,
-          "exp": 6334,
-          "usedcommands": 65,
-          "level": 29,
+          "exp": 6472,
+          "usedcommands": 68,
+          "level": 30,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "rtCooldown": 1752268473432,
+          "rtCooldown": 1752274853373,
           "dailyStreak": 1,
           "lastDaily": 1752242878559,
           "nextReward": 18975,
           "lastWeekly": 1752242887203,
           "lastMonthly": 1752242893122,
           "pptCooldown": 1752266347788,
-          "rwCooldown": 1752268168010,
-          "buyCooldown": 1752268170479,
+          "rwCooldown": 1752275159628,
+          "buyCooldown": 1752275164489,
           "characters": [
             {
               "name": "Setanta",
@@ -46324,6 +46342,14 @@
               "value": 13000,
               "gender": "Mujer",
               "source": "Hunter x Hunter",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Jinah",
+              "url": "https://stellarwa.xyz/files/1749349261708.jpg",
+              "value": 1000,
+              "gender": "Mujer",
+              "source": "Solo Leveling",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -46736,8 +46762,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 158130,
-          "exp": 1331,
-          "usedcommands": 81,
+          "exp": 1568,
+          "usedcommands": 85,
           "level": 19,
           "banned": false,
           "reason": "",
@@ -46812,8 +46838,8 @@
         "5212331515986@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 2314,
-          "exp": 31,
-          "usedcommands": 91,
+          "exp": 89,
+          "usedcommands": 92,
           "level": 14,
           "banned": false,
           "reason": "",
@@ -67838,7 +67864,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 326,
+      "botcommando": 331,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -67898,7 +67924,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 81,
+      "botcommando": 83,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -67908,7 +67934,7 @@
     },
     "56987865578@s.whatsapp.net": {
       "self": false,
-      "botcommando": 8,
+      "botcommando": 9,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -67998,7 +68024,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": true,
-      "botcommando": 22,
+      "botcommando": 23,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
