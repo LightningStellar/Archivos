@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ㅤׄㅤִㅤ͜🪭͡ㅤׄ  𝐷̴ᦅ︩︪ᥙ𐓰ᦅᥙ",
+      "name": "Valen ☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7472,6 +7472,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215581799661@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤֻᅟᅟᅟᅟvidiaᅟᅟᅟᅟ˙ᅟᅟᅟᅟdsp.ㅤ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491124792768@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "† ⋮⋮ 𝑫e͟v͟o͟𝐧 ★ scem0🦇",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7852,6 +7870,15 @@
           "reason": ""
         },
         "5493585329018@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215581799661@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -14875,6 +14902,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5491124792768@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -17678,7 +17714,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363304045468040@g.us": {
       "users": {
