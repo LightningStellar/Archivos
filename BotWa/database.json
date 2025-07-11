@@ -3,7 +3,7 @@
     "5492916439595@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "あ | 𝐂𝐫𝐚𝐱𝐤𝐞𝐫",
+      "name": "あ ┊ 𝐂𝐫𝐚𝐱𝐤𝐞𝐫",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23065,6 +23065,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363384328454790@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573126958667@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -33516,6 +33534,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573126958667@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 83,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "Subs": 1752276809072
         }
       },
       "sWelcome": "",
@@ -48105,23 +48133,23 @@
         },
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 158130,
-          "exp": 2106,
-          "usedcommands": 101,
-          "level": 19,
+          "bank": 136130,
+          "exp": 2697,
+          "usedcommands": 114,
+          "level": 21,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
           "dailyStreak": 1,
           "lastDaily": 1752256412483,
           "nextReward": 20470,
-          "rtCooldown": 1752259755434,
-          "workCooldown": 1752259016450,
-          "mineCooldown": 1752259019979,
-          "crimeCooldown": 1752257035519,
-          "slutCooldown": 1752257038301,
-          "rwCooldown": 1752274684115,
-          "buyCooldown": 1752274687032,
+          "rtCooldown": 1752277396999,
+          "workCooldown": 1752277362500,
+          "mineCooldown": 1752277365827,
+          "crimeCooldown": 1752277369111,
+          "slutCooldown": 1752277371761,
+          "rwCooldown": 1752277706927,
+          "buyCooldown": 1752277709949,
           "characters": [
             {
               "name": "Kagamine Rin",
@@ -48153,6 +48181,14 @@
               "value": 20000,
               "gender": "Hombre",
               "source": "Apari3ncias",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Saitama",
+              "url": "https://stellarwa.xyz/files/1748788724329.jpg",
+              "value": 6000,
+              "gender": "Hombre",
+              "source": "One Punch Man",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -64562,6 +64598,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363384328454790@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -70266,6 +70311,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492974124262@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -70278,7 +70332,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "51940238781@s.whatsapp.net": {
       "users": {
@@ -70382,7 +70437,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 257,
+      "botcommando": 258,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -70422,7 +70477,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 716,
+      "botcommando": 717,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -70492,7 +70547,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 375,
+      "botcommando": 386,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -70582,7 +70637,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 100,
+      "botcommando": 101,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -70652,7 +70707,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": true,
-      "botcommando": 34,
+      "botcommando": 35,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
