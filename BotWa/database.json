@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "肺がかゆい",
+      "name": "𝙒𝙚𝙧𝙩𝙨",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -963,7 +963,7 @@
       "metadatos2": null,
       "name": "+39 351 850 9171",
       "genre": "Mujer",
-      "birth": "",
+      "birth": "jueves, 2 de octubre",
       "marry": "",
       "description": ""
     },
@@ -21132,6 +21132,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50586989853@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "㆒ 𝕳꯭꯭꯭𝖺𝗇 𝕵𝗂𝗌𝗎𝗇𝗀",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34606929458@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "星 . ⋆ 𝐀𝐢sgita ·˚",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -28574,6 +28592,15 @@
           "reason": ""
         },
         "50379628936@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34606929458@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -41644,6 +41671,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50586989853@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -63818,9 +63854,9 @@
         "393518509171@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 459,
-          "usedcommands": 9,
-          "level": 10,
+          "exp": 629,
+          "usedcommands": 12,
+          "level": 11,
           "banned": false,
           "reason": ""
         }
@@ -64459,7 +64495,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 95,
+      "botcommando": 97,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -64479,7 +64515,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 30,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -64529,7 +64565,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 13,
+      "botcommando": 14,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
