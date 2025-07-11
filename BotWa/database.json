@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ׄ⿻ํ 𐔌᮫ ׄVaׅl.֩🍸ᩨ⃨ׅׄ ᦡ",
+      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2244,7 +2244,7 @@
     "5214428709920@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
+      "name": "⁠☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10582,6 +10582,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "152450283639035@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "45101501915228@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -15716,6 +15734,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "45101501915228@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24575,6 +24602,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "152450283639035@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36552,7 +36588,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 122,
+      "botcommando": 124,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
