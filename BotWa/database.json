@@ -13921,6 +13921,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56940409877@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⟡﹒﹫MIAAA﹕🍦",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -17926,6 +17935,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56940409877@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20782,9 +20800,9 @@
         "5493813625340@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 74,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 158,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
           "reason": ""
         },
@@ -48243,7 +48261,7 @@
           "bank": 0,
           "exp": 126,
           "usedcommands": 3,
-          "level": 5,
+          "level": 6,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -48770,7 +48788,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1080,
+      "botcommando": 1081,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
