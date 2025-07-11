@@ -12177,6 +12177,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573009007619@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "el rafinha",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19214,6 +19223,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573009007619@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 21,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41385,7 +41403,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 3,
+      "botcommando": 4,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
