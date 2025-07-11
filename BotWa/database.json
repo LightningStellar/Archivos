@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Satan",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5641,6 +5641,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50496470291@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Tsukasa (Annie #1 fan)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363401648169764@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7367,6 +7385,15 @@
           "reason": ""
         },
         "573229142764@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50496470291@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18299,9 +18326,9 @@
         "50499876820@s.whatsapp.net": {
           "chocolates": 7809,
           "bank": 0,
-          "exp": 112,
-          "usedcommands": 4,
-          "level": 6,
+          "exp": 197,
+          "usedcommands": 6,
+          "level": 7,
           "banned": false,
           "reason": "",
           "slutCooldown": 1752245171923,
@@ -18745,6 +18772,40 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363401648169764@g.us": {
+      "users": {
+        "120363401648169764@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56920449984@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -18790,7 +18851,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 19,
+      "botcommando": 20,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -18870,7 +18931,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 59,
+      "botcommando": 60,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
