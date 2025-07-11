@@ -11873,6 +11873,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51974502669@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Josué",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59644798074940@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21559,10 +21576,10 @@
         },
         "51928701104@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 461972,
-          "exp": 8591,
-          "usedcommands": 106,
-          "level": 33,
+          "bank": 460772,
+          "exp": 8907,
+          "usedcommands": 111,
+          "level": 34,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -21577,8 +21594,8 @@
           "lastMonthly": 1752203133681,
           "rtCooldown": 1752223501444,
           "personajesEnVenta": [],
-          "rwCooldown": 1752218875660,
-          "buyCooldown": 1752218879085,
+          "rwCooldown": 1752223814308,
+          "buyCooldown": 1752223818676,
           "characters": [
             {
               "name": "Tarmiel",
@@ -21610,6 +21627,14 @@
               "value": 4000,
               "gender": "Mujer",
               "source": "Assassination Classroom",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Toppo",
+              "url": "https://stellarwa.xyz/files/1748737567230.jpg",
+              "value": 1200,
+              "gender": "Hombre",
+              "source": "Dragon Ball ",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -29665,6 +29690,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59644798074940@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39468,6 +39502,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51974502669@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39480,7 +39523,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "15517868401@s.whatsapp.net": {
       "users": {
@@ -40358,7 +40402,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 355,
+      "botcommando": 360,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
