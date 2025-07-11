@@ -11289,6 +11289,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "639513659918@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+63 951 365 9918",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215530497910@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "tacos al pastor 🌮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11662,6 +11680,15 @@
           "personajesEnVenta": []
         },
         "5218711276918@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "639513659918@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -26944,9 +26971,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 22136,
           "bank": 0,
-          "exp": 696,
-          "usedcommands": 11,
-          "level": 12,
+          "exp": 1357,
+          "usedcommands": 24,
+          "level": 16,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -37341,6 +37368,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215530497910@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38644,7 +38680,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 310,
+      "botcommando": 311,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -38654,7 +38690,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 124,
+      "botcommando": 136,
       "prefix": "#/",
       "namebot": "Tsumugi Rintaro",
       "namebot2": "Tsumugi Rintaro",
