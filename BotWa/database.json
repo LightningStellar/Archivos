@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
+      "name": "🌕⃞፝֟͝ꭷ   ⠟",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4384,7 +4384,7 @@
     "393518509171@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☆ ͡ ݂      ຣ⍺ʑ.    ۫ ☕️ ࣪ ",
+      "name": "☆ ͡ ݂      ຣ⍺ʑ.    ۫ 🕯️ ࣪ ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11366,6 +11366,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Melibras",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5353236327@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+53 5 3236327",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19063,6 +19072,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5353236327@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20801,10 +20819,10 @@
         },
         "51928701104@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 665972,
-          "exp": 8159,
-          "usedcommands": 96,
-          "level": 32,
+          "bank": 561972,
+          "exp": 8461,
+          "usedcommands": 102,
+          "level": 33,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -20817,10 +20835,10 @@
           "mineCooldown": 1752211125924,
           "lastWeekly": 1752203124035,
           "lastMonthly": 1752203133681,
-          "rtCooldown": 1752215287317,
+          "rtCooldown": 1752218571268,
           "personajesEnVenta": [],
-          "rwCooldown": 1752215594932,
-          "buyCooldown": 1752215597885,
+          "rwCooldown": 1752218875660,
+          "buyCooldown": 1752218879085,
           "characters": [
             {
               "name": "Tarmiel",
@@ -20844,6 +20862,14 @@
               "value": 20000,
               "gender": "Hombre",
               "source": "My Hero Academia",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Rinka Hayami",
+              "url": "https://stellarwa.xyz/files/1749383476490.jpg",
+              "value": 4000,
+              "gender": "Mujer",
+              "source": "Assassination Classroom",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -38883,7 +38909,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 311,
+      "botcommando": 317,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
