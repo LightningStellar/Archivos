@@ -11487,6 +11487,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363190912654479@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -33815,8 +33823,8 @@
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 4595,
-          "usedcommands": 68,
+          "exp": 4607,
+          "usedcommands": 69,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -33851,8 +33859,8 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 48327,
-          "exp": 8754,
-          "usedcommands": 95,
+          "exp": 8805,
+          "usedcommands": 96,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -33894,8 +33902,8 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 64299,
-          "exp": 8207,
-          "usedcommands": 79,
+          "exp": 8224,
+          "usedcommands": 80,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -33910,7 +33918,7 @@
           "workCooldown": 1752216779272,
           "slutCooldown": 1752216781173,
           "pptCooldown": 1752216784471,
-          "rwCooldown": 1752218009648,
+          "rwCooldown": 1752220042096,
           "buyCooldown": 1752213694862,
           "characters": [
             {
@@ -34200,6 +34208,15 @@
           "gender": "Mujer",
           "source": "My Hero Academia",
           "id": "6c07ef3d"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Kiyoshi Terai",
+          "url": "https://stellarwa.xyz/files/1749384825208.jpg",
+          "value": 4000,
+          "gender": "Hombre",
+          "source": "Assassination Classroom",
+          "id": "98944922"
         }
       ]
     },
@@ -39217,6 +39234,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363190912654479@newsletter": {
+      "users": {
+        "120363190912654479@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -39442,7 +39483,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 376,
+      "botcommando": 379,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
