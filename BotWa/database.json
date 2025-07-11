@@ -11352,6 +11352,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "220825844191444@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51923712594@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Melibras",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -38081,6 +38099,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51923712594@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38153,6 +38180,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "220825844191444@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
