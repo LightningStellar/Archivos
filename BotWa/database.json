@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "M. Marcano.",
+      "name": "🌕⃞፝֟͝ꭷ   ⠟",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10227,7 +10227,7 @@
     "16518494556279@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ᰔᩚ٭✰˚𝓖𝓲𝓼𝓮𝓵𝓵𝓮˚✰٭ᰔᩚ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10251,6 +10251,15 @@
       "description": ""
     },
     "200588025458713@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "today  𝓘s  ೋ  lizzie",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "129365052543172@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -18776,6 +18785,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "129365052543172@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27188,6 +27206,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -31327,10 +31354,10 @@
         },
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 25091,
-          "exp": 4282,
-          "usedcommands": 27,
-          "level": 25,
+          "bank": 30471,
+          "exp": 5575,
+          "usedcommands": 36,
+          "level": 28,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -31339,12 +31366,12 @@
           "nextReward": 18192,
           "lastWeekly": 1752209224801,
           "lastMonthly": 1752209230070,
-          "crimeCooldown": 1752209837603,
-          "mineCooldown": 1752209839401,
-          "workCooldown": 1752209844505,
-          "slutCooldown": 1752209846491,
-          "pptCooldown": 1752209855951,
-          "rwCooldown": 1752211425922,
+          "crimeCooldown": 1752212367991,
+          "mineCooldown": 1752212369896,
+          "workCooldown": 1752212378898,
+          "slutCooldown": 1752212381488,
+          "pptCooldown": 1752212387196,
+          "rwCooldown": 1752212660035,
           "buyCooldown": 1752211439840,
           "characters": [
             {
@@ -31489,6 +31516,15 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "2d45a91c"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Hikage Shinomori",
+          "url": "https://stellarwa.xyz/files/1750638809347.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "1c725763"
         }
       ]
     },
@@ -35345,7 +35381,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363399548622962@newsletter": {
       "users": {
@@ -35595,7 +35632,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 181,
+      "botcommando": 190,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
