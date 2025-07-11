@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "⁺₊⋆ ☾⋆⁺₊⋆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12476,6 +12476,15 @@
     "144590694834264@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "Ainara (⁠ㆁ⁠ω⁠ㆁ⁠)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "40042097561848@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
       "genre": "",
       "birth": "",
@@ -13197,14 +13206,14 @@
           "personajesEnVenta": []
         },
         "593990564497@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 1626,
           "bank": 0,
-          "exp": 13012,
-          "usedcommands": 112,
+          "exp": 13100,
+          "usedcommands": 114,
           "level": 39,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752190837729,
+          "crimeCooldown": 1752194531230,
           "slutCooldown": 1752190843062,
           "pptCooldown": 1752190861963,
           "workCooldown": 1752190865427,
@@ -13216,7 +13225,7 @@
           "lastWeekly": 1752175774983,
           "lastMonthly": 1752175781492,
           "roboCooldown": 1752180331019,
-          "rwCooldown": 1752182155021,
+          "rwCooldown": 1752194822388,
           "buyCooldown": 1752182158285,
           "characters": [
             {
@@ -13426,6 +13435,15 @@
           "gender": "Hombre",
           "source": "Los Siete Pecados Capitales",
           "id": "792cd169"
+        },
+        {
+          "userId": "593990564497@s.whatsapp.net",
+          "name": "Jinah",
+          "url": "https://stellarwa.xyz/files/1749349261708.jpg",
+          "value": 1000,
+          "gender": "Mujer",
+          "source": "Solo Leveling",
+          "id": "f628d2a2"
         }
       ]
     },
@@ -26121,8 +26139,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 69477,
-          "exp": 2047,
-          "usedcommands": 135,
+          "exp": 2112,
+          "usedcommands": 136,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -26136,7 +26154,7 @@
           "lastMonthly": 1752180238916,
           "slutCooldown": 1752191378757,
           "pptCooldown": 1752191380513,
-          "rwCooldown": 1752192549208,
+          "rwCooldown": 1752194824668,
           "personajesEnVenta": [],
           "buyCooldown": 1752191586259,
           "characters": [
@@ -26364,6 +26382,15 @@
           "gender": "Mujer",
           "source": "Darling in the Franxx",
           "id": "e078a735"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Gogeta",
+          "url": "https://stellarwa.xyz/files/1748799613614.jpg",
+          "value": 100000,
+          "gender": "Hombre",
+          "source": "Dragon Ball",
+          "id": "e48061ac"
         }
       ],
       "expired": 0
@@ -35809,6 +35836,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "40042097561848@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -43972,7 +44008,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 157,
+      "botcommando": 158,
       "prefix": "#",
       "namebot": "ââ  ð ÍðÍÌ± ÍðÍÍÌ± âÍð ðÒ á­¡Â° .",
       "namebot2": "ââ  ð ÍðÍÌ± ÍðÍÍÌ± âÍð ðÒ á­¡Â° .",
@@ -43992,7 +44028,7 @@
     },
     "573135861052@s.whatsapp.net": {
       "self": false,
-      "botcommando": 123,
+      "botcommando": 124,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44052,7 +44088,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 258,
+      "botcommando": 259,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44222,7 +44258,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 90,
+      "botcommando": 91,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
