@@ -1611,6 +1611,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5214775595358@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝐚.́ㅤ  𝖠𝗇𝗍𝗈𝗇𝖾𝗅𝗅𝖺",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34656444157@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✩⋆｡:ﾟ･☽ carol ✩⋆｡:ﾟ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219371465815@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~ Noa ☆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1723,6 +1750,15 @@
           "personajesEnVenta": []
         },
         "34620845793@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5214775595358@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -5713,6 +5749,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "34656444157@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -5797,6 +5842,18 @@
           "level": 5,
           "banned": false,
           "reason": ""
+        },
+        "5219371465815@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 5924,
+          "exp": 176,
+          "usedcommands": 4,
+          "level": 6,
+          "banned": false,
+          "reason": "",
+          "crimeCooldown": 1752236831724,
+          "mineCooldown": 1752236834862,
+          "workCooldown": 1752236843146
         }
       },
       "sWelcome": "",
@@ -6064,7 +6121,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1,
+      "botcommando": 5,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
