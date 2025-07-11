@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "Neko",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7334,7 +7334,7 @@
     "232860946534425@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Neko",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7344,6 +7344,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "🦈",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "595971769846@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8990,6 +8999,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215525237149@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -9058,6 +9076,15 @@
           "personajesEnVenta": []
         },
         "306934127532@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "595971769846@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18468,11 +18495,11 @@
           "totalRwcoins": null
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 776968,
+          "chocolates": 763968,
           "bank": 0,
-          "exp": 4871,
-          "usedcommands": 33,
-          "level": 26,
+          "exp": 5023,
+          "usedcommands": 35,
+          "level": 27,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -18483,8 +18510,8 @@
           "lastWeekly": 1752242887203,
           "lastMonthly": 1752242893122,
           "pptCooldown": 1752243557037,
-          "rwCooldown": 1752249840138,
-          "buyCooldown": 1752249842710,
+          "rwCooldown": 1752250774064,
+          "buyCooldown": 1752250776676,
           "characters": [
             {
               "name": "Setanta",
@@ -18513,6 +18540,14 @@
             {
               "name": "Beans",
               "url": "https://stellarwa.xyz/files/1750783118366.jpg",
+              "value": 13000,
+              "gender": "Hombre",
+              "source": "Hunter x Hunter",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Centipede",
+              "url": "https://stellarwa.xyz/files/1750783905206.jpg",
               "value": 13000,
               "gender": "Hombre",
               "source": "Hunter x Hunter",
@@ -21122,11 +21157,11 @@
     "120363418163055987@g.us": {
       "users": {
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 178321,
+          "chocolates": 138721,
           "bank": 0,
-          "exp": 2799,
-          "usedcommands": 60,
-          "level": 21,
+          "exp": 2955,
+          "usedcommands": 66,
+          "level": 22,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -24591,7 +24626,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 59,
+      "botcommando": 65,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -24631,7 +24666,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 56,
+      "botcommando": 58,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
