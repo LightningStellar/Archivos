@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
+      "name": "honey",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12369,6 +12369,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "夜. 𝑲𝒖𝒓𝒐𝒌𝒂𝒛𝒆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573112055515@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ssair Tomás Diaz😎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -40947,6 +40956,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573112055515@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41759,6 +41777,43 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363418423179383@g.us": {
+      "users": {
+        "573112055515@s.whatsapp.net": {
+          "chocolates": 46751,
+          "bank": 0,
+          "exp": 96,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752230219088,
+          "nextReward": 1485
+        },
+        "573228667071@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -42004,7 +42059,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 4,
+      "botcommando": 5,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
