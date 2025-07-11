@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ㅤ𝗠𝖮ꓘ",
+      "name": "Ronin Legends",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18512,6 +18512,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51969436082@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "👩🏻‍🦲",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "184898962882723@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -26922,6 +26939,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51969436082@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27000,21 +27026,21 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 6634,
           "bank": 0,
-          "exp": 1734,
-          "usedcommands": 159,
+          "exp": 1836,
+          "usedcommands": 161,
           "level": 27,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752234043237,
           "nextReward": 30177,
-          "workCooldown": 1752263926937,
+          "workCooldown": 1752266243105,
           "lastMonthly": 1752234059539,
           "lastWeekly": 1752234064087,
           "crimeCooldown": 1752263933635,
-          "mineCooldown": 1752263928673,
+          "mineCooldown": 1752266246235,
           "rtCooldown": 1752263946839,
           "rwCooldown": 1752261034902,
           "buyCooldown": 1752235013656,
@@ -36232,22 +36258,22 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 120909,
-          "exp": 8107,
-          "usedcommands": 110,
-          "level": 32,
+          "bank": 122749,
+          "exp": 8439,
+          "usedcommands": 116,
+          "level": 33,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752265474505,
-          "mineCooldown": 1752265475905,
-          "workCooldown": 1752265477418,
+          "crimeCooldown": 1752266195871,
+          "mineCooldown": 1752266197595,
+          "workCooldown": 1752266199143,
           "dailyStreak": 1,
           "lastDaily": 1752236366435,
           "nextReward": 48277,
           "lastWeekly": 1752236368113,
           "lastMonthly": 1752236372258,
-          "slutCooldown": 1752265483813,
-          "pptCooldown": 1752265485358,
+          "slutCooldown": 1752266201305,
+          "pptCooldown": 1752266203432,
           "personajesEnVenta": [],
           "rtCooldown": 1752265726933
         },
@@ -39420,10 +39446,10 @@
           "totalRwcoins": null
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 1132029,
+          "chocolates": 1116029,
           "bank": 0,
-          "exp": 5823,
-          "usedcommands": 54,
+          "exp": 5910,
+          "usedcommands": 55,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -39436,7 +39462,7 @@
           "lastMonthly": 1752242893122,
           "pptCooldown": 1752243557037,
           "rwCooldown": 1752266485784,
-          "buyCooldown": 1752256382654,
+          "buyCooldown": 1752266494514,
           "characters": [
             {
               "name": "Setanta",
@@ -39501,6 +39527,14 @@
               "gender": "Mujer",
               "source": "Edens zero",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Zantetsu Tsurugi",
+              "url": "https://stellarwa.xyz/files/1749091664226.jpg",
+              "value": 16000,
+              "gender": "Hombre",
+              "source": "Blue Lock",
+              "claim": "viernes, 11 de julio de 2025"
             }
           ],
           "characterCount": null,
@@ -39520,17 +39554,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "5216646952956@s.whatsapp.net",
-          "name": "Zantetsu Tsurugi",
-          "url": "https://stellarwa.xyz/files/1749091664226.jpg",
-          "value": 16000,
-          "gender": "Hombre",
-          "source": "Blue Lock",
-          "id": "c8f0ce0e"
-        }
-      ]
+      "personajesReservados": []
     },
     "120363381679964159@g.us": {
       "users": {
@@ -55401,6 +55425,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "184898962882723@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -56176,7 +56209,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 183,
+      "botcommando": 184,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56196,7 +56229,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 82,
+      "botcommando": 83,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56216,7 +56249,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 567,
+      "botcommando": 570,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56326,7 +56359,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 54,
+      "botcommando": 55,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56346,7 +56379,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56366,7 +56399,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 585,
+      "botcommando": 590,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
