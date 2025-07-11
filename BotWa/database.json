@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valentina",
+      "name": "★ㅤㅤ𝐕. 𝖾ll !ㅤㅤ᛬ㅤㅤㅤ⃝⃞🌟",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13950,6 +13950,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "اشرف حاجي",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "73599213912086@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27925,6 +27934,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "73599213912086@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28542,8 +28560,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 77713,
-          "exp": 4813,
-          "usedcommands": 50,
+          "exp": 4859,
+          "usedcommands": 51,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -31637,8 +31655,8 @@
         "5212225063048@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 30330,
-          "exp": 645,
-          "usedcommands": 9,
+          "exp": 154,
+          "usedcommands": 13,
           "level": 12,
           "banned": false,
           "reason": "",
@@ -41780,7 +41798,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 136,
+      "botcommando": 137,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41800,7 +41818,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 25,
+      "botcommando": 26,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41830,7 +41848,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 127,
+      "botcommando": 128,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41890,7 +41908,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 137,
+      "botcommando": 140,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -41970,7 +41988,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 220,
+      "botcommando": 221,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
