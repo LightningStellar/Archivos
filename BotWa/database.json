@@ -2639,7 +2639,7 @@
     "5216422302773@s.whatsapp.net": {
       "metadatos": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "metadatos2": "ʷʰᵉʳᵉ",
-      "name": "+52 642 230 2773",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9493,7 +9493,43 @@
     "169058603368644@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "Carlos Pérez",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51988932627@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꫟┊𝑆𝑢𝑠𝑖𝑒◉",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "128166689550516@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212291267032@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 229 126 7032",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5217202211454@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "♡~÷$<@=$(~♡",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11437,6 +11473,24 @@
           "reason": ""
         },
         "51994778787@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5212291267032@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5217202211454@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -17996,14 +18050,14 @@
           "personajesEnVenta": []
         },
         "5492324347631@s.whatsapp.net": {
-          "chocolates": 100027,
+          "chocolates": 27,
           "bank": 0,
-          "exp": 2605,
-          "usedcommands": 49,
+          "exp": 2668,
+          "usedcommands": 50,
           "level": 21,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752209564310,
+          "rtCooldown": 1752210253177,
           "dailyStreak": 1,
           "lastDaily": 1752203140354,
           "nextReward": 715,
@@ -19532,6 +19586,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51988932627@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21809,6 +21872,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "128166689550516@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32907,6 +32979,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5216422302773@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33121,7 +33202,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 239,
+      "botcommando": 240,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
