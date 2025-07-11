@@ -11451,6 +11451,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217224999175@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ͷ̸̷𝙀𝙑̷̸𐌀𝙎𝘾𝙄𝜩̸",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216624640604@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Khaoss",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14581,6 +14599,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5216624640604@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -15197,6 +15224,15 @@
           "personajesEnVenta": []
         },
         "56984524494@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5217224999175@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -33779,8 +33815,8 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 48327,
-          "exp": 8596,
-          "usedcommands": 93,
+          "exp": 8682,
+          "usedcommands": 94,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -33795,7 +33831,7 @@
           "lastWeekly": 1752205413668,
           "lastMonthly": 1752205422205,
           "personajesEnVenta": [],
-          "rwCooldown": 1752218121534,
+          "rwCooldown": 1752219581384,
           "buyCooldown": 1752216175152,
           "characters": [
             {
@@ -34110,6 +34146,15 @@
           "gender": "Hombre",
           "source": "Hunter x Hunter",
           "id": "4cc4797a"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Coco Loo",
+          "url": "https://stellarwa.xyz/files/1750784179156.jpg",
+          "value": 13000,
+          "gender": "Mujer",
+          "source": "Hunter x Hunter",
+          "id": "601643b3"
         }
       ]
     },
@@ -39266,7 +39311,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 373,
+      "botcommando": 374,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
