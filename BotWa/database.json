@@ -1597,7 +1597,7 @@
     "50248151611@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+502 4815 1611",
+      "name": "✿⁠**:. Ⓥί𝔳Ꭵ .:**✿⁠",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13457,7 +13457,7 @@
     "172034998927556@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Never Mind💚🧡",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13467,6 +13467,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "+57 314 3343868",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584247661700@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𑄾సㅤㅤㅤׄㅤㅤㅤꝕⴢᴐꬺƙιㅤㅤㅤׅㅤㅤㅤ˚",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214428709920@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⁠☆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214121055585@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "King 黒川イザナ 🎴",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19313,6 +19340,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584247661700@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21958,8 +21994,8 @@
         "593990564497@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 1579,
-          "usedcommands": 30,
+          "exp": 1632,
+          "usedcommands": 31,
           "level": 17,
           "banned": false,
           "reason": "",
@@ -21973,7 +22009,8 @@
           "nextReward": 32138,
           "rtCooldown": 1752255774965,
           "personajesEnVenta": [],
-          "roboCooldown": 0
+          "roboCooldown": 0,
+          "rwCooldown": 1752256565245
         },
         "584144498455@s.whatsapp.net": {
           "chocolates": 0,
@@ -22129,6 +22166,15 @@
           "gender": "Hombre",
           "source": "Arifureta",
           "id": "5741dc6d"
+        },
+        {
+          "userId": "593990564497@s.whatsapp.net",
+          "name": "Mutsuki Asagi",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293143-FTSvueJL34qJ.jpg",
+          "value": 213187,
+          "gender": "Mujer",
+          "source": "Blue Archie",
+          "id": "e5a74afb"
         }
       ]
     },
@@ -24944,6 +24990,15 @@
           "personajesEnVenta": []
         },
         "5493878276612@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5214121055585@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -33444,15 +33499,26 @@
         "573103563906@s.whatsapp.net": {
           "chocolates": 62635,
           "bank": 0,
-          "exp": 415,
-          "usedcommands": 8,
-          "level": 10,
+          "exp": 698,
+          "usedcommands": 12,
+          "level": 12,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752254886666,
           "workCooldown": 1752254889884,
           "rtCooldown": 1752256159008,
-          "rwCooldown": 1752255762581
+          "rwCooldown": 1752255762581,
+          "buyCooldown": 1752256569450,
+          "characters": [
+            {
+              "name": "Meliodas",
+              "url": "https://stellarwa.xyz/files/1749349870070.jpg",
+              "value": 50000,
+              "gender": "Hombre",
+              "source": "Los Siete Pecados Capitales",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ]
         }
       },
       "sWelcome": "",
@@ -33485,15 +33551,6 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "e3b02d67"
-        },
-        {
-          "userId": "5217851059776@s.whatsapp.net",
-          "name": "Meliodas",
-          "url": "https://stellarwa.xyz/files/1749349870070.jpg",
-          "value": 50000,
-          "gender": "Hombre",
-          "source": "Los Siete Pecados Capitales",
-          "id": "9b998fe2"
         }
       ]
     },
@@ -40081,6 +40138,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5214428709920@s.whatsapp.net": {
+      "users": {
+        "5214428709920@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -40216,7 +40297,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 147,
+      "botcommando": 148,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40226,7 +40307,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 171,
+      "botcommando": 175,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
