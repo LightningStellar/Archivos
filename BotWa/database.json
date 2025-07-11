@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6054,6 +6054,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584146628847@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "💖",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584167382332@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Gabriel 👾",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -8748,9 +8766,9 @@
         "5218999116695@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 191,
-          "usedcommands": 2,
-          "level": 7,
+          "exp": 226,
+          "usedcommands": 3,
+          "level": 8,
           "banned": false,
           "reason": ""
         }
@@ -18567,6 +18585,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584167382332@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -19714,6 +19741,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584146628847@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20080,7 +20116,7 @@
     },
     "50489132730@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -20170,7 +20206,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 12,
+      "botcommando": 13,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
