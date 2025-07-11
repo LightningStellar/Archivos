@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🐼╮𝕰𝖘𝖒𝖊 ╮✨",
+      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -32508,9 +32508,9 @@
       "users": {
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 81490,
-          "exp": 14028,
-          "usedcommands": 159,
+          "bank": 76490,
+          "exp": 14253,
+          "usedcommands": 163,
           "level": 40,
           "banned": false,
           "reason": "",
@@ -32525,7 +32525,19 @@
           "nextReward": 44196,
           "lastWeekly": 1752204478340,
           "lastMonthly": 1752204480136,
-          "personajesEnVenta": [],
+          "personajesEnVenta": [
+            {
+              "name": "Zeldris",
+              "url": "https://stellarwa.xyz/files/1749350004582.jpg",
+              "value": 50000,
+              "gender": "Hombre",
+              "source": "Los Siete Pecados Capitales",
+              "claim": "viernes, 11 de julio de 2025",
+              "precio": 5000,
+              "vendedor": "50236933411@s.whatsapp.net",
+              "expira": "2025-07-14T06:23:01.305Z"
+            }
+          ],
           "buyCooldown": 1752215373724,
           "characters": [
             {
@@ -32535,24 +32547,16 @@
               "gender": "Mujer",
               "source": "Ijiranaide, Nagatoro-san",
               "claim": "viernes, 11 de julio de 2025"
-            },
-            {
-              "name": "Zeldris",
-              "url": "https://stellarwa.xyz/files/1749350004582.jpg",
-              "value": 50000,
-              "gender": "Hombre",
-              "source": "Los Siete Pecados Capitales",
-              "claim": "viernes, 11 de julio de 2025"
             }
           ],
           "characterCount": null,
           "totalRwcoins": null
         },
         "5215522567568@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 5000,
           "bank": 0,
-          "exp": 4029,
-          "usedcommands": 58,
+          "exp": 4122,
+          "usedcommands": 59,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -37516,7 +37520,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 312,
+      "botcommando": 317,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
