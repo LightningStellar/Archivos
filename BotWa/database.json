@@ -1584,6 +1584,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215522483659@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝑻𝒆𝒏𝒏𝒂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -2196,6 +2205,15 @@
           "reason": ""
         },
         "56945800616@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215522483659@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -4287,7 +4305,7 @@
           "bank": 0,
           "exp": 22,
           "usedcommands": 1,
-          "level": 0,
+          "level": 3,
           "banned": false,
           "reason": ""
         }
@@ -5695,7 +5713,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
