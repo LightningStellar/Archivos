@@ -10752,6 +10752,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "202254606987285@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363412839446556@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18297,6 +18314,15 @@
           "personajesEnVenta": []
         },
         "120363416652770873@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "202254606987285@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -32326,9 +32352,9 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 38514,
-          "exp": 6922,
-          "usedcommands": 59,
-          "level": 30,
+          "exp": 7039,
+          "usedcommands": 61,
+          "level": 31,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -32342,7 +32368,7 @@
           "workCooldown": 1752213384002,
           "slutCooldown": 1752213386317,
           "pptCooldown": 1752213389942,
-          "rwCooldown": 1752213667929,
+          "rwCooldown": 1752215061304,
           "buyCooldown": 1752213694862,
           "characters": [
             {
@@ -32533,6 +32559,15 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "ab24219d"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Rem",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n1905-9GfCvLFKNRLR.png",
+          "value": 47268,
+          "gender": "Mujer",
+          "source": "Death Note",
+          "id": "ead8fad7"
         }
       ]
     },
@@ -36891,6 +36926,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363412839446556@newsletter": {
+      "users": {
+        "120363412839446556@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -36906,7 +36965,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": true,
-      "botcommando": 85,
+      "botcommando": 86,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -37116,7 +37175,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 256,
+      "botcommando": 257,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
