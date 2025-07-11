@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valentina",
+      "name": "☭卍 † Daryel † 卍☭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15293,11 +15293,11 @@
           "personajesEnVenta": []
         },
         "51902486766@s.whatsapp.net": {
-          "chocolates": 14618,
-          "bank": 18252,
-          "exp": 2785,
-          "usedcommands": 30,
-          "level": 20,
+          "chocolates": 0,
+          "bank": 6870,
+          "exp": 7526,
+          "usedcommands": 38,
+          "level": 31,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -15307,10 +15307,25 @@
           "crimeCooldown": 1752249243976,
           "pptCooldown": 1752249251197,
           "workCooldown": 1752249245446,
-          "rtCooldown": 1752247846236,
+          "rtCooldown": 1752249283699,
           "slutCooldown": 1752249253267,
           "personajesEnVenta": [],
-          "lastWeekly": 1752248661709
+          "lastWeekly": 1752248661709,
+          "lastMonthly": 1752248667660,
+          "rwCooldown": 1752249591835,
+          "buyCooldown": 1752249607718,
+          "characters": [
+            {
+              "name": "Ellen Mira Mathers",
+              "url": "https://stellarwa.xyz/files/1751833152021.jpg",
+              "value": 12000,
+              "gender": "Mujer",
+              "source": "Date A Live",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5215565270181@s.whatsapp.net": {
           "chocolates": 0,
@@ -17612,15 +17627,15 @@
           "totalRwcoins": null
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 1339968,
+          "chocolates": 839968,
           "bank": 0,
-          "exp": 4589,
-          "usedcommands": 26,
+          "exp": 4660,
+          "usedcommands": 29,
           "level": 26,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "rtCooldown": 1752248414465,
+          "rtCooldown": 1752249288155,
           "dailyStreak": 1,
           "lastDaily": 1752242878559,
           "nextReward": 18975,
@@ -22726,7 +22741,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -22836,7 +22851,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 71,
+      "botcommando": 72,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -22856,7 +22871,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 52,
+      "botcommando": 53,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -22896,7 +22911,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 49,
+      "botcommando": 52,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -22916,7 +22931,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 157,
+      "botcommando": 162,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
