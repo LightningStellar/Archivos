@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Joel",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18246,6 +18246,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "236408119812162@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "253042528125142@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -29481,6 +29499,24 @@
           "level": 5,
           "banned": false,
           "reason": ""
+        },
+        "236408119812162@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "253042528125142@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29609,12 +29645,12 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 50,
           "bank": 111203,
-          "exp": 3973,
-          "usedcommands": 240,
+          "exp": 4009,
+          "usedcommands": 242,
           "level": 41,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752264870765,
+          "rwCooldown": 1752265823568,
           "crimeCooldown": 1752264659484,
           "mineCooldown": 1752264661702,
           "workCooldown": 1752264663981,
@@ -29961,6 +29997,15 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "93c38ad7"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Chihiro Ezaki",
+          "url": "https://stellarwa.xyz/files/1749089701839.jpg",
+          "value": 10000,
+          "gender": "Hombre",
+          "source": "Blue Lock",
+          "id": "f5c1aa86"
         }
       ]
     },
@@ -35830,22 +35875,22 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 119371,
-          "exp": 7676,
-          "usedcommands": 100,
+          "bank": 118909,
+          "exp": 7977,
+          "usedcommands": 107,
           "level": 32,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752264768835,
-          "mineCooldown": 1752264770607,
-          "workCooldown": 1752264772297,
+          "crimeCooldown": 1752265474505,
+          "mineCooldown": 1752265475905,
+          "workCooldown": 1752265477418,
           "dailyStreak": 1,
           "lastDaily": 1752236366435,
           "nextReward": 48277,
           "lastWeekly": 1752236368113,
           "lastMonthly": 1752236372258,
-          "slutCooldown": 1752264774690,
-          "pptCooldown": 1752264776203,
+          "slutCooldown": 1752265483813,
+          "pptCooldown": 1752265485358,
           "personajesEnVenta": []
         },
         "593968273893@s.whatsapp.net": {
@@ -55394,7 +55439,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 372,
+      "botcommando": 374,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -55534,7 +55579,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 562,
+      "botcommando": 569,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
