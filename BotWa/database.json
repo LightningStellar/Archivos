@@ -4958,7 +4958,7 @@
     "114864806740168@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Sarmiento Amao",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4968,6 +4968,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "kevinmusic108",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215574657922@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Maryfer",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215650228221@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".𝜗𝜚  ͏ ͏ ͙ ͏𝐇ades. 🦭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6206,6 +6224,15 @@
           "reason": ""
         },
         "584125575540@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215574657922@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -9340,6 +9367,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215650228221@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -11790,10 +11826,10 @@
         },
         "593968273893@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 68152,
-          "exp": 4241,
-          "usedcommands": 58,
-          "level": 25,
+          "bank": 71689,
+          "exp": 5094,
+          "usedcommands": 69,
+          "level": 27,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -11801,12 +11837,12 @@
           "nextReward": 19561,
           "lastMonthly": 1752239709156,
           "lastWeekly": 1752239712945,
-          "crimeCooldown": 1752244217426,
-          "mineCooldown": 1752244220085,
-          "workCooldown": 1752244222142,
-          "slutCooldown": 1752244251875,
-          "pptCooldown": 1752244228951,
-          "rtCooldown": 1752244245241,
+          "crimeCooldown": 1752245024568,
+          "mineCooldown": 1752245017818,
+          "workCooldown": 1752245019865,
+          "slutCooldown": 1752245038691,
+          "pptCooldown": 1752245051395,
+          "rtCooldown": 1752245063956,
           "personajesEnVenta": [],
           "rwCooldown": 1752244607065
         },
@@ -15315,6 +15351,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -16601,7 +16646,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -16627,7 +16673,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 8,
+      "botcommando": 10,
       "prefix": "/",
       "namebot": "❜ ࿙⃛͜ΛFЯӨDIƬΣ BӨƬ🪉⃝𝅦᳘֟፝͠◌⃘",
       "namebot2": "📖  ⃕   ࿙⃛͜𝕬𝖋𝖗𝖔𝖉𝖎𝖙𝖊🪽⃝𝅦᳘֟፝͠◌⃘",
@@ -16727,7 +16773,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 49,
+      "botcommando": 51,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -16807,7 +16853,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 110,
+      "botcommando": 117,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
