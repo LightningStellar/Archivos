@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "cristian",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2882,6 +2882,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50251155397@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "p. l y m. y✨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56689894154252@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5445,6 +5463,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56689894154252@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7422,6 +7449,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50251155397@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8263,8 +8299,8 @@
         "593968273893@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 35445,
-          "exp": 1777,
-          "usedcommands": 16,
+          "exp": 1834,
+          "usedcommands": 17,
           "level": 18,
           "banned": false,
           "reason": "",
@@ -10302,7 +10338,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 11,
+      "botcommando": 12,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -10492,7 +10528,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 48,
+      "botcommando": 49,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
