@@ -6422,6 +6422,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493812368753@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "『 𝘐𝘚𝘈𝘎𝘐 ・ 蜂楽廻 』┃",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212297747224@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Toyoltzin",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11382,6 +11400,15 @@
           "reason": ""
         },
         "212709087121@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493812368753@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -16758,7 +16785,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "6596386660-1444704408@g.us": {
       "users": {
@@ -19362,7 +19390,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5214531268302@s.whatsapp.net": {
       "users": {
@@ -21202,6 +21231,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5212297747224@s.whatsapp.net": {
+      "users": {
+        "5212297747224@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
