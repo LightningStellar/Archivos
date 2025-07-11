@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Xior",
+      "name": "𝘿𝙖𝙣𝙞ᡣ𐭩.ᐟ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -255,6 +255,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Rɪᴢᴢʟʏ 🂱",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "241076615016579@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "134956479213587@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493888449399@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "César D.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -652,6 +679,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493888449399@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -826,6 +862,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "241076615016579@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -900,6 +954,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "134956479213587@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -912,7 +975,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420006684287@g.us": {
       "users": {
