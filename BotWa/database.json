@@ -11415,6 +11415,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "12244869121@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nick",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "84405183860983@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -31509,6 +31527,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "84405183860983@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35903,6 +35930,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "12244869121@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35915,7 +35951,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5493413835960@s.whatsapp.net": {
       "users": {
