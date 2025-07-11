@@ -11801,6 +11801,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34604800797@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "～ねみさん～♡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213316381305@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "...",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21437,14 +21455,14 @@
           "personajesEnVenta": []
         },
         "5492324347631@s.whatsapp.net": {
-          "chocolates": 4982,
+          "chocolates": 74730,
           "bank": 0,
-          "exp": 11137,
-          "usedcommands": 95,
+          "exp": 11213,
+          "usedcommands": 96,
           "level": 37,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752221508295,
+          "rtCooldown": 1752222733524,
           "dailyStreak": 1,
           "lastDaily": 1752203140354,
           "nextReward": 715,
@@ -30284,6 +30302,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34604800797@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38763,6 +38790,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492324347631@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40135,6 +40171,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363414993624767@g.us": {
+      "users": {
+        "5213316381305@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -40190,7 +40250,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 350,
+      "botcommando": 351,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
