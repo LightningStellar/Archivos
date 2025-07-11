@@ -895,6 +895,59 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51994778787@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "☆~Rose",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "32484969861@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~    🇪🇨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215620173063@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".💆🏻‍♀️ fluye",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "175621682532465@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51960198996@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𐴲໋࡙۠🪼̴ׁ໋〪֢̥〫𓆇ᨘ݁෧๋໋᳝࣪᷼͡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "595995696598@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "remodelacion",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -980,6 +1033,15 @@
           "reason": ""
         },
         "59169497823@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "595995696598@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -1331,6 +1393,33 @@
           "reason": ""
         },
         "56940409877@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51994778787@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "32484969861@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51960198996@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -2542,9 +2631,9 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 56,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 89,
+          "usedcommands": 2,
+          "level": 4,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752234385804
@@ -2562,7 +2651,17 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Mishima",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/125385-phySyEwXv9ae.jpg",
+          "value": 5711,
+          "gender": "Mujer",
+          "source": "Charlotte",
+          "id": "c5f2a253"
+        }
+      ]
     },
     "120363416358708748@g.us": {
       "users": {
@@ -2683,6 +2782,15 @@
           "reason": ""
         },
         "26586434793618@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "175621682532465@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -2940,6 +3048,15 @@
           "reason": ""
         },
         "56931465813@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215620173063@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -3317,7 +3434,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 3,
+      "botcommando": 4,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
