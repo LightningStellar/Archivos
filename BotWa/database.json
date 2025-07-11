@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Brei",
+      "name": "ㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1304,6 +1304,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "꧁༒☬ᴬᴸᵛᴬᴿᴼ☬༒꧂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51966403878@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Mike",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3577,6 +3586,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51966403878@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -4882,6 +4900,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363344026887193@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
