@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "𝐘𝐮︢︢︣𝐦𝐦ꯨ𝐲 𝀈",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14020,6 +14020,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573166637616@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🍂̸̷̶ 𝅄 ׅ.ᥲⲅ𝗶 .ꜝ𝆺𝅥",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "45900852400227@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "247815938818277@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51992892637@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "MOMAZOS AIRE",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20966,6 +21002,15 @@
           "level": 6,
           "banned": false,
           "reason": ""
+        },
+        "51992892637@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 76,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23798,6 +23843,24 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "45900852400227@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "247815938818277@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39752,7 +39815,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "59160405720@s.whatsapp.net": {
       "users": {
@@ -48957,6 +49021,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "573166637616@s.whatsapp.net": {
+      "users": {
+        "573166637616@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -49012,7 +49100,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1094,
+      "botcommando": 1095,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -49122,7 +49210,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 30,
       "prefix": "#",
       "namebot": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
       "namebot2": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
