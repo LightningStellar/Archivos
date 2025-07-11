@@ -11743,6 +11743,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363416663999519@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5217411153933@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ׅ 🍜ຼᩙ ׄ      ナルト       愛",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16827,6 +16845,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5217411153933@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21660,9 +21687,9 @@
         "5218712620915@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 74,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -31013,7 +31040,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363418278928089@g.us": {
       "users": {
@@ -31179,6 +31207,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363416663999519@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -31191,7 +31228,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401842848520@g.us": {
       "users": {
@@ -35710,7 +35748,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 27,
+      "botcommando": 28,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
