@@ -12096,6 +12096,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5492314467148@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🍁A͠𝓎a͟𝘳เ'𝘴🍃",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23712,6 +23721,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492314467148@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30231,12 +30249,12 @@
         "5219932092138@s.whatsapp.net": {
           "chocolates": 12122,
           "bank": 0,
-          "exp": 1451,
-          "usedcommands": 32,
+          "exp": 1516,
+          "usedcommands": 33,
           "level": 16,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752208181831,
+          "workCooldown": 1752226808863,
           "mineCooldown": 1752208179172,
           "rtCooldown": 1752226727848,
           "slutCooldown": 1752208183905,
@@ -30258,10 +30276,10 @@
           "personajesEnVenta": []
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 77216458,
+          "chocolates": 76216458,
           "bank": 0,
-          "exp": 4556,
-          "usedcommands": 32,
+          "exp": 4709,
+          "usedcommands": 34,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -30269,10 +30287,10 @@
           "dailyStreak": 1,
           "lastDaily": 1752202609742,
           "nextReward": 6118,
-          "rtCooldown": 1752225956835,
+          "rtCooldown": 1752226791069,
           "personajesEnVenta": [],
           "lastMonthly": 1752206397809,
-          "rwCooldown": 1752215281216
+          "rwCooldown": 1752227101493
         },
         "5216141200934@s.whatsapp.net": {
           "chocolates": 62913,
@@ -30421,6 +30439,15 @@
           "gender": "Hombre",
           "source": "Death Note",
           "id": "5400099d"
+        },
+        {
+          "userId": "5213310224249@s.whatsapp.net",
+          "name": "Kagero Okuta",
+          "url": "https://stellarwa.xyz/files/1750634321680.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "fe850184"
         }
       ]
     },
@@ -41082,7 +41109,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 154,
+      "botcommando": 155,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41282,7 +41309,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 160,
+      "botcommando": 162,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
