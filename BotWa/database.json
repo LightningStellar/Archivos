@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ㅤ",
+      "name": "Agostina",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1313,6 +1313,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Mike",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "96465535893700@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4904,6 +4913,15 @@
     "120363344026887193@g.us": {
       "users": {
         "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "96465535893700@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
