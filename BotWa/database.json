@@ -2074,6 +2074,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363408331270850@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34643765668@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ユキ・グメ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5281,6 +5299,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "34643765668@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6389,6 +6416,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "120363408331270850@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6401,7 +6437,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363307319721505@newsletter": {
       "users": {
