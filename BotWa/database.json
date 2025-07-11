@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "파괴하다.",
+      "name": "𝐃𝐞𝐲𝐥𝐢𝐧",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -22393,6 +22393,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "ㅤ 太陽    ㅤ✿ִ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "248215253336143@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -47152,8 +47161,8 @@
         "5212331515986@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 2314,
-          "exp": 29,
-          "usedcommands": 113,
+          "exp": 22,
+          "usedcommands": 115,
           "level": 15,
           "banned": false,
           "reason": "",
@@ -51416,6 +51425,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "248215253336143@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -57690,12 +57708,13 @@
         "51972754151@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 29,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 53,
+          "usedcommands": 2,
+          "level": 3,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "Subs": 1752275087582
         },
         "51967524493@s.whatsapp.net": {
           "chocolates": 0,
@@ -67806,6 +67825,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492914407013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -68271,7 +68299,7 @@
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 109,
+      "botcommando": 110,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -68391,7 +68419,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 363,
+      "botcommando": 364,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -68501,7 +68529,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 32,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
