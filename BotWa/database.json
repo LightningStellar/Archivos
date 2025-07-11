@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "﹙🎲﹚    ꠥ ֹ    ׅ",
+      "name": "Eternal :v",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9221,6 +9221,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "31160591732762@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59894137261@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Evangelina Campos 💗🪻",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12192,6 +12210,15 @@
           "reason": ""
         },
         "5212721876433@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59894137261@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -17239,6 +17266,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "31160591732762@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20389,8 +20425,8 @@
         "584243403568@s.whatsapp.net": {
           "chocolates": 18793,
           "bank": 0,
-          "exp": 484,
-          "usedcommands": 10,
+          "exp": 560,
+          "usedcommands": 11,
           "level": 11,
           "banned": false,
           "reason": "",
@@ -24356,6 +24392,15 @@
           "reason": ""
         },
         "3620825227305@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "31160591732762@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29019,8 +29064,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 71792,
-          "exp": 9032,
-          "usedcommands": 58,
+          "exp": 9122,
+          "usedcommands": 60,
           "level": 34,
           "banned": false,
           "reason": "",
@@ -29050,8 +29095,8 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 40087,
-          "exp": 5030,
-          "usedcommands": 30,
+          "exp": 5105,
+          "usedcommands": 31,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -29081,9 +29126,9 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 12,
+          "usedcommands": 1,
+          "level": 2,
           "banned": false,
           "reason": ""
         }
@@ -31845,7 +31890,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": true,
-      "botcommando": 79,
+      "botcommando": 80,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -31925,7 +31970,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 102,
+      "botcommando": 104,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -31975,7 +32020,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 130,
+      "botcommando": 131,
       "prefix": "!",
       "namebot": "ꮺ  ִ  ﹫ 𝓙𝖺𝖼𝗄𝖿𝗋𝗈𝗌𝗍.  ❄   ᱉᱉",
       "namebot2": "𝕱𝗋𝗈𝗌𝗍.  ᨦ‌    ׅ ۟  ׁ",
@@ -32055,7 +32100,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 69,
+      "botcommando": 71,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
