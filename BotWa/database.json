@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝘝ani ⋆. 𐙚 ˚",
+      "name": "★ㅤㅤ𝐕. 𝖾ll !ㅤㅤ᛬ㅤㅤㅤ⃝⃞🌟",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27974,8 +27974,8 @@
         "5213310224249@s.whatsapp.net": {
           "chocolates": 1116458,
           "bank": 0,
-          "exp": 4158,
-          "usedcommands": 24,
+          "exp": 4171,
+          "usedcommands": 25,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -28033,10 +28033,10 @@
           "personajesEnVenta": []
         },
         "5217851059776@s.whatsapp.net": {
-          "chocolates": 17146,
+          "chocolates": 157146,
           "bank": 0,
-          "exp": 1281,
-          "usedcommands": 26,
+          "exp": 1359,
+          "usedcommands": 28,
           "level": 16,
           "banned": false,
           "reason": "",
@@ -28047,7 +28047,7 @@
           "crimeCooldown": 1752206970575,
           "slutCooldown": 1752206976395,
           "workCooldown": 1752207608534,
-          "rtCooldown": 1752207505248,
+          "rtCooldown": 1752215747539,
           "personajesEnVenta": []
         }
       },
@@ -32526,9 +32526,9 @@
       "users": {
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 76490,
-          "exp": 14355,
-          "usedcommands": 165,
+          "bank": 81490,
+          "exp": 14454,
+          "usedcommands": 167,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -32543,19 +32543,7 @@
           "nextReward": 44196,
           "lastWeekly": 1752204478340,
           "lastMonthly": 1752204480136,
-          "personajesEnVenta": [
-            {
-              "name": "Zeldris",
-              "url": "https://stellarwa.xyz/files/1749350004582.jpg",
-              "value": 50000,
-              "gender": "Hombre",
-              "source": "Los Siete Pecados Capitales",
-              "claim": "viernes, 11 de julio de 2025",
-              "precio": 5000,
-              "vendedor": "50236933411@s.whatsapp.net",
-              "expira": "2025-07-14T06:23:01.305Z"
-            }
-          ],
+          "personajesEnVenta": [],
           "buyCooldown": 1752215373724,
           "characters": [
             {
@@ -32571,10 +32559,10 @@
           "totalRwcoins": null
         },
         "5215522567568@s.whatsapp.net": {
-          "chocolates": 5000,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 4327,
-          "usedcommands": 62,
+          "exp": 4420,
+          "usedcommands": 65,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -32591,7 +32579,20 @@
           "nextReward": 19774,
           "lastWeekly": 1752210840507,
           "lastMonthly": 1752210844245,
-          "buyCooldown": 0
+          "buyCooldown": 0,
+          "characters": [
+            {
+              "name": "Zeldris",
+              "url": "https://stellarwa.xyz/files/1749350004582.jpg",
+              "value": 50000,
+              "gender": "Hombre",
+              "source": "Los Siete Pecados Capitales",
+              "claim": "viernes, 11 de julio de 2025",
+              "precio": 5000,
+              "vendedor": "50236933411@s.whatsapp.net",
+              "expira": "2025-07-14T06:23:01.305Z"
+            }
+          ]
         },
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
@@ -37418,7 +37419,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 21,
+      "botcommando": 22,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37538,7 +37539,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 323,
+      "botcommando": 330,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
