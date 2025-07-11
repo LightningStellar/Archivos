@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Así Mismo",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15946,6 +15946,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584243018438@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "mcepl81",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51956578855@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Jack",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23796,8 +23814,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 4436,
-          "usedcommands": 129,
+          "exp": 44,
+          "usedcommands": 134,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -23810,7 +23828,7 @@
           "crimeCooldown": 1752260291882,
           "mineCooldown": 1752260294699,
           "rtCooldown": 1752260596149,
-          "rwCooldown": 1752235006770,
+          "rwCooldown": 1752261034902,
           "buyCooldown": 1752235013656,
           "characters": [
             {
@@ -24324,6 +24342,15 @@
           "gender": "Hombre",
           "source": "Arifureta",
           "id": "cc7cc444"
+        },
+        {
+          "userId": "5493764838767@s.whatsapp.net",
+          "name": "Kiichiro Osoreda",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/84513.jpg",
+          "value": 9347,
+          "gender": "Hombre",
+          "source": "Death Note",
+          "id": "ca5dbbe4"
         }
       ]
     },
@@ -27687,6 +27714,15 @@
           "personajesEnVenta": []
         },
         "212641167298@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51956578855@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -32071,10 +32107,10 @@
           "totalRwcoins": null
         },
         "50236933411@s.whatsapp.net": {
-          "chocolates": 11061,
-          "bank": 101141,
-          "exp": 6171,
-          "usedcommands": 76,
+          "chocolates": 0,
+          "bank": 112245,
+          "exp": 6369,
+          "usedcommands": 80,
           "level": 29,
           "banned": false,
           "reason": "",
@@ -32087,7 +32123,7 @@
           "lastWeekly": 1752236368113,
           "lastMonthly": 1752236372258,
           "slutCooldown": 1752260727416,
-          "pptCooldown": 1752260065347,
+          "pptCooldown": 1752260729153,
           "personajesEnVenta": []
         },
         "593968273893@s.whatsapp.net": {
@@ -43977,9 +44013,9 @@
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 337,
-          "usedcommands": 8,
-          "level": 9,
+          "exp": 409,
+          "usedcommands": 9,
+          "level": 10,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -43998,7 +44034,7 @@
       "sWelcome": "",
       "sBye": "",
       "welcome": true,
-      "nsfw": false,
+      "nsfw": true,
       "alerts": true,
       "gacha": true,
       "rpg": true,
@@ -48224,6 +48260,64 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "584243018438@s.whatsapp.net": {
+      "users": {
+        "584243018438@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363417276763768@g.us": {
+      "users": {
+        "5212731168397@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5214531458599@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -48279,7 +48373,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 429,
+      "botcommando": 434,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -48359,7 +48453,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 183,
+      "botcommando": 184,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -48429,7 +48523,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 363,
+      "botcommando": 366,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
@@ -48439,7 +48533,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 64,
+      "botcommando": 65,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -48459,7 +48553,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 8,
+      "botcommando": 9,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
