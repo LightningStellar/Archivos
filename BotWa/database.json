@@ -1389,6 +1389,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "14770963001473@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3116,6 +3125,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "14770963001473@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
