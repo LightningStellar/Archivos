@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Xior",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7120,7 +7120,7 @@
     "5492915133907@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "âª»ð¤â¢ââââ¢â¢â¦Angelâ¦â¢â¢ââââ¢â°âª¼",
+      "name": "⪻𖤐•┈┈┈••✦Angel✦••┈┈┈•✰⪼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14217,6 +14217,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "184520770908185@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18692,9 +18701,9 @@
         "5493434628614@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 271,
-          "usedcommands": 6,
-          "level": 7,
+          "exp": 320,
+          "usedcommands": 7,
+          "level": 9,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -20891,7 +20900,7 @@
           "bank": 0,
           "exp": 458,
           "usedcommands": 11,
-          "level": 9,
+          "level": 10,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -33591,6 +33600,15 @@
           "personajesEnVenta": []
         },
         "229128385114162@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "184520770908185@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -47655,10 +47673,10 @@
         },
         "50664345382@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 0,
-          "exp": 687,
-          "usedcommands": 12,
-          "level": 12,
+          "bank": 1998,
+          "exp": 1691,
+          "usedcommands": 15,
+          "level": 17,
           "banned": false,
           "reason": "",
           "workCooldown": 1752198797922,
@@ -47667,7 +47685,8 @@
           "nextReward": 4838,
           "mineCooldown": 1752198900210,
           "crimeCooldown": 1752198906718,
-          "slutCooldown": 1752198920044
+          "slutCooldown": 1752198920044,
+          "pptCooldown": 1752198951588
         },
         "56986181235@s.whatsapp.net": {
           "chocolates": 0,
@@ -49449,6 +49468,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5491131372917@s.whatsapp.net": {
+      "users": {
+        "5491131372917@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -49514,7 +49557,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 80,
+      "botcommando": 81,
       "prefix": "+",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -49574,7 +49617,7 @@
     },
     "5215660242865@s.whatsapp.net": {
       "self": false,
-      "botcommando": 92,
+      "botcommando": 93,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -49664,7 +49707,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 183,
+      "botcommando": 184,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
@@ -49704,7 +49747,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 35,
+      "botcommando": 37,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
