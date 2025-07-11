@@ -11603,6 +11603,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34643644463@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18121,6 +18130,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34643644463@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -18602,8 +18620,8 @@
         "5216646952956@s.whatsapp.net": {
           "chocolates": 905395,
           "bank": 0,
-          "exp": 6507,
-          "usedcommands": 56,
+          "exp": 6570,
+          "usedcommands": 57,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -21582,6 +21600,15 @@
           "rwCooldown": 1752220726893,
           "buyCooldown": 0,
           "characters": []
+        },
+        "5216646952956@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39739,7 +39766,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 71,
+      "botcommando": 72,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
