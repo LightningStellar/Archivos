@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⸙ 𝙇𝙤𝙠𝙞 ⸙",
+      "name": "Bottsito",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2213,7 +2213,7 @@
     "59808023601198@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🜸﹔𝑴𝒆𝒈𝒖𝒎𝒊𝒏ㅤ ☆𝆬 ﮳",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2222,7 +2222,7 @@
     "145616705425654@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "㑦 ꯭𝕭̶𝅽ٔ𝗥ٌؘ۪𝐈̶🥖̸ິ̸̷̶ᝓ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2231,7 +2231,33 @@
     "73362755821690@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "Maki-ma   (Say)",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "200309221671154@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363240478812648@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50239291359@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Dulce :D",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3568,6 +3594,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "200309221671154@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -3773,21 +3808,21 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 7855,
+          "chocolates": 9899,
           "bank": 0,
-          "exp": 3537,
-          "usedcommands": 16,
-          "level": 23,
+          "exp": 3750,
+          "usedcommands": 19,
+          "level": 24,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752234043237,
           "nextReward": 30177,
-          "workCooldown": 1752234645614,
+          "workCooldown": 1752238636049,
           "lastMonthly": 1752234059539,
           "lastWeekly": 1752234064087,
-          "crimeCooldown": 1752234670901,
-          "mineCooldown": 1752234673646,
+          "crimeCooldown": 1752238639847,
+          "mineCooldown": 1752238644452,
           "rtCooldown": 1752234693329,
           "rwCooldown": 1752235006770,
           "buyCooldown": 1752235013656,
@@ -7854,6 +7889,80 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363240478812648@newsletter": {
+      "users": {
+        "120363240478812648@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363403288987561@g.us": {
+      "users": {
+        "50239291359@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "1293372358868@lid": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -7909,7 +8018,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 29,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
