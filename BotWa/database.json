@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "æ",
+      "name": "Joel",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19280,7 +19280,7 @@
     "73512660267157@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Dante",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19307,6 +19307,15 @@
     "120363402345381366@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493815503954@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤㅤㅤ́𑁍ㅤㅤㅤㅤᅠㅤᅠ͜ㅤㅤㅤㅤㅤᅠㅤ𝖮𝗇.ㅤㅤㅤㅤ\nㅤㅤㅤㅤㅤㅤ꯭𝗋𝗈꯭𝗌𝗌꯭𝗂𝖾꯭ㅤㅤᅠᅠㅤㅤ “ ㅤᅠᅠㅤㅤㅤ𝗏'𝖽𝗋𝗏ㅤㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23381,6 +23390,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493815503954@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -31125,9 +31143,9 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 117979,
-          "exp": 4825,
-          "usedcommands": 260,
+          "bank": 107979,
+          "exp": 4950,
+          "usedcommands": 262,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -31143,7 +31161,7 @@
           "slutCooldown": 1752267103504,
           "pptCooldown": 1752267118059,
           "personajesEnVenta": [],
-          "buyCooldown": 1752265733670,
+          "buyCooldown": 1752268414649,
           "characters": [
             {
               "name": "Katsuki Bakugo",
@@ -31183,6 +31201,14 @@
               "value": 50,
               "gender": "Mujer",
               "source": "Highschool of the Dead",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Kagamine Rin",
+              "url": "https://stellarwa.xyz/files/1748941582027.jpg",
+              "value": 10000,
+              "gender": "Mujer",
+              "source": "Vocaloid",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -31514,15 +31540,6 @@
           "gender": "Hombre",
           "source": "Hunter x Hunter",
           "id": "5516657a"
-        },
-        {
-          "userId": "50236933411@s.whatsapp.net",
-          "name": "Kagamine Rin",
-          "url": "https://stellarwa.xyz/files/1748941582027.jpg",
-          "value": 10000,
-          "gender": "Mujer",
-          "source": "Vocaloid",
-          "id": "84e32ae4"
         }
       ]
     },
@@ -37707,11 +37724,11 @@
           "roboCooldown": 1752269146646
         },
         "593968273893@s.whatsapp.net": {
-          "chocolates": 1500,
-          "bank": 101628,
-          "exp": 9918,
-          "usedcommands": 158,
-          "level": 35,
+          "chocolates": 0,
+          "bank": 103628,
+          "exp": 10464,
+          "usedcommands": 167,
+          "level": 36,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -37753,8 +37770,8 @@
         "51902486766@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 171951,
-          "exp": 16089,
-          "usedcommands": 195,
+          "exp": 16091,
+          "usedcommands": 196,
           "level": 42,
           "banned": false,
           "reason": "",
@@ -37867,20 +37884,20 @@
         },
         "51906674183@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 8354,
-          "exp": 4305,
-          "usedcommands": 12,
-          "level": 25,
+          "bank": 14479,
+          "exp": 4488,
+          "usedcommands": 18,
+          "level": 26,
           "banned": false,
           "reason": "",
-          "mineCooldown": 1752265327653,
-          "crimeCooldown": 1752265331553,
-          "workCooldown": 1752265333190,
+          "mineCooldown": 1752268141069,
+          "crimeCooldown": 1752268144446,
+          "workCooldown": 1752268146823,
           "pptCooldown": 1752265339696,
           "dailyStreak": 1,
           "lastDaily": 1752264746893,
           "nextReward": 7616,
-          "slutCooldown": 1752265349423,
+          "slutCooldown": 1752268162306,
           "lastWeekly": 1752264753036,
           "lastMonthly": 1752264756320,
           "rtCooldown": 1752265364979,
@@ -58752,7 +58769,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 41,
+      "botcommando": 42,
       "prefix": "/",
       "namebot": "❜ ࿙⃛͜ΛFЯӨDIƬΣ BӨƬ🪉⃝𝅦᳘֟፝͠◌⃘",
       "namebot2": "📖  ⃕   ࿙⃛͜𝕬𝖋𝖗𝖔𝖉𝖎𝖙𝖊🪽⃝𝅦᳘֟፝͠◌⃘",
@@ -58792,7 +58809,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 400,
+      "botcommando": 402,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -58932,7 +58949,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 727,
+      "botcommando": 739,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
@@ -58952,7 +58969,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 93,
+      "botcommando": 96,
       "prefix": "!",
       "namebot": "ꮺ  ִ  ﹫ 𝓙𝖺𝖼𝗄𝖿𝗋𝗈𝗌𝗍.  ❄   ᱉᱉",
       "namebot2": "𝕱𝗋𝗈𝗌𝗍.  ᨦ‌    ׅ ۟  ׁ",
