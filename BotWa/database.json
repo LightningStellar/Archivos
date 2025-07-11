@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Sig&∆¶[",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5150,6 +5150,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573145009703@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "dan",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34604800797@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "～ねみさん～♡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -5417,6 +5435,15 @@
           "reason": ""
         },
         "51910289080@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573145009703@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -6667,6 +6694,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "34604800797@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7337,10 +7373,10 @@
           "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 3200000,
+          "chocolates": 3087000,
           "bank": 0,
-          "exp": 655,
-          "usedcommands": 34,
+          "exp": 884,
+          "usedcommands": 38,
           "level": 19,
           "banned": false,
           "reason": "",
@@ -7352,7 +7388,21 @@
           "mineCooldown": 1752242022081,
           "lastMonthly": 1752241427053,
           "lastWeekly": 1752241432121,
-          "rtCooldown": 1752244323291
+          "rtCooldown": 1752245491901,
+          "rwCooldown": 1752245796779,
+          "buyCooldown": 1752245801205,
+          "characters": [
+            {
+              "name": "Goreinu",
+              "url": "https://stellarwa.xyz/files/1750784493653.jpg",
+              "value": 13000,
+              "gender": "Hombre",
+              "source": "Hunter x Hunter",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "573143237521@s.whatsapp.net": {
           "chocolates": 0,
@@ -16526,9 +16576,9 @@
         "584122539520@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 88,
-          "usedcommands": 2,
-          "level": 4,
+          "exp": 106,
+          "usedcommands": 3,
+          "level": 6,
           "banned": false,
           "reason": ""
         },
@@ -17070,7 +17120,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 43,
+      "botcommando": 44,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -17090,7 +17140,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 3,
+      "botcommando": 4,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -17110,7 +17160,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 233,
+      "botcommando": 237,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
