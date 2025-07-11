@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "㑦 ꯭𝕭̶𝅽ٔ𝗥ٌؘ۪𝐈̶🥖̸ິ̸̷̶ᝓ",
+      "name": "Ğãɓřįəł",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2419,6 +2419,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573169511811@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "JH LOVE BARÇA💙❤️",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493534413480@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "yamil",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51921557547@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Rodrigo🎶",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4034,6 +4061,15 @@
           "banned": false,
           "reason": "",
           "Subs": 1752237879380
+        },
+        "5493534413480@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 35,
+          "usedcommands": 1,
+          "level": 3,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -5441,6 +5477,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51921557547@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -7028,7 +7073,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "59160405720@s.whatsapp.net": {
       "users": {
@@ -7222,7 +7268,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363389742802559@g.us": {
       "users": {
@@ -7291,6 +7338,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573169511811@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8555,7 +8611,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 32,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
