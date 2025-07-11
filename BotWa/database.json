@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✞",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15981,6 +15981,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "59164114727@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Luv",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "268753300377672@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51929379845@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Axel",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491164471792@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Gaby☺️",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20285,8 +20321,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 1860,
           "bank": 0,
-          "exp": 2300,
-          "usedcommands": 43,
+          "exp": 2322,
+          "usedcommands": 44,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -22254,6 +22290,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491164471792@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22548,6 +22593,15 @@
           "personajesEnVenta": []
         },
         "5212731168397@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59164114727@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -26489,12 +26543,12 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 49379,
-          "exp": 3795,
-          "usedcommands": 25,
+          "exp": 3938,
+          "usedcommands": 27,
           "level": 24,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752260116120,
+          "rwCooldown": 1752261157941,
           "personajesEnVenta": [],
           "crimeCooldown": 1752252364276,
           "mineCooldown": 1752252366517,
@@ -26525,7 +26579,7 @@
           "bank": 89449,
           "exp": 13505,
           "usedcommands": 132,
-          "level": 39,
+          "level": 40,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752260665583,
@@ -26784,6 +26838,15 @@
           "gender": "Mujer",
           "source": "Hunter x Hunter",
           "id": "296edbc3"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Yuuji Itadori",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+          "value": 334411,
+          "gender": "Hombre",
+          "source": "Jujutsu Kaisen",
+          "id": "0c9718c0"
         }
       ]
     },
@@ -29290,6 +29353,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51929379845@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32242,10 +32314,10 @@
           "personajesEnVenta": []
         },
         "5218134044942@s.whatsapp.net": {
-          "chocolates": 1878,
-          "bank": 25304,
-          "exp": 5458,
-          "usedcommands": 49,
+          "chocolates": 0,
+          "bank": 27382,
+          "exp": 5505,
+          "usedcommands": 51,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -35148,6 +35220,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "268753300377672@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38470,17 +38551,17 @@
           "personajesEnVenta": []
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 232175,
+          "chocolates": 302175,
           "bank": 0,
-          "exp": 3425,
-          "usedcommands": 56,
+          "exp": 3443,
+          "usedcommands": 58,
           "level": 23,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752254886666,
           "workCooldown": 1752254889884,
-          "rtCooldown": 1752260121428,
-          "rwCooldown": 1752259600959,
+          "rtCooldown": 1752260902806,
+          "rwCooldown": 1752261194861,
           "buyCooldown": 1752256569450,
           "characters": [],
           "personajesEnVenta": [
@@ -38596,6 +38677,15 @@
           "gender": "Mujer",
           "source": "Date A Live",
           "id": "bd44eb9b"
+        },
+        {
+          "userId": "573103563906@s.whatsapp.net",
+          "name": "Akito Nimura",
+          "url": "https://stellarwa.xyz/files/1749355984325.jpg",
+          "value": 15000,
+          "gender": "Hombre",
+          "source": "Arifureta",
+          "id": "f465af5a"
         }
       ]
     },
@@ -48377,6 +48467,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5491164471792@s.whatsapp.net": {
+      "users": {
+        "5491164471792@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -48412,7 +48526,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 40,
+      "botcommando": 41,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -48432,7 +48546,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 437,
+      "botcommando": 438,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -48442,7 +48556,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 220,
+      "botcommando": 221,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -48502,7 +48616,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 230,
+      "botcommando": 231,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -48522,7 +48636,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 252,
+      "botcommando": 253,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -48582,7 +48696,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 372,
+      "botcommando": 374,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
