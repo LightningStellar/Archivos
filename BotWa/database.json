@@ -17,6 +17,41 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219838337376@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "౨ৎ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493855341188@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ᅠᅠ𓂅ᅠᅠ.ᅠᅠ𝗐͟𝗂͟𝗇͟𝗍͟𝖾͟𝗋ᅠᅠ＇ᅠᅠ𝗼'𝗯𝗿𝗶𝗲𝗻ᅠᅠㅤ，",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363417721042596@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219931301976@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꧁𝑄in Y𝑒_L𝑖nᴿ͢𝐬꧂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -25,9 +60,9 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 51,
-          "usedcommands": 2,
-          "level": 4,
+          "exp": 166,
+          "usedcommands": 4,
+          "level": 5,
           "banned": false,
           "reason": ""
         },
@@ -53,16 +88,128 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363344399683687@g.us": {
+      "users": {
+        "5219838337376@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493855341188@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363417721042596@newsletter": {
+      "users": {
+        "120363417721042596@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363421019316204@g.us": {
+      "users": {
+        "5219931301976@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 4,
+      "botcommando": 6,
+      "prefix": "/",
+      "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
+      "namebot2": "Megumin",
+      "owner": "5492916439595@s.whatsapp.net",
+      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "currency": "_Megu - coin's_"
+    },
+    "5214531458599@s.whatsapp.net": {
+      "self": false,
+      "botcommando": 0,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
-      "owner": "5492916439595@s.whatsapp.net",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "currency": "SylphyCoins"
+    },
+    "56920449984@s.whatsapp.net": {
+      "self": false,
+      "botcommando": 0,
+      "prefix": "/",
+      "namebot": "Sylphiette",
+      "namebot2": "Sylphy",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "currency": "SylphyCoins"
+    },
+    "584243403568@s.whatsapp.net": {
+      "self": false,
+      "botcommando": 0,
+      "prefix": "/",
+      "namebot": "Sylphiette",
+      "namebot2": "Sylphy",
+      "owner": "Oculto por privacidad",
       "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
       "currency": "SylphyCoins"
     }
