@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": ".•♫•♬• 𝑳𝒖𝒄𝒊́𝒂 •♬•♫•",
+      "name": "A.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13484,7 +13484,7 @@
     "5214428709920@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⁠☆",
+      "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20207,6 +20207,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𓆾。ㅤㅤ#mortificad0x",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "265330396025006@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363418279810408@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573126373743@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27382,6 +27409,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573126373743@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30917,6 +30953,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "265330396025006@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34166,7 +34211,7 @@
           "bank": 0,
           "exp": 175,
           "usedcommands": 3,
-          "level": 6,
+          "level": 7,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -41020,6 +41065,15 @@
           "reason": ""
         },
         "104419463024873@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "120363418279810408@g.us": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -61359,7 +61413,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
