@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Bran🇦🇷",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19110,7 +19110,7 @@
     "18495322087@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "㍪𔗂ᴘᴀɴᴅɪᴛᴀ ɪɪɪ-sᴛᴀʀʀᴇᴅ▢꯭❝",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19120,6 +19120,32 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Pius",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363161512213582@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "18382476861590@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573505393647@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ale💫",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27421,6 +27447,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "18382476861590@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35280,6 +35315,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573505393647@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37346,15 +37390,15 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 123192,
-          "exp": 8638,
-          "usedcommands": 121,
+          "bank": 125564,
+          "exp": 8735,
+          "usedcommands": 123,
           "level": 33,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752267406658,
           "mineCooldown": 1752267565208,
-          "workCooldown": 1752266199143,
+          "workCooldown": 1752267591184,
           "dailyStreak": 1,
           "lastDaily": 1752236366435,
           "nextReward": 48277,
@@ -37368,8 +37412,8 @@
         "593968273893@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 102714,
-          "exp": 8944,
-          "usedcommands": 143,
+          "exp": 8973,
+          "usedcommands": 144,
           "level": 34,
           "banned": false,
           "reason": "",
@@ -37412,8 +37456,8 @@
         "51902486766@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 175405,
-          "exp": 14833,
-          "usedcommands": 173,
+          "exp": 14952,
+          "usedcommands": 175,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -58167,12 +58211,37 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363161512213582@newsletter": {
+      "users": {
+        "120363161512213582@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 91,
+      "botcommando": 92,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -58372,7 +58441,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 685,
+      "botcommando": 689,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
