@@ -2446,6 +2446,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5218715944288@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ZAR",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363194108779847@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -6370,6 +6387,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5218715944288@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8545,6 +8571,55 @@
     "120363301631931858@newsletter": {
       "users": {
         "120363301631931858@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363194108779847@newsletter": {
+      "users": {
+        "120363194108779847@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363418625202835@g.us": {
+      "users": {
+        "5217296633340@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
