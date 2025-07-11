@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Han 💗",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3665,7 +3665,7 @@
     "50247552380@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+502 4755 2380",
+      "name": "meliodas",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -5433,6 +5433,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Hombre-finura 🧐🔳🪬",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5217772876163@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5353173083@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+53 5 3173083",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59175015536@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9167,6 +9194,16 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59175015536@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 37,
+          "usedcommands": 1,
+          "level": 4,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752246528522
         }
       },
       "sWelcome": "",
@@ -9226,6 +9263,15 @@
           "gender": "Hombre",
           "source": "Los Siete Pecados Capitales",
           "id": "699222a0"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Nonomi Izayoi",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b264235-vK4cQhFbslij.png",
+          "value": 91825,
+          "gender": "Mujer",
+          "source": "Blue Archie",
+          "id": "635b2774"
         }
       ]
     },
@@ -12541,6 +12587,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5353173083@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14784,8 +14839,8 @@
         "5493534413480@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 458,
-          "usedcommands": 8,
+          "exp": 548,
+          "usedcommands": 9,
           "level": 10,
           "banned": false,
           "reason": "",
@@ -14818,6 +14873,21 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5217772876163@s.whatsapp.net": {
+          "chocolates": 15825,
+          "bank": 0,
+          "exp": 483,
+          "usedcommands": 8,
+          "level": 10,
+          "banned": false,
+          "reason": "",
+          "workCooldown": 1752246215815,
+          "dailyStreak": 1,
+          "lastDaily": 1752245620534,
+          "nextReward": 47352,
+          "crimeCooldown": 1752246230644,
+          "slutCooldown": 1752246245484
         }
       },
       "sWelcome": "",
@@ -18174,7 +18244,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 81,
+      "botcommando": 91,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
