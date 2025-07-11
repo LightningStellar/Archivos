@@ -3,7 +3,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "💎🤍 Gojo Satoru 🤍💎",
+      "name": "ale. 🐢",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2557,7 +2557,7 @@
     "5491125640417@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "luka gooner ð",
+      "name": "luka gooner 👅",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12382,6 +12382,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "265111855960249@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "28184196194518@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "206584168857741@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13591,6 +13618,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "28184196194518@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21609,24 +21645,24 @@
         },
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 182791,
-          "exp": 2460,
-          "usedcommands": 54,
-          "level": 20,
+          "bank": 86102,
+          "exp": 2995,
+          "usedcommands": 64,
+          "level": 22,
           "banned": false,
           "reason": "",
           "Subs": 1752168807526,
           "personajesEnVenta": [],
-          "workCooldown": 1752185676008,
-          "mineCooldown": 1752185680378,
+          "workCooldown": 1752194221386,
+          "mineCooldown": 1752194224856,
           "dailyStreak": 1,
           "lastDaily": 1752169966383,
           "nextReward": 2022,
-          "rtCooldown": 1752191232103,
-          "crimeCooldown": 1752173039298,
-          "slutCooldown": 1752173042484,
-          "rwCooldown": 1752191576773,
-          "buyCooldown": 1752191581724,
+          "rtCooldown": 1752194210616,
+          "crimeCooldown": 1752194228863,
+          "slutCooldown": 1752194231787,
+          "rwCooldown": 1752194514409,
+          "buyCooldown": 1752194517813,
           "characters": [
             {
               "name": "Sekijiro Kan",
@@ -21659,10 +21695,18 @@
               "gender": "Hombre",
               "source": "Apari3ncias",
               "claim": "jueves, 10 de julio de 2025"
+            },
+            {
+              "name": "Ken Takagi",
+              "url": "https://stellarwa.xyz/files/1750638822343.jpg",
+              "value": 20000,
+              "gender": "Hombre",
+              "source": "My Hero Academia",
+              "claim": "viernes, 11 de julio de 2025"
             }
           ],
-          "characterCount": 2,
-          "totalRwcoins": 35179
+          "characterCount": 3,
+          "totalRwcoins": 55179
         },
         "573228667071@s.whatsapp.net": {
           "chocolates": 0,
@@ -39959,6 +40003,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "265111855960249@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -43728,6 +43781,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "206584168857741@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -43740,7 +43802,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -43916,7 +43979,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 548,
+      "botcommando": 558,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44006,7 +44069,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 86,
+      "botcommando": 88,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
