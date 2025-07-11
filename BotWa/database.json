@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "★",
+      "name": "Alex",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -792,7 +792,7 @@
     "131632459681948@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "No sé qué poner",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -801,7 +801,16 @@
     "108400897749198@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "★",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56958201381@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Loan",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2733,6 +2742,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -2745,7 +2763,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363022039955111@g.us": {
       "users": {
@@ -2775,6 +2794,15 @@
     "120363419585004162@g.us": {
       "users": {
         "56964509218@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56958201381@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
