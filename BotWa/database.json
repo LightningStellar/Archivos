@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "jota pension",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7627,7 +7627,7 @@
     "5491135078568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+54 9 11 3507-8568",
+      "name": "﹒⌗﹒𝕿𝓸𝓂𝒶́𝓈. 🥀﹒౨ৎ˚₊‧",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12489,6 +12489,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51998331321@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🦖",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -26750,6 +26759,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51998331321@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34375,17 +34393,18 @@
       "users": {
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 8553,
-          "exp": 1707,
-          "usedcommands": 6,
-          "level": 17,
+          "bank": 13133,
+          "exp": 1788,
+          "usedcommands": 8,
+          "level": 18,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
           "dailyStreak": 1,
           "lastDaily": 1752253325579,
           "nextReward": 21042,
-          "lastMonthly": 1752253356332
+          "lastMonthly": 1752253356332,
+          "workCooldown": 1752254295418
         },
         "573160505989@s.whatsapp.net": {
           "chocolates": 0,
@@ -37526,7 +37545,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 99,
+      "botcommando": 100,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -37616,7 +37635,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 32,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -37626,7 +37645,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 33,
+      "botcommando": 34,
       "prefix": "!",
       "namebot": "ꮺ  ִ  ﹫ 𝓙𝖺𝖼𝗄𝖿𝗋𝗈𝗌𝗍.  ❄   ᱉᱉",
       "namebot2": "𝕱𝗋𝗈𝗌𝗍.  ᨦ‌    ׅ ۟  ׁ",
