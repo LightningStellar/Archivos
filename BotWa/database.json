@@ -11136,6 +11136,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56956463674@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "vrnt",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "53670465028162@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14151,6 +14169,15 @@
           "personajesEnVenta": []
         },
         "5213112046281@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56956463674@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -20926,6 +20953,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "106610231885971@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23998,6 +24034,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "53670465028162@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38239,7 +38284,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 134,
+      "botcommando": 136,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
