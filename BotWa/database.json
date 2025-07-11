@@ -29618,16 +29618,16 @@
           "workCooldown": 1752207837098
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 43220,
+          "chocolates": 38220,
           "bank": 0,
-          "exp": 6502,
-          "usedcommands": 33,
+          "exp": 6519,
+          "usedcommands": 34,
           "level": 30,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752202829066,
           "workCooldown": 1752202830923,
-          "rtCooldown": 1752217248422,
+          "rtCooldown": 1752222545146,
           "dailyStreak": 1,
           "lastDaily": 1752202630855,
           "nextReward": 3486,
@@ -34472,17 +34472,17 @@
           ]
         },
         "573235511077@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 48327,
-          "exp": 8827,
-          "usedcommands": 97,
-          "level": 33,
+          "chocolates": 7946,
+          "bank": 43327,
+          "exp": 9243,
+          "usedcommands": 107,
+          "level": 34,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752216826232,
-          "mineCooldown": 1752216828569,
-          "workCooldown": 1752216832223,
-          "slutCooldown": 1752216841462,
+          "crimeCooldown": 1752222532322,
+          "mineCooldown": 1752222534411,
+          "workCooldown": 1752222539486,
+          "slutCooldown": 1752222544450,
           "pptCooldown": 1752216851288,
           "dailyStreak": 1,
           "lastDaily": 1752205405734,
@@ -34491,7 +34491,7 @@
           "lastMonthly": 1752205422205,
           "personajesEnVenta": [],
           "rwCooldown": 1752222777508,
-          "buyCooldown": 1752216175152,
+          "buyCooldown": 1752222802110,
           "characters": [
             {
               "name": "L Lawliet",
@@ -34500,8 +34500,18 @@
               "gender": "Hombre",
               "source": "Death Note",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Haru Nanakusa",
+              "url": "https://stellarwa.xyz/files/1749310165059.jpg",
+              "value": 5000,
+              "gender": "Mujer",
+              "source": "Call of the Night",
+              "claim": "viernes, 11 de julio de 2025"
             }
-          ]
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5215565270181@s.whatsapp.net": {
           "chocolates": 0,
@@ -34850,15 +34860,6 @@
           "gender": "Hombre",
           "source": "Death Note",
           "id": "7b267508"
-        },
-        {
-          "userId": "573235511077@s.whatsapp.net",
-          "name": "Haru Nanakusa",
-          "url": "https://stellarwa.xyz/files/1749310165059.jpg",
-          "value": 5000,
-          "gender": "Mujer",
-          "source": "Call of the Night",
-          "id": "7e2e25e1"
         }
       ]
     },
@@ -40323,7 +40324,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 383,
+      "botcommando": 392,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -40393,7 +40394,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 150,
+      "botcommando": 152,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
