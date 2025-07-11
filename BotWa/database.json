@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Shadow",
+      "name": "mai ⭐",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13803,6 +13803,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5492993284402@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Gonza",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19519,6 +19528,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492993284402@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21219,12 +21237,13 @@
         "5215513021315@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 115,
-          "usedcommands": 2,
+          "exp": 127,
+          "usedcommands": 3,
           "level": 6,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "Subs": 1752256436823
         },
         "5492974124262@s.whatsapp.net": {
           "chocolates": 0,
@@ -31371,13 +31390,35 @@
         },
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 0,
-          "exp": 21,
-          "usedcommands": 1,
-          "level": 3,
+          "bank": 8499,
+          "exp": 561,
+          "usedcommands": 12,
+          "level": 11,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "dailyStreak": 1,
+          "lastDaily": 1752256412483,
+          "nextReward": 20470,
+          "rtCooldown": 1752257022205,
+          "workCooldown": 1752257026022,
+          "mineCooldown": 1752257032127,
+          "crimeCooldown": 1752257035519,
+          "slutCooldown": 1752257038301,
+          "rwCooldown": 1752257344726,
+          "buyCooldown": 1752257347781,
+          "characters": [
+            {
+              "name": "Kagamine Rin",
+              "url": "https://stellarwa.xyz/files/1748941582027.jpg",
+              "value": 10000,
+              "gender": "Mujer",
+              "source": "Vocaloid",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5212225063048@s.whatsapp.net": {
           "chocolates": 0,
@@ -31421,7 +31462,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     },
     "56985410415@s.whatsapp.net": {
       "users": {
@@ -41326,7 +41368,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 133,
+      "botcommando": 135,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41366,7 +41408,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 359,
+      "botcommando": 360,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -41436,7 +41478,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 118,
+      "botcommando": 127,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
