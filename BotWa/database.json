@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valentina",
+      "name": "Ruben",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6578,6 +6578,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "✵༆__ℳ𝒾𝓉𝓈𝓊𝓀𝒾__༆✵",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "203290046418975@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215664042257@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "KORDHELL",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493865202880@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "(⁠≧⁠▽⁠≦⁠)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13166,6 +13193,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "203290046418975@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13370,6 +13406,15 @@
           "reason": ""
         },
         "573116819697@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493865202880@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -21678,6 +21723,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215664042257@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21690,7 +21744,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "573166534866@s.whatsapp.net": {
       "users": {
