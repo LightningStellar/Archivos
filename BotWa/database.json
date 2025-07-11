@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝝒꯭𝛼 ꯭  ꯭ ᅟ꯭｡𝝂⵿㈞⵿𝖾꯭𝝒꯭",
+      "name": "ㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2306,6 +2306,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56942623135@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🫶🏻",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "18506885608@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "¡! Adrii ♡︎",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51932091161@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ً̝ٓ͠🍏ۣ۫۟ۦ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "18095343334@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+1 809-534-3334",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -4181,6 +4217,24 @@
           "reason": ""
         },
         "34620229296@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "18506885608@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51932091161@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -7473,6 +7527,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "18095343334@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8149,6 +8212,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363403318096057@g.us": {
+      "users": {
+        "56942623135@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
