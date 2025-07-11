@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✨“Seunghyun”✨",
+      "name": "Han 💗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6189,6 +6189,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584161251361@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Cheyzer",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584248594353@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "정선희",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7595,6 +7613,15 @@
           "reason": ""
         },
         "18098357613@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584161251361@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -11627,6 +11654,15 @@
           "reason": ""
         },
         "584167964826@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584248594353@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -16689,7 +16725,7 @@
           "bank": 0,
           "exp": 41,
           "usedcommands": 1,
-          "level": 0,
+          "level": 4,
           "banned": false,
           "reason": ""
         },
@@ -20374,6 +20410,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5219991891015@s.whatsapp.net": {
+      "users": {
+        "5219991891015@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
