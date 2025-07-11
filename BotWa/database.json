@@ -11666,6 +11666,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493874851534@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "JONAA🙀🫩",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21672,6 +21681,18 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493874851534@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 201,
+          "usedcommands": 4,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "workCooldown": 1752221459830,
+          "mineCooldown": 1752221461459,
+          "crimeCooldown": 1752221464127
         }
       },
       "sWelcome": "",
@@ -39822,7 +39843,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 333,
+      "botcommando": 337,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
