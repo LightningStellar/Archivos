@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13723,6 +13723,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363369916274243@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19584,6 +19592,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5212463629603@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22325,11 +22342,11 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 3200000,
-          "bank": 0,
-          "exp": 8064,
-          "usedcommands": 74,
-          "level": 32,
+          "chocolates": 1045,
+          "bank": 3200000,
+          "exp": 14,
+          "usedcommands": 78,
+          "level": 33,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752240723906,
@@ -22364,7 +22381,8 @@
           ],
           "characterCount": null,
           "totalRwcoins": null,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "pptCooldown": 1752256718269
         },
         "573043790530@s.whatsapp.net": {
           "chocolates": 0,
@@ -41037,6 +41055,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363369916274243@newsletter": {
+      "users": {
+        "120363369916274243@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -41172,7 +41214,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 164,
+      "botcommando": 168,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
