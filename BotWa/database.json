@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ㅤ۪ۭۜ㏞ۣۢ𝄖ㅤۭۜ🄖ۣۘ𓂂ㅤㅤۣۘ𔒒ۣ",
+      "name": "𝒟𝒶𝓋𝒾𝒹",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1056,6 +1056,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491131571365@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝒟𝒶𝓋𝒾𝒹",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1528,6 +1537,15 @@
           "reason": ""
         },
         "51960198996@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491131571365@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -3858,6 +3876,30 @@
     "56972803247@s.whatsapp.net": {
       "users": {
         "56920449984@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363401703859951@g.us": {
+      "users": {
+        "[object Promise]": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
