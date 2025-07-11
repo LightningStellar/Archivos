@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Leo",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12399,7 +12399,7 @@
     "30215480803465@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Leo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12408,6 +12408,15 @@
     "120363160523010575@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215634609976@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "▄︻デ𝖋𝖆𝖓𝖙𝖆𝖘𝖒𝖆══━一",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17713,6 +17722,15 @@
           "reason": ""
         },
         "584128951027@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215634609976@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -28768,6 +28786,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "175213341860050@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37202,7 +37229,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 114,
+      "botcommando": 116,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
