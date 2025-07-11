@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Enyel",
+      "name": "🌑💢~Dimitri~💢🌑",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10133,6 +10133,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584241887169@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ.~ U.UCherry",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "241626454716463@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "149504120610846@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215548975448@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ヮ⁠눈益⁠눈⁠ヮ눈❤️I Love \"J,C\"🥺",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13462,6 +13498,15 @@
           "reason": ""
         },
         "5493804670073@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215548975448@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -19351,6 +19396,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "149504120610846@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24039,11 +24093,11 @@
           "lastMonthly": 1752210588142
         },
         "56979553465@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 32429,
           "bank": 18672,
-          "exp": 2474,
-          "usedcommands": 28,
-          "level": 20,
+          "exp": 4839,
+          "usedcommands": 32,
+          "level": 26,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752211377418,
@@ -24052,7 +24106,12 @@
           "slutCooldown": 1752211384120,
           "pptCooldown": 1752211400044,
           "rtCooldown": 1752211427584,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "dailyStreak": 1,
+          "lastDaily": 1752211295621,
+          "nextReward": 36817,
+          "lastWeekly": 1752211303918,
+          "lastMonthly": 1752211314468
         },
         "593968273893@s.whatsapp.net": {
           "chocolates": 0,
@@ -26022,6 +26081,15 @@
           "personajesEnVenta": []
         },
         "56967244401@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584241887169@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -33213,6 +33281,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "241626454716463@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35048,7 +35125,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 308,
+      "botcommando": 312,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
