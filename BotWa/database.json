@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Valentina",
+      "name": "axcelgonzalez2007",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17089,7 +17089,7 @@
     "5215560598701@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꒰ ℳℯ𝓁𝒾  ⋆🐈‍⬛ིྀ ꒱",
+      "name": "꒰𝓁⋆🐈‍⬛ིྀ ꒱",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -30828,9 +30828,9 @@
         "393518509171@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 169,
-          "usedcommands": 3,
-          "level": 7,
+          "exp": 300,
+          "usedcommands": 5,
+          "level": 9,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -39912,8 +39912,8 @@
         "51902486766@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 260311,
-          "exp": 18621,
-          "usedcommands": 225,
+          "exp": 18626,
+          "usedcommands": 226,
           "level": 45,
           "banned": false,
           "reason": "",
@@ -39929,7 +39929,7 @@
           "personajesEnVenta": [],
           "lastWeekly": 1752248661709,
           "lastMonthly": 1752248667660,
-          "rwCooldown": 1752267676097,
+          "rwCooldown": 1752271409644,
           "buyCooldown": 1752267686784,
           "characters": [
             {
@@ -40163,6 +40163,15 @@
           "gender": "Hombre",
           "source": "Kono Subarashii Sekai ni Shukufuku wo!",
           "id": "9ad62f4c"
+        },
+        {
+          "userId": "51902486766@s.whatsapp.net",
+          "name": "Mawata Fuwa",
+          "url": "https://stellarwa.xyz/files/1750629650740.jpg",
+          "value": 22000,
+          "gender": "Mujer",
+          "source": "My Hero Academia",
+          "id": "a572bc00"
         }
       ]
     },
@@ -50470,6 +50479,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "393518509171@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -61859,6 +61877,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492974124262@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -61995,7 +62022,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363334865885162@newsletter": {
       "users": {
@@ -62752,7 +62780,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -62802,7 +62830,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 92,
+      "botcommando": 93,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -62872,7 +62900,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 2,
+      "botcommando": 3,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
