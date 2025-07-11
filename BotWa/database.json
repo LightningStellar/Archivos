@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🄷",
+      "name": "El Pepe",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17536,6 +17536,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "197530176479343@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -28634,10 +28643,10 @@
         },
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 52605,
-          "exp": 7587,
-          "usedcommands": 83,
-          "level": 31,
+          "bank": 42605,
+          "exp": 7881,
+          "usedcommands": 89,
+          "level": 32,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752263883847,
@@ -28652,7 +28661,7 @@
           "nextReward": 26007,
           "lastWeekly": 1752251814762,
           "lastMonthly": 1752251819001,
-          "buyCooldown": 1752260164293,
+          "buyCooldown": 1752263913833,
           "characters": [
             {
               "name": "Sakura Asakura",
@@ -28660,6 +28669,14 @@
               "value": 5000,
               "gender": "Mujer",
               "source": "Call of the Night",
+              "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Takeomi Akashi",
+              "url": "https://stellarwa.xyz/files/1749161860391.jpg",
+              "value": 10000,
+              "gender": "Hombre",
+              "source": "Tokyo Revengers",
               "claim": "viernes, 11 de julio de 2025"
             }
           ],
@@ -28670,8 +28687,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 91328,
-          "exp": 1414,
-          "usedcommands": 198,
+          "exp": 1628,
+          "usedcommands": 201,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -29005,15 +29022,6 @@
           "gender": "Mujer",
           "source": "Arifureta",
           "id": "1e48dc6d"
-        },
-        {
-          "userId": "573235511077@s.whatsapp.net",
-          "name": "Takeomi Akashi",
-          "url": "https://stellarwa.xyz/files/1749161860391.jpg",
-          "value": 10000,
-          "gender": "Hombre",
-          "source": "Tokyo Revengers",
-          "id": "83313bb7"
         }
       ]
     },
@@ -34806,20 +34814,20 @@
         },
         "51902486766@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 80705,
-          "exp": 11892,
-          "usedcommands": 108,
+          "bank": 156701,
+          "exp": 12284,
+          "usedcommands": 115,
           "level": 38,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752241457532,
           "nextReward": 23161,
-          "mineCooldown": 1752262633966,
-          "crimeCooldown": 1752262638884,
-          "pptCooldown": 1752262647795,
-          "workCooldown": 1752262642447,
-          "rtCooldown": 1752262656831,
+          "mineCooldown": 1752263642953,
+          "crimeCooldown": 1752263644945,
+          "pptCooldown": 1752263650682,
+          "workCooldown": 1752263646551,
+          "rtCooldown": 1752263660400,
           "slutCooldown": 1752262660166,
           "personajesEnVenta": [],
           "lastWeekly": 1752248661709,
@@ -49824,7 +49832,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401777562271@g.us": {
       "users": {
@@ -51445,6 +51454,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "197530176479343@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -53154,6 +53172,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "595994943779@s.whatsapp.net": {
+      "users": {
+        "595994943779@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -53189,7 +53231,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 55,
+      "botcommando": 56,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -53219,7 +53261,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 324,
+      "botcommando": 332,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -53359,7 +53401,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 469,
+      "botcommando": 475,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
@@ -53419,7 +53461,7 @@
     },
     "56971328562@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
