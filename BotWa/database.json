@@ -6794,6 +6794,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217774673405@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "lir🥀",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -10163,6 +10172,15 @@
           "personajesEnVenta": []
         },
         "34624081753@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5217774673405@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -14960,9 +14978,9 @@
         "50248151611@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 56697,
-          "exp": 6446,
-          "usedcommands": 33,
-          "level": 29,
+          "exp": 6524,
+          "usedcommands": 34,
+          "level": 30,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -22473,7 +22491,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 150,
+      "botcommando": 151,
       "prefix": "/",
       "namebot": "Seven707",
       "namebot2": "Seven707",
