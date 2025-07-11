@@ -25496,7 +25496,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363401327201933@g.us": {
       "users": {
@@ -31305,13 +31306,13 @@
       "users": {
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 74996,
-          "exp": 11613,
-          "usedcommands": 109,
+          "bank": 69996,
+          "exp": 11749,
+          "usedcommands": 112,
           "level": 37,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752211645304,
+          "rwCooldown": 1752212796245,
           "crimeCooldown": 1752211817642,
           "mineCooldown": 1752211819276,
           "workCooldown": 1752211820813,
@@ -31322,7 +31323,20 @@
           "nextReward": 44196,
           "lastWeekly": 1752204478340,
           "lastMonthly": 1752204480136,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "buyCooldown": 1752212808925,
+          "characters": [
+            {
+              "name": "Sakura",
+              "url": "https://stellarwa.xyz/files/1751835429676.jpg",
+              "value": 5000,
+              "gender": "Mujer",
+              "source": "Ijiranaide, Nagatoro-san",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
@@ -35486,6 +35500,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5214425613387@s.whatsapp.net": {
+      "users": {
+        "5216646952956@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -35711,7 +35749,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 190,
+      "botcommando": 193,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
