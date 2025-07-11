@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "࣪꒰🏴꒱   ᦈ k⊹іrᥲ  ─ ◌",
+      "name": "Maysi",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21073,7 +21073,7 @@
     "226233560367210@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "●○•",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21083,6 +21083,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "`🌾ೖ᩼𝐌̶̤͠𝐈𝐎/𝐒𝐇𝐔𝐍 ⪨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219875643595@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Mauri!/N",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -28511,6 +28520,15 @@
           "reason": ""
         },
         "393497459466@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34620229296@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -60672,7 +60690,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363397391549663@g.us": {
       "users": {
@@ -61843,6 +61862,15 @@
           "reason": ""
         },
         "33260696543274@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219875643595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -63718,9 +63746,9 @@
         "393518509171@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 333,
-          "usedcommands": 7,
-          "level": 8,
+          "exp": 379,
+          "usedcommands": 8,
+          "level": 9,
           "banned": false,
           "reason": ""
         }
@@ -64395,7 +64423,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 11,
+      "botcommando": 12,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
