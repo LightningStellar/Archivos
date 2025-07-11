@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Satan",
+      "name": "☭卍 † Daryel † 卍☭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11093,7 +11093,7 @@
     "5212211502391@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✨👑~Spartan 119~👑✨",
+      "name": "🌌👑~Spartan 119~👑🌌",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23517,7 +23517,7 @@
     "4471430066345@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Ni Idea",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -23527,6 +23527,69 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "🪽  ─ ╶ ¡  𝐅  !",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "280839673901195@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493704637383@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Juan",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214774988604@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ꩇׁׅ֪݊ ɑׁׅժׁׅ݊ժׁׅ݊ꪱׁׁׁׅׅׅꫀ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584127335332@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝔍.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "147017049370832@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "280242925109432@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51957202054@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "*",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -31579,6 +31642,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584127335332@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37123,21 +37195,21 @@
           "rtCooldown": 1752268402866
         },
         "59175015536@s.whatsapp.net": {
-          "chocolates": 3015,
-          "bank": 55633,
-          "exp": 2141,
-          "usedcommands": 34,
-          "level": 19,
+          "chocolates": 0,
+          "bank": 86518,
+          "exp": 2839,
+          "usedcommands": 44,
+          "level": 21,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752278597371,
           "personajesEnVenta": [],
           "crimeCooldown": 1752278308294,
           "mineCooldown": 1752278310267,
-          "workCooldown": 1752273399387,
-          "slutCooldown": 1752273394819,
-          "pptCooldown": 1752273411684,
-          "buyCooldown": 1752273706934,
+          "workCooldown": 1752278344853,
+          "slutCooldown": 1752278335306,
+          "pptCooldown": 1752278327985,
+          "buyCooldown": 1752278654166,
           "characters": [
             {
               "name": "Muichiro Tokito",
@@ -37146,10 +37218,21 @@
               "gender": "Hombre",
               "source": "Kimetsu no Yaiba",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Loid Forger",
+              "url": "https://stellarwa.xyz/files/1748908248450.jpg",
+              "value": 6000,
+              "gender": "Hombre",
+              "source": "Spy X Family",
+              "claim": "viernes, 11 de julio de 2025"
             }
           ],
           "characterCount": null,
-          "totalRwcoins": null
+          "totalRwcoins": null,
+          "dailyStreak": 1,
+          "lastDaily": 1752277759994,
+          "nextReward": 36174
         },
         "50768646227@s.whatsapp.net": {
           "chocolates": 0,
@@ -37476,15 +37559,6 @@
           "gender": "Mujer",
           "source": "Hunter x Hunter",
           "id": "8e43f1ec"
-        },
-        {
-          "userId": "59175015536@s.whatsapp.net",
-          "name": "Loid Forger",
-          "url": "https://stellarwa.xyz/files/1748908248450.jpg",
-          "value": 6000,
-          "gender": "Hombre",
-          "source": "Spy X Family",
-          "id": "7ea0d371"
         }
       ]
     },
@@ -39091,6 +39165,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51957202054@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41738,6 +41821,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "147017049370832@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -52465,6 +52557,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493704637383@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -53624,6 +53725,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573224401800@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -56614,6 +56724,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "280839673901195@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -59167,6 +59286,15 @@
           "personajesEnVenta": []
         },
         "59176824575@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59178747769@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -71192,6 +71320,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5214774988604@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -72088,6 +72225,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363404405755078@g.us": {
+      "users": {
+        "280242925109432@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -72153,7 +72314,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 482,
+      "botcommando": 490,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -72213,7 +72374,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 388,
+      "botcommando": 390,
       "prefix": "#",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
