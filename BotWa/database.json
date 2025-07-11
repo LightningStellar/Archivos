@@ -592,7 +592,7 @@
     "50369792152@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ«ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ§ ÃÂÃÂ£ÃÂÃÂÃÂÃÂ",
+      "name": "𝐁𝐫𝐚𝐧𝐝𝐨𝐧 ツ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10940,6 +10940,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5216567455621@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ʚ◦⊱✦𝐀́𝐍𝐆𝐄𝐋✦⊰◦ɞ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56954654873@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "O'brien / • ᴗ •",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491153249849@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~ 𝕾𝓂𝒾𝓁𝑒𝓎 𝒹𝑜 ~♧",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13880,6 +13907,15 @@
           "reason": ""
         },
         "51986870956@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56954654873@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -32608,8 +32644,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 81490,
-          "exp": 14698,
-          "usedcommands": 174,
+          "exp": 14816,
+          "usedcommands": 177,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -32643,13 +32679,13 @@
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 4420,
-          "usedcommands": 65,
-          "level": 25,
+          "exp": 4540,
+          "usedcommands": 67,
+          "level": 26,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "rwCooldown": 1752215394819,
+          "rwCooldown": 1752216423135,
           "crimeCooldown": 1752214978800,
           "mineCooldown": 1752214980682,
           "workCooldown": 1752214982115,
@@ -32722,8 +32758,8 @@
         "59175015536@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 53725,
-          "exp": 7494,
-          "usedcommands": 69,
+          "exp": 7528,
+          "usedcommands": 70,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -32738,7 +32774,7 @@
           "workCooldown": 1752213384002,
           "slutCooldown": 1752213386317,
           "pptCooldown": 1752213389942,
-          "rwCooldown": 1752215061304,
+          "rwCooldown": 1752216378112,
           "buyCooldown": 1752213694862,
           "characters": [
             {
@@ -32956,6 +32992,24 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "cbd54502"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Toppo",
+          "url": "https://stellarwa.xyz/files/1748737567230.jpg",
+          "value": 1200,
+          "gender": "Hombre",
+          "source": "Dragon Ball ",
+          "id": "da60c4cc"
+        },
+        {
+          "userId": "5215522567568@s.whatsapp.net",
+          "name": "Rio Nakamura",
+          "url": "https://stellarwa.xyz/files/1749383505732.jpg",
+          "value": 4000,
+          "gender": "Mujer",
+          "source": "Assassination Classroom",
+          "id": "d2d3dfd4"
         }
       ]
     },
@@ -36426,6 +36480,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491153249849@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37449,6 +37512,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5216567455621@s.whatsapp.net": {
+      "users": {
+        "5216567455621@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -37524,7 +37612,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 13,
+      "botcommando": 14,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37544,7 +37632,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 125,
+      "botcommando": 126,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37674,7 +37762,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 341,
+      "botcommando": 345,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
