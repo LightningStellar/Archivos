@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
+      "name": "CalebCEIC (Editor novato)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10743,6 +10743,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493814623075@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "『 𝘽𝘼𝘾𝙃𝙄𝙍𝘼 ・ 潔世一 』",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11086,6 +11095,15 @@
           "personajesEnVenta": []
         },
         "5493853126407@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493814623075@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -37098,7 +37116,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 255,
+      "botcommando": 256,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
