@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "❛⿻۬˖̥𖦹 ͭ;ΛＭΞＬᏐΛ♡⃕ ᨳˎˊ˗",
+      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11585,6 +11585,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "55675879182352@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18584,9 +18593,9 @@
         "5216646952956@s.whatsapp.net": {
           "chocolates": 905395,
           "bank": 0,
-          "exp": 6412,
-          "usedcommands": 55,
-          "level": 29,
+          "exp": 6507,
+          "usedcommands": 56,
+          "level": 30,
           "banned": false,
           "reason": "",
           "buyCooldown": 0,
@@ -20863,6 +20872,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "55675879182352@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39703,7 +39721,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 70,
+      "botcommando": 71,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
