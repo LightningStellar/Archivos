@@ -1659,7 +1659,7 @@
     "593968837375@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "à°½Â á·¼à·¨ð¦ ââ®âµ¿â§×â¥êâ²©â² êâ²â²â³â²Ìâ²",
+      "name": "ఽ ᷼෨🦊 ❚▮⵿⃧ׄ❥ꓓⲩⲛ ꓓⲅⲇⳋⲟ́ⲛ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12060,6 +12060,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "215775029780580@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "82497748623611@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19487,8 +19505,8 @@
         "5219371465815@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 96551,
-          "exp": 16592,
-          "usedcommands": 162,
+          "exp": 16628,
+          "usedcommands": 163,
           "level": 43,
           "banned": false,
           "reason": "",
@@ -27036,15 +27054,15 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": false,
+      "welcome": true,
       "nsfw": false,
-      "alerts": false,
+      "alerts": true,
       "gacha": true,
       "rpg": true,
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": true,
+      "bannedGrupo": false,
       "expired": 0
     },
     "120363399137672563@g.us": {
@@ -35360,6 +35378,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "215775029780580@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36503,6 +36530,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493812074317@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39072,6 +39108,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "82497748623611@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41909,6 +41954,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5216422302773@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -42776,7 +42830,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 129,
+      "botcommando": 131,
       "prefix": "#",
       "namebot": "Aashii Kedarui",
       "namebot2": "Aashii Kedarui",
