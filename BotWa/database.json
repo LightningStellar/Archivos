@@ -10904,6 +10904,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51905472665@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23989,6 +23998,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51905472665@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32613,10 +32631,10 @@
           ]
         },
         "573235511077@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 43367,
-          "exp": 7713,
-          "usedcommands": 74,
+          "chocolates": 20640,
+          "bank": 22727,
+          "exp": 7881,
+          "usedcommands": 78,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -32632,7 +32650,17 @@
           "lastMonthly": 1752205422205,
           "personajesEnVenta": [],
           "rwCooldown": 1752215346172,
-          "buyCooldown": 0
+          "buyCooldown": 1752216175152,
+          "characters": [
+            {
+              "name": "L Lawliet",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png",
+              "value": 20640,
+              "gender": "Hombre",
+              "source": "Death Note",
+              "claim": "viernes, 11 de julio de 2025"
+            }
+          ]
         },
         "5215565270181@s.whatsapp.net": {
           "chocolates": 0,
@@ -32882,15 +32910,6 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "cbd54502"
-        },
-        {
-          "userId": "50236933411@s.whatsapp.net",
-          "name": "L Lawliet",
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71-1W4panC53vfs.png",
-          "value": 20640,
-          "gender": "Hombre",
-          "source": "Death Note",
-          "id": "cd1dd582"
         }
       ]
     },
@@ -37341,6 +37360,40 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363338221639119@g.us": {
+      "users": {
+        "50253453910@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50248151611@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -37356,7 +37409,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": true,
-      "botcommando": 86,
+      "botcommando": 88,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -37566,7 +37619,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 331,
+      "botcommando": 333,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
