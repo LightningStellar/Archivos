@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Sig&∆¶[",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13731,6 +13731,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "233096867745793@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34631225493@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🦇",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -22079,6 +22097,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34631225493@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22342,10 +22369,10 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 1045,
-          "bank": 3200000,
-          "exp": 14,
-          "usedcommands": 78,
+          "chocolates": 0,
+          "bank": 3201045,
+          "exp": 31,
+          "usedcommands": 79,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -23039,6 +23066,15 @@
           "personajesEnVenta": []
         },
         "280899484663821@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "233096867745793@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -41214,7 +41250,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 168,
+      "botcommando": 169,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
