@@ -33386,11 +33386,12 @@
         "5492645113806@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 651,
-          "usedcommands": 11,
-          "level": 12,
+          "exp": 753,
+          "usedcommands": 13,
+          "level": 13,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "reportime": 1752226666226
         }
       },
       "sWelcome": "",
@@ -41200,7 +41201,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 37,
+      "botcommando": 39,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
