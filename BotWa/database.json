@@ -1213,6 +1213,15 @@
     "234071942766844@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "Luis Villa",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363368569394248@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
       "genre": "",
       "birth": "",
@@ -2563,6 +2572,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363368569394248@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
