@@ -362,7 +362,7 @@
     "35429587939518@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "┋⊹˚░꙰🍪ᮬᩚ⌗𝓒𝗈𝗈𝗄𝗂𝖾˚∘•",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -372,6 +372,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "⁶𖤐⁶ㅤϝⲉіІⲉꬼⲥіͲⲟㅤ一緒",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "18097216265@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝕶𝖆𝖓𝖊𝖟𝖉",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1315,16 +1324,17 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363418806951557@g.us": {
       "users": {
         "5492324347631@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 117,
-          "usedcommands": 4,
-          "level": 4,
+          "exp": 270,
+          "usedcommands": 6,
+          "level": 7,
           "banned": false,
           "reason": ""
         },
@@ -1363,6 +1373,30 @@
     "120363368569394248@g.us": {
       "users": {
         "5493888449399@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363406404268092@g.us": {
+      "users": {
+        "18097216265@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -1548,7 +1582,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 3,
+      "botcommando": 5,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
