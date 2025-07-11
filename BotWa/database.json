@@ -13411,6 +13411,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5355299080@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Rachel Gardner",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19196,11 +19205,11 @@
           "personajesEnVenta": []
         },
         "5493874851534@s.whatsapp.net": {
-          "chocolates": 15013,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 159,
-          "usedcommands": 5,
-          "level": 7,
+          "exp": 388,
+          "usedcommands": 10,
+          "level": 10,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -19209,7 +19218,10 @@
           "workCooldown": 1752197089413,
           "crimeCooldown": 1752197096224,
           "mineCooldown": 1752197101622,
-          "rwCooldown": 1752197413516
+          "rwCooldown": 1752197413516,
+          "buyCooldown": 0,
+          "characters": [],
+          "rtCooldown": 1752197167940
         }
       },
       "sWelcome": "",
@@ -44071,6 +44083,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5355299080@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47097,7 +47118,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "51970483406@s.whatsapp.net": {
       "users": {
@@ -47211,7 +47233,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 1032,
+      "botcommando": 1035,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "Hatsune",
@@ -47231,7 +47253,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": true,
-      "botcommando": 113,
+      "botcommando": 115,
       "prefix": "-",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
