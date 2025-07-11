@@ -11379,6 +11379,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34641959229@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Rɪᴢᴢʟʏ 🂱",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -29515,6 +29524,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "34641959229@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38949,7 +38967,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 141,
+      "botcommando": 143,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
