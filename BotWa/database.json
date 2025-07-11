@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3113,6 +3113,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5511998790420@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+55 11 99879-0420",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573018245770@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "3 3 3",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3510,10 +3528,10 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 4551,
+          "chocolates": 9366,
           "bank": 0,
-          "exp": 894,
-          "usedcommands": 17,
+          "exp": 952,
+          "usedcommands": 18,
           "level": 13,
           "banned": false,
           "reason": "",
@@ -3534,7 +3552,7 @@
           ],
           "personajesEnVenta": [],
           "workCooldown": 1752241392073,
-          "mineCooldown": 1752238674403,
+          "mineCooldown": 1752241460514,
           "crimeCooldown": 1752238677804,
           "characterCount": null,
           "totalRwcoins": null,
@@ -6903,6 +6921,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573018245770@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8575,6 +8602,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5511998790420@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -8700,11 +8736,11 @@
           "personajesEnVenta": []
         },
         "593968273893@s.whatsapp.net": {
-          "chocolates": 500,
+          "chocolates": 0,
           "bank": 50575,
-          "exp": 2572,
-          "usedcommands": 29,
-          "level": 20,
+          "exp": 2741,
+          "usedcommands": 32,
+          "level": 21,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -10922,7 +10958,7 @@
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 28,
+      "botcommando": 29,
       "prefix": "/",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -11122,7 +11158,7 @@
     },
     "50248151611@s.whatsapp.net": {
       "self": false,
-      "botcommando": 57,
+      "botcommando": 60,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
