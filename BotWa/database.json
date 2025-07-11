@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ユリディア・サンチェス",
+      "name": "Sarmiento Amao",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3391,6 +3391,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51902486766@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "M I L L E R 💭",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "77606233891020@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -3791,11 +3809,11 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 1963,
+          "chocolates": 3304,
           "bank": 0,
-          "exp": 1146,
-          "usedcommands": 22,
-          "level": 14,
+          "exp": 1296,
+          "usedcommands": 25,
+          "level": 15,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752235031381,
@@ -3814,7 +3832,7 @@
             }
           ],
           "personajesEnVenta": [],
-          "workCooldown": 1752241392073,
+          "workCooldown": 1752242009110,
           "mineCooldown": 1752241460514,
           "crimeCooldown": 1752242001052,
           "characterCount": null,
@@ -3867,9 +3885,26 @@
           "bank": 0,
           "exp": 68,
           "usedcommands": 1,
-          "level": 0,
+          "level": 5,
           "banned": false,
           "reason": ""
+        },
+        "5511998790420@s.whatsapp.net": {
+          "chocolates": 10533,
+          "bank": 0,
+          "exp": 4240,
+          "usedcommands": 6,
+          "level": 25,
+          "banned": false,
+          "reason": "",
+          "workCooldown": 1752242009757,
+          "mineCooldown": 1752242011691,
+          "dailyStreak": 1,
+          "lastDaily": 1752241423751,
+          "nextReward": 39299,
+          "pptCooldown": 1752242030453,
+          "lastWeekly": 1752241449602,
+          "lastMonthly": 1752241457043
         }
       },
       "sWelcome": "",
@@ -5172,8 +5207,8 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 80372,
           "bank": 0,
-          "exp": 4715,
-          "usedcommands": 41,
+          "exp": 4768,
+          "usedcommands": 42,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -5215,14 +5250,22 @@
           "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 529560,
           "bank": 0,
-          "exp": 35,
-          "usedcommands": 1,
-          "level": 3,
+          "exp": 1420,
+          "usedcommands": 9,
+          "level": 16,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "dailyStreak": 1,
+          "lastDaily": 1752241414114,
+          "nextReward": 3341,
+          "workCooldown": 1752242018427,
+          "mineCooldown": 1752242022081,
+          "lastMonthly": 1752241427053,
+          "lastWeekly": 1752241432121,
+          "rtCooldown": 1752242054401
         },
         "573143237521@s.whatsapp.net": {
           "chocolates": 0,
@@ -5270,6 +5313,15 @@
           "lastWeekly": 1752241365485,
           "lastMonthly": 1752241371986,
           "pptCooldown": 1752241976202
+        },
+        "59176722714@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 150,
+          "usedcommands": 2,
+          "level": 6,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -6945,6 +6997,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "77606233891020@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -9274,6 +9335,20 @@
           "pptCooldown": 1752240405842,
           "rtCooldown": 1752240415810,
           "personajesEnVenta": []
+        },
+        "51902486766@s.whatsapp.net": {
+          "chocolates": 31005,
+          "bank": 0,
+          "exp": 139,
+          "usedcommands": 3,
+          "level": 6,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752241457532,
+          "nextReward": 23161,
+          "mineCooldown": 1752242061449,
+          "crimeCooldown": 1752242063768
         }
       },
       "sWelcome": "",
@@ -9977,6 +10052,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51902486766@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -11930,7 +12014,7 @@
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 34,
+      "botcommando": 44,
       "prefix": "/",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -11980,7 +12064,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 63,
+      "botcommando": 74,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -12050,7 +12134,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 9,
+      "botcommando": 11,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -12110,7 +12194,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 2,
+      "botcommando": 3,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
