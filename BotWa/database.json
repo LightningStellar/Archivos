@@ -46,7 +46,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "CalebCEIC (Editor novato)",
+      "name": "🌑",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1414,7 +1414,7 @@
     "5214492902103@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂÃÂ£ÃÂÃÂÃÂÃÂ¤ÃÂÃÂ£ÃÂÃÂÃÂÃÂ¤     ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¬ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ. ÃÂÃÂ£ÃÂÃÂÃÂÃÂ¤ÃÂÃÂ£ÃÂÃÂÃÂÃÂ¤",
+      "name": "ㅤㅤ     𝐒𝕬𝐓𝐎𝐑𝐔. ㅤㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10769,6 +10769,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491131451791@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Sant :v",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12926,6 +12935,15 @@
           "reason": ""
         },
         "50768048320@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491131451791@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -32263,12 +32281,12 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 81490,
-          "exp": 13141,
-          "usedcommands": 138,
+          "exp": 13230,
+          "usedcommands": 139,
           "level": 39,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752213703106,
+          "rwCooldown": 1752215165906,
           "crimeCooldown": 1752213513659,
           "mineCooldown": 1752213516069,
           "workCooldown": 1752213517676,
@@ -32568,6 +32586,15 @@
           "gender": "Mujer",
           "source": "Death Note",
           "id": "ead8fad7"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Zeldris",
+          "url": "https://stellarwa.xyz/files/1749350004582.jpg",
+          "value": 50000,
+          "gender": "Hombre",
+          "source": "Los Siete Pecados Capitales",
+          "id": "917d4fd1"
         }
       ]
     },
@@ -37175,7 +37202,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 257,
+      "botcommando": 258,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
