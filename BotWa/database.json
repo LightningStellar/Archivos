@@ -9576,7 +9576,7 @@
     "573134329882@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ado",
+      "name": "Andrés 👺👹",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12281,6 +12281,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Yonyyagus",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212691587712@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Rachid Ayt Malek",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -19835,6 +19844,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "212691587712@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37413,7 +37431,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "51934346819@s.whatsapp.net": {
       "users": {
