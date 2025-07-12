@@ -22192,7 +22192,7 @@
     "67779365494918@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "★マリジョ★",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -22201,7 +22201,7 @@
     "39935025389711@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Angel Sanchez",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -22220,6 +22220,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Dann",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491124792768@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "† ⋮⋮ 𝑫e͟v͟o͟𝐧 ★ scem0🦇",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216141200934@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "P",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "116467215409224@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -28702,6 +28729,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491124792768@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32630,8 +32666,8 @@
         "51931535416@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 139,
-          "usedcommands": 3,
+          "exp": 209,
+          "usedcommands": 4,
           "level": 6,
           "banned": false,
           "reason": "",
@@ -39379,6 +39415,15 @@
           "lastDaily": 1752287255769,
           "nextReward": 5842,
           "personajesEnVenta": []
+        },
+        "5217851059776@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 57,
+          "usedcommands": 1,
+          "level": 4,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40774,6 +40819,15 @@
           "reason": ""
         },
         "5217851059776@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216141200934@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -42328,9 +42382,9 @@
         "5492974124262@s.whatsapp.net": {
           "chocolates": 3532,
           "bank": 3043,
-          "exp": 1960,
-          "usedcommands": 31,
-          "level": 18,
+          "exp": 2010,
+          "usedcommands": 32,
+          "level": 19,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -42504,9 +42558,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 44651,
-          "exp": 1327,
-          "usedcommands": 22,
-          "level": 16,
+          "exp": 1524,
+          "usedcommands": 25,
+          "level": 17,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -48027,6 +48081,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "116467215409224@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -68526,7 +68589,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 41,
+      "botcommando": 42,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -68596,7 +68659,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 237,
+      "botcommando": 238,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -68626,7 +68689,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 54,
+      "botcommando": 55,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
@@ -68656,7 +68719,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 72,
+      "botcommando": 73,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -68776,7 +68839,7 @@
     },
     "5214621173511@s.whatsapp.net": {
       "self": false,
-      "botcommando": 14,
+      "botcommando": 16,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
