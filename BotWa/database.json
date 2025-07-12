@@ -11076,6 +11076,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573122187732@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Sam",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491176203686@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Facu",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16003,6 +16021,15 @@
           "personajesEnVenta": []
         },
         "5212212565982@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573122187732@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -35792,6 +35819,31 @@
     "120363285466087560@g.us": {
       "users": {
         "5493878276612@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "5491176203686@s.whatsapp.net": {
+      "users": {
+        "5491176203686@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
