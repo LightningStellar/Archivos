@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ʚ◦⊱✦𝐀́𝐍𝐆𝐄𝐋✦⊰◦ɞ",
+      "name": "javiersoria",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11216,6 +11216,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "†",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "7447825670280@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -35155,6 +35164,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "7447825670280@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36185,7 +36203,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
