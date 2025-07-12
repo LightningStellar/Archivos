@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "🇫🇮Alex🇫🇮",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10301,7 +10301,7 @@
     "129059858198619@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "SG_ANDRES_SG",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10320,6 +10320,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "🇫🇮Alex🇫🇮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "231790828646402@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363366594063502@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -33251,6 +33269,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "231790828646402@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33831,6 +33858,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363366594063502@g.us": {
+      "users": {
+        "120363366594063502@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
