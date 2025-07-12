@@ -10543,7 +10543,7 @@
     "50497145389@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+504 9714-5389",
+      "name": "-Carolina-",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14289,7 +14289,7 @@
     "51972754151@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "BOT-MD🤖",
+      "name": "+51 972 754 151",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20812,6 +20812,51 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "169720078708801@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51915201341@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 915 201 341",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5217472580361@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 747 258 0361",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56958379128@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Any",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59171586143@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+591 71586143",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -24121,6 +24166,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215660242865@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25257,6 +25311,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59171586143@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -44556,6 +44619,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59891261274@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -49117,8 +49189,8 @@
         "573058340821@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 1,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
           "reason": "",
@@ -61416,6 +61488,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51915201341@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5217472580361@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -62563,6 +62653,15 @@
           "personajesEnVenta": []
         },
         "105364758474987@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "169720078708801@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -64243,6 +64342,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363416535737477@g.us": {
+      "users": {
+        "56958379128@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -64308,7 +64432,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 139,
+      "botcommando": 142,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
