@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ʞ⃫Ｃ",
+      "name": "Jun",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11815,6 +11815,15 @@
     "120363317213148300@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51923017005@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Wiwi original ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -25067,10 +25076,10 @@
           "personajesEnVenta": []
         },
         "5493874851534@s.whatsapp.net": {
-          "chocolates": 7532,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 2709,
-          "usedcommands": 11,
+          "exp": 2751,
+          "usedcommands": 12,
           "level": 21,
           "banned": false,
           "reason": "",
@@ -25082,7 +25091,8 @@
           "nextReward": 10948,
           "mineCooldown": 1752307109824,
           "crimeCooldown": 1752307112254,
-          "workCooldown": 1752307114213
+          "workCooldown": 1752307114213,
+          "rtCooldown": 1752307127763
         },
         "51987041650@s.whatsapp.net": {
           "chocolates": 23975,
@@ -37325,6 +37335,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51923017005@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37995,7 +38014,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 30,
+      "botcommando": 31,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
