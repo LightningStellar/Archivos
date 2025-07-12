@@ -37421,11 +37421,12 @@
         "5218132536193@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 95,
-          "usedcommands": 3,
+          "exp": 169,
+          "usedcommands": 4,
           "level": 5,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "Subs": 1752307113946
         }
       },
       "sWelcome": "",
@@ -38169,7 +38170,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 75,
+      "botcommando": 76,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
