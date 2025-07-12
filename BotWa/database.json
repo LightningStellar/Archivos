@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "_*💕 ⃞? Kafuteku*",
+      "name": "Kerwie Castillo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13092,7 +13092,7 @@
     "229252721025101@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Kerwie Castillo",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27277,18 +27277,21 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 3740,
+          "chocolates": 6255,
           "bank": 0,
-          "exp": 207,
-          "usedcommands": 3,
-          "level": 7,
+          "exp": 390,
+          "usedcommands": 7,
+          "level": 10,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752317298397,
           "nextReward": 48285,
           "rtCooldown": 1752317925008,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "workCooldown": 1752321692484,
+          "mineCooldown": 1752321696218,
+          "crimeCooldown": 1752321699700
         }
       },
       "sWelcome": "",
@@ -42235,6 +42238,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363397391549663@g.us": {
+      "users": {
+        "50687717451@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -42320,7 +42347,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 28,
+      "botcommando": 29,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -42390,7 +42417,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 25,
+      "botcommando": 26,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -42480,7 +42507,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 30,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -42500,7 +42527,7 @@
     },
     "5214621173511@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
