@@ -11040,6 +11040,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573136240880@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Vrnt.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218444554218@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ale💜",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5214461518134@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✮⭑ ׂ𝓣𝓘𝓐𝓡* ⭑ ׂ✮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13114,6 +13141,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5214461518134@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14872,6 +14908,15 @@
           "reason": ""
         },
         "5215524958486@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573136240880@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -23737,6 +23782,18 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5218444554218@s.whatsapp.net": {
+          "chocolates": 24387,
+          "bank": 0,
+          "exp": 134,
+          "usedcommands": 2,
+          "level": 6,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752302011717,
+          "nextReward": 34698
         }
       },
       "sWelcome": "",
@@ -35808,7 +35865,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 27,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -35838,7 +35895,7 @@
     },
     "573126958667@s.whatsapp.net": {
       "self": false,
-      "botcommando": 15,
+      "botcommando": 16,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
