@@ -228,7 +228,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⏤͟͟͞͞с̶к̶в̶и̶г̶л̶у̶┆⛓️‍💥",
+      "name": "Amy <3",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27025,6 +27025,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "126066433777869@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -35879,6 +35888,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "126066433777869@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41574,12 +41592,12 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 55034,
-          "exp": 8864,
-          "usedcommands": 116,
+          "exp": 8901,
+          "usedcommands": 117,
           "level": 34,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752282315494,
+          "rwCooldown": 1752285390445,
           "personajesEnVenta": [],
           "crimeCooldown": 1752282081373,
           "mineCooldown": 1752282102789,
@@ -41625,8 +41643,8 @@
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 106109,
-          "exp": 6394,
-          "usedcommands": 291,
+          "exp": 6415,
+          "usedcommands": 292,
           "level": 41,
           "banned": false,
           "reason": "",
@@ -75652,7 +75670,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363306461452219@g.us": {
       "users": {
@@ -81727,6 +81746,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -82319,6 +82347,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215618700947@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -82381,13 +82418,48 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363402506753138@g.us": {
+      "users": {
+        "79122474791021@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 141,
+      "botcommando": 142,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -82447,7 +82519,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 532,
+      "botcommando": 533,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
