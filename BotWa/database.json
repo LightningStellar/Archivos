@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "JD 💧",
+      "name": "David Herrera",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10624,7 +10624,7 @@
     "5354162644@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+53 5 4162644",
+      "name": "𝘼𝙣𝙣𝙞𝙚𝙧🕸️🕷️",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14206,6 +14206,32 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56949489836@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "....",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50498525983@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Cargando...",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363351082374845@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16861,6 +16887,15 @@
           "reason": ""
         },
         "5491140849256@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56949489836@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -19624,6 +19659,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50498525983@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28284,9 +28328,9 @@
         "5492914407013@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 133,
+          "usedcommands": 2,
+          "level": 6,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -36176,6 +36220,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "595991181792@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36188,7 +36241,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420475920224@g.us": {
       "users": {
@@ -45686,6 +45740,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363351082374845@newsletter": {
+      "users": {
+        "120363351082374845@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -45741,7 +45820,7 @@
     },
     "5219631828631@s.whatsapp.net": {
       "self": false,
-      "botcommando": 12,
+      "botcommando": 15,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -45771,7 +45850,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 133,
+      "botcommando": 135,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
