@@ -13358,6 +13358,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "24155047088294@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -25580,6 +25589,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "24155047088294@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38849,9 +38867,9 @@
         "5212331515986@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 65,
-          "usedcommands": 3,
-          "level": 5,
+          "exp": 111,
+          "usedcommands": 4,
+          "level": 6,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -43325,7 +43343,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 36,
+      "botcommando": 39,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -43465,7 +43483,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 48,
+      "botcommando": 49,
       "prefix": "#+/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
