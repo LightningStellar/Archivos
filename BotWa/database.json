@@ -12724,6 +12724,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219518461476@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 951 846 1476",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -26624,6 +26633,15 @@
           "exp": 102,
           "usedcommands": 3,
           "level": 6,
+          "banned": false,
+          "reason": ""
+        },
+        "5219518461476@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
