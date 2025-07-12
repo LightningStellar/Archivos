@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": ".𝑌⃟𝑈𝑁𝐴𝐻┆⊹܀🦊⚋",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13475,6 +13475,24 @@
       "description": ""
     },
     "7053007392769@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "‎",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493815566528@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 381 556-6528",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "239882681225263@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -36848,6 +36866,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493815566528@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37505,6 +37532,15 @@
           "personajesEnVenta": []
         },
         "236438016807078@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "239882681225263@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -42951,7 +42987,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "212771579728@s.whatsapp.net": {
       "users": {
