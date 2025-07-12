@@ -228,7 +228,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14772,7 +14772,7 @@
     "5215660242865@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 56 6024 2865",
+      "name": "🪼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -26047,6 +26047,42 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "♨️᱘ㅤֹㅤ𝔒ֺ𝗿թִ𝗵𝗲υֺδㅤִㅤ꣡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "35266161049845@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56955358609@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Sebastian Carmona",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "210767433437436@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "167783518212179@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -39964,6 +40000,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "167783518212179@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41382,6 +41427,15 @@
           "personajesEnVenta": []
         },
         "39136262119666@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "210767433437436@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -52083,6 +52137,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584127570056@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 77,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -52594,10 +52657,10 @@
           "totalRwcoins": null
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 751147,
+          "chocolates": 741532,
           "bank": 0,
-          "exp": 6503,
-          "usedcommands": 69,
+          "exp": 6635,
+          "usedcommands": 71,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -52609,8 +52672,8 @@
           "lastWeekly": 1752242887203,
           "lastMonthly": 1752242893122,
           "pptCooldown": 1752266347788,
-          "rwCooldown": 1752275159628,
-          "buyCooldown": 1752275164489,
+          "rwCooldown": 1752283598151,
+          "buyCooldown": 1752283601502,
           "characters": [
             {
               "name": "Setanta",
@@ -52699,6 +52762,14 @@
               "gender": "Mujer",
               "source": "Solo Leveling",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Quark",
+              "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205584-q2PkKhVgz3O0.png",
+              "value": 9615,
+              "gender": "Hombre",
+              "source": "Re:Zero",
+              "claim": "sábado, 12 de julio de 2025"
             }
           ],
           "characterCount": null,
@@ -53275,7 +53346,7 @@
           "bank": 0,
           "exp": 31,
           "usedcommands": 1,
-          "level": 2,
+          "level": 3,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -57093,10 +57164,10 @@
           "mineCooldown": 1752258421043
         },
         "5213310224249@s.whatsapp.net": {
-          "chocolates": 75782049,
+          "chocolates": 55782049,
           "bank": 0,
-          "exp": 7941,
-          "usedcommands": 80,
+          "exp": 8105,
+          "usedcommands": 82,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -57141,7 +57212,7 @@
           "totalRwcoins": null
         },
         "5219932092138@s.whatsapp.net": {
-          "chocolates": 23330,
+          "chocolates": 20023330,
           "bank": 0,
           "exp": 1088,
           "usedcommands": 22,
@@ -57160,19 +57231,28 @@
           "buyCooldown": 0
         },
         "573103563906@s.whatsapp.net": {
-          "chocolates": 10575175,
+          "chocolates": 10565175,
           "bank": 0,
-          "exp": 5915,
-          "usedcommands": 109,
+          "exp": 6041,
+          "usedcommands": 112,
           "level": 29,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752254886666,
           "workCooldown": 1752254889884,
           "rtCooldown": 1752283133471,
-          "rwCooldown": 1752278926607,
-          "buyCooldown": 1752256569450,
-          "characters": [],
+          "rwCooldown": 1752283600945,
+          "buyCooldown": 1752283606320,
+          "characters": [
+            {
+              "name": "Ryosuke Kira",
+              "url": "https://stellarwa.xyz/files/1749072070755.jpg",
+              "value": 10000,
+              "gender": "Hombre",
+              "source": "Blue Lock",
+              "claim": "sábado, 12 de julio de 2025"
+            }
+          ],
           "personajesEnVenta": [
             {
               "name": "Meliodas",
@@ -57188,7 +57268,9 @@
           ],
           "dailyStreak": 1,
           "lastDaily": 1752257830610,
-          "nextReward": 38443
+          "nextReward": 38443,
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5216141200934@s.whatsapp.net": {
           "chocolates": 17239,
@@ -66364,6 +66446,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "35266161049845@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -74904,6 +74995,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56955358609@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -79656,7 +79756,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 410,
+      "botcommando": 412,
       "prefix": "#/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -79676,7 +79776,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 373,
+      "botcommando": 376,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -79716,7 +79816,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 84,
+      "botcommando": 86,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -79746,7 +79846,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 109,
+      "botcommando": 110,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
