@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "1ssy",
+      "name": "Angel Sanchez",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -22135,6 +22135,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "92556562055199@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5217471498846@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤᅟᅟʿ 𝙾𝙷.ㅤ  ㅤׂㅤㅤ  𝓒𝘰𝘳𝘢𝘭𝘴ㅤㅤ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -28116,6 +28134,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5217471498846@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32505,8 +32532,8 @@
         "51931535416@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 61,
-          "usedcommands": 1,
+          "exp": 126,
+          "usedcommands": 2,
           "level": 4,
           "banned": false,
           "reason": "",
@@ -39083,6 +39110,15 @@
           "personajesEnVenta": []
         },
         "129365052543172@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "92556562055199@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -54363,6 +54399,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "92556562055199@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -68419,7 +68464,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 53,
+      "botcommando": 54,
       "prefix": "/#.",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
