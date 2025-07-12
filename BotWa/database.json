@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ｓｏｏ-Ｙｏｕｎｇᰔᩚˢ 𝐺. 𝐿.",
+      "name": "عبد المنعم مكروم",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17850,6 +17850,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "447466948610@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "daqw”",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -29470,17 +29479,17 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 10936,
           "bank": 0,
-          "exp": 6826,
-          "usedcommands": 44,
+          "exp": 6926,
+          "usedcommands": 47,
           "level": 30,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "crimeCooldown": 1752328652937,
-          "mineCooldown": 1752328655336,
-          "workCooldown": 1752328657112,
+          "crimeCooldown": 1752335974449,
+          "mineCooldown": 1752335978271,
+          "workCooldown": 1752335979910,
           "slutCooldown": 1752328659465,
           "lastWeekly": 1752328062919,
           "lastMonthly": 1752328067129,
@@ -55099,6 +55108,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "447466948610@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -56224,7 +56242,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 120,
+      "botcommando": 124,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
