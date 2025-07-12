@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~🪷",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13263,7 +13263,7 @@
     "201283726229561@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "~🪷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -42627,6 +42627,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "393518509171@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -42639,7 +42648,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363404299101195@g.us": {
       "users": {
