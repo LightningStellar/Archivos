@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Vinotinto🍷",
+      "name": "i.amdev.angel.xyz.li",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12811,6 +12811,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212770903154@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+212 770-903154",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "53528680755283@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20581,6 +20599,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "212770903154@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24017,6 +24044,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "53528680755283@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
