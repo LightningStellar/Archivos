@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "˖ ֹ੭ ୧  𝐌ary   ⊹ ࣪ ⑅",
+      "name": "⪦ㅤ𝖭ֵ⍺ꭇ𝗎łֵ𝗈ㅤׄㅤ🦊ິㅤ𝖴𝗓",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15014,6 +15014,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34722257147@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Juanca",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212705706483@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "حسبنا الله",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -22491,6 +22509,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23822,6 +23849,15 @@
           "reason": ""
         },
         "59168100806@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "212705706483@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -46566,6 +46602,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34722257147@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -48205,7 +48250,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 106,
+      "botcommando": 108,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
