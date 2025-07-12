@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Monkey D. Luffy",
+      "name": "◇",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15427,7 +15427,25 @@
     "242949338214400@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Monkey D. Luffy",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34653108409@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "empar",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56992634682@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🎧ྀི♪⋆.✮",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18326,6 +18344,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "56992634682@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21022,6 +21049,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "593999958216@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26434,10 +26470,10 @@
         },
         "573209571585@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 28282,
-          "exp": 610,
-          "usedcommands": 11,
-          "level": 12,
+          "bank": 29782,
+          "exp": 3975,
+          "usedcommands": 14,
+          "level": 24,
           "banned": false,
           "reason": "",
           "slutCooldown": 1752331386647,
@@ -26446,7 +26482,8 @@
           "nextReward": 39601,
           "mineCooldown": 1752331422794,
           "crimeCooldown": 1752331429719,
-          "workCooldown": 1752331436206
+          "workCooldown": 1752331436206,
+          "lastMonthly": 1752330921378
         }
       },
       "sWelcome": "",
@@ -33039,6 +33076,15 @@
           "personajesEnVenta": []
         },
         "34692900272@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34653108409@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -49485,7 +49531,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 58,
+      "botcommando": 61,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
