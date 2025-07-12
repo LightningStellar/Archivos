@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⚠︎",
+      "name": "~Lonely Wolf♡",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -16649,11 +16649,14 @@
         "50768646227@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 167,
+          "usedcommands": 3,
+          "level": 5,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "mineCooldown": 1752296311675,
+          "workCooldown": 1752296313654,
+          "slutCooldown": 1752296317450
         }
       },
       "sWelcome": "",
@@ -30900,7 +30903,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 172,
+      "botcommando": 174,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -30990,7 +30993,7 @@
     },
     "56971328562@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 32,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
