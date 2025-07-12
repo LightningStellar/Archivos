@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "˖ ֹ੭ ୧  𝐌ary   ⊹ ࣪ ⑅",
+      "name": "This",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9339,6 +9339,32 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "103968894099489@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50768646227@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝚅𝙴𝚁, 𝚕𝚒 .",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493704817414@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 370 481-7414",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16468,17 +16494,17 @@
           "personajesEnVenta": []
         },
         "59175015536@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 16607,
-          "exp": 5855,
-          "usedcommands": 28,
-          "level": 28,
+          "chocolates": 2607,
+          "bank": 13943,
+          "exp": 6203,
+          "usedcommands": 34,
+          "level": 29,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752289610611,
-          "crimeCooldown": 1752287405495,
-          "mineCooldown": 1752287408308,
-          "workCooldown": 1752287410814,
+          "rwCooldown": 1752296332946,
+          "crimeCooldown": 1752296075338,
+          "mineCooldown": 1752296073088,
+          "workCooldown": 1752296078889,
           "slutCooldown": 1752287412718,
           "pptCooldown": 1752287417767,
           "dailyStreak": 1,
@@ -16565,6 +16591,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50768646227@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -16641,6 +16676,15 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "078e07ba"
+        },
+        {
+          "userId": "59175015536@s.whatsapp.net",
+          "name": "Taesoo Ma",
+          "url": "https://stellarwa.xyz/files/1749213993164.jpg",
+          "value": 30000,
+          "gender": "Hombre",
+          "source": "Apari3ncias",
+          "id": "f2abd8a1"
         }
       ],
       "expired": 0
@@ -19998,6 +20042,15 @@
           "reason": ""
         },
         "197079003574365@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "103968894099489@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -26085,6 +26138,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "103968894099489@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27719,6 +27781,15 @@
           "reason": ""
         },
         "584245850895@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493704817414@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -30684,7 +30755,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -30730,7 +30802,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 164,
+      "botcommando": 169,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -30830,7 +30902,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 27,
+      "botcommando": 28,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
