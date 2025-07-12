@@ -12447,6 +12447,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34635585304@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🎮̸⋆ – サイと – ⋆💤̸̸",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -39876,6 +39885,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34635585304@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40371,7 +40389,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 81,
+      "botcommando": 82,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
