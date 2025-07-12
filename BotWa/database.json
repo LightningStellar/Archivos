@@ -101,7 +101,7 @@
     "5215522567568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
+      "name": "+52 55 2256 7568",
       "genre": "",
       "birth": "lunes, 21 de julio",
       "marry": "59175015536@s.whatsapp.net",
@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꯭   ꯭  ꯭ 𝕄Yu̲𝐧g-𝚐𝘪᭢ ☆",
+      "name": "Sai",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -25291,6 +25291,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51992938936@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 992 938 936",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "154177078562881@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51987912478@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 987 912 478",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "278168388780206@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34999,6 +35035,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "154177078562881@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35785,8 +35830,8 @@
         "5511998790420@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 117237,
-          "exp": 4110,
-          "usedcommands": 67,
+          "exp": 11,
+          "usedcommands": 68,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -36095,10 +36140,10 @@
           "personajesEnVenta": []
         },
         "51926887094@s.whatsapp.net": {
-          "chocolates": 7465811,
+          "chocolates": 7039171,
           "bank": 0,
-          "exp": 2456,
-          "usedcommands": 49,
+          "exp": 2512,
+          "usedcommands": 50,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -36107,7 +36152,7 @@
           "nextReward": 34257,
           "workCooldown": 1752258532397,
           "mineCooldown": 1752258534416,
-          "rtCooldown": 1752280984403,
+          "rtCooldown": 1752281797044,
           "personajesEnVenta": [],
           "rwCooldown": 1752281289424,
           "buyCooldown": 1752281293081,
@@ -36366,6 +36411,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51992938936@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47545,6 +47599,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51987912478@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -53773,6 +53836,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "278168388780206@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -77260,7 +77332,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 772,
+      "botcommando": 774,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
