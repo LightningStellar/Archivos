@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Kai",
+      "name": "Danni",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2085,7 +2085,7 @@
     "19394389639@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+1 939-438-9639",
+      "name": "¡  🐉  ? : 𝐆𝚁𝙴𝙴𝙽.  ʚ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20972,6 +20972,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50255449545@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Draco Slayer",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51957056510@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "남자-Son🩵",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -32533,6 +32551,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50255449545@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40445,7 +40472,7 @@
           "pptCooldown": 1752301850514
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 8000,
           "bank": 0,
           "exp": 1189,
           "usedcommands": 10,
@@ -40864,16 +40891,17 @@
           "personajesEnVenta": []
         },
         "56971328562@s.whatsapp.net": {
-          "chocolates": 9632,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 245,
-          "usedcommands": 5,
-          "level": 8,
+          "exp": 362,
+          "usedcommands": 8,
+          "level": 9,
           "banned": false,
           "reason": "",
           "workCooldown": 1752341667681,
           "mineCooldown": 1752341669066,
-          "crimeCooldown": 1752341697929
+          "crimeCooldown": 1752341697929,
+          "slutCooldown": 1752341770369
         }
       },
       "sWelcome": "",
@@ -61434,6 +61462,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51957056510@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -64791,16 +64828,30 @@
     "120363402357012910@g.us": {
       "users": {
         "573058340821@s.whatsapp.net": {
-          "chocolates": 47579,
-          "bank": 0,
-          "exp": 72,
-          "usedcommands": 1,
-          "level": 0,
+          "chocolates": 0,
+          "bank": 37579,
+          "exp": 228,
+          "usedcommands": 4,
+          "level": 7,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752341141113,
-          "nextReward": 12291
+          "nextReward": 12291,
+          "rwCooldown": 1752342046125,
+          "buyCooldown": 1752342048976,
+          "characters": [
+            {
+              "name": "Zoe Park",
+              "url": "https://stellarwa.xyz/files/1749302517573.jpg",
+              "value": 10000,
+              "gender": "Mujer",
+              "source": "Apari3ncias",
+              "claim": "sábado, 12 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "573059040844@s.whatsapp.net": {
           "chocolates": 0,
@@ -64823,7 +64874,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     }
   },
   "settings": {
@@ -64919,7 +64971,7 @@
     },
     "51954532672@s.whatsapp.net": {
       "self": false,
-      "botcommando": 32,
+      "botcommando": 34,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -64969,7 +65021,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 63,
+      "botcommando": 64,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -65129,7 +65181,7 @@
     },
     "573059040844@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 9,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
