@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Matagdeinnere",
+      "name": "💎🤍 Gojo Satoru 🤍💎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8637,6 +8637,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217751569642@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Lucki",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56942558919@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "MatheoDark",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "200446341824702@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12087,6 +12114,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5217751569642@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13781,7 +13817,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363407231076671@newsletter": {
       "users": {
@@ -15355,6 +15392,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "200446341824702@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -19495,6 +19541,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56942558919@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 33,
+          "usedcommands": 1,
+          "level": 3,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28549,7 +28604,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 23,
+      "botcommando": 24,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
