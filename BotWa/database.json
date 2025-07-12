@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Jer",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10284,6 +10284,42 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "+51 931 535 416",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34647208461@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Danna Pineda",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "129059858198619@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "66954714960013@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5352480114@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🇫🇮Alex🇫🇮",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21256,6 +21292,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "129059858198619@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25401,6 +25446,15 @@
           "personajesEnVenta": []
         },
         "257599790436436@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "66954714960013@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -33188,6 +33242,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5352480114@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33200,7 +33263,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5219631564306@s.whatsapp.net": {
       "users": {
@@ -33709,6 +33773,64 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363368253178894@g.us": {
+      "users": {
+        "5215562263241@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56971328562@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "34647208461@s.whatsapp.net": {
+      "users": {
+        "34647208461@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -33964,7 +34086,7 @@
     },
     "584127570056@s.whatsapp.net": {
       "self": false,
-      "botcommando": 38,
+      "botcommando": 40,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
