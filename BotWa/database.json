@@ -14900,6 +14900,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51910381216@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~𝑆𝑢𝑏𝑎𝑟𝑢 𝑁𝑎𝑡𝑠𝑢𝑘𝑖",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18373,6 +18382,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51910381216@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47783,7 +47801,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
