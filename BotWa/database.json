@@ -19931,16 +19931,16 @@
           "rtCooldown": 1752290197651
         },
         "5215522567568@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 54174,
-          "exp": 4875,
-          "usedcommands": 41,
-          "level": 26,
+          "chocolates": 10635,
+          "bank": 4174,
+          "exp": 5304,
+          "usedcommands": 51,
+          "level": 27,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752286937295,
-          "mineCooldown": 1752286938906,
-          "workCooldown": 1752286947761,
+          "crimeCooldown": 1752306568165,
+          "mineCooldown": 1752306574501,
+          "workCooldown": 1752306575628,
           "rtCooldown": 1752286954141,
           "slutCooldown": 1752286962073,
           "pptCooldown": 1752286967952,
@@ -19949,8 +19949,21 @@
           "nextReward": 31385,
           "lastWeekly": 1752286433437,
           "lastMonthly": 1752286440496,
-          "rwCooldown": 1752305515159,
-          "personajesEnVenta": []
+          "rwCooldown": 1752306838800,
+          "personajesEnVenta": [],
+          "buyCooldown": 1752306853166,
+          "characters": [
+            {
+              "name": "Derieri",
+              "url": "https://stellarwa.xyz/files/1749350615121.jpg",
+              "value": 50000,
+              "gender": "Hombre",
+              "source": "Los Siete Pecados Capitales",
+              "claim": "sábado, 12 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
@@ -33429,10 +33442,10 @@
         },
         "595994943779@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 17233,
-          "exp": 2397,
-          "usedcommands": 25,
-          "level": 20,
+          "bank": 18209,
+          "exp": 2719,
+          "usedcommands": 31,
+          "level": 21,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752295075201,
@@ -33441,12 +33454,13 @@
           "nextReward": 39055,
           "personajesEnVenta": [],
           "roboCooldown": 1752298842538,
-          "crimeCooldown": 1752297789725,
-          "mineCooldown": 1752297799058,
+          "crimeCooldown": 1752306533556,
+          "mineCooldown": 1752306538793,
           "workCooldown": 1752297814175,
           "lastWeekly": 1752297238477,
           "pptCooldown": 1752297910573,
-          "rtCooldown": 1752297930829
+          "rtCooldown": 1752306572242,
+          "slutCooldown": 1752306543915
         }
       },
       "sWelcome": "",
@@ -37535,7 +37549,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 55,
+      "botcommando": 59,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -37545,7 +37559,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 223,
+      "botcommando": 231,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37645,7 +37659,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 42,
+      "botcommando": 43,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -37685,7 +37699,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 83,
+      "botcommando": 86,
       "prefix": "!",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
