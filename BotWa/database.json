@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "mcepl81",
+      "name": "Alex 018",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12905,7 +12905,16 @@
     "188162819231755@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Alex 018",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219996125657@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Bruno Sobrino",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15336,6 +15345,15 @@
           "personajesEnVenta": []
         },
         "34642964511@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219996125657@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -41801,7 +41819,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
