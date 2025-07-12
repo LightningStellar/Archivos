@@ -101,7 +101,7 @@
     "5215522567568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
+      "name": "+52 55 2256 7568",
       "genre": "",
       "birth": "lunes, 21 de julio",
       "marry": "59175015536@s.whatsapp.net",
@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "name": "파괴하다.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24482,7 +24482,7 @@
     "130430070190205@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🧐🥃",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24518,7 +24518,7 @@
     "259678705590506@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "꧁☬onichan☬꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24545,7 +24545,7 @@
     "190619876085815@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "JOSUE🙀",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24555,6 +24555,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "ֺֽ๋ۢꪰᤢ℘ɑׁׅ⃯݊ꪀ𝅼۪݁ꪰ🫐ິᰰ۫",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "257676932046937@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216634622567@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "πensa",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -28761,6 +28779,15 @@
           "reason": ""
         },
         "573046458903@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216634622567@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -35169,10 +35196,10 @@
           "personajesEnVenta": []
         },
         "51926887094@s.whatsapp.net": {
-          "chocolates": 8652268,
+          "chocolates": 8325628,
           "bank": 0,
-          "exp": 2273,
-          "usedcommands": 44,
+          "exp": 2308,
+          "usedcommands": 45,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -35181,7 +35208,7 @@
           "nextReward": 34257,
           "workCooldown": 1752258532397,
           "mineCooldown": 1752258534416,
-          "rtCooldown": 1752278984202,
+          "rtCooldown": 1752280382094,
           "personajesEnVenta": [],
           "rwCooldown": 1752279291124,
           "buyCooldown": 1752279298832,
@@ -57849,6 +57876,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "257676932046937@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -74877,6 +74913,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5491168806825@s.whatsapp.net": {
+      "users": {
+        "5491135078568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -74932,7 +74992,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 751,
+      "botcommando": 752,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
