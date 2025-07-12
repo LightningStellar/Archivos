@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "🌷vale🌷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14652,6 +14652,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51936345031@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51954910329@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ᝯׁ֒ᥣׁׅ֪ɑׁׅ݊ꪀ_tׁׅᝯׁ֒ √",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50240813493@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ale",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23226,6 +23253,33 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51936345031@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51954910329@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50240813493@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25076,10 +25130,10 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 284295,
-          "bank": 0,
-          "exp": 5521,
-          "usedcommands": 13,
+          "chocolates": 0,
+          "bank": 272295,
+          "exp": 5616,
+          "usedcommands": 15,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -25094,7 +25148,20 @@
           "lastDaily": 1752328070454,
           "nextReward": 49762,
           "rtCooldown": 1752328712181,
-          "rwCooldown": 1752329021108
+          "rwCooldown": 1752329021108,
+          "buyCooldown": 1752329025357,
+          "characters": [
+            {
+              "name": "Kotori Itsuka",
+              "url": "https://stellarwa.xyz/files/1751828820738.jpg",
+              "value": 12000,
+              "gender": "Mujer",
+              "source": "Date A Live",
+              "claim": "sábado, 12 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "593990564497@s.whatsapp.net": {
           "chocolates": 0,
@@ -27995,6 +28062,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573246174279@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29112,9 +29188,9 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 408,
-          "usedcommands": 6,
-          "level": 9,
+          "exp": 418,
+          "usedcommands": 7,
+          "level": 10,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -46914,6 +46990,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51943236957@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47086,7 +47171,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 171,
+      "botcommando": 174,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -47236,7 +47321,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 33,
+      "botcommando": 35,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
