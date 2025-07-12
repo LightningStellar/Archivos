@@ -6754,7 +6754,7 @@
     "584243542324@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Yeniffer Venegas",
+      "name": "+58 424-3542324",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24254,6 +24254,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50246967511@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꧁•⊹٭𝙲𝚊𝚙𝟿𝟶𝟷٭⊹•꧂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "12112260792356@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584264563517@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "full trading",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "123102956621919@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -32392,6 +32428,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5217441174190@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34238,6 +34283,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50246967511@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37875,12 +37929,12 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 49638,
-          "exp": 8404,
-          "usedcommands": 102,
+          "exp": 8409,
+          "usedcommands": 103,
           "level": 33,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752263883847,
+          "rwCooldown": 1752280104461,
           "personajesEnVenta": [],
           "crimeCooldown": 1752263857233,
           "mineCooldown": 1752263859138,
@@ -38395,6 +38449,15 @@
           "gender": "Mujer",
           "source": "Hunter x Hunter",
           "id": "8e43f1ec"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Suzailgiererzegalnelvzegilreagranzelga Elga",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b205570-eZr6Ac7NBd0L.jpg",
+          "value": 810482,
+          "gender": "Mujer",
+          "source": "Mi tio es de otro Mundo",
+          "id": "cf255ee1"
         }
       ]
     },
@@ -42958,6 +43021,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "12112260792356@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -50756,6 +50828,15 @@
           "personajesEnVenta": []
         },
         "43370596557035@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "123102956621919@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -74037,6 +74118,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "584264563517@s.whatsapp.net": {
+      "users": {
+        "584264563517@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -74102,7 +74208,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 492,
+      "botcommando": 493,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
