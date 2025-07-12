@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "...",
+      "name": "Ｓｏｏ-Ｙｏｕｎｇᰔᩚˢ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14697,6 +14697,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493446630214@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "•••",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19944,6 +19953,15 @@
           "personajesEnVenta": []
         },
         "5216312490815@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493446630214@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29224,8 +29242,8 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 627,
-          "usedcommands": 10,
+          "exp": 651,
+          "usedcommands": 11,
           "level": 12,
           "banned": false,
           "reason": "",
@@ -47187,7 +47205,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 98,
+      "botcommando": 102,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -47207,7 +47225,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 177,
+      "botcommando": 180,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -47327,7 +47345,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 24,
+      "botcommando": 25,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
