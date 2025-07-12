@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝐁𝐞𝐫𝐮 𝐒𝐡𝐚𝐝𝐨𝐰",
+      "name": "La Diablita Rompe Corazon",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -1324,7 +1324,7 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "꧁❦𝒜𝓃𝑔𝑒𝓁ᬊ꧂",
-      "genre": "",
+      "genre": "Hombre",
       "birth": "",
       "marry": "",
       "description": ""
@@ -10080,7 +10080,7 @@
     "51922674236@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "꧁༒☬うんぺんでじょ☬༒꧂",
+      "name": "༒♡うんぺんでじょ♡༒",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21782,7 +21782,25 @@
     "105854418346208@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "𝐁𝐞𝐫𝐮 𝐒𝐡𝐚𝐝𝐨𝐰",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "12408541773@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "YhoonK",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5354035309@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "☄️💎Gojo Satoru💎☄️",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -41501,6 +41519,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5354035309@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41984,20 +42011,21 @@
         },
         "51922674236@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 24769,
-          "exp": 584,
-          "usedcommands": 11,
-          "level": 11,
+          "bank": 22942,
+          "exp": 782,
+          "usedcommands": 15,
+          "level": 13,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752297925037,
           "nextReward": 37826,
-          "workCooldown": 1752340141420,
-          "slutCooldown": 1752340152649,
+          "workCooldown": 1752343882197,
+          "slutCooldown": 1752343884531,
           "mineCooldown": 1752340148177,
           "personajesEnVenta": [],
-          "pptCooldown": 1752340163428
+          "pptCooldown": 1752340163428,
+          "crimeCooldown": 1752343892235
         },
         "5217811030362@s.whatsapp.net": {
           "chocolates": 0,
@@ -55234,9 +55262,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 42,
-          "usedcommands": 1,
-          "level": 4,
+          "exp": 541,
+          "usedcommands": 9,
+          "level": 11,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -60793,6 +60821,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "12408541773@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -67266,6 +67303,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "12408541773@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -67365,7 +67411,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 236,
+      "botcommando": 237,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -67425,7 +67471,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 70,
+      "botcommando": 72,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -67505,8 +67551,8 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 73,
-      "prefix": "#+/",
+      "botcommando": 75,
+      "prefix": "#/.+",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
       "owner": "Oculto por razones desconocidas (musiquita de terror)",
@@ -67525,7 +67571,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 53,
+      "botcommando": 54,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -67535,7 +67581,7 @@
     },
     "584127570056@s.whatsapp.net": {
       "self": false,
-      "botcommando": 48,
+      "botcommando": 54,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
