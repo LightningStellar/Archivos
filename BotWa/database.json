@@ -11157,6 +11157,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50685645040@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+506 8564 5040",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219631257075@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "JESSIE💞💞",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212658278073@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Elgharbaoui Abdarrahman",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13242,6 +13269,15 @@
           "reason": ""
         },
         "5218130896310@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219631257075@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -15912,9 +15948,9 @@
         "595986307384@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 55,
+          "usedcommands": 1,
+          "level": 4,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -18190,6 +18226,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "212658278073@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -18236,6 +18281,24 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50685645040@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584243403568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35888,6 +35951,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50685645040@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36145,7 +36217,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 40,
+      "botcommando": 41,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
