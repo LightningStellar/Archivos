@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Zuzu",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24749,7 +24749,7 @@
     "226911896748124@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Jhoan",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24759,6 +24759,51 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "✮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213322403022@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "☁",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "183923837562899@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "265338834944042@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "232659015966972@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "68668390125623@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -34340,6 +34385,15 @@
           "personajesEnVenta": []
         },
         "172421495697563@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "183923837562899@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -44535,7 +44589,7 @@
           "bank": 0,
           "exp": 105,
           "usedcommands": 3,
-          "level": 5,
+          "level": 6,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -44668,15 +44722,15 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": true,
+      "welcome": false,
       "nsfw": false,
-      "alerts": true,
+      "alerts": false,
       "gacha": true,
       "rpg": true,
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false,
+      "bannedGrupo": true,
       "expired": 0,
       "personajesReservados": [
         {
@@ -45856,6 +45910,15 @@
           "personajesEnVenta": []
         },
         "190619876085815@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "232659015966972@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -58904,6 +58967,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "265338834944042@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -62258,12 +62330,13 @@
         "584249363804@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 63,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 95,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "Subs": 1752280234819
         },
         "18099426666@s.whatsapp.net": {
           "chocolates": 0,
@@ -67924,6 +67997,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "68668390125623@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -71946,6 +72028,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5213322403022@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "> ```.  ︶︶ ⊹ ︶︶⠀ ୨♡୧ ⠀︶︶ ⊹ ︶︶  .```  ﹙୭‎𓏲﹚    ¡  𝓦elcome !    ⊹      @user ☆  \n\n`✦ ⎯⎯⎯ ㅤִㅤ ୭ ♡ ৎㅤִ   ⎯⎯  ✦`",
@@ -75495,12 +75586,37 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "584249363804@s.whatsapp.net": {
+      "users": {
+        "5492914407013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 129,
+      "botcommando": 130,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -75630,7 +75746,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 252,
+      "botcommando": 253,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -75780,7 +75896,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": true,
-      "botcommando": 37,
+      "botcommando": 38,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
