@@ -11864,6 +11864,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50379545970@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "☆♧¿₩ILLIAM?♧☆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14053,6 +14062,15 @@
           "reason": ""
         },
         "393470991369@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50379545970@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -37405,7 +37423,7 @@
           "bank": 0,
           "exp": 95,
           "usedcommands": 3,
-          "level": 3,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
