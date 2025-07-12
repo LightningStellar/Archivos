@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⚠︎",
+      "name": "🔥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9522,7 +9522,7 @@
     "27698630000825@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "⚠︎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18523,7 +18523,43 @@
     "51974672130@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "+51 974 672 130",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51974671159@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Henry Granados",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493517593980@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 351 759-3980",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "593981076278@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "੭੭ ݂ . ( Ĵღsєƒµ ) ׄ ꒱",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493469401152@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𖤐 Telamon 𖤐",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21642,6 +21678,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "593981076278@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22731,8 +22776,8 @@
         "5219613301789@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 83,
-          "usedcommands": 1,
+          "exp": 100,
+          "usedcommands": 2,
           "level": 5,
           "banned": false,
           "reason": ""
@@ -26606,6 +26651,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493469401152@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -56816,6 +56870,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51974671159@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493517593980@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -58377,7 +58449,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 45,
+      "botcommando": 46,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
