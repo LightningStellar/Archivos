@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ׁׅ𖤐꧁ᝯׁ֒hׁׅ֮ɑׁׅ݊ꪀᝯׁ֒ꫀׁׅܻ꧂",
+      "name": "꯭   ꯭  ꯭ 𝕄Yu̲𝐧g-𝚐𝘪᭢ ☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -25367,7 +25367,34 @@
     "17807504875674@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "𑁍ࠬܓ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212837641273393@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "204737450352877@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492213593432@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nikita",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -35875,8 +35902,8 @@
         "5511998790420@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 117237,
-          "exp": 187,
-          "usedcommands": 70,
+          "exp": 100,
+          "usedcommands": 72,
           "level": 27,
           "banned": false,
           "reason": "",
@@ -56020,8 +56047,8 @@
         "5213310224249@s.whatsapp.net": {
           "chocolates": 75782049,
           "bank": 0,
-          "exp": 7494,
-          "usedcommands": 73,
+          "exp": 7529,
+          "usedcommands": 74,
           "level": 31,
           "banned": false,
           "reason": "",
@@ -56034,7 +56061,7 @@
           "personajesEnVenta": [],
           "lastMonthly": 1752252354119,
           "lastWeekly": 1752252361425,
-          "rwCooldown": 1752278904153,
+          "rwCooldown": 1752282254892,
           "buyCooldown": 1752278911161,
           "characters": [
             {
@@ -56286,6 +56313,15 @@
           "gender": "Mujer",
           "source": "Your Name",
           "id": "aa167dfb"
+        },
+        {
+          "userId": "5213310224249@s.whatsapp.net",
+          "name": "Weisz Steiner",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139877-iS3Gk1VaIwrf.png",
+          "value": 472288,
+          "gender": "Hombre",
+          "source": "Edens zero",
+          "id": "7643eafd"
         }
       ]
     },
@@ -58148,6 +58184,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "204737450352877@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -60187,6 +60232,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "212837641273393@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -76613,6 +76667,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5214531458599@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -76894,6 +76957,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492213593432@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -77461,7 +77533,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 776,
+      "botcommando": 778,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -77531,7 +77603,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 401,
+      "botcommando": 402,
       "prefix": "#/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
