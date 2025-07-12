@@ -12267,6 +12267,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5213320460129@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Steph",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14571,6 +14580,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5213320460129@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39601,6 +39619,30 @@
     "393295318025@s.whatsapp.net": {
       "users": {
         "393295318025@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "573002026613@s.whatsapp.net": {
+      "users": {
+        "573002026613@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
