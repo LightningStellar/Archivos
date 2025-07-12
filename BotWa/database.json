@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "◇《¤Ale¤》◇",
+      "name": "Ｓｏｏ-Ｙｏｕｎｇᰔᩚˢ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14786,6 +14786,32 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "160228184174806@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573227020799@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "// Kevin Cárdenas \\\\",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363398981854418@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -17558,6 +17584,15 @@
           "reason": ""
         },
         "5217224844700@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "573227020799@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -21717,6 +21752,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "160228184174806@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29383,15 +29427,16 @@
           "personajesEnVenta": []
         },
         "51967524493@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 3495,
           "bank": 0,
-          "exp": 976,
-          "usedcommands": 17,
+          "exp": 993,
+          "usedcommands": 18,
           "level": 14,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "Subs": 1752328617717
+          "Subs": 1752328617717,
+          "workCooldown": 1752329317637
         },
         "120363347554603511@g.us": {
           "chocolates": 0,
@@ -47351,6 +47396,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363398981854418@newsletter": {
+      "users": {
+        "120363398981854418@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -47436,7 +47506,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 187,
+      "botcommando": 188,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
