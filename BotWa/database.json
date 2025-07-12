@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2405,7 +2405,7 @@
     "5492914407013@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🜸﹔𝑴𝒆𝒈𝒖𝒎𝒊𝒏ㅤ ☆𝆬 ﮳",
+      "name": "Bot2",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14241,6 +14241,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363243358926262@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34691367239@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ティル ! 🎸",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16914,6 +16931,15 @@
           "reason": ""
         },
         "584248767070@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34691367239@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -23550,6 +23576,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "114499734515736@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28793,9 +28828,9 @@
         "5492914407013@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 77,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -29726,9 +29761,9 @@
         "5492914407013@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 127,
-          "usedcommands": 2,
-          "level": 4,
+          "exp": 240,
+          "usedcommands": 4,
+          "level": 7,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -45784,6 +45819,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363243358926262@newsletter": {
+      "users": {
+        "120363243358926262@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -45859,7 +45918,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 34,
+      "botcommando": 35,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -45869,12 +45928,12 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 137,
-      "prefix": "/",
+      "botcommando": 139,
+      "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
       "owner": "Oculto por privacidad",
-      "banner": "https://stellarwa.xyz/files/1751476963277.jpg",
+      "banner": "https://stellarwa.xyz/files/1752326686573.jpg",
       "currency": "_Megu - coin's_"
     },
     "51954532672@s.whatsapp.net": {
