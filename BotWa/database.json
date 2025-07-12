@@ -24647,6 +24647,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493764679076@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 376 467-9076",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34914,8 +34923,8 @@
         "5493534413480@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 2475,
-          "usedcommands": 71,
+          "exp": 2534,
+          "usedcommands": 72,
           "level": 20,
           "banned": false,
           "reason": "",
@@ -35536,6 +35545,15 @@
           "reason": ""
         },
         "593963263525@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493764679076@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -40033,9 +40051,9 @@
         "5214811172949@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 141,
+          "usedcommands": 3,
+          "level": 3,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -75119,6 +75137,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363200903307538@g.us": {
+      "users": {
+        "584128718039@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -75164,7 +75207,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 82,
+      "botcommando": 85,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -75174,7 +75217,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 752,
+      "botcommando": 754,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
