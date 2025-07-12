@@ -11632,6 +11632,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217471722898@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𠀋꯭ㅤ 𝗛𝗬𝗦𝖳፝𝚺Я𝗜𖩅   ␦͜⠀",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -24834,8 +24843,8 @@
         "5218444554218@s.whatsapp.net": {
           "chocolates": 31470,
           "bank": 0,
-          "exp": 2612,
-          "usedcommands": 9,
+          "exp": 2669,
+          "usedcommands": 10,
           "level": 21,
           "banned": false,
           "reason": "",
@@ -24847,7 +24856,8 @@
           "slutCooldown": 1752302654974,
           "lastWeekly": 1752302073803,
           "lastMonthly": 1752302089582,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rwCooldown": 1752306630810
         },
         "5491176203686@s.whatsapp.net": {
           "chocolates": 0,
@@ -24881,6 +24891,15 @@
           "gender": "Hombre",
           "source": "Darling in the Franxx",
           "id": "ab844443"
+        },
+        {
+          "userId": "5218444554218@s.whatsapp.net",
+          "name": "Arisu Sakayanagi",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg",
+          "value": 57224,
+          "gender": "Mujer",
+          "source": "Classroom Of The Elite",
+          "id": "0d309f37"
         }
       ]
     },
@@ -32127,6 +32146,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5217471722898@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37514,7 +37542,7 @@
     },
     "573126958667@s.whatsapp.net": {
       "self": false,
-      "botcommando": 16,
+      "botcommando": 17,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
