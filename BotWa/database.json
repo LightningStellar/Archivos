@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Fer",
+      "name": "Sig&∆¶[",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13336,6 +13336,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "The King's👑🤴",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "211892748456151@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27503,9 +27512,9 @@
         "51914114673@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 51359,
-          "exp": 5311,
-          "usedcommands": 10,
-          "level": 27,
+          "exp": 5373,
+          "usedcommands": 11,
+          "level": 28,
           "banned": false,
           "reason": "",
           "workCooldown": 1752292149977,
@@ -42995,6 +43004,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "211892748456151@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -43398,7 +43416,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 30,
+      "botcommando": 31,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
