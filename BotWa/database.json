@@ -12026,6 +12026,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215574960045@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Bam",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "99252952928500@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -38756,6 +38774,40 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363313778013000@g.us": {
+      "users": {
+        "5215574960045@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "99252952928500@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
