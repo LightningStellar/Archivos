@@ -15068,6 +15068,50 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212622174408@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Mbark Khibich",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50368272911@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "B",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "30262708695179@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363373683100922@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51908955220@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "「･𝑊𝑎𝑛𝑑𝑒𝑟𝑒𝑟･」",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21701,6 +21745,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51908955220@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23919,6 +23972,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "212622174408@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25011,6 +25073,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "30262708695179@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30259,14 +30330,14 @@
     "120363419574059419@g.us": {
       "users": {
         "51926887094@s.whatsapp.net": {
-          "chocolates": 147524,
+          "chocolates": 124829,
           "bank": 0,
-          "exp": 1852,
-          "usedcommands": 40,
+          "exp": 1916,
+          "usedcommands": 41,
           "level": 18,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752329661375,
+          "rtCooldown": 1752330456860,
           "workCooldown": 1752288643405,
           "mineCooldown": 1752288647059,
           "dailyStreak": 1,
@@ -47556,6 +47627,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "50368272911@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -48267,6 +48347,30 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363373683100922@newsletter": {
+      "users": {
+        "120363373683100922@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -48362,7 +48466,7 @@
     },
     "51954532672@s.whatsapp.net": {
       "self": false,
-      "botcommando": 18,
+      "botcommando": 19,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
