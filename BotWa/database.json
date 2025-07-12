@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ainara (⁠ㆁ⁠ω⁠ㆁ⁠)",
+      "name": "ユリディア・サンチェス",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4456,7 +4456,7 @@
     "5215513021315@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ઈ𝖨𝘃𝗮͡͡𝗻͜𝗻 🐋͓ᤋ",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4572,7 +4572,7 @@
     "5214531268302@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ado",
+      "name": "Joselyn 💗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24397,6 +24397,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "124752291193087@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34665,20 +34674,20 @@
         },
         "5511998790420@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 108990,
-          "exp": 3450,
-          "usedcommands": 56,
+          "bank": 113719,
+          "exp": 3669,
+          "usedcommands": 60,
           "level": 27,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752279256894,
-          "mineCooldown": 1752279269443,
+          "workCooldown": 1752280129115,
+          "mineCooldown": 1752280144002,
           "dailyStreak": 1,
           "lastDaily": 1752241360839,
           "nextReward": 23240,
           "lastWeekly": 1752241365485,
           "lastMonthly": 1752241371986,
-          "pptCooldown": 1752279285074,
+          "pptCooldown": 1752280160979,
           "rtCooldown": 1752262889618,
           "personajesEnVenta": [],
           "roboCooldown": 0
@@ -35392,8 +35401,8 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 48,
-          "usedcommands": 1,
+          "exp": 137,
+          "usedcommands": 2,
           "level": 4,
           "banned": false,
           "reason": "",
@@ -36857,10 +36866,10 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 472320000,
-          "exp": 2210,
-          "usedcommands": 123,
+          "chocolates": 472310000,
+          "bank": 0,
+          "exp": 2389,
+          "usedcommands": 127,
           "level": 33,
           "banned": false,
           "reason": "",
@@ -36874,8 +36883,8 @@
           "lastMonthly": 1752239027242,
           "lastWeekly": 1752239032602,
           "rtCooldown": 1752279168858,
-          "rwCooldown": 1752268988081,
-          "buyCooldown": 1752261467301,
+          "rwCooldown": 1752280454493,
+          "buyCooldown": 1752280470822,
           "characters": [
             {
               "name": "Doppo Orochi",
@@ -36900,6 +36909,14 @@
               "gender": "Mujer",
               "source": "Date A Live",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Takemichi Hanagaki",
+              "url": "https://stellarwa.xyz/files/1749161854397.jpg",
+              "value": 10000,
+              "gender": "Hombre",
+              "source": "Tokyo Revengers",
+              "claim": "sábado, 12 de julio de 2025"
             }
           ],
           "characterCount": null,
@@ -52765,6 +52782,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "124752291193087@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -74475,7 +74501,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 114,
+      "botcommando": 115,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -74495,7 +74521,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 747,
+      "botcommando": 751,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -74565,8 +74591,8 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 394,
-      "prefix": "#",
+      "botcommando": 395,
+      "prefix": "#/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
       "owner": "Oculto por razones desconocidas",
@@ -74575,7 +74601,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 245,
+      "botcommando": 247,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -74585,7 +74611,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 361,
+      "botcommando": 362,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
