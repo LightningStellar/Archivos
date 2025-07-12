@@ -14883,6 +14883,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363163054247541@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584245571415@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "mark",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -39806,6 +39823,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584245571415@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47734,6 +47760,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363163054247541@newsletter": {
+      "users": {
+        "120363163054247541@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -47799,7 +47849,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 104,
+      "botcommando": 105,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
