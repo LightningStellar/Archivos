@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𔓕𝅄 \" 𝚬𝖬𖩐ΞɌ𝐎Ɍ \" 👑ᩙᩝ",
+      "name": "🍒⏤͟͟͞͞★ƈԋҽɾɾყ™",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9819,7 +9819,16 @@
     "109810049626148@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Iris. 🍃🌧️",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "593980207308@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ぶ゙ㅤ  🌸゙       ⴗꪱⴗꪱ゙ㅤ ㅤば゙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17201,12 +17210,12 @@
         "573235511077@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 35396,
-          "exp": 5884,
-          "usedcommands": 51,
-          "level": 28,
+          "exp": 5912,
+          "usedcommands": 52,
+          "level": 29,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752289598720,
+          "rwCooldown": 1752297980412,
           "crimeCooldown": 1752290419736,
           "mineCooldown": 1752290422719,
           "workCooldown": 1752290426554,
@@ -17420,6 +17429,15 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "f2abd8a1"
+        },
+        {
+          "userId": "573235511077@s.whatsapp.net",
+          "name": "Cabbage",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b329386-lCCa66OyXQtt.png",
+          "value": 7095,
+          "gender": "Hombre",
+          "source": "Kono Subarashii Sekai ni Shukufuku wo!",
+          "id": "a35f97d4"
         }
       ],
       "expired": 0
@@ -29347,11 +29365,11 @@
     "120363422060797194@g.us": {
       "users": {
         "5491135078568@s.whatsapp.net": {
-          "chocolates": 7008,
-          "bank": 23590,
-          "exp": 7979,
-          "usedcommands": 69,
-          "level": 32,
+          "chocolates": 0,
+          "bank": 9212,
+          "exp": 8660,
+          "usedcommands": 80,
+          "level": 33,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752297589642,
@@ -29380,7 +29398,7 @@
           ],
           "characterCount": null,
           "totalRwcoins": null,
-          "roboCooldown": 0
+          "roboCooldown": 1752298846456
         },
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
@@ -29409,17 +29427,18 @@
         },
         "595994943779@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 9632,
-          "exp": 246,
-          "usedcommands": 6,
-          "level": 8,
+          "bank": 12718,
+          "exp": 371,
+          "usedcommands": 9,
+          "level": 9,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752295075201,
           "dailyStreak": 1,
           "lastDaily": 1752294633444,
           "nextReward": 39055,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "roboCooldown": 1752298842538
         }
       },
       "sWelcome": "",
@@ -32219,6 +32238,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "593980207308@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32378,7 +32406,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 32,
+      "botcommando": 33,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -32418,7 +32446,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 55,
+      "botcommando": 68,
       "prefix": "!",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
