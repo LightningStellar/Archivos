@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Cristian",
+      "name": "~p⍺słᧉlı᪲ł𐐫 🍓",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10196,6 +10196,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "203405389775071@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24543,6 +24552,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "203405389775071@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33354,7 +33372,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363320178438055@newsletter": {
       "users": {
