@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "— 𝙈ᥙ𝙡𝗍і  !  ִ 路易斯¡ ♡ׄ",
+      "name": "꧁ｯ𝐅𝐗𓆩𝑲𝝌፝֟𝒎𝒊 ͢𝑫' 𝑺𝒉𝝌፝֟𝒏𝒙⸸",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12127,6 +12127,15 @@
     "46561874731260@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "— 𝙈ᥙ𝙡𝗍і  !  ִ 路易斯¡ ♡ׄ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "231000705630441@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
       "genre": "",
       "birth": "",
@@ -21154,6 +21163,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "231000705630441@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34159,26 +34177,26 @@
       "users": {
         "5491135078568@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 75974,
-          "exp": 10175,
-          "usedcommands": 94,
-          "level": 35,
+          "bank": 89905,
+          "exp": 11082,
+          "usedcommands": 108,
+          "level": 37,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752306412373,
-          "mineCooldown": 1752306413482,
-          "workCooldown": 1752306418082,
-          "slutCooldown": 1752306416026,
-          "pptCooldown": 1752306424727,
+          "crimeCooldown": 1752309593000,
+          "mineCooldown": 1752309596148,
+          "workCooldown": 1752309591423,
+          "slutCooldown": 1752309597601,
+          "pptCooldown": 1752309600750,
           "dailyStreak": 1,
           "lastDaily": 1752291057147,
           "nextReward": 10983,
           "lastMonthly": 1752291060563,
           "lastWeekly": 1752291063186,
-          "rtCooldown": 1752306430116,
+          "rtCooldown": 1752309607464,
           "personajesEnVenta": [],
-          "rwCooldown": 1752294968153,
-          "buyCooldown": 1752294974326,
+          "rwCooldown": 1752309923812,
+          "buyCooldown": 1752309927890,
           "characters": [
             {
               "name": "Nezuko",
@@ -34186,6 +34204,14 @@
               "value": 3000,
               "gender": "Mujer",
               "source": "Kimetsu no Yaiba",
+              "claim": "sábado, 12 de julio de 2025"
+            },
+            {
+              "name": "Ryuuki",
+              "url": "https://stellarwa.xyz/files/1749384353358.jpg",
+              "value": 4000,
+              "gender": "Hombre",
+              "source": "Assassination Classroom",
               "claim": "sábado, 12 de julio de 2025"
             }
           ],
@@ -39198,7 +39224,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363418655352565@g.us": {
       "users": {
@@ -39222,7 +39249,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -39258,7 +39286,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 59,
+      "botcommando": 68,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -39408,7 +39436,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 87,
+      "botcommando": 95,
       "prefix": "!",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -39428,7 +39456,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 10,
+      "botcommando": 11,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
