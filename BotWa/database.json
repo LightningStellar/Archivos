@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Bottsito",
+      "name": "A.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10026,7 +10026,25 @@
     "23609821139074@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "..",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584246044696@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "wily🦦🦥",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51900732507@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "衛生兵🍮",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20927,6 +20945,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51900732507@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25149,6 +25176,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28058,6 +28094,24 @@
           "reason": ""
         },
         "59175705029@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493413855423@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215534360787@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -31862,6 +31916,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584246044696@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -31874,7 +31937,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5212205062839@s.whatsapp.net": {
       "users": {
@@ -32903,7 +32967,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 61,
+      "botcommando": 62,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
