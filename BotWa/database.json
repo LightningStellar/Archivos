@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Talco",
+      "name": "𐙚♥︎~Muchiro Tokito~♥︎𓆉",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13380,7 +13380,7 @@
     "236438016807078@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "David Herrera",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13390,6 +13390,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Marc",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "211506285310117@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27994,6 +28003,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "211506285310117@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -43313,6 +43331,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363418439574828@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
