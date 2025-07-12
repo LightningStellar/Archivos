@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝔍𝔢𝔬𝔫 𝔍𝔦𝔪𝔦𝔫",
+      "name": "Why?",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11399,6 +11399,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34686468454@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Emma☆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216146965087@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "..",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13525,6 +13543,15 @@
           "personajesEnVenta": []
         },
         "393293886449@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218782093670@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -36736,6 +36763,40 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363258260175611@g.us": {
+      "users": {
+        "34686468454@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216146965087@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
