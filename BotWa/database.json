@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🎸ㅤ     𝐋𝐘𝐕𝐄𝐑｡ㅤㅤㅤ ﹫",
+      "name": "❂𝚊𝚒𝚜𝚑𝚊❂ (𝔸𝑟𝑙𝑒𝑐𝑐ℎ𝑖𝑛𝑜 𝑣𝑒𝑟𝑠)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12613,6 +12613,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "David Herrera",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "158531823091808@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -39905,6 +39914,24 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "158531823091808@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
