@@ -12741,7 +12741,7 @@
     "56930984251@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Mitsuri/Ruby.",
+      "name": "▞▟  ׄ   ׅ  ㌕‌  ׄ   ▉ ⃞🌸",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24200,6 +24200,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56939134025@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Cindy",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -28924,12 +28933,12 @@
         "50248151611@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 36420,
-          "exp": 4760,
-          "usedcommands": 15,
+          "exp": 4769,
+          "usedcommands": 16,
           "level": 26,
           "banned": false,
           "reason": "",
-          "Subs": 1752274844607,
+          "Subs": 1752279085655,
           "personajesEnVenta": [],
           "crimeCooldown": 1752243756174,
           "mineCooldown": 1752243758768,
@@ -40757,8 +40766,8 @@
         "5212202410659@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 1,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
           "reason": "",
@@ -63811,6 +63820,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56930984251@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -73887,6 +73905,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "56939134025@s.whatsapp.net": {
+      "users": {
+        "56939134025@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -73942,7 +73984,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 740,
+      "botcommando": 741,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -74052,7 +74094,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 99,
+      "botcommando": 100,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
