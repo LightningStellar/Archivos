@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "★☆",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20767,6 +20767,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212704739041@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+212 704-739041",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215531562525@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 55 3156 2525",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -30139,6 +30157,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215531562525@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -61064,6 +61091,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "212704739041@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -64098,6 +64134,31 @@
     "5215577660106@s.whatsapp.net": {
       "users": {
         "5215577660106@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "5219631059727@s.whatsapp.net": {
+      "users": {
+        "5219631059727@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
