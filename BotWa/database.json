@@ -3074,7 +3074,7 @@
     "5218711009072@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 871 100 9072",
+      "name": "𝘔𝘰𝘯𝘬𝘺 𝘋' 𝘓𝘶𝘧𝘧𝘺",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -26354,6 +26354,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584246503130@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "sebastian Alejandro",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492604127498@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "m.ines xd 🌻",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34823,6 +34841,15 @@
           "reason": ""
         },
         "5213111364843@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584246503130@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -49077,12 +49104,12 @@
         "51910951019@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 33,
-          "usedcommands": 1,
-          "level": 3,
+          "exp": 80,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
           "reason": "",
-          "Subs": 1752283087765
+          "Subs": 1752283269955
         },
         "584165738229@s.whatsapp.net": {
           "chocolates": 0,
@@ -79981,6 +80008,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492604127498@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -80703,7 +80739,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 113,
+      "botcommando": 114,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
