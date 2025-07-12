@@ -19109,6 +19109,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212714685782@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+212 714-685782",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584128304947@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Erick  ☕",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23369,6 +23387,15 @@
           "exp": 100,
           "usedcommands": 2,
           "level": 5,
+          "banned": false,
+          "reason": ""
+        },
+        "212714685782@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -37265,6 +37292,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584128304947@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -49953,6 +49989,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51948219369@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -55913,6 +55958,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "192844534964355@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -59694,7 +59748,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 134,
+      "botcommando": 135,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
