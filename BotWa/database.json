@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ユリディア・サンチェス",
+      "name": ".",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13876,6 +13876,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51958478601@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🇹‌🇭‌🇪‌  🇨‌🇭‌🇮‌🇨‌🇴‌",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "23811550351584@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -22198,6 +22216,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51958478601@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25453,6 +25480,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "23811550351584@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39976,9 +40012,9 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 42,
+          "usedcommands": 1,
+          "level": 4,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -44942,7 +44978,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 98,
+      "botcommando": 99,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -45082,7 +45118,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 49,
+      "botcommando": 50,
       "prefix": "#+/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
