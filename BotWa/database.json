@@ -11148,6 +11148,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491138985865@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𓉢        ㅤ堕落        ́      的座𝐒͟𝐚͟𝐧𝐠𝐫𝐞.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -15041,6 +15050,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5491138985865@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -15874,9 +15892,9 @@
         "5212781206359@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 198,
-          "usedcommands": 3,
-          "level": 7,
+          "exp": 270,
+          "usedcommands": 4,
+          "level": 8,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -17206,6 +17224,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56963153547@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36118,7 +36145,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 39,
+      "botcommando": 40,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
