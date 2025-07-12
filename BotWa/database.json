@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Cristian",
+      "name": "Bottsito",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9995,6 +9995,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363354127813521@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59175705029@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "₳ĐⱤłӾ̼͙̈́͆̈́ͯ̒̆̀̓ͧ͠ཋྀ₊‧⁺",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363347554603511@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": {},
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "23609821139074@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18068,9 +18104,9 @@
         "573143237521@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 12,
+          "usedcommands": 1,
+          "level": 2,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -20712,6 +20748,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5351014515@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21308,6 +21353,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363347554603511@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21334,6 +21388,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363354127813521@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21853,16 +21916,30 @@
           "personajesEnVenta": []
         },
         "51987041650@s.whatsapp.net": {
-          "chocolates": 36975,
+          "chocolates": 23975,
           "bank": 0,
-          "exp": 44,
-          "usedcommands": 1,
-          "level": 4,
+          "exp": 197,
+          "usedcommands": 3,
+          "level": 7,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752297698310,
-          "nextReward": 34085
+          "nextReward": 34085,
+          "rwCooldown": 1752298601597,
+          "buyCooldown": 1752298607681,
+          "characters": [
+            {
+              "name": "Beans",
+              "url": "https://stellarwa.xyz/files/1750783118366.jpg",
+              "value": 13000,
+              "gender": "Hombre",
+              "source": "Hunter x Hunter",
+              "claim": "sábado, 12 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         }
       },
       "sWelcome": "",
@@ -25063,6 +25140,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "23609821139074@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27970,6 +28056,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "59175705029@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28535,6 +28630,18 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51987041650@s.whatsapp.net": {
+          "chocolates": 25698,
+          "bank": 0,
+          "exp": 28,
+          "usedcommands": 1,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752297722057,
+          "nextReward": 34147
         }
       },
       "sWelcome": "",
@@ -32806,7 +32913,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 17,
+      "botcommando": 18,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -32886,7 +32993,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 18,
+      "botcommando": 19,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -32956,7 +33063,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 44,
+      "botcommando": 45,
       "prefix": "#+/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -32966,7 +33073,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
