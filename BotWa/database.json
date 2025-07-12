@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Iris. 🍃🌧️",
+      "name": "⚠︎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4124,7 +4124,7 @@
     "120363419457218789@g.us": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": {},
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9891,7 +9891,25 @@
     "127191346098355@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "matrixlightshiesty",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59163837997@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+591 63837997",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573046726164@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝑀𝑖𝑛𝑎𝑡𝑜",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24871,6 +24889,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "149121784672410@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25461,6 +25488,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573046726164@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26416,6 +26452,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59163837997@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
