@@ -2306,7 +2306,7 @@
     "5212205062839@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "<3~VEROSIKA MAYDAY ~^^(^o^)",
+      "name": "Vinotinto🍷",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8966,6 +8966,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51904051431@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "feliz como una lombriz",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363341662610602@g.us": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -10597,6 +10615,15 @@
           "reason": ""
         },
         "593963680316@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51904051431@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -23713,6 +23740,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "120363341662610602@g.us": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27525,17 +27561,18 @@
         },
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 32165,
-          "exp": 261,
-          "usedcommands": 4,
-          "level": 7,
+          "bank": 34665,
+          "exp": 4285,
+          "usedcommands": 7,
+          "level": 25,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
           "dailyStreak": 1,
           "lastDaily": 1752294491788,
           "nextReward": 42576,
-          "workCooldown": 1752295105185
+          "workCooldown": 1752295105185,
+          "lastMonthly": 1752294521587
         },
         "5493521538906@s.whatsapp.net": {
           "chocolates": 0,
@@ -29803,7 +29840,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 32,
       "prefix": "!",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
