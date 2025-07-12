@@ -13867,6 +13867,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584120433867@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Surge🤡",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16511,6 +16520,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "584120433867@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23214,12 +23232,12 @@
         "5215565270181@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 72812,
-          "exp": 9156,
-          "usedcommands": 99,
+          "exp": 9295,
+          "usedcommands": 103,
           "level": 34,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752290817183,
+          "rwCooldown": 1752326283107,
           "crimeCooldown": 1752325924737,
           "mineCooldown": 1752325927103,
           "workCooldown": 1752325928080,
@@ -23558,6 +23576,15 @@
           "gender": "Hombre",
           "source": "My Hero Academia",
           "id": "ca1bf25d"
+        },
+        {
+          "userId": "5215565270181@s.whatsapp.net",
+          "name": "Raiga",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278618-hFQ8hRmOVAHG.jpg",
+          "value": 662812,
+          "gender": "Hombre",
+          "source": "Mi tio es de otro Mundo",
+          "id": "3d1119a5"
         }
       ],
       "expired": 0
@@ -28469,14 +28496,14 @@
           "personajesEnVenta": []
         },
         "51914114673@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 1178,
           "bank": 58525,
-          "exp": 5619,
-          "usedcommands": 15,
+          "exp": 5786,
+          "usedcommands": 18,
           "level": 28,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752323388737,
+          "workCooldown": 1752325999765,
           "mineCooldown": 1752323444205,
           "dailyStreak": 1,
           "lastDaily": 1752291630550,
@@ -44875,7 +44902,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 268,
+      "botcommando": 272,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44915,7 +44942,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 90,
+      "botcommando": 95,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -44995,7 +45022,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 12,
+      "botcommando": 13,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -45075,7 +45102,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 31,
+      "botcommando": 32,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
