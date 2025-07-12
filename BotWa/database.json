@@ -15825,6 +15825,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573205896235@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✦⭑˚. 𓍯 𝒴𝒶𝑒 𓍯 ˚⭑✦",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23367,9 +23376,9 @@
         "56933563394@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 88,
-          "usedcommands": 3,
-          "level": 4,
+          "exp": 323,
+          "usedcommands": 6,
+          "level": 9,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -27074,14 +27083,26 @@
           "personajesEnVenta": []
         },
         "573228667071@s.whatsapp.net": {
-          "chocolates": 500000,
+          "chocolates": 7500000,
           "bank": 0,
-          "exp": 223,
-          "usedcommands": 5,
-          "level": 8,
+          "exp": 619,
+          "usedcommands": 12,
+          "level": 11,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "buyCooldown": 1752333412304,
+          "characters": [
+            {
+              "name": "Elizabeth Liones",
+              "url": "https://stellarwa.xyz/files/1749349976086.jpg",
+              "value": 50000,
+              "gender": "Mujer",
+              "source": "Los Siete Pecados Capitales",
+              "claim": "sábado, 12 de julio de 2025"
+            }
+          ],
+          "rtCooldown": 1752333131129
         },
         "17604773961@s.whatsapp.net": {
           "chocolates": 0,
@@ -27144,8 +27165,8 @@
         "573128732144@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 35399,
-          "exp": 5712,
-          "usedcommands": 13,
+          "exp": 5776,
+          "usedcommands": 15,
           "level": 28,
           "banned": false,
           "reason": "",
@@ -27183,15 +27204,6 @@
           "gender": "Mujer",
           "source": "Arifureta",
           "id": "22ae667a"
-        },
-        {
-          "userId": "573128732144@s.whatsapp.net",
-          "name": "Elizabeth Liones",
-          "url": "https://stellarwa.xyz/files/1749349976086.jpg",
-          "value": 50000,
-          "gender": "Mujer",
-          "source": "Los Siete Pecados Capitales",
-          "id": "5177911b"
         }
       ]
     },
@@ -28502,6 +28514,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573205896235@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -31348,9 +31369,9 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 3495,
           "bank": 0,
-          "exp": 1347,
-          "usedcommands": 23,
-          "level": 15,
+          "exp": 1442,
+          "usedcommands": 24,
+          "level": 16,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -50650,7 +50671,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 198,
+      "botcommando": 199,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -50690,7 +50711,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 30,
+      "botcommando": 33,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -50800,7 +50821,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 83,
+      "botcommando": 92,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
