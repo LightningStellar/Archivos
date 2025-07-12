@@ -31566,6 +31566,16 @@
           "lastDaily": 1752297722057,
           "nextReward": 34147,
           "personajesEnVenta": []
+        },
+        "5491176203686@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 89,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752304677920
         }
       },
       "sWelcome": "",
@@ -31580,7 +31590,17 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "5491176203686@s.whatsapp.net",
+          "name": "Teruhiko Yukimura",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b173450-3W4X5drCuO21.png",
+          "value": 5196,
+          "gender": "Hombre",
+          "source": "Classroom Of The Elite",
+          "id": "794775d5"
+        }
+      ]
     },
     "5219631821260@s.whatsapp.net": {
       "users": {
@@ -36795,7 +36815,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 68,
+      "botcommando": 69,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -36965,7 +36985,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 14,
+      "botcommando": 15,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
