@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✮$NUNEW$✮",
+      "name": "caramelo de menta",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12389,6 +12389,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "✮$NUNEW$✮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "90933601263670@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -25483,6 +25492,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "90933601263670@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40187,7 +40205,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 79,
+      "botcommando": 80,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
