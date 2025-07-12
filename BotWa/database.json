@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "javiersoria",
+      "name": "GET TO ME",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11247,6 +11247,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "111777060790348@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "167147762372711@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "154902491848715@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21521,6 +21548,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "111777060790348@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22632,6 +22668,15 @@
           "personajesEnVenta": []
         },
         "56963153547@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "154902491848715@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -28498,6 +28543,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "167147762372711@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
