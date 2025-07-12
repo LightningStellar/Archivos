@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Brayan Oliveros",
+      "name": "arroz",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20412,6 +20412,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "351910686421@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29608,9 +29617,9 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 70,
+          "usedcommands": 3,
+          "level": 5,
           "banned": false,
           "reason": ""
         },
@@ -29653,7 +29662,7 @@
       "gacha": true,
       "rpg": true,
       "adminonly": false,
-      "primaryBot": "5218713339906@s.whatsapp.net",
+      "primaryBot": "5492914407013@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
@@ -46551,7 +46560,7 @@
     },
     "51954532672@s.whatsapp.net": {
       "self": false,
-      "botcommando": 17,
+      "botcommando": 18,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46701,7 +46710,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 33,
+      "botcommando": 34,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46721,7 +46730,7 @@
     },
     "5214621173511@s.whatsapp.net": {
       "self": false,
-      "botcommando": 9,
+      "botcommando": 10,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
