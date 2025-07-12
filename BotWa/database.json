@@ -11712,6 +11712,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5216567493502@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "919085118490@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Marco",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "48744187842592@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213330365225@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "¡¡ R3n !!",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16632,8 +16668,8 @@
         "5212781206359@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 298,
-          "usedcommands": 6,
+          "exp": 319,
+          "usedcommands": 7,
           "level": 9,
           "banned": false,
           "reason": "",
@@ -18996,6 +19032,15 @@
           "reason": ""
         },
         "573002026613@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "919085118490@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -22351,6 +22396,15 @@
           "personajesEnVenta": []
         },
         "239298850873418@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "48744187842592@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -37625,6 +37679,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5216567493502@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5213330365225@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37809,7 +37881,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 44,
+      "botcommando": 45,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
