@@ -11479,6 +11479,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219331124248@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🇯🇵",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19663,8 +19672,8 @@
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 54174,
-          "exp": 4819,
-          "usedcommands": 40,
+          "exp": 4875,
+          "usedcommands": 41,
           "level": 26,
           "banned": false,
           "reason": "",
@@ -19679,7 +19688,7 @@
           "nextReward": 31385,
           "lastWeekly": 1752286433437,
           "lastMonthly": 1752286440496,
-          "rwCooldown": 1752289353696,
+          "rwCooldown": 1752305515159,
           "personajesEnVenta": []
         },
         "573235511077@s.whatsapp.net": {
@@ -19943,6 +19952,15 @@
           "gender": "Hombre",
           "source": "Apari3ncias",
           "id": "c890dc1b"
+        },
+        {
+          "userId": "5215522567568@s.whatsapp.net",
+          "name": "Mihael Keehl",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b463-QBLeLf6XxVg6.png",
+          "value": 46127,
+          "gender": "Hombre",
+          "source": "Death Note",
+          "id": "0035e194"
         }
       ],
       "expired": 0
@@ -36042,6 +36060,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5219331124248@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36966,7 +36993,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420072839079@g.us": {
       "users": {
@@ -37036,7 +37064,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 215,
+      "botcommando": 216,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
