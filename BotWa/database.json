@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Lucca Giardina",
+      "name": "⏤͟͟͞͞с̶к̶в̶и̶г̶л̶у̶┆⛓️‍💥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15620,6 +15620,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363390639048346@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34633969911@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★彡 I V A N 彡★",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -22260,8 +22277,8 @@
         "573195735174@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 95,
-          "usedcommands": 1,
+          "exp": 191,
+          "usedcommands": 2,
           "level": 5,
           "banned": false,
           "reason": "",
@@ -49732,6 +49749,55 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363390639048346@newsletter": {
+      "users": {
+        "120363390639048346@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363419261533446@g.us": {
+      "users": {
+        "34633969911@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -49897,7 +49963,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 14,
+      "botcommando": 15,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
