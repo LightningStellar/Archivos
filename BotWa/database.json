@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Carlos R",
+      "name": "YᑌᖇI KOᘔᑌKᗩTᗩ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8678,6 +8678,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "◤𝙲𝚊𝚛𝚞/𝙲𝚑𝚛𝚒𝚜◢",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "134965387882682@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21249,7 +21258,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363327256666150@g.us": {
       "users": {
@@ -21706,6 +21716,15 @@
           "personajesEnVenta": []
         },
         "69613517857007@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "134965387882682@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -27031,6 +27050,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "595994943779@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 89,
+          "usedcommands": 1,
+          "level": 5,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27940,14 +27968,14 @@
     "120363402724936929@g.us": {
       "users": {
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 10675,
+          "chocolates": 80675,
           "bank": 0,
-          "exp": 4057,
-          "usedcommands": 13,
+          "exp": 4173,
+          "usedcommands": 15,
           "level": 25,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752293378195,
+          "rtCooldown": 1752294265278,
           "dailyStreak": 1,
           "lastDaily": 1752291926733,
           "nextReward": 37624,
@@ -28554,7 +28582,7 @@
     },
     "51963309930@s.whatsapp.net": {
       "self": false,
-      "botcommando": 30,
+      "botcommando": 31,
       "prefix": "#",
       "namebot": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
       "namebot2": "⁞⁞  𝐈 ͟𝐕̱͟ ͟𝐀̱͟͟ ⃔͟𝐍 🎙҈ ᭡° .",
@@ -28734,7 +28762,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 16,
+      "botcommando": 18,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
