@@ -12715,6 +12715,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51962366019@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20424,6 +20433,15 @@
           "reason": ""
         },
         "51950157136@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51962366019@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -41168,12 +41186,13 @@
         "393518509171@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 260,
-          "usedcommands": 4,
-          "level": 7,
+          "exp": 383,
+          "usedcommands": 6,
+          "level": 9,
           "banned": false,
           "reason": "",
-          "crimeCooldown": 1752317425875
+          "crimeCooldown": 1752317425875,
+          "pptCooldown": 0
         }
       },
       "sWelcome": "",
@@ -41199,6 +41218,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "393518509171@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41211,7 +41239,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -41417,7 +41446,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 15,
+      "botcommando": 17,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
