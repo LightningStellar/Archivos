@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Fr4mb7S4",
+      "name": "...🔥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18609,6 +18609,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56939334026@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "치히로💗",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "239865820090374@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34348,6 +34366,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56939334026@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -57602,6 +57629,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "239865820090374@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -58422,6 +58458,30 @@
     "120363401555132895@g.us": {
       "users": {
         "227423316668500@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "212722523636@s.whatsapp.net": {
+      "users": {
+        "212722523636@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
