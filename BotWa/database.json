@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "㍫𓂂     𝖫𝗂꯭ⴇ    🎡℠",
+      "name": "Wiwi original ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11851,6 +11851,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Wiwi original ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218132536193@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "La dueña de las pajas de Tani deidad",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -37389,6 +37398,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5218132536193@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 8,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38019,6 +38037,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38031,7 +38058,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -38097,7 +38125,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 71,
+      "botcommando": 72,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
