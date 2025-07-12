@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "Talco",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13367,6 +13367,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51967250329@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "H.A.H",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "236438016807078@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34621191347@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Marc",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21431,6 +21458,15 @@
           "reason": ""
         },
         "51913527859@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51967250329@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29606,6 +29642,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "34621191347@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -34045,7 +34090,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "56942623135@s.whatsapp.net": {
       "users": {
@@ -37297,6 +37343,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "236438016807078@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
