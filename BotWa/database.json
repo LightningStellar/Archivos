@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Danni",
+      "name": "Μʍƞʀτ⋎[СǤѲ]",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15816,6 +15816,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "279658473996482@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23358,9 +23367,9 @@
         "56933563394@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 50,
-          "usedcommands": 2,
-          "level": 2,
+          "exp": 88,
+          "usedcommands": 3,
+          "level": 4,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -27067,9 +27076,9 @@
         "573228667071@s.whatsapp.net": {
           "chocolates": 500000,
           "bank": 0,
-          "exp": 138,
-          "usedcommands": 3,
-          "level": 6,
+          "exp": 223,
+          "usedcommands": 5,
+          "level": 8,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -27133,18 +27142,24 @@
           "personajesEnVenta": []
         },
         "573128732144@s.whatsapp.net": {
-          "chocolates": 13236,
-          "bank": 0,
-          "exp": 384,
-          "usedcommands": 6,
-          "level": 9,
+          "chocolates": 0,
+          "bank": 35399,
+          "exp": 5712,
+          "usedcommands": 13,
+          "level": 28,
           "banned": false,
           "reason": "",
           "workCooldown": 1752333028231,
           "crimeCooldown": 1752333030661,
           "slutCooldown": 1752333033467,
           "mineCooldown": 1752333036501,
-          "pptCooldown": 1752333040331
+          "pptCooldown": 1752333040331,
+          "dailyStreak": 1,
+          "lastDaily": 1752332454897,
+          "nextReward": 49669,
+          "lastWeekly": 1752332459221,
+          "lastMonthly": 1752332467719,
+          "rwCooldown": 1752333394859
         }
       },
       "sWelcome": "",
@@ -27168,6 +27183,15 @@
           "gender": "Mujer",
           "source": "Arifureta",
           "id": "22ae667a"
+        },
+        {
+          "userId": "573128732144@s.whatsapp.net",
+          "name": "Elizabeth Liones",
+          "url": "https://stellarwa.xyz/files/1749349976086.jpg",
+          "value": 50000,
+          "gender": "Mujer",
+          "source": "Los Siete Pecados Capitales",
+          "id": "5177911b"
         }
       ]
     },
@@ -28716,6 +28740,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "279658473996482@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -49236,7 +49269,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363419564851821@g.us": {
       "users": {
@@ -50656,7 +50690,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 30,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -50766,7 +50800,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 74,
+      "botcommando": 83,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -50786,7 +50820,7 @@
     },
     "584127570056@s.whatsapp.net": {
       "self": false,
-      "botcommando": 43,
+      "botcommando": 47,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
