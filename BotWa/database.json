@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⚠︎",
+      "name": "🔥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18753,6 +18753,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "199793859141686@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "112816493211840@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "53962237579424@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -35755,9 +35782,9 @@
         "51930430979@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 59,
+          "usedcommands": 1,
+          "level": 4,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -46260,6 +46287,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "199793859141686@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47512,6 +47548,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "112816493211840@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -55279,7 +55324,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363402538413478@g.us": {
       "users": {
@@ -57881,6 +57927,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "53962237579424@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -58888,7 +58943,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 227,
+      "botcommando": 228,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
