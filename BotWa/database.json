@@ -102,7 +102,7 @@
     "5215522567568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 55 2256 7568",
+      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
       "genre": "",
       "birth": "lunes, 21 de julio",
       "marry": "59175015536@s.whatsapp.net",
@@ -228,7 +228,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "cristian",
+      "name": "Kasane",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2372,7 +2372,7 @@
     "5217296633340@s.whatsapp.net": {
       "metadatos": "de shark",
       "metadatos2": "no robar",
-      "name": "El 3 piernas 🔥🔥",
+      "name": "shark",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -25813,7 +25813,7 @@
     "584165738229@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Kusuri",
+      "name": "+58 416-5738229",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -26332,6 +26332,24 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "𝙶𝚊𝚝𝚘𝚜 𝚂. 𝙰",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50369792152@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝐁𝐫𝐚𝐧𝐝𝐨𝐧 ツ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "98767504203917@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -45500,6 +45518,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "98767504203917@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -48494,12 +48521,13 @@
         "5212272138993@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 434,
-          "usedcommands": 8,
-          "level": 10,
+          "exp": 489,
+          "usedcommands": 9,
+          "level": 11,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "Subs": 1752283184423
         },
         "34656444157@s.whatsapp.net": {
           "chocolates": 0,
@@ -68859,6 +68887,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "50369792152@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -80476,6 +80513,31 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5212272138993@s.whatsapp.net": {
+      "users": {
+        "212609690006@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -80641,7 +80703,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 112,
+      "botcommando": 113,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
