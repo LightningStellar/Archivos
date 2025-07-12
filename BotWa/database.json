@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "....•~•\"",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14387,13 +14387,31 @@
     "79006124794044@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "....•~•\"",
       "genre": "",
       "birth": "",
       "marry": "",
       "description": ""
     },
     "74324409061467@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "104419463024873@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "221294532518134@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -24571,6 +24589,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "104419463024873@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29997,7 +30024,7 @@
           "bank": 0,
           "exp": 240,
           "usedcommands": 4,
-          "level": 7,
+          "level": 8,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -32326,6 +32353,15 @@
           "personajesEnVenta": []
         },
         "136296777392178@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "221294532518134@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
