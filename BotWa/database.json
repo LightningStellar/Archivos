@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~p⍺słᧉlı᪲ł𐐫 🍓",
+      "name": "Cristian",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10062,7 +10062,25 @@
     "124653221728390@lid": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "衛生兵🍮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "70162837414016@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51922674236@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꧁༒☬うんぺんでじょ☬༒꧂",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17652,22 +17670,23 @@
           "personajesEnVenta": []
         },
         "50768646227@s.whatsapp.net": {
-          "chocolates": 5154,
-          "bank": 50613,
-          "exp": 754,
-          "usedcommands": 13,
-          "level": 12,
+          "chocolates": 0,
+          "bank": 56360,
+          "exp": 1484,
+          "usedcommands": 17,
+          "level": 17,
           "banned": false,
           "reason": "",
           "mineCooldown": 1752298465727,
           "workCooldown": 1752298473759,
           "slutCooldown": 1752298476811,
           "crimeCooldown": 1752298470521,
-          "pptCooldown": 1752296328963,
+          "pptCooldown": 1752298484420,
           "dailyStreak": 1,
           "lastDaily": 1752295744713,
           "nextReward": 32749,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rwCooldown": 1752298801871
         }
       },
       "sWelcome": "",
@@ -17771,6 +17790,15 @@
           "gender": "Mujer",
           "source": "Classroom Of The Elite",
           "id": "c68098d3"
+        },
+        {
+          "userId": "50768646227@s.whatsapp.net",
+          "name": "Babuino",
+          "url": "https://stellarwa.xyz/files/1749147798824.jpg",
+          "value": 10000,
+          "gender": "Hombre",
+          "source": "Darling in the Franxx",
+          "id": "0e0e55af"
         }
       ],
       "expired": 0
@@ -22003,6 +22031,21 @@
           ],
           "characterCount": null,
           "totalRwcoins": null
+        },
+        "51922674236@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 19529,
+          "exp": 248,
+          "usedcommands": 5,
+          "level": 8,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752297925037,
+          "nextReward": 37826,
+          "workCooldown": 1752298527335,
+          "slutCooldown": 1752298530680,
+          "mineCooldown": 1752298533010
         }
       },
       "sWelcome": "",
@@ -24273,6 +24316,15 @@
           "reason": ""
         },
         "116479613730915@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "70162837414016@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -32992,7 +33044,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 200,
+      "botcommando": 203,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -33012,7 +33064,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 62,
+      "botcommando": 63,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -33022,7 +33074,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 18,
+      "botcommando": 23,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
