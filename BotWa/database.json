@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "This",
+      "name": "Brayan Oliveros",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14023,7 +14023,7 @@
     "5492916439595@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Mood Sebas",
+      "name": "あ ┊ 𝐂𝐫𝐚𝐱𝐤𝐞𝐫",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14450,6 +14450,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5217712437196@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🐼",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17161,6 +17170,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5217712437196@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -18141,9 +18159,9 @@
         "5492916439595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 327,
+          "usedcommands": 7,
+          "level": 8,
           "banned": false,
           "reason": ""
         },
@@ -18165,7 +18183,7 @@
       "gacha": true,
       "rpg": true,
       "adminonly": false,
-      "primaryBot": null,
+      "primaryBot": "5219631828631@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
@@ -28855,12 +28873,12 @@
         "51972754151@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 243,
-          "usedcommands": 6,
-          "level": 8,
+          "exp": 373,
+          "usedcommands": 9,
+          "level": 9,
           "banned": false,
           "reason": "",
-          "Subs": 1752327240051
+          "Subs": 1752327394887
         }
       },
       "sWelcome": "",
@@ -29597,11 +29615,11 @@
           "reason": ""
         },
         "573147626376@s.whatsapp.net": {
-          "chocolates": 36418,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 376,
-          "usedcommands": 8,
-          "level": 9,
+          "exp": 456,
+          "usedcommands": 9,
+          "level": 10,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -29623,7 +29641,8 @@
             }
           ],
           "characterCount": null,
-          "totalRwcoins": null
+          "totalRwcoins": null,
+          "rtCooldown": 1752327944823
         }
       },
       "sWelcome": "",
@@ -46492,7 +46511,7 @@
     },
     "5219631828631@s.whatsapp.net": {
       "self": false,
-      "botcommando": 29,
+      "botcommando": 36,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46512,7 +46531,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 41,
+      "botcommando": 42,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46522,7 +46541,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 158,
+      "botcommando": 165,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -46532,7 +46551,7 @@
     },
     "51954532672@s.whatsapp.net": {
       "self": false,
-      "botcommando": 14,
+      "botcommando": 17,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46552,7 +46571,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 30,
+      "botcommando": 31,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
