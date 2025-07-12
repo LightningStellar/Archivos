@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☭卍 † Daryel † 卍☭",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24660,13 +24660,22 @@
     "187261027152027@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Andre",
       "genre": "",
       "birth": "",
       "marry": "",
       "description": ""
     },
     "244976361468033@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "J 🦦",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "136356990841027@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -39621,6 +39630,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "136356990841027@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -64805,9 +64823,9 @@
         "5214492902103@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 71,
+          "usedcommands": 1,
+          "level": 5,
           "banned": false,
           "reason": ""
         }
@@ -75466,7 +75484,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 25,
+      "botcommando": 26,
       "prefix": "#",
       "namebot": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
       "namebot2": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
