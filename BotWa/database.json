@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "cuddle team leader",
+      "name": "𝔈𝗍𝖍𝚊𝖓 𝕊𝔩𝗮𝖄𝚎𝖗",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10218,6 +10218,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "249916127449138@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "93643641770038@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -15940,6 +15958,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "249916127449138@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21141,6 +21168,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "93643641770038@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
