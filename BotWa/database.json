@@ -39,7 +39,7 @@
     "5215522567568@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+52 55 2256 7568",
+      "name": "⋆.𖥻 ִ ۫ᩚ🦦⃝𝐉𝑎𝒏z𓄹",
       "genre": "",
       "birth": "lunes, 21 de julio",
       "marry": "59175015536@s.whatsapp.net",
@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Feliz esencia de limón",
+      "name": "Joel",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8270,6 +8270,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491156383730@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⊹ ࣪ ˖🦴₊˚⊹",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "205724655317112@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -9689,6 +9707,15 @@
           "reason": ""
         },
         "5213322403022@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491156383730@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -20694,6 +20721,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "205724655317112@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26877,6 +26913,31 @@
     "120363330671270734@newsletter": {
       "users": {
         "120363330671270734@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363418873331747@g.us": {
+      "users": {
+        "5218782093670@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
