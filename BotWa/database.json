@@ -12608,6 +12608,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584243001635@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "David Herrera",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -26442,9 +26451,9 @@
         "5491158289478@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 21,
-          "usedcommands": 2,
-          "level": 3,
+          "exp": 102,
+          "usedcommands": 3,
+          "level": 6,
           "banned": false,
           "reason": ""
         }
@@ -40873,6 +40882,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584243001635@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40962,7 +40980,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 32,
+      "botcommando": 33,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
