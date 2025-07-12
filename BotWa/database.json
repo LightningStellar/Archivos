@@ -14909,6 +14909,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491150608213@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Jorge",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492235269580@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝓜urao 𐙚",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59168100806@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꧁༒☬ᴬᴸᵛᴬᴿᴼ☬༒꧂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "220400692809908@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -17715,6 +17751,24 @@
           "personajesEnVenta": []
         },
         "5213141983671@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491150608213@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492235269580@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -23679,6 +23733,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "59168100806@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24159,9 +24222,9 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 151,
-          "usedcommands": 3,
-          "level": 7,
+          "exp": 326,
+          "usedcommands": 5,
+          "level": 9,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -24520,6 +24583,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "220400692809908@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27683,7 +27755,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363404231810706@newsletter": {
       "users": {
@@ -47812,6 +47885,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "59168100806@s.whatsapp.net": {
+      "users": {
+        "59168100806@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -47927,7 +48024,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 37,
+      "botcommando": 39,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
