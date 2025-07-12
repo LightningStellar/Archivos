@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Surge🤡",
+      "name": "This",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14571,6 +14571,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584126919646@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Arturo Morillo",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "116119306293348@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -27131,6 +27149,15 @@
           "personajesEnVenta": []
         },
         "13147129778332@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "116119306293348@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -46408,6 +46435,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "584126919646@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -46420,7 +46456,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "56975464491@s.whatsapp.net": {
       "users": {
