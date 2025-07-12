@@ -12044,6 +12044,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363402131272974@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212711117608@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "HELLBOY ⚙️ 🍮",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -24363,6 +24380,15 @@
           "personajesEnVenta": []
         },
         "219670397345917@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5212711117608@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -38796,6 +38822,31 @@
           "reason": ""
         },
         "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363402131272974@newsletter": {
+      "users": {
+        "120363402131272974@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
