@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Matagdeinnere",
+      "name": "Cristian",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8763,6 +8763,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51974449032@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Out",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11925,6 +11934,15 @@
           "reason": ""
         },
         "5215562259484@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51974449032@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18918,6 +18936,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5216463068634@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27537,6 +27564,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215635301246@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28929,7 +28965,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 50,
+      "botcommando": 51,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
