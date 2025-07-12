@@ -14777,6 +14777,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51917923009@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -23441,6 +23450,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51917923009@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29367,12 +29385,13 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 968,
-          "usedcommands": 16,
+          "exp": 976,
+          "usedcommands": 17,
           "level": 14,
           "banned": false,
           "reason": "",
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "Subs": 1752328617717
         },
         "120363347554603511@g.us": {
           "chocolates": 0,
@@ -47307,6 +47326,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "51967524493@s.whatsapp.net": {
+      "users": {
+        "5492914407013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -47392,7 +47436,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 185,
+      "botcommando": 187,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
