@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Ruben",
+      "name": "Matteo😝",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13097,6 +13097,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "185066332410039@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51973645983@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "dea",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21010,6 +21028,15 @@
           "reason": ""
         },
         "51931037090@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51973645983@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -39591,6 +39618,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "185066332410039@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
