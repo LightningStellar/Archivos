@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Lucarixi",
+      "name": "𔓕𝅄 \" 𝚬𝖬𖩐ΞɌ𝐎Ɍ \" 👑ᩙᩝ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10166,6 +10166,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5216121088145@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Eduardo",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12063,6 +12072,15 @@
           "reason": ""
         },
         "5215532727312@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216121088145@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -30743,7 +30761,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420552222264@g.us": {
       "users": {
