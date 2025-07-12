@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🔥",
+      "name": "☬💥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17460,7 +17460,7 @@
     "248764975579322@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "increíble",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17497,6 +17497,31 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "עמנואל",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363399482073441@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212941090549@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Felix 🫩",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363155433352980@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -37787,7 +37812,7 @@
           "chocolates": 0,
           "bank": 0,
           "exp": 183,
-          "usedcommands": 5,
+          "usedcommands": 6,
           "level": 7,
           "banned": false,
           "reason": "",
@@ -54552,6 +54577,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5212941090549@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 60,
+          "usedcommands": 2,
+          "level": 1,
+          "banned": false,
+          "reason": "",
+          "Subs": 1752334642726
         }
       },
       "sWelcome": "",
@@ -55003,6 +55038,79 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363399482073441@newsletter": {
+      "users": {
+        "120363399482073441@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "5491127177086@s.whatsapp.net": {
+      "users": {
+        "584243403568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363155433352980@newsletter": {
+      "users": {
+        "120363155433352980@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -55198,7 +55306,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 61,
+      "botcommando": 62,
       "prefix": "#",
       "namebot": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
       "namebot2": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
@@ -55228,7 +55336,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 61,
+      "botcommando": 63,
       "prefix": "#+/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
