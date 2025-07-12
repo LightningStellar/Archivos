@@ -9464,6 +9464,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5217228524967@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝙴𝚕𝚒𝚣𝚊𝚋𝚎𝚝𝚑",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -24746,9 +24755,9 @@
         "5493716412232@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 161,
-          "usedcommands": 3,
-          "level": 6,
+          "exp": 352,
+          "usedcommands": 5,
+          "level": 8,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -24942,6 +24951,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5217228524967@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -31055,6 +31073,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363402649870004@g.us": {
+      "users": {
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -31120,7 +31162,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 54,
+      "botcommando": 56,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -31280,7 +31322,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 43,
+      "botcommando": 44,
       "prefix": "#+/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
