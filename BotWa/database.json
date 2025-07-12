@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "This",
+      "name": "Valentina",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14589,6 +14589,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5492617490753@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝗠𝖾𝗀𝗎𝗋𝗎.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -17325,6 +17334,15 @@
           "reason": ""
         },
         "5493521538906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492617490753@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29017,9 +29035,9 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 190,
-          "usedcommands": 3,
-          "level": 7,
+          "exp": 226,
+          "usedcommands": 4,
+          "level": 8,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -33470,7 +33488,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363419457218789@g.us": {
       "users": {
@@ -46903,7 +46922,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 165,
+      "botcommando": 166,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
