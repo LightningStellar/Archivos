@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "J❄️A",
+      "name": "Shadow",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13178,6 +13178,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "34641147469@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Diana🎯",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573018984979@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "jesus",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18389,6 +18407,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573018984979@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -21148,6 +21175,15 @@
           "exp": 0,
           "usedcommands": 0,
           "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34641147469@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 186,
+          "usedcommands": 4,
+          "level": 7,
           "banned": false,
           "reason": ""
         }
@@ -29587,6 +29623,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5491126367355@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -42753,7 +42798,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 21,
+      "botcommando": 25,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
