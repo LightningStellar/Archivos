@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "×᷼᷼× 𝕸𝖎𝖐𝖆𝖊𝖑 ×͜× 🌒",
+      "name": "X5253",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13599,6 +13599,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51940994011@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "X5253",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "195172491112660@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16177,6 +16195,15 @@
           "reason": ""
         },
         "916376212352@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51940994011@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -39786,6 +39813,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "195172491112660@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -43917,6 +43953,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "393518509171@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -43929,7 +43974,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
