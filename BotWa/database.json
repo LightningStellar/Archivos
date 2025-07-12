@@ -2306,7 +2306,7 @@
     "5212205062839@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Vinotinto🍷",
+      "name": "<3~VEROSIKA MAYDAY ~^^(^o^)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9038,6 +9038,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584242923291@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "★Dante★",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -10687,6 +10696,15 @@
           "reason": ""
         },
         "34621228110@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584242923291@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -29572,6 +29590,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5212205062839@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29584,7 +29611,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "584120433867@s.whatsapp.net": {
       "users": {
