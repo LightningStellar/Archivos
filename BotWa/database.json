@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "マーシアとキム",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -3512,7 +3512,7 @@
     "5219633067903@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝙼𝙴𝚁𝙰𝚁𝚈 ✨",
+      "name": "── .★   ּ⠀ ִ 𝐘𝙤𝙤𝙢",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -6812,6 +6812,51 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493547654152@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "༄᭡͡ᩬ🤍⃝⃙͕⃕ ᳀𝐍𝐢𝐭𝐬𝐮𝐠⃜𝐚𒐴〠⃝⃢🌹",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492974354123@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Lourdes Candia",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56935237074@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "⋆.˚✮KᗩIՏᗴᖇ✮˚.⋆",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491144712954@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "10’s",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493794522057@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 379 452-2057",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -7889,6 +7934,24 @@
           "reason": ""
         },
         "34641080449@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492974354123@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491144712954@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -11170,6 +11233,15 @@
           "personajesEnVenta": []
         },
         "573161075013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5493547654152@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18786,6 +18858,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56935237074@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22307,7 +22388,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363357558490815@newsletter": {
       "users": {
@@ -22332,6 +22414,40 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363293918915595@g.us": {
+      "users": {
+        "5493794522057@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5214531458599@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
