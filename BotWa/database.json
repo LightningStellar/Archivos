@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "...🔥",
+      "name": "🔥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18627,6 +18627,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215620928431@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "◦•●◉✿ Mila💗 ✿◉●•◦",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59899172464@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🍒",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -24008,6 +24026,15 @@
           "reason": ""
         },
         "5215636794084@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "59899172464@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -36732,8 +36759,8 @@
         "5492974124262@s.whatsapp.net": {
           "chocolates": 3532,
           "bank": 3043,
-          "exp": 1936,
-          "usedcommands": 30,
+          "exp": 1960,
+          "usedcommands": 31,
           "level": 18,
           "banned": false,
           "reason": "",
@@ -57796,6 +57823,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215620928431@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -58607,7 +58643,7 @@
     },
     "573126958667@s.whatsapp.net": {
       "self": false,
-      "botcommando": 25,
+      "botcommando": 26,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
