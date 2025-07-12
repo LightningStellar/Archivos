@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "sliverista",
+      "name": "マーシアとキム",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8459,6 +8459,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5214445016146@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Shadow Valiente Hoenhaim.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "13177997988@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "magic is real  . . . but me?",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59893512900@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "maxi",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11529,6 +11556,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "13177997988@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -13309,6 +13345,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59893512900@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -18136,6 +18181,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5214445016146@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25402,6 +25456,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492916450307@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 59,
+          "usedcommands": 3,
+          "level": 4,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25412,7 +25475,7 @@
       "gacha": true,
       "rpg": true,
       "adminonly": false,
-      "primaryBot": null,
+      "primaryBot": "5216422302773@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
@@ -27923,7 +27986,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 46,
+      "botcommando": 47,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -28083,7 +28146,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 35,
+      "botcommando": 37,
       "prefix": "#+/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -28093,7 +28156,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 5,
+      "botcommando": 6,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
