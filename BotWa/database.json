@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "GET TO ME",
+      "name": "",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11260,13 +11260,22 @@
     "167147762372711@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "GET TO ME",
       "genre": "",
       "birth": "",
       "marry": "",
       "description": ""
     },
     "154902491848715@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "~๖ۣۣۜSλחᗫℳᏘℕ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "240080283271188@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -22677,6 +22686,24 @@
           "reason": ""
         },
         "154902491848715@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "240080283271188@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
