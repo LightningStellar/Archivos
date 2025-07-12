@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "arroz",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14374,6 +14374,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "56930675780@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Alexia Kaulitz bieber",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -17065,6 +17074,15 @@
           "reason": ""
         },
         "5492976237410@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "56930675780@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -28721,12 +28739,12 @@
         "51972754151@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 113,
-          "usedcommands": 2,
-          "level": 3,
+          "exp": 130,
+          "usedcommands": 3,
+          "level": 6,
           "banned": false,
           "reason": "",
-          "Subs": 1752326934119
+          "Subs": 1752327076299
         }
       },
       "sWelcome": "",
@@ -28971,14 +28989,14 @@
     "120363419574059419@g.us": {
       "users": {
         "51926887094@s.whatsapp.net": {
-          "chocolates": 192914,
+          "chocolates": 170219,
           "bank": 0,
-          "exp": 1740,
-          "usedcommands": 38,
+          "exp": 1830,
+          "usedcommands": 39,
           "level": 18,
           "banned": false,
           "reason": "",
-          "rtCooldown": 1752324934144,
+          "rtCooldown": 1752327693681,
           "workCooldown": 1752288643405,
           "mineCooldown": 1752288647059,
           "dailyStreak": 1,
@@ -44652,9 +44670,9 @@
         "393518509171@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 572,
-          "usedcommands": 9,
-          "level": 10,
+          "exp": 750,
+          "usedcommands": 12,
+          "level": 12,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752317425875,
@@ -46298,7 +46316,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 151,
+      "botcommando": 152,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -46318,7 +46336,7 @@
     },
     "573126958667@s.whatsapp.net": {
       "self": false,
-      "botcommando": 22,
+      "botcommando": 23,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -46418,7 +46436,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 20,
+      "botcommando": 23,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
