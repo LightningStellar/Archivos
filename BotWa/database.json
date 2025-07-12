@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Foxy Treats",
+      "name": "파괴하다.",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11920,6 +11920,24 @@
       "description": ""
     },
     "53112102490150@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213781016908@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ʞ⃫Ｃ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "117094280605916@lid": {
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
@@ -31368,6 +31386,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "117094280605916@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38420,6 +38447,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363402852615825@g.us": {
+      "users": {
+        "5213781016908@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
