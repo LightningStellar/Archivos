@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "metzm0887",
+      "name": "Daniel Torres",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12039,7 +12039,7 @@
     "99252952928500@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "Bam",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -38787,6 +38787,15 @@
           "reason": ""
         },
         "99252952928500@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
