@@ -11300,6 +11300,42 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219611292202@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "porcelaine, westling",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5491127894644@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Neòtic sin firma.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219932335974@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝐍꯭ܻ҅݇҆݉֓.  ৻🫧١KAIZER",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215584504018@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🦋𝄞♡∘˚٭ ꫀႱỉ˙∘🫧",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -15222,6 +15258,24 @@
           "reason": ""
         },
         "5492236697584@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219611292202@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491127894644@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -36130,6 +36184,24 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5219932335974@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215584504018@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36142,7 +36214,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363190912654479@newsletter": {
       "users": {
