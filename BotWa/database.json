@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "˖ ֹ੭ ୧  𝐌ary   ⊹ ࣪ ⑅",
+      "name": "Monkey D. Luffy",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15414,6 +15414,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5214445435690@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "....",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "242949338214400@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -20757,6 +20775,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5214445435690@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26389,11 +26416,11 @@
           "personajesEnVenta": []
         },
         "573184532313@s.whatsapp.net": {
-          "chocolates": 28378,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 436,
-          "usedcommands": 7,
-          "level": 10,
+          "exp": 1676,
+          "usedcommands": 11,
+          "level": 17,
           "banned": false,
           "reason": "",
           "roboCooldown": 0,
@@ -26401,20 +26428,25 @@
           "lastDaily": 1752330808924,
           "nextReward": 48018,
           "crimeCooldown": 1752331417863,
-          "workCooldown": 1752331420033
+          "workCooldown": 1752331420033,
+          "lastMonthly": 1752330829907,
+          "rtCooldown": 1752331442577
         },
         "573209571585@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 16550,
-          "exp": 261,
-          "usedcommands": 4,
-          "level": 7,
+          "bank": 28282,
+          "exp": 610,
+          "usedcommands": 11,
+          "level": 12,
           "banned": false,
           "reason": "",
           "slutCooldown": 1752331386647,
           "dailyStreak": 1,
           "lastDaily": 1752330815946,
-          "nextReward": 39601
+          "nextReward": 39601,
+          "mineCooldown": 1752331422794,
+          "crimeCooldown": 1752331429719,
+          "workCooldown": 1752331436206
         }
       },
       "sWelcome": "",
@@ -27926,6 +27958,15 @@
           "personajesEnVenta": []
         },
         "123420868112510@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "242949338214400@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -40531,8 +40572,8 @@
         "51963309930@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 34665,
-          "exp": 4375,
-          "usedcommands": 8,
+          "exp": 4416,
+          "usedcommands": 9,
           "level": 25,
           "banned": false,
           "reason": "",
@@ -49158,7 +49199,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5493886406088@s.whatsapp.net": {
       "users": {
@@ -49323,7 +49365,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 43,
+      "botcommando": 44,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
@@ -49393,7 +49435,7 @@
     },
     "5491135078568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 123,
+      "botcommando": 124,
       "prefix": "!",
       "namebot": "ꮺ  ִ  ﹫ 𝓙𝖺𝖼𝗄𝖿𝗋𝗈𝗌𝗍.  ❄   ᱉᱉",
       "namebot2": "𝕱𝗋𝗈𝗌𝗍.  ᨦ‌    ׅ ۟  ׁ",
@@ -49443,7 +49485,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 48,
+      "botcommando": 58,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
