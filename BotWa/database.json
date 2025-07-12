@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "❦❧◡̈🪷",
+      "name": "Ferkis 🫟",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10355,7 +10355,7 @@
     "107074004455671@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ᝰ.ᐟ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10373,6 +10373,33 @@
     "120363342427800403@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "237988550311942@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492974161005@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Roci",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "217312997167182@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12319,6 +12346,15 @@
           "reason": ""
         },
         "593985304156@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492974161005@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -22814,6 +22850,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "217312997167182@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29853,6 +29898,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "237988550311942@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -29865,7 +29919,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363371771921824@g.us": {
       "users": {
