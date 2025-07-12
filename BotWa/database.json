@@ -11497,6 +11497,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491134318169@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "román",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "22750458605818@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -13650,6 +13668,15 @@
           "reason": ""
         },
         "34650673354@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5491134318169@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -19787,13 +19814,13 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 14321,
-          "exp": 5564,
-          "usedcommands": 26,
-          "level": 28,
+          "bank": 23241,
+          "exp": 6492,
+          "usedcommands": 33,
+          "level": 30,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752298458930,
+          "rwCooldown": 1752305629115,
           "buyCooldown": 1752287761609,
           "characters": [
             {
@@ -19810,13 +19837,13 @@
           "nextReward": 17988,
           "characterCount": null,
           "totalRwcoins": null,
-          "crimeCooldown": 1752298168025,
-          "mineCooldown": 1752298169728,
-          "workCooldown": 1752298172174,
+          "crimeCooldown": 1752305336070,
+          "mineCooldown": 1752305337655,
+          "workCooldown": 1752305339861,
           "lastWeekly": 1752287015647,
           "lastMonthly": 1752287017391,
-          "slutCooldown": 1752298175459,
-          "pptCooldown": 1752298177388,
+          "slutCooldown": 1752305341998,
+          "pptCooldown": 1752305344456,
           "personajesEnVenta": []
         },
         "56958115618@s.whatsapp.net": {
@@ -19979,6 +20006,15 @@
           "gender": "Hombre",
           "source": "Death Note",
           "id": "0035e194"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Rikido Sato",
+          "url": "https://stellarwa.xyz/files/1750644678753.jpg",
+          "value": 20000,
+          "gender": "Hombre",
+          "source": "My Hero Academia",
+          "id": "ca1bf25d"
         }
       ],
       "expired": 0
@@ -23281,6 +23317,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "22750458605818@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37082,7 +37127,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 216,
+      "botcommando": 223,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
