@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "COMO CHILLA ESA PERRA",
+      "name": "Aldo I.C",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14289,7 +14289,7 @@
     "51972754151@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "BOT-MD🤖",
+      "name": "+51 972 754 151",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21674,7 +21674,7 @@
     "22892706491@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "BOT-MD🤖",
+      "name": "🦇Eminence👑🦇👑shadow 🦇",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -41684,11 +41684,11 @@
           "personajesEnVenta": []
         },
         "5216422302773@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 8223,
           "bank": 0,
-          "exp": 667,
-          "usedcommands": 10,
-          "level": 12,
+          "exp": 994,
+          "usedcommands": 15,
+          "level": 14,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
@@ -41709,7 +41709,11 @@
           "characterCount": null,
           "totalRwcoins": null,
           "rtCooldown": 1752290579005,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "workCooldown": 1752343705534,
+          "mineCooldown": 1752343708329,
+          "crimeCooldown": 1752343712164,
+          "pptCooldown": 1752343719076
         },
         "584123376177@s.whatsapp.net": {
           "chocolates": 0,
@@ -62836,6 +62840,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "22892706491@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -67033,7 +67046,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 64,
+      "botcommando": 68,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -67153,7 +67166,7 @@
     },
     "5214621173511@s.whatsapp.net": {
       "self": false,
-      "botcommando": 11,
+      "botcommando": 12,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
