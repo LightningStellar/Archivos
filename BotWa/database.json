@@ -12204,6 +12204,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51966697624@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Megu",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -39357,6 +39366,31 @@
     "120363418655352565@g.us": {
       "users": {
         "5218131273740@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "51966697624@s.whatsapp.net": {
+      "users": {
+        "51966697624@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
