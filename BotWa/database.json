@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✮$BABY$✮",
+      "name": "...🔥",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17728,7 +17728,25 @@
     "34905350262814@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "ㅤㅤㅤㅤ𝚅.        ㅤ✿︎",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573228545835@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".ᐟ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "50496764902@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": ".",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24820,6 +24838,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573228545835@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -26068,6 +26095,15 @@
           "personajesEnVenta": []
         },
         "16363462694@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "50496764902@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -34125,9 +34161,9 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 3495,
           "bank": 0,
-          "exp": 2248,
-          "usedcommands": 42,
-          "level": 19,
+          "exp": 2328,
+          "usedcommands": 43,
+          "level": 20,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -55111,7 +55147,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "24176222790@s.whatsapp.net": {
       "users": {
@@ -55978,7 +56015,7 @@
     },
     "51972754151@s.whatsapp.net": {
       "self": false,
-      "botcommando": 46,
+      "botcommando": 47,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
