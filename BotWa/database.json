@@ -24453,6 +24453,16 @@
           "lastWeekly": 1752302073803,
           "lastMonthly": 1752302089582,
           "personajesEnVenta": []
+        },
+        "5491176203686@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 18,
+          "usedcommands": 1,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "rwCooldown": 1752304654862
         }
       },
       "sWelcome": "",
@@ -24467,7 +24477,17 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "5491176203686@s.whatsapp.net",
+          "name": "Hachi",
+          "url": "https://stellarwa.xyz/files/1749147841702.jpg",
+          "value": 10000,
+          "gender": "Hombre",
+          "source": "Darling in the Franxx",
+          "id": "ab844443"
+        }
+      ]
     },
     "5215522567568@s.whatsapp.net": {
       "users": {
@@ -36955,7 +36975,7 @@
     },
     "5218134749901@s.whatsapp.net": {
       "self": false,
-      "botcommando": 25,
+      "botcommando": 26,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
