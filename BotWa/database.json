@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "...🔥",
+      "name": "☭卍 † Daryel † 卍☭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2165,7 +2165,7 @@
     "5493705412575@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "- ౨ৎ  yachi :33",
+      "name": "- ౨ৎ  Jang Won-Young :33",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21304,6 +21304,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "100575333089312@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363376582836819@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -29434,6 +29451,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "100575333089312@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -35140,6 +35166,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5491172387562@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -65706,6 +65741,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363376582836819@newsletter": {
+      "users": {
+        "120363376582836819@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
