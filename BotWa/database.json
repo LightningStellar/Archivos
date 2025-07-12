@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "★⃝🌷ᬼ𝐹𝑒ꪰ𝑙𝑖𝑐𝑖𝑡𝐼🦪",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15703,7 +15703,16 @@
     "107614818029649@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "★⃝🌷ᬼ𝐹𝑒ꪰ𝑙𝑖𝑐𝑖𝑡𝐼🦪",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584264563517@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "full trading",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -37771,6 +37780,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "4621451976941@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -49246,6 +49264,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "4621451976941@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -49258,7 +49285,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "51943236957@s.whatsapp.net": {
       "users": {
@@ -50101,6 +50129,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "584264563517@s.whatsapp.net": {
+      "users": {
+        "584264563517@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
