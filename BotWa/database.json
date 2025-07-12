@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "💎🤍 Gojo Satoru 🤍💎",
+      "name": "Cristian",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -2387,7 +2387,7 @@
     "18099426666@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "+1 809-942-6666",
+      "name": "𝟔𝟔𝐅𝐀𝐂𝐓𝐎𝐑𝐘𝟔𝟔",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8664,6 +8664,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "214933719498837@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -11086,6 +11095,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492916450307@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -28459,6 +28477,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "120363419171014727@g.us": {
+      "users": {
+        "214933719498837@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
