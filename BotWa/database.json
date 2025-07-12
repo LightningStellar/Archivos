@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~♡~",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -29444,9 +29444,9 @@
         },
         "573143237521@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 2212130,
-          "exp": 6662,
-          "usedcommands": 40,
+          "bank": 0,
+          "exp": 6826,
+          "usedcommands": 44,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -29461,7 +29461,7 @@
           "lastDaily": 1752328070454,
           "nextReward": 49762,
           "rtCooldown": 1752335454989,
-          "rwCooldown": 1752329021108,
+          "rwCooldown": 1752336105080,
           "buyCooldown": 1752329025357,
           "characters": [
             {
@@ -29474,7 +29474,8 @@
             }
           ],
           "characterCount": null,
-          "totalRwcoins": null
+          "totalRwcoins": null,
+          "roboCooldown": 0
         },
         "593990564497@s.whatsapp.net": {
           "chocolates": 0,
@@ -29532,35 +29533,36 @@
         },
         "573184532313@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 0,
-          "exp": 1717,
-          "usedcommands": 12,
-          "level": 17,
+          "bank": 2438,
+          "exp": 1959,
+          "usedcommands": 17,
+          "level": 18,
           "banned": false,
           "reason": "",
           "roboCooldown": 0,
           "dailyStreak": 1,
           "lastDaily": 1752330808924,
           "nextReward": 48018,
-          "crimeCooldown": 1752331417863,
-          "workCooldown": 1752331420033,
+          "crimeCooldown": 1752335817779,
+          "workCooldown": 1752335823060,
           "lastMonthly": 1752330829907,
           "rtCooldown": 1752331442577,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "mineCooldown": 1752335821253
         },
         "573209571585@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 29782,
-          "exp": 4055,
-          "usedcommands": 15,
-          "level": 24,
+          "chocolates": 1334,
+          "bank": 32990,
+          "exp": 4149,
+          "usedcommands": 19,
+          "level": 25,
           "banned": false,
           "reason": "",
-          "slutCooldown": 1752331386647,
+          "slutCooldown": 1752335831917,
           "dailyStreak": 1,
           "lastDaily": 1752330815946,
           "nextReward": 39601,
-          "mineCooldown": 1752331422794,
+          "mineCooldown": 1752335861090,
           "crimeCooldown": 1752331429719,
           "workCooldown": 1752331436206,
           "lastMonthly": 1752330921378,
@@ -29608,6 +29610,15 @@
           "gender": "Mujer",
           "source": "Arifureta",
           "id": "22ae667a"
+        },
+        {
+          "userId": "573143237521@s.whatsapp.net",
+          "name": "Kei Shishiya‎",
+          "url": "https://stellarwa.xyz/files/1749090491883.jpg",
+          "value": 4000,
+          "gender": "Hombre",
+          "source": "Blue Lock",
+          "id": "ec78d779"
         }
       ]
     },
@@ -55972,7 +55983,7 @@
     },
     "5219631828631@s.whatsapp.net": {
       "self": false,
-      "botcommando": 40,
+      "botcommando": 42,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -56002,7 +56013,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 219,
+      "botcommando": 221,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -56152,7 +56163,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 103,
+      "botcommando": 114,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
