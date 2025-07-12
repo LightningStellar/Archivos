@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🔥",
+      "name": "Michu",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -20332,6 +20332,33 @@
     "120363178669476700@newsletter": {
       "metadatos": null,
       "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5219624878355@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Kevin Ortiz",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215612504661@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+52 56 1250 4661",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "107237028679889@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -60252,6 +60279,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5215612504661@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -62724,6 +62760,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5219624878355@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -62836,6 +62881,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "107237028679889@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -63078,7 +63132,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "249912106058@s.whatsapp.net": {
       "users": {
