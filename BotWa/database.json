@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~♡~",
+      "name": "⚠︎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -18712,7 +18712,43 @@
     "5492223465441@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
+      "name": "𝑻𝒐𝒈𝒂 Himiko(((o(♡´▽`♡)o))",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "226933321273462@lid": {
+      "metadatos": null,
+      "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215559675449@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🔖⌥ 𝕺̸ࣲࣩۡ𝒍ۗì🅅͙ۜ۫𝘹ۧ𝘳ؔ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492224541536@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+54 9 2224 54-1536",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218714274252@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "જ⁀➴ ❆ᥲkіrᥲ һᥲmᥲძ᥆ ꒰ঌᰔᩚ໒꒱",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21851,6 +21887,15 @@
           "reason": ""
         },
         "5492612518714@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215559675449@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -35932,6 +35977,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "226933321273462@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38756,6 +38810,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5492224541536@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39309,6 +39372,33 @@
           "personajesEnVenta": []
         },
         "573244290096@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492224541536@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218714274252@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5214531458599@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -58711,7 +58801,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
