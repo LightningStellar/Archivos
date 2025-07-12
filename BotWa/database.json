@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "~♡~",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -17250,6 +17250,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "212699343421@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ⵣ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "135703853809883@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5218336288855@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Arturo",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -30985,7 +31012,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363408331270850@g.us": {
       "users": {
@@ -33416,8 +33444,8 @@
         "51967524493@s.whatsapp.net": {
           "chocolates": 3495,
           "bank": 0,
-          "exp": 1818,
-          "usedcommands": 33,
+          "exp": 1845,
+          "usedcommands": 34,
           "level": 18,
           "banned": false,
           "reason": "",
@@ -34126,6 +34154,15 @@
           "reason": ""
         },
         "5214433909826@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218336288855@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -41723,6 +41760,15 @@
           "reason": ""
         },
         "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "135703853809883@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -53867,6 +53913,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "212699343421@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -54046,7 +54101,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363420304691842@g.us": {
       "users": {
@@ -54584,7 +54640,7 @@
     },
     "51972754151@s.whatsapp.net": {
       "self": false,
-      "botcommando": 17,
+      "botcommando": 20,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
