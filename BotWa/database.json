@@ -10755,6 +10755,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "18494321444@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤㅤㅤ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363392087983047@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14497,6 +14514,15 @@
           "reason": ""
         },
         "51901528237@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "18494321444@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -34938,6 +34964,30 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "120363392087983047@newsletter": {
+      "users": {
+        "120363392087983047@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
