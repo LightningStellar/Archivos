@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Cristian",
+      "name": "𝐍𝐞𝐫𝐢𝐧𝐚 ♡︎",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9567,7 +9567,16 @@
     "175964894048506@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "𝐍𝐞𝐫𝐢𝐧𝐚 ♡︎",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573134329882@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24039,6 +24048,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "257599790436436@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -31551,6 +31569,30 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
+    },
+    "573134329882@s.whatsapp.net": {
+      "users": {
+        "573134329882@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
