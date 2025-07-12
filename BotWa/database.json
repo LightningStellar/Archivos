@@ -66,7 +66,7 @@
     "5219613301789@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𓆩𝑺𝒉𝝌֟፝𝒏𝒙𝒔 𝑫' 𝑲𝝌֟፝𝒎𝒊⸸𓆪",
+      "name": "Shonks Femboy",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -26037,7 +26037,7 @@
     "280461867749440@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "𝑴𝒆𝒈𝒂 𝑴𝒂𝒏 𝒁𝒆𝒓𝒐",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -34460,6 +34460,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "34651455247@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -38576,6 +38585,15 @@
           "reason": ""
         },
         "57780346028275@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "155091386499143@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -52576,15 +52594,15 @@
           "totalRwcoins": null
         },
         "5216646952956@s.whatsapp.net": {
-          "chocolates": 801147,
+          "chocolates": 751147,
           "bank": 0,
-          "exp": 6472,
-          "usedcommands": 68,
+          "exp": 6503,
+          "usedcommands": 69,
           "level": 30,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "rtCooldown": 1752274853373,
+          "rtCooldown": 1752283293399,
           "dailyStreak": 1,
           "lastDaily": 1752242878559,
           "nextReward": 18975,
@@ -57077,8 +57095,8 @@
         "5213310224249@s.whatsapp.net": {
           "chocolates": 75782049,
           "bank": 0,
-          "exp": 7798,
-          "usedcommands": 78,
+          "exp": 7941,
+          "usedcommands": 80,
           "level": 32,
           "banned": false,
           "reason": "",
@@ -57091,7 +57109,7 @@
           "personajesEnVenta": [],
           "lastMonthly": 1752252354119,
           "lastWeekly": 1752252361425,
-          "rwCooldown": 1752282254892,
+          "rwCooldown": 1752283538802,
           "buyCooldown": 1752278911161,
           "characters": [
             {
@@ -57352,6 +57370,15 @@
           "gender": "Hombre",
           "source": "Edens zero",
           "id": "7643eafd"
+        },
+        {
+          "userId": "5213310224249@s.whatsapp.net",
+          "name": "Burai Daido",
+          "url": "https://stellarwa.xyz/files/1749089638424.jpg",
+          "value": 10000,
+          "gender": "Hombre",
+          "source": "Blue Lock",
+          "id": "8e250dec"
         }
       ]
     },
@@ -75210,6 +75237,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -79472,6 +79508,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5492974734210@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -79484,13 +79529,14 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 136,
+      "botcommando": 137,
       "prefix": "#/.",
       "namebot": "❀ 「 𝐌𝐞𝐠𝐮𝐦𝐢𝐧 」",
       "namebot2": "Megumin",
@@ -79500,7 +79546,7 @@
     },
     "5214531458599@s.whatsapp.net": {
       "self": false,
-      "botcommando": 285,
+      "botcommando": 286,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -79630,7 +79676,7 @@
     },
     "5215525237149@s.whatsapp.net": {
       "self": false,
-      "botcommando": 371,
+      "botcommando": 373,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -79670,7 +79716,7 @@
     },
     "5216646952956@s.whatsapp.net": {
       "self": false,
-      "botcommando": 83,
+      "botcommando": 84,
       "prefix": "<#></>",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
