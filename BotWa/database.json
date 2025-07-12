@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "☭卍 † Daryel † 卍☭",
+      "name": "Jer",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10279,6 +10279,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51931535416@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 931 535 416",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -16856,6 +16865,15 @@
           "personajesEnVenta": []
         },
         "51904765942@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51931535416@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -33916,7 +33934,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 45,
+      "botcommando": 46,
       "prefix": "#+/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -33946,7 +33964,7 @@
     },
     "584127570056@s.whatsapp.net": {
       "self": false,
-      "botcommando": 37,
+      "botcommando": 38,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
