@@ -26752,16 +26752,17 @@
           "reason": ""
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 28740,
+          "chocolates": 3740,
           "bank": 0,
-          "exp": 136,
-          "usedcommands": 2,
-          "level": 6,
+          "exp": 207,
+          "usedcommands": 3,
+          "level": 7,
           "banned": false,
           "reason": "",
           "dailyStreak": 1,
           "lastDaily": 1752317298397,
-          "nextReward": 48285
+          "nextReward": 48285,
+          "rtCooldown": 1752317925008
         }
       },
       "sWelcome": "",
@@ -41599,7 +41600,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 24,
+      "botcommando": 25,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
