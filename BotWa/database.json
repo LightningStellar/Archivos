@@ -12776,6 +12776,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219933043394@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "///Carmen🍥",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5493764838767@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Obito Uchiha.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -15178,6 +15196,15 @@
           "reason": ""
         },
         "34614181337@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5219933043394@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -26723,6 +26750,18 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493764838767@s.whatsapp.net": {
+          "chocolates": 28740,
+          "bank": 0,
+          "exp": 136,
+          "usedcommands": 2,
+          "level": 6,
+          "banned": false,
+          "reason": "",
+          "dailyStreak": 1,
+          "lastDaily": 1752317298397,
+          "nextReward": 48285
         }
       },
       "sWelcome": "",
@@ -41430,7 +41469,7 @@
     },
     "5215660242865@s.whatsapp.net": {
       "self": false,
-      "botcommando": 8,
+      "botcommando": 10,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
