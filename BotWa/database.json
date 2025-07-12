@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🌀🎶🍀Urano🍀🎶🌀",
+      "name": "˖ ֹ੭ ୧  𝐌ary   ⊹ ࣪ ⑅",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9153,6 +9153,51 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51988268790@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 988 268 790",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "90233320280215@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51935473693@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝖬𝗂𝗌𝗌 𝖬𝖾𝗋'𝖬𝗎𝗌𝗌é𝗅𝗅𝖾 𝖨𝗄𝖾𝗁ā𝗋𝖺.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "210535069016103@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "77348552597712@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -12448,6 +12493,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51935473693@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -14097,6 +14151,15 @@
           "personajesEnVenta": []
         },
         "52780903485615@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "210535069016103@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -16098,6 +16161,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "77348552597712@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -16598,6 +16670,15 @@
           "personajesEnVenta": []
         },
         "99987476230275@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "90233320280215@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -20328,6 +20409,15 @@
           "exp": 33,
           "usedcommands": 1,
           "level": 3,
+          "banned": false,
+          "reason": ""
+        },
+        "51988268790@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
           "banned": false,
           "reason": ""
         }
@@ -26708,6 +26798,15 @@
           "level": 4,
           "banned": false,
           "reason": ""
+        },
+        "51988268790@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30217,8 +30316,8 @@
         "5492665269244@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 87,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
           "reason": ""
@@ -30226,7 +30325,7 @@
       },
       "sWelcome": "",
       "sBye": "",
-      "welcome": true,
+      "welcome": false,
       "nsfw": false,
       "alerts": true,
       "gacha": true,
@@ -30381,7 +30480,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 27,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
