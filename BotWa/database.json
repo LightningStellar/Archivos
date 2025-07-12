@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "⚠︎",
+      "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -9914,6 +9914,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "93089792286737@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "34631388414@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "໒꒱^᪲",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -18708,6 +18726,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "93089792286737@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22715,6 +22742,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "189846312194069@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -32490,6 +32526,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "34631388414@s.whatsapp.net": {
+      "users": {
+        "34631388414@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
