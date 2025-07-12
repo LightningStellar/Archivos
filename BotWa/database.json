@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Matteo😝",
+      "name": "Thu Oshito ^. .^",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -21509,6 +21509,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120843669663887@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51921954810@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Mon Soleil 👾🎧",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -24937,6 +24955,15 @@
           "reason": ""
         },
         "584241480722@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51921954810@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -61259,7 +61286,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363419261533446@g.us": {
       "users": {
@@ -66273,6 +66301,15 @@
           "reason": ""
         },
         "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "120843669663887@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
