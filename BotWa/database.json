@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "✮$NUNEW$✮",
+      "name": "🎸ㅤ     𝐋𝐘𝐕𝐄𝐑｡ㅤㅤㅤ ﹫",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -12577,6 +12577,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "꧁☾⃟𝙹𝙾𝙴𝙻☾⃟❂꧂",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "119301474414798@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -26398,7 +26407,7 @@
           "chocolates": 0,
           "bank": 0,
           "exp": 21,
-          "usedcommands": 1,
+          "usedcommands": 2,
           "level": 3,
           "banned": false,
           "reason": ""
@@ -37231,6 +37240,24 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "119301474414798@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40775,6 +40802,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5215519392886@s.whatsapp.net": {
+      "users": {
+        "584243403568@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -40880,7 +40931,7 @@
     },
     "573126958667@s.whatsapp.net": {
       "self": false,
-      "botcommando": 21,
+      "botcommando": 22,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
