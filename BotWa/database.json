@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Μʍƞʀτ⋎[СǤѲ]",
+      "name": "Wiki",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15834,6 +15834,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51942851056@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 942 851 056",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51942080817@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Yulder Nina Aguilar",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -19872,6 +19890,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51942851056@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -25122,6 +25149,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51942080817@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -27039,7 +27075,7 @@
           "personajesEnVenta": []
         },
         "573143237521@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 7500000,
           "bank": 712130,
           "exp": 6286,
           "usedcommands": 31,
@@ -27083,11 +27119,11 @@
           "personajesEnVenta": []
         },
         "573228667071@s.whatsapp.net": {
-          "chocolates": 7500000,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 619,
-          "usedcommands": 12,
-          "level": 11,
+          "exp": 733,
+          "usedcommands": 15,
+          "level": 12,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -50751,7 +50787,7 @@
     },
     "56920449984@s.whatsapp.net": {
       "self": false,
-      "botcommando": 16,
+      "botcommando": 17,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -50821,7 +50857,7 @@
     },
     "573228667071@s.whatsapp.net": {
       "self": false,
-      "botcommando": 92,
+      "botcommando": 94,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
