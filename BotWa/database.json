@@ -24094,6 +24094,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "200351718318105@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -34998,8 +35007,8 @@
         "5492324347631@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 392,
-          "usedcommands": 8,
+          "exp": 479,
+          "usedcommands": 9,
           "level": 10,
           "banned": false,
           "reason": "",
@@ -35387,6 +35396,15 @@
           "personajesEnVenta": []
         },
         "5214422815453@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "200351718318105@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -39756,9 +39774,9 @@
         "51973288049@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 285,
-          "usedcommands": 6,
-          "level": 8,
+          "exp": 448,
+          "usedcommands": 9,
+          "level": 9,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -73595,7 +73613,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 110,
+      "botcommando": 112,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -73615,7 +73633,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 738,
+      "botcommando": 739,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -73725,7 +73743,7 @@
     },
     "212609690006@s.whatsapp.net": {
       "self": false,
-      "botcommando": 98,
+      "botcommando": 99,
       "prefix": "/",
       "namebot": "Hatsune Miku",
       "namebot2": "hatsune",
