@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "🍒⏤͟͟͞͞★ƈԋҽɾɾყ™",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -25417,6 +25417,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219994484897@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✨🩷✨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "584129917932@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+58 412-9917932",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573228234060@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Estefa",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -30245,19 +30272,19 @@
           "personajesEnVenta": []
         },
         "5511998790420@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 5928,
           "bank": 28153,
-          "exp": 6552,
-          "usedcommands": 49,
+          "exp": 6792,
+          "usedcommands": 52,
           "level": 30,
           "banned": false,
           "reason": "",
-          "workCooldown": 1752281357993,
-          "mineCooldown": 1752281362798,
+          "workCooldown": 1752282083486,
+          "mineCooldown": 1752282087344,
           "dailyStreak": 1,
           "lastDaily": 1752241423751,
           "nextReward": 39299,
-          "pptCooldown": 1752281367038,
+          "pptCooldown": 1752282091928,
           "lastWeekly": 1752241449602,
           "lastMonthly": 1752241457043,
           "rtCooldown": 1752280074516,
@@ -39251,6 +39278,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5219994484897@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -39464,18 +39500,18 @@
           "voteCooldown": 1752266227063
         },
         "573235511077@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 49638,
-          "exp": 8419,
-          "usedcommands": 104,
+          "chocolates": 4821,
+          "bank": 44638,
+          "exp": 8602,
+          "usedcommands": 110,
           "level": 33,
           "banned": false,
           "reason": "",
           "rwCooldown": 1752282315494,
           "personajesEnVenta": [],
-          "crimeCooldown": 1752263857233,
+          "crimeCooldown": 1752282081373,
           "mineCooldown": 1752263859138,
-          "workCooldown": 1752263862665,
+          "workCooldown": 1752282086831,
           "slutCooldown": 1752263867764,
           "pptCooldown": 1752263874986,
           "dailyStreak": 1,
@@ -39483,7 +39519,7 @@
           "nextReward": 26007,
           "lastWeekly": 1752251814762,
           "lastMonthly": 1752251819001,
-          "buyCooldown": 1752263913833,
+          "buyCooldown": 1752282359819,
           "characters": [
             {
               "name": "Sakura Asakura",
@@ -39500,6 +39536,14 @@
               "gender": "Hombre",
               "source": "Tokyo Revengers",
               "claim": "viernes, 11 de julio de 2025"
+            },
+            {
+              "name": "Kou Yamori",
+              "url": "https://stellarwa.xyz/files/1749310211765.jpg",
+              "value": 5000,
+              "gender": "Hombre",
+              "source": "Call of the Night",
+              "claim": "sábado, 12 de julio de 2025"
             }
           ],
           "characterCount": null,
@@ -40005,15 +40049,6 @@
           "gender": "Hombre",
           "source": "Rokka no Yuusha",
           "id": "44df62b0"
-        },
-        {
-          "userId": "573235511077@s.whatsapp.net",
-          "name": "Kou Yamori",
-          "url": "https://stellarwa.xyz/files/1749310211765.jpg",
-          "value": 5000,
-          "gender": "Hombre",
-          "source": "Call of the Night",
-          "id": "a71d2a76"
         }
       ]
     },
@@ -47709,6 +47744,15 @@
           "reason": ""
         },
         "51987912478@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "584129917932@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -57582,6 +57626,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573228234060@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -70871,7 +70924,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "120363381927171358@newsletter": {
       "users": {
@@ -77587,7 +77641,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 784,
+      "botcommando": 787,
       "prefix": "/",
       "namebot": "Senko San",
       "namebot2": "Senko San",
@@ -77597,7 +77651,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 501,
+      "botcommando": 503,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -77657,7 +77711,7 @@
     },
     "5216422302773@s.whatsapp.net": {
       "self": false,
-      "botcommando": 402,
+      "botcommando": 406,
       "prefix": "#/",
       "namebot": "Rintaro Tsumugi",
       "namebot2": "Rintaro Tsumugi",
@@ -77767,7 +77821,7 @@
     },
     "5492974124262@s.whatsapp.net": {
       "self": false,
-      "botcommando": 37,
+      "botcommando": 38,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -77777,7 +77831,7 @@
     },
     "5215513021315@s.whatsapp.net": {
       "self": false,
-      "botcommando": 32,
+      "botcommando": 33,
       "prefix": "#",
       "namebot": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
       "namebot2": "𝓨𝑢𝑘𝑖 𝓘𝑡𝑜𝑠𝑒",
