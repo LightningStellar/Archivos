@@ -11882,6 +11882,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215529368549@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Grace ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5212218892977@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "✧ 𝒢𝑜𝒿𝑜 𝒮𝒶𝓉𝑜𝓇𝓊 ✧",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -14096,6 +14114,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5212218892977@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -20370,9 +20397,9 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 23241,
-          "exp": 6492,
-          "usedcommands": 33,
+          "bank": 19115,
+          "exp": 6763,
+          "usedcommands": 39,
           "level": 30,
           "banned": false,
           "reason": "",
@@ -20393,13 +20420,13 @@
           "nextReward": 17988,
           "characterCount": null,
           "totalRwcoins": null,
-          "crimeCooldown": 1752305336070,
-          "mineCooldown": 1752305337655,
-          "workCooldown": 1752305339861,
+          "crimeCooldown": 1752307889452,
+          "mineCooldown": 1752307891240,
+          "workCooldown": 1752307892687,
           "lastWeekly": 1752287015647,
           "lastMonthly": 1752287017391,
-          "slutCooldown": 1752305341998,
-          "pptCooldown": 1752305344456,
+          "slutCooldown": 1752307895212,
+          "pptCooldown": 1752307897641,
           "personajesEnVenta": []
         },
         "56958115618@s.whatsapp.net": {
@@ -38281,6 +38308,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "5215529368549@s.whatsapp.net": {
+      "users": {
+        "5215529368549@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -38326,7 +38378,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 241,
+      "botcommando": 247,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
