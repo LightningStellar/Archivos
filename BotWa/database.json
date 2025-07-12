@@ -12706,6 +12706,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5213541013932@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "†Tomoksita卍⁩ 💊",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -15072,6 +15081,15 @@
           "personajesEnVenta": []
         },
         "5491126367355@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5213541013932@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -25150,6 +25168,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "55675879182352@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -40398,6 +40425,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "34643116012@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -41132,11 +41168,12 @@
         "393518509171@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 103,
-          "usedcommands": 2,
-          "level": 2,
+          "exp": 260,
+          "usedcommands": 4,
+          "level": 7,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "crimeCooldown": 1752317425875
         }
       },
       "sWelcome": "",
@@ -41380,7 +41417,7 @@
     },
     "393518509171@s.whatsapp.net": {
       "self": false,
-      "botcommando": 13,
+      "botcommando": 15,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
