@@ -40203,6 +40203,31 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false
+    },
+    "120363419790294333@g.us": {
+      "users": {
+        "584245850895@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -40478,7 +40503,7 @@
     },
     "5218132536193@s.whatsapp.net": {
       "self": false,
-      "botcommando": 12,
+      "botcommando": 14,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
