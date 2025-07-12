@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Null",
+      "name": "𐔌🍰 ⋮ ᗷimbo ᗪoll .ᐟ ֹ ₊",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11582,7 +11582,7 @@
     "53670465028162@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "capra",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11601,6 +11601,33 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "212769252843@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "نجمة 6",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51965994674@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "+51 965 994 674",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5216141366188@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Aaaaa",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14404,6 +14431,15 @@
           "personajesEnVenta": []
         },
         "5359425504@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5216141366188@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -18359,6 +18395,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51965994674@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -18851,6 +18896,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "212769252843@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -37331,6 +37385,30 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "212769252843@s.whatsapp.net": {
+      "users": {
+        "212769252843@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
