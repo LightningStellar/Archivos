@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "★::Amy💤",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -11278,7 +11278,15 @@
     "240080283271188@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "★::Amy💤",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "120363316835438567@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -31862,6 +31870,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56963153547@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -36319,6 +36336,31 @@
           "reason": ""
         },
         "5219631828631@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363316835438567@newsletter": {
+      "users": {
+        "120363316835438567@newsletter": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
