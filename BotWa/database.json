@@ -227,7 +227,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Maki-ma   (Say)",
+      "name": "☭卍 † Daryel † 卍☭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -4572,7 +4572,7 @@
     "5214531268302@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Joselyn 💗",
+      "name": "Ado",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -24656,6 +24656,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "187261027152027@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "244976361468033@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -38407,10 +38425,10 @@
       "users": {
         "5215565270181@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 21802,
-          "exp": 2205,
-          "usedcommands": 29,
-          "level": 19,
+          "bank": 11802,
+          "exp": 2262,
+          "usedcommands": 32,
+          "level": 20,
           "banned": false,
           "reason": "",
           "crimeCooldown": 1752268512463,
@@ -38425,7 +38443,20 @@
           "lastWeekly": 1752232237644,
           "lastMonthly": 1752232241103,
           "personajesEnVenta": [],
-          "rwCooldown": 1752268855109
+          "rwCooldown": 1752280914769,
+          "buyCooldown": 1752280923569,
+          "characters": [
+            {
+              "name": "Megurine Luka",
+              "url": "https://stellarwa.xyz/files/1748941565761.jpg",
+              "value": 10000,
+              "gender": "Mujer",
+              "source": "Vocaloid",
+              "claim": "sábado, 12 de julio de 2025"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "5215522567568@s.whatsapp.net": {
           "chocolates": 0,
@@ -43682,6 +43713,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "126410148548800@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47930,6 +47970,15 @@
           "personajesEnVenta": []
         },
         "144448809865468@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "244976361468033@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -58687,6 +58736,15 @@
           "reason": ""
         },
         "210535069016103@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "187261027152027@lid": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -74830,7 +74888,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "5215522483659@s.whatsapp.net": {
       "users": {
@@ -75197,7 +75256,7 @@
     },
     "584243403568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 116,
+      "botcommando": 117,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -75207,7 +75266,7 @@
     },
     "573019448245@s.whatsapp.net": {
       "self": false,
-      "botcommando": 85,
+      "botcommando": 86,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -75227,7 +75286,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 495,
+      "botcommando": 497,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
