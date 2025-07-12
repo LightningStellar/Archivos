@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "",
+      "name": "Fr4mb7S4",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7049,7 +7049,7 @@
     "72885762838702@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "⠀㉅ׂ ⠀𝐓𝙰𝙴𝕳͟𝙰︭⠀܌⠀𠣕",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -7059,6 +7059,42 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "ৎ👑⃞𝐊⃛᷍͠𝕒𝐢ܱᤢ̫͙",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "573116450744@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Yarlei Monsalve Londoño",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5215531010240@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "cruzosmar2521",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "81317135954020@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5213112046281@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "ㅤㅤ 𝗲𝗰𝗹𝗶ps  :    𝗌𝗌é𝗌𝗲       ?ㅤ.ㅤㅤㅤ ㅤㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -8230,6 +8266,15 @@
           "reason": ""
         },
         "573123762911@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5215531010240@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -9599,6 +9644,15 @@
           "reason": ""
         },
         "5492616668669@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5213112046281@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -17454,6 +17508,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "81317135954020@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -22197,6 +22260,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573116450744@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23011,6 +23083,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "[object Promise]": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -23023,7 +23104,33 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "5213344940177@s.whatsapp.net": {
+      "users": {
+        "5213344940177@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
