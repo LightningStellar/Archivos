@@ -9918,7 +9918,7 @@
     "93089792286737@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🥦Izu_Midōriya🥦",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -15310,8 +15310,8 @@
         "573143227449@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 252,
-          "usedcommands": 6,
+          "exp": 294,
+          "usedcommands": 7,
           "level": 8,
           "banned": false,
           "reason": "",
@@ -17429,13 +17429,13 @@
         },
         "50236933411@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 14486,
-          "exp": 5099,
-          "usedcommands": 17,
-          "level": 27,
+          "bank": 14321,
+          "exp": 5517,
+          "usedcommands": 25,
+          "level": 28,
           "banned": false,
           "reason": "",
-          "rwCooldown": 1752287703620,
+          "rwCooldown": 1752298458930,
           "buyCooldown": 1752287761609,
           "characters": [
             {
@@ -17452,13 +17452,13 @@
           "nextReward": 17988,
           "characterCount": null,
           "totalRwcoins": null,
-          "crimeCooldown": 1752287609192,
-          "mineCooldown": 1752287611187,
-          "workCooldown": 1752287613086,
+          "crimeCooldown": 1752298168025,
+          "mineCooldown": 1752298169728,
+          "workCooldown": 1752298172174,
           "lastWeekly": 1752287015647,
           "lastMonthly": 1752287017391,
-          "slutCooldown": 1752287619295,
-          "pptCooldown": 1752287621414,
+          "slutCooldown": 1752298175459,
+          "pptCooldown": 1752298177388,
           "personajesEnVenta": []
         },
         "56958115618@s.whatsapp.net": {
@@ -17582,6 +17582,15 @@
           "gender": "Hombre",
           "source": "Kono Subarashii Sekai ni Shukufuku wo!",
           "id": "a35f97d4"
+        },
+        {
+          "userId": "50236933411@s.whatsapp.net",
+          "name": "Mei-Yu Wang",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136233-wmiulsKzTMND.png",
+          "value": 31863,
+          "gender": "Mujer",
+          "source": "Classroom Of The Elite",
+          "id": "c68098d3"
         }
       ],
       "expired": 0
@@ -32595,7 +32604,7 @@
     },
     "5215522567568@s.whatsapp.net": {
       "self": false,
-      "botcommando": 187,
+      "botcommando": 195,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
@@ -32675,7 +32684,7 @@
     },
     "56933563394@s.whatsapp.net": {
       "self": false,
-      "botcommando": 26,
+      "botcommando": 27,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
