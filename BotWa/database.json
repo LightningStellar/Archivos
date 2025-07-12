@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "𝔈𝗍𝖍𝚊𝖓 𝕊𝔩𝗮𝖄𝚎𝖗",
+      "name": "ׅ 𝙈άιος   ֹ♡",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10222,7 +10222,7 @@
     "249916127449138@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🔥★DOUMA★❄️(⁠つ⁠✧⁠ω⁠✧⁠)⁠つ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -10231,7 +10231,7 @@
     "93643641770038@lid": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "No generado",
+      "name": "🤍boykisser🤍",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -33098,6 +33098,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5219631828631@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -33110,7 +33119,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     },
     "573134329882@s.whatsapp.net": {
       "users": {
@@ -33462,6 +33472,55 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0
+    },
+    "5219631630746@s.whatsapp.net": {
+      "users": {
+        "5219631828631@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "120363420042616355@g.us": {
+      "users": {
+        "5218136263629@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
