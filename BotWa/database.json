@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Sig&∆¶[",
+      "name": "ㅤ𝟣꯭𝟫𝟫꯭𝟢ㅤ𓏔ㅤ𝖤𝖲𝖳𝖱𝖠𝖦𝖮𝖲ㅤ𓉬ㅤ",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -14945,6 +14945,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51973462062@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Mishael",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "56964509218@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "arlechino🩸",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -21056,6 +21074,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "56964509218@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -24252,9 +24279,9 @@
         "5351524614@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 30,
+          "usedcommands": 1,
+          "level": 3,
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
@@ -29231,6 +29258,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51973462062@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -47908,7 +47944,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -47984,7 +48021,7 @@
     },
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 42,
+      "botcommando": 43,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
