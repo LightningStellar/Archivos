@@ -92,7 +92,7 @@
     "[object Promise]": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "Pianowind 766",
+      "name": "Maki-ma   (Say)",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -13827,6 +13827,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "- 𝓗𝙖𝙣𝙖  🎐",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59168026477@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "...",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -27895,6 +27904,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "59168026477@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -30481,6 +30499,15 @@
           "personajesEnVenta": []
         },
         "56956264684@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "34643116012@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -44833,7 +44860,7 @@
     },
     "5492914407013@s.whatsapp.net": {
       "self": false,
-      "botcommando": 79,
+      "botcommando": 85,
       "prefix": "/",
       "namebot": "Sylphiette",
       "namebot2": "Sylphy",
