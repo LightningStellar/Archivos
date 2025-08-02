@@ -97,6 +97,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215591671116@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "༺ღ༒ Shikoku—Yamashiro ༒ღ༻",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -222,12 +231,12 @@
         "17722687511@s.whatsapp.net": {
           "chocolates": 45120,
           "bank": 0,
-          "exp": 401,
-          "usedcommands": 7,
-          "level": 9,
+          "exp": 453,
+          "usedcommands": 8,
+          "level": 10,
           "banned": false,
           "reason": "",
-          "usedTime": 1754146663312,
+          "usedTime": 1754147253666,
           "workCooldown": 1754146882286,
           "mineCooldown": 1754146884879,
           "dailyStreak": 1,
@@ -280,6 +289,17 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215591671116@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 79,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754147265002,
+          "rwCooldown": 1754148165004
         }
       },
       "sWelcome": "",
@@ -293,7 +313,21 @@
       "primaryBot": "573019448245@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": [
+        {
+          "userId": "5215591671116@s.whatsapp.net",
+          "name": "Rio Tsukatsuki",
+          "value": 393917,
+          "gender": "Mujer",
+          "source": "Blue Archive",
+          "keyword": "tsukatsuki_rio",
+          "id": "7fe8d6fc",
+          "reservedBy": "5215591671116@s.whatsapp.net",
+          "reservedUntil": 1754147285004,
+          "expiresAt": 1754147325004
+        }
+      ]
     },
     "status@broadcast": {
       "users": {
@@ -339,7 +373,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 25,
+      "botcommando": 27,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
