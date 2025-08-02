@@ -388,6 +388,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "279341116199022@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1056,6 +1065,15 @@
           "usedTime": 1754170391407,
           "rwCooldown": 1754171263847,
           "personajesEnVenta": []
+        },
+        "279341116199022@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
