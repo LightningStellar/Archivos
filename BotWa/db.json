@@ -186,6 +186,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573225834343@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nekizz!",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -540,6 +549,20 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573225834343@s.whatsapp.net": {
+          "chocolates": 15528,
+          "bank": 0,
+          "exp": 216,
+          "usedcommands": 6,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754151188938,
+          "workCooldown": 1754151765712,
+          "mineCooldown": 1754151767492,
+          "rwCooldown": 1754152069865,
+          "rtCooldown": 1754151784512
         }
       },
       "sWelcome": "",
@@ -566,6 +589,18 @@
           "reservedBy": "51914114673@s.whatsapp.net",
           "reservedUntil": 1754150181230,
           "expiresAt": 1754150221230
+        },
+        {
+          "userId": "573225834343@s.whatsapp.net",
+          "name": "Lihua",
+          "value": 27196,
+          "gender": "Mujer",
+          "source": "Kusuriya no Hitorigoto",
+          "keyword": "lihua_(kusuriya_no_hitorigoto)",
+          "id": "eb257dde",
+          "reservedBy": "573225834343@s.whatsapp.net",
+          "reservedUntil": 1754151189865,
+          "expiresAt": 1754151229865
         }
       ]
     },
@@ -664,7 +699,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 137,
+      "botcommando": 143,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
