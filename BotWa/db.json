@@ -53,6 +53,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "17722687511@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Pineapple!",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -174,6 +183,21 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "17722687511@s.whatsapp.net": {
+          "chocolates": 32120,
+          "bank": 0,
+          "exp": 222,
+          "usedcommands": 4,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754146287667,
+          "workCooldown": 1754146882286,
+          "mineCooldown": 1754146884879,
+          "dailyStreak": 1,
+          "lastDaily": 1754146287669,
+          "nextReward": 35103
         }
       },
       "sWelcome": "",
@@ -233,7 +257,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 9,
+      "botcommando": 13,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
