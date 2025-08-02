@@ -159,6 +159,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51914114673@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🌹(Enzo F.C.77)🌹",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -463,14 +472,31 @@
           "rtCooldown": 1754150371936
         },
         "573147626376@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 2626,
           "bank": 0,
-          "exp": 4,
-          "usedcommands": 1,
+          "exp": 74,
+          "usedcommands": 2,
           "level": 1,
           "banned": false,
           "reason": "",
-          "usedTime": 1754150039561
+          "usedTime": 1754150117335,
+          "dailyStreak": 1,
+          "lastDaily": 1754150117339,
+          "nextReward": 12269
+        },
+        "51914114673@s.whatsapp.net": {
+          "chocolates": 4057,
+          "bank": 0,
+          "exp": 38,
+          "usedcommands": 2,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754150125206,
+          "dailyStreak": 1,
+          "lastDaily": 1754150117887,
+          "nextReward": 34130,
+          "workCooldown": 1754150725208
         }
       },
       "sWelcome": "",
@@ -582,7 +608,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 123,
+      "botcommando": 126,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
