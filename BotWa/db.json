@@ -584,18 +584,19 @@
         "584249122334@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 1051,
-          "usedcommands": 21,
+          "exp": 1150,
+          "usedcommands": 22,
           "level": 14,
           "banned": false,
           "reason": "",
-          "usedTime": 1754155463300,
+          "usedTime": 1754155518913,
           "personajesEnVenta": [],
           "workCooldown": 1754155767657,
           "slutCooldown": 1754155842535,
           "roboCooldown": 0,
           "crimeCooldown": 1754155981594,
-          "pptCooldown": 0
+          "pptCooldown": 0,
+          "rwCooldown": 1754156418915
         },
         "573183532216@s.whatsapp.net": {
           "chocolates": 0,
@@ -667,7 +668,20 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "584249122334@s.whatsapp.net",
+          "name": "Meme Bashame",
+          "value": 26396,
+          "gender": "Mujer",
+          "source": "Shikanoko Nokonoko Koshitantan",
+          "keyword": "bashame_meme",
+          "id": "f7db4283",
+          "reservedBy": "584249122334@s.whatsapp.net",
+          "reservedUntil": 1754155538915,
+          "expiresAt": 1754155578915
+        }
+      ]
     },
     "status@broadcast": {
       "users": {
@@ -769,7 +783,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 191,
+      "botcommando": 192,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
