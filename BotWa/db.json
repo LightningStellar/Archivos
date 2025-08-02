@@ -490,14 +490,14 @@
           "personajesEnVenta": []
         },
         "573503329918@s.whatsapp.net": {
-          "chocolates": 2500,
+          "chocolates": 500,
           "bank": 52132,
-          "exp": 3544,
-          "usedcommands": 33,
+          "exp": 3564,
+          "usedcommands": 34,
           "level": 23,
           "banned": false,
           "reason": "",
-          "usedTime": 1754155815567,
+          "usedTime": 1754155848056,
           "buyCooldown": 1754148285325,
           "rwCooldown": 1754148238121,
           "characters": [
@@ -514,7 +514,7 @@
           "mineCooldown": 1754155749149,
           "characterCount": null,
           "totalRwcoins": null,
-          "rtCooldown": 1754155768533,
+          "rtCooldown": 1754156448059,
           "workCooldown": 1754155752733,
           "personajesEnVenta": [],
           "roboCooldown": 1754157155889,
@@ -687,14 +687,14 @@
           "reason": ""
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 34936,
+          "chocolates": 0,
           "bank": 0,
-          "exp": 5997,
-          "usedcommands": 14,
+          "exp": 6037,
+          "usedcommands": 15,
           "level": 29,
           "banned": false,
           "reason": "",
-          "usedTime": 1754155824598,
+          "usedTime": 1754155838164,
           "workCooldown": 1754156342513,
           "crimeCooldown": 1754156347460,
           "slutCooldown": 1754156350631,
@@ -703,7 +703,8 @@
           "nextReward": 4457,
           "mineCooldown": 1754156359557,
           "lastWeekly": 1754155767241,
-          "lastMonthly": 1754155777690
+          "lastMonthly": 1754155777690,
+          "rtCooldown": 1754156438166
         }
       },
       "sWelcome": "",
@@ -833,7 +834,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 213,
+      "botcommando": 215,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
