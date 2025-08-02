@@ -1264,17 +1264,18 @@
           "usedTime": 1754174545462
         },
         "593988099861@s.whatsapp.net": {
-          "chocolates": 1319,
-          "bank": 0,
-          "exp": 101,
-          "usedcommands": 3,
-          "level": 5,
+          "chocolates": 0,
+          "bank": 5940,
+          "exp": 303,
+          "usedcommands": 7,
+          "level": 8,
           "banned": false,
           "reason": "",
-          "usedTime": 1754174847245,
+          "usedTime": 1754174868629,
           "workCooldown": 1754175437762,
           "mineCooldown": 1754175442336,
-          "slutCooldown": 1754175447247
+          "slutCooldown": 1754175447247,
+          "crimeCooldown": 1754175454857
         }
       },
       "sWelcome": "",
@@ -1415,7 +1416,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     }
   },
   "settings": {
@@ -1437,7 +1439,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 380,
+      "botcommando": 384,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
