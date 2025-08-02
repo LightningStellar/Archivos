@@ -440,6 +440,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "224227961622621@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -918,12 +927,12 @@
         "5493534413480@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 6386,
-          "usedcommands": 22,
+          "exp": 6439,
+          "usedcommands": 23,
           "level": 29,
           "banned": false,
           "reason": "",
-          "usedTime": 1754172609365,
+          "usedTime": 1754173480207,
           "workCooldown": 1754164689110,
           "crimeCooldown": 1754164684190,
           "slutCooldown": 1754164685108,
@@ -1173,6 +1182,15 @@
           "banned": false,
           "reason": "",
           "usedTime": 1754173441059
+        },
+        "224227961622621@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -1310,7 +1328,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 366,
+      "botcommando": 367,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
