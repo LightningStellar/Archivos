@@ -115,6 +115,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51926887094@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Baedak",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -361,6 +370,24 @@
           "characterCount": null,
           "totalRwcoins": null,
           "rtCooldown": 0
+        },
+        "51926887094@s.whatsapp.net": {
+          "chocolates": 20816,
+          "bank": 0,
+          "exp": 538,
+          "usedcommands": 8,
+          "level": 10,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754148028098,
+          "buyCooldown": 0,
+          "dailyStreak": 1,
+          "lastDaily": 1754148006091,
+          "nextReward": 49661,
+          "workCooldown": 1754148609579,
+          "mineCooldown": 1754148612283,
+          "slutCooldown": 1754148615453,
+          "rtCooldown": 1754148628100
         }
       },
       "sWelcome": "",
@@ -422,7 +449,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 63,
+      "botcommando": 71,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
