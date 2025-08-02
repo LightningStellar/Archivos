@@ -527,6 +527,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "59162934727@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "vanitas",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -721,12 +730,12 @@
         "5491150611316@s.whatsapp.net": {
           "chocolates": 83283,
           "bank": 0,
-          "exp": 1700,
-          "usedcommands": 30,
-          "level": 17,
+          "exp": 1793,
+          "usedcommands": 32,
+          "level": 18,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176113478,
+          "usedTime": 1754176225657,
           "dailyStreak": 1,
           "lastDaily": 1754146425474,
           "nextReward": 5574,
@@ -1185,21 +1194,21 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 6189780,
+          "chocolates": 3189780,
           "bank": 0,
-          "exp": 1422,
-          "usedcommands": 27,
-          "level": 16,
+          "exp": 1595,
+          "usedcommands": 30,
+          "level": 17,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176141125,
+          "usedTime": 1754176198588,
           "dailyStreak": 1,
           "lastDaily": 1754165069941,
           "nextReward": 27349,
           "workCooldown": 1754165694889,
           "crimeCooldown": 1754165698725,
           "mineCooldown": 1754165709293,
-          "rtCooldown": 1754176180546,
+          "rtCooldown": 1754176798590,
           "personajesEnVenta": [],
           "rwCooldown": 1754177022058,
           "buyCooldown": 1754177031722,
@@ -1378,12 +1387,23 @@
         "5350194597@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 98,
-          "usedcommands": 2,
-          "level": 3,
+          "exp": 111,
+          "usedcommands": 4,
+          "level": 6,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176137939
+          "usedTime": 1754176206342,
+          "rtCooldown": 0
+        },
+        "59162934727@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 60,
+          "usedcommands": 1,
+          "level": 4,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754176188915
         }
       },
       "sWelcome": "",
@@ -1575,7 +1595,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -1597,7 +1618,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 406,
+      "botcommando": 414,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
