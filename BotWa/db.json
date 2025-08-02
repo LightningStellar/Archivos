@@ -328,6 +328,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573234656022@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "😈🔥00:00🔥😈",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -483,12 +492,12 @@
         "5491150611316@s.whatsapp.net": {
           "chocolates": 85460,
           "bank": 0,
-          "exp": 915,
-          "usedcommands": 18,
-          "level": 13,
+          "exp": 983,
+          "usedcommands": 19,
+          "level": 14,
           "banned": false,
           "reason": "",
-          "usedTime": 1754161880354,
+          "usedTime": 1754161907360,
           "dailyStreak": 1,
           "lastDaily": 1754146425474,
           "nextReward": 5574,
@@ -579,14 +588,14 @@
           "personajesEnVenta": []
         },
         "573503329918@s.whatsapp.net": {
-          "chocolates": 412,
+          "chocolates": 6130,
           "bank": 53846,
-          "exp": 4504,
-          "usedcommands": 53,
+          "exp": 4715,
+          "usedcommands": 56,
           "level": 26,
           "banned": false,
           "reason": "",
-          "usedTime": 1754161384513,
+          "usedTime": 1754161942836,
           "buyCooldown": 1754148285325,
           "rwCooldown": 1754148238121,
           "characters": [
@@ -600,13 +609,13 @@
               "user": "573503329918@s.whatsapp.net"
             }
           ],
-          "mineCooldown": 1754161935905,
+          "mineCooldown": 1754162535979,
           "characterCount": null,
           "totalRwcoins": null,
           "rtCooldown": 1754161984516,
-          "workCooldown": 1754161932178,
+          "workCooldown": 1754162542838,
           "personajesEnVenta": [],
-          "roboCooldown": 1754157155889,
+          "roboCooldown": 1754163735305,
           "dailyStreak": 1,
           "lastDaily": 1754155769307,
           "nextReward": 32472,
@@ -904,6 +913,17 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573234656022@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 92,
+          "usedcommands": 1,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754161899294,
+          "slutCooldown": 1754162499297
         }
       },
       "sWelcome": "",
@@ -1040,7 +1060,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 284,
+      "botcommando": 289,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
