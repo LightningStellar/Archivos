@@ -1236,14 +1236,14 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 95196300,
+          "chocolates": 95169463,
           "bank": 0,
-          "exp": 2701,
-          "usedcommands": 54,
+          "exp": 2824,
+          "usedcommands": 57,
           "level": 21,
           "banned": false,
           "reason": "",
-          "usedTime": 1754178649650,
+          "usedTime": 1754178865851,
           "dailyStreak": 1,
           "lastDaily": 1754165069941,
           "nextReward": 27349,
@@ -1252,8 +1252,8 @@
           "mineCooldown": 1754177317452,
           "rtCooldown": 1754179240109,
           "personajesEnVenta": [],
-          "rwCooldown": 1754177022058,
-          "buyCooldown": 1754177031722,
+          "rwCooldown": 1754179752111,
+          "buyCooldown": 1754179765854,
           "characters": [
             {
               "name": "Kisaki",
@@ -1261,6 +1261,15 @@
               "gender": "Mujer",
               "source": "Blue Archive",
               "keyword": "kisaki_(blue_archive)",
+              "claim": "sábado, 2 de agosto de 2025",
+              "user": "5493764838767@s.whatsapp.net"
+            },
+            {
+              "name": "Satella",
+              "value": 26837,
+              "gender": "Mujer",
+              "source": "Re:Zero",
+              "keyword": "satella_(re:zero)",
               "claim": "sábado, 2 de agosto de 2025",
               "user": "5493764838767@s.whatsapp.net"
             }
@@ -1738,7 +1747,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 490,
+      "botcommando": 493,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
