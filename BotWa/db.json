@@ -180,7 +180,8 @@
       "primaryBot": "573019448245@s.whatsapp.net",
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     },
     "573019448245@s.whatsapp.net": {
       "users": {
@@ -214,7 +215,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     },
     "120363419574059419@g.us": {
       "users": {
@@ -358,32 +360,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "5215591671116@s.whatsapp.net",
-          "name": "Rio Tsukatsuki",
-          "value": 393917,
-          "gender": "Mujer",
-          "source": "Blue Archive",
-          "keyword": "tsukatsuki_rio",
-          "id": "7fe8d6fc",
-          "reservedBy": "5215591671116@s.whatsapp.net",
-          "reservedUntil": 1754147285004,
-          "expiresAt": 1754147325004
-        },
-        {
-          "userId": "17722687511@s.whatsapp.net",
-          "name": "Kikuri Hiroi",
-          "value": 4500,
-          "gender": "Mujer",
-          "source": "Bocchi The Rock",
-          "keyword": "hiroi_kikuri",
-          "id": "77f21038",
-          "reservedBy": "17722687511@s.whatsapp.net",
-          "reservedUntil": 1754147566795,
-          "expiresAt": 1754147606795
-        }
-      ]
+      "personajesReservados": []
     },
     "status@broadcast": {
       "users": {
@@ -407,7 +384,8 @@
       "adminonly": false,
       "primaryBot": null,
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "personajesReservados": []
     }
   },
   "settings": {
