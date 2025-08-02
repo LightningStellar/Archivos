@@ -337,6 +337,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "83374492401788@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -925,6 +934,15 @@
           "usedTime": 1754161954931,
           "slutCooldown": 1754162499297,
           "roboCooldown": 0
+        },
+        "83374492401788@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
