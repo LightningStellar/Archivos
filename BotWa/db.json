@@ -52,12 +52,12 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 4921,
           "bank": 0,
-          "exp": 122,
-          "usedcommands": 3,
-          "level": 3,
+          "exp": 225,
+          "usedcommands": 7,
+          "level": 8,
           "banned": false,
           "reason": "",
-          "usedTime": 1754145807278,
+          "usedTime": 1754145856549,
           "workCooldown": 1754146216149
         },
         "5218713339906@s.whatsapp.net": {
@@ -92,10 +92,44 @@
           "bank": 0,
           "exp": 52,
           "usedcommands": 1,
-          "level": 0,
+          "level": 4,
           "banned": false,
           "reason": "",
           "usedTime": 1754145824641
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": "573019448245@s.whatsapp.net",
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
+    },
+    "573019448245@s.whatsapp.net": {
+      "users": {
+        "573019448245@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -115,7 +149,7 @@
   "settings": {
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 4,
+      "botcommando": 6,
       "prefix": "/",
       "namebot": "Rikka Takanashi",
       "namebot2": "Rikka",
@@ -125,6 +159,19 @@
       "currency": "¥enes",
       "botprem": false,
       "botmod": false
+    },
+    "573019448245@s.whatsapp.net": {
+      "botprem": true,
+      "tipo": "Prem",
+      "botmod": false,
+      "self": false,
+      "botcommando": 2,
+      "namebot": "Rikka Takanashi",
+      "prefix": "/",
+      "namebot2": "Rikka",
+      "owner": "Oculto por privacidad",
+      "banner": "https://stellarwa.xyz/files/1753842037113.jpg",
+      "currency": "¥enes"
     }
   },
   "tokens": {
