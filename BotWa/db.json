@@ -691,7 +691,8 @@
           "level": 4,
           "banned": false,
           "reason": "",
-          "usedTime": 1754155046801
+          "usedTime": 1754155046801,
+          "personajesEnVenta": []
         },
         "51973271365@s.whatsapp.net": {
           "chocolates": 0,
@@ -700,7 +701,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
           "chocolates": 0,
@@ -720,7 +722,8 @@
           "mineCooldown": 1754156359557,
           "lastWeekly": 1754155767241,
           "lastMonthly": 1754155777690,
-          "rtCooldown": 1754156438166
+          "rtCooldown": 1754156438166,
+          "personajesEnVenta": []
         },
         "50256925876@s.whatsapp.net": {
           "chocolates": 2137,
@@ -733,7 +736,8 @@
           "usedTime": 1754156774609,
           "slutCooldown": 1754157357165,
           "workCooldown": 1754157360516,
-          "mineCooldown": 1754157364513
+          "mineCooldown": 1754157364513,
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
@@ -748,20 +752,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "584249122334@s.whatsapp.net",
-          "name": "Meme Bashame",
-          "value": 26396,
-          "gender": "Mujer",
-          "source": "Shikanoko Nokonoko Koshitantan",
-          "keyword": "bashame_meme",
-          "id": "f7db4283",
-          "reservedBy": "584249122334@s.whatsapp.net",
-          "reservedUntil": 1754155538915,
-          "expiresAt": 1754155578915
-        }
-      ]
+      "personajesReservados": []
     },
     "status@broadcast": {
       "users": {
