@@ -106,6 +106,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573503329918@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "JUANFE🙂‍↔️✨",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -291,15 +300,31 @@
           "reason": ""
         },
         "5215591671116@s.whatsapp.net": {
+          "chocolates": 28309,
+          "bank": 0,
+          "exp": 268,
+          "usedcommands": 4,
+          "level": 8,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754147313294,
+          "rwCooldown": 1754148165004,
+          "buyCooldown": 0,
+          "characters": [],
+          "dailyStreak": 1,
+          "lastDaily": 1754147302825,
+          "nextReward": 21480
+        },
+        "573503329918@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 79,
+          "exp": 75,
           "usedcommands": 1,
           "level": 0,
           "banned": false,
           "reason": "",
-          "usedTime": 1754147265002,
-          "rwCooldown": 1754148165004
+          "usedTime": 1754147329599,
+          "buyCooldown": 0
         }
       },
       "sWelcome": "",
@@ -373,7 +398,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 27,
+      "botcommando": 31,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
