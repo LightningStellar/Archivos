@@ -267,14 +267,14 @@
           "rwCooldown": 1754148446795
         },
         "5491150611316@s.whatsapp.net": {
-          "chocolates": 75817,
+          "chocolates": 75893,
           "bank": 0,
-          "exp": 495,
-          "usedcommands": 12,
-          "level": 10,
+          "exp": 785,
+          "usedcommands": 15,
+          "level": 13,
           "banned": false,
           "reason": "",
-          "usedTime": 1754148154769,
+          "usedTime": 1754148217522,
           "dailyStreak": 1,
           "lastDaily": 1754146425474,
           "nextReward": 5574,
@@ -296,7 +296,8 @@
             }
           ],
           "characterCount": null,
-          "totalRwcoins": null
+          "totalRwcoins": null,
+          "pptCooldown": 1754148779791
         },
         "584264098030@s.whatsapp.net": {
           "chocolates": 0,
@@ -327,33 +328,33 @@
           "reason": ""
         },
         "5215591671116@s.whatsapp.net": {
-          "chocolates": 32789,
+          "chocolates": 30023,
           "bank": 0,
-          "exp": 911,
-          "usedcommands": 18,
+          "exp": 959,
+          "usedcommands": 21,
           "level": 14,
           "banned": false,
           "reason": "",
-          "usedTime": 1754148106859,
+          "usedTime": 1754148218136,
           "rwCooldown": 1754148165004,
           "buyCooldown": 0,
           "characters": [],
           "dailyStreak": 1,
           "lastDaily": 1754147302825,
           "nextReward": 21480,
-          "mineCooldown": 1754148047937,
-          "crimeCooldown": 1754148060256,
+          "mineCooldown": 1754148808148,
+          "crimeCooldown": 1754148794343,
           "workCooldown": 1754148680130
         },
         "573503329918@s.whatsapp.net": {
-          "chocolates": 60,
+          "chocolates": 1814,
           "bank": 0,
-          "exp": 498,
-          "usedcommands": 11,
-          "level": 11,
+          "exp": 681,
+          "usedcommands": 15,
+          "level": 12,
           "banned": false,
           "reason": "",
-          "usedTime": 1754147499838,
+          "usedTime": 1754148207551,
           "buyCooldown": 1754148285325,
           "rwCooldown": 1754148238121,
           "characters": [
@@ -367,10 +368,11 @@
               "user": "573503329918@s.whatsapp.net"
             }
           ],
-          "mineCooldown": 1754147975759,
+          "mineCooldown": 1754148782076,
           "characterCount": null,
           "totalRwcoins": null,
-          "rtCooldown": 0
+          "rtCooldown": 0,
+          "workCooldown": 1754148773574
         },
         "51926887094@s.whatsapp.net": {
           "chocolates": 20816,
@@ -450,7 +452,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 75,
+      "botcommando": 85,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
