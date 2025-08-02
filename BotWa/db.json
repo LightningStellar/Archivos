@@ -71,6 +71,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584264098030@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Johan",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51950035502@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Anthony",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -226,6 +244,25 @@
           "crimeCooldown": 1754147038905,
           "mineCooldown": 1754147068255,
           "rtCooldown": 1754147123572
+        },
+        "584264098030@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 20,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754146731035
+        },
+        "51950035502@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -285,7 +322,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 24,
+      "botcommando": 25,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
