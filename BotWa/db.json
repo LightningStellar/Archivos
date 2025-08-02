@@ -168,6 +168,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584249122334@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "subasarengel@hotmail.com",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -472,31 +481,44 @@
           "rtCooldown": 1754150371936
         },
         "573147626376@s.whatsapp.net": {
-          "chocolates": 2626,
+          "chocolates": 2889,
           "bank": 0,
-          "exp": 74,
-          "usedcommands": 2,
-          "level": 1,
+          "exp": 291,
+          "usedcommands": 5,
+          "level": 8,
           "banned": false,
           "reason": "",
-          "usedTime": 1754150117335,
+          "usedTime": 1754150184608,
           "dailyStreak": 1,
           "lastDaily": 1754150117339,
-          "nextReward": 12269
+          "nextReward": 12269,
+          "rwCooldown": 1754151032780,
+          "workCooldown": 1754150784610
         },
         "51914114673@s.whatsapp.net": {
-          "chocolates": 4057,
-          "bank": 0,
-          "exp": 38,
-          "usedcommands": 2,
-          "level": 3,
+          "chocolates": 0,
+          "bank": 7314,
+          "exp": 122,
+          "usedcommands": 5,
+          "level": 5,
           "banned": false,
           "reason": "",
-          "usedTime": 1754150125206,
+          "usedTime": 1754150161228,
           "dailyStreak": 1,
           "lastDaily": 1754150117887,
           "nextReward": 34130,
-          "workCooldown": 1754150725208
+          "workCooldown": 1754150725208,
+          "mineCooldown": 1754150732432,
+          "rwCooldown": 1754151061230
+        },
+        "584249122334@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -511,7 +533,20 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "51914114673@s.whatsapp.net",
+          "name": "Chara",
+          "value": 39279,
+          "gender": "Desconocido",
+          "source": "Undertale",
+          "keyword": "chara",
+          "id": "44a3c49a",
+          "reservedBy": "51914114673@s.whatsapp.net",
+          "reservedUntil": 1754150181230,
+          "expiresAt": 1754150221230
+        }
+      ]
     },
     "status@broadcast": {
       "users": {
@@ -608,7 +643,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 126,
+      "botcommando": 132,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
