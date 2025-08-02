@@ -52,12 +52,12 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 4921,
           "bank": 0,
-          "exp": 225,
-          "usedcommands": 7,
-          "level": 8,
+          "exp": 533,
+          "usedcommands": 12,
+          "level": 11,
           "banned": false,
           "reason": "",
-          "usedTime": 1754145856549,
+          "usedTime": 1754146000934,
           "workCooldown": 1754146216149
         },
         "5218713339906@s.whatsapp.net": {
@@ -149,14 +149,14 @@
   "settings": {
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 6,
+      "botcommando": 7,
       "prefix": "/",
       "namebot": "Rikka Takanashi",
       "namebot2": "Rikka",
       "tipo": "Sub",
       "owner": "Oculto por privacidad",
       "banner": "https://stellarwa.xyz/files/1753842037113.jpg",
-      "currency": "¥enes",
+      "currency": "Â¥enes",
       "botprem": false,
       "botmod": false
     },
@@ -165,13 +165,13 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 2,
+      "botcommando": 7,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
       "owner": "Oculto por privacidad",
       "banner": "https://stellarwa.xyz/files/1753842037113.jpg",
-      "currency": "¥enes"
+      "currency": "Soles"
     }
   },
   "tokens": {
