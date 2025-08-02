@@ -258,21 +258,36 @@
           "rwCooldown": 1754148446795
         },
         "5491150611316@s.whatsapp.net": {
-          "chocolates": 77013,
+          "chocolates": 75513,
           "bank": 0,
-          "exp": 351,
-          "usedcommands": 8,
-          "level": 9,
+          "exp": 395,
+          "usedcommands": 10,
+          "level": 10,
           "banned": false,
           "reason": "",
-          "usedTime": 1754146686009,
+          "usedTime": 1754147917201,
           "dailyStreak": 1,
           "lastDaily": 1754146425474,
           "nextReward": 5574,
           "workCooldown": 1754147031655,
           "crimeCooldown": 1754147038905,
           "mineCooldown": 1754147068255,
-          "rtCooldown": 1754147123572
+          "rtCooldown": 1754147123572,
+          "rwCooldown": 1754148786546,
+          "buyCooldown": 1754148817205,
+          "characters": [
+            {
+              "name": "Kana Arima",
+              "value": 1500,
+              "gender": "Mujer",
+              "source": "Oshi no Ko",
+              "keyword": "arima_kana",
+              "claim": "sábado, 2 de agosto de 2025",
+              "user": "5491150611316@s.whatsapp.net"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "584264098030@s.whatsapp.net": {
           "chocolates": 0,
@@ -305,12 +320,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 28927,
           "bank": 0,
-          "exp": 643,
-          "usedcommands": 13,
+          "exp": 707,
+          "usedcommands": 15,
           "level": 12,
           "banned": false,
           "reason": "",
-          "usedTime": 1754147609529,
+          "usedTime": 1754147902617,
           "rwCooldown": 1754148165004,
           "buyCooldown": 0,
           "characters": [],
@@ -407,7 +422,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 58,
+      "botcommando": 62,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
