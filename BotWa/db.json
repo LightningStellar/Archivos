@@ -195,6 +195,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "584248822945@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "David Abad🌕",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -564,6 +573,16 @@
           "mineCooldown": 1754151767492,
           "rwCooldown": 1754152069865,
           "rtCooldown": 1754151784512
+        },
+        "584248822945@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 46,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754152920383
         }
       },
       "sWelcome": "",
@@ -677,7 +696,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 166,
+      "botcommando": 168,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
