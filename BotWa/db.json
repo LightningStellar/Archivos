@@ -379,6 +379,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219921415493@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Jane doe",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1035,6 +1044,16 @@
           "reason": "",
           "usedTime": 1754166609001,
           "personajesEnVenta": []
+        },
+        "5219921415493@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 56,
+          "usedcommands": 1,
+          "level": 4,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754170342553
         }
       },
       "sWelcome": "",
@@ -1172,7 +1191,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 348,
+      "botcommando": 349,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
