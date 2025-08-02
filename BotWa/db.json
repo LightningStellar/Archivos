@@ -787,7 +787,8 @@
           "usedTime": 1754160142212,
           "mineCooldown": 1754159969403,
           "workCooldown": 1754160742214,
-          "roboCooldown": 1754161821513
+          "roboCooldown": 1754161821513,
+          "personajesEnVenta": []
         },
         "56920449984@s.whatsapp.net": {
           "chocolates": 0,
@@ -796,7 +797,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         },
         "51977371988@s.whatsapp.net": {
           "chocolates": 0,
@@ -805,7 +807,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         },
         "573202902137@s.whatsapp.net": {
           "chocolates": 1031,
@@ -816,7 +819,8 @@
           "banned": false,
           "reason": "",
           "usedTime": 1754160474291,
-          "workCooldown": 1754161068880
+          "workCooldown": 1754161068880,
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
@@ -852,7 +856,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
