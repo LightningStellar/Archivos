@@ -316,15 +316,30 @@
           "nextReward": 21480
         },
         "573503329918@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 60,
           "bank": 0,
-          "exp": 75,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 381,
+          "usedcommands": 7,
+          "level": 9,
           "banned": false,
           "reason": "",
-          "usedTime": 1754147329599,
-          "buyCooldown": 0
+          "usedTime": 1754147385321,
+          "buyCooldown": 1754148285325,
+          "rwCooldown": 1754148238121,
+          "characters": [
+            {
+              "name": "Fuuka",
+              "value": 3978,
+              "gender": "Mujer",
+              "source": "Blue Archive",
+              "keyword": "fuuka_(blue_archive)",
+              "claim": "sábado, 2 de agosto de 2025",
+              "user": "573503329918@s.whatsapp.net"
+            }
+          ],
+          "mineCooldown": 1754147975759,
+          "characterCount": null,
+          "totalRwcoins": null
         }
       },
       "sWelcome": "",
@@ -398,7 +413,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 31,
+      "botcommando": 37,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
