@@ -276,6 +276,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573202902137@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🫀᷒ᰰᮢ҈͝K A I ᷒ᰰᮢS Ξ R༯",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -797,6 +806,17 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573202902137@s.whatsapp.net": {
+          "chocolates": 1031,
+          "bank": 0,
+          "exp": 79,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754160474291,
+          "workCooldown": 1754161068880
         }
       },
       "sWelcome": "",
@@ -923,7 +943,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 271,
+      "botcommando": 273,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
