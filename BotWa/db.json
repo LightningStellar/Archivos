@@ -509,6 +509,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "595994943779@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ivonn",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5350194597@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🐉🦖",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1006,14 +1024,14 @@
           "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 2000000,
+          "chocolates": 1000000,
           "bank": 0,
-          "exp": 6439,
-          "usedcommands": 23,
+          "exp": 6456,
+          "usedcommands": 24,
           "level": 30,
           "banned": false,
           "reason": "",
-          "usedTime": 1754173480207,
+          "usedTime": 1754176093145,
           "workCooldown": 1754164689110,
           "crimeCooldown": 1754164684190,
           "slutCooldown": 1754164685108,
@@ -1023,7 +1041,7 @@
           "mineCooldown": 1754164694564,
           "lastWeekly": 1754155767241,
           "lastMonthly": 1754155777690,
-          "rtCooldown": 1754156438166,
+          "rtCooldown": 1754176693149,
           "personajesEnVenta": []
         },
         "50256925876@s.whatsapp.net": {
@@ -1169,12 +1187,12 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 6228048,
           "bank": 0,
-          "exp": 1106,
-          "usedcommands": 22,
-          "level": 14,
+          "exp": 1183,
+          "usedcommands": 23,
+          "level": 15,
           "banned": false,
           "reason": "",
-          "usedTime": 1754175603988,
+          "usedTime": 1754176103502,
           "dailyStreak": 1,
           "lastDaily": 1754165069941,
           "nextReward": 27349,
@@ -1325,6 +1343,24 @@
           "personajesEnVenta": []
         },
         "573144592525@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "595994943779@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5350194597@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
           "exp": 0,
@@ -1520,7 +1556,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 394,
+      "botcommando": 396,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
