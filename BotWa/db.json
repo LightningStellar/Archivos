@@ -21,7 +21,7 @@
     "5351524614@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃÂ°ÃÂÃÂÃÂ©ÃÂªÃÂªÃÂ¶ÃÂªÃÂªÃÂ¾ÃÂÃÂÃÂÃÂÃÂ¡ÃÂ¥ÃÂ²ÃÂ¡ÃÂÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¡ÃÂ¥ÃÂ°ÃÂÃÂÃÂ¡ÃÂÃÂ«ÃÂªÃÂ«ÃÂÃÂ°ÃÂÃÂÃÂ²ÃÂ ÃÂ©ÃÂ­ÃÂ ÃÂ ÃÂ±ÃÂ ÃÂ ÃÂ­",
+      "name": "𓆩ꪶꪾƊіᥲო֟፝͜𝛐͜ᥰ͜ძꫂ𓏲੭࠱࠭",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -958,16 +958,16 @@
           "personajesEnVenta": []
         },
         "584249122334@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 752,
           "bank": 62001,
-          "exp": 4482,
-          "usedcommands": 57,
-          "level": 25,
+          "exp": 4542,
+          "usedcommands": 58,
+          "level": 26,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176459916,
+          "usedTime": 1754176697422,
           "personajesEnVenta": [],
-          "workCooldown": 1754167161423,
+          "workCooldown": 1754177297424,
           "slutCooldown": 1754176864437,
           "roboCooldown": 1754168435160,
           "crimeCooldown": 1754155981594,
@@ -1052,12 +1052,12 @@
         "5493534413480@s.whatsapp.net": {
           "chocolates": 1000000,
           "bank": 0,
-          "exp": 6675,
-          "usedcommands": 28,
+          "exp": 6720,
+          "usedcommands": 29,
           "level": 30,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176582210,
+          "usedTime": 1754176683109,
           "workCooldown": 1754164689110,
           "crimeCooldown": 1754164684190,
           "slutCooldown": 1754164685108,
@@ -1214,12 +1214,12 @@
         "5493764838767@s.whatsapp.net": {
           "chocolates": 3189770,
           "bank": 0,
-          "exp": 1786,
-          "usedcommands": 34,
+          "exp": 1873,
+          "usedcommands": 35,
           "level": 18,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176629637,
+          "usedTime": 1754176699545,
           "dailyStreak": 1,
           "lastDaily": 1754165069941,
           "nextReward": 27349,
@@ -1372,12 +1372,12 @@
         "593988099861@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 5940,
-          "exp": 303,
-          "usedcommands": 7,
+          "exp": 398,
+          "usedcommands": 8,
           "level": 9,
           "banned": false,
           "reason": "",
-          "usedTime": 1754174868629,
+          "usedTime": 1754176697015,
           "workCooldown": 1754175437762,
           "mineCooldown": 1754175442336,
           "slutCooldown": 1754175447247,
@@ -1454,32 +1454,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "5491150611316@s.whatsapp.net",
-          "name": "Plana",
-          "value": 48297,
-          "gender": "Mujer",
-          "source": "Blue Archive",
-          "keyword": "plana_(blue_archive)",
-          "id": "7ce60098",
-          "reservedBy": "5491150611316@s.whatsapp.net",
-          "reservedUntil": 1754176133479,
-          "expiresAt": 1754176173479
-        },
-        {
-          "userId": "5215591671116@s.whatsapp.net",
-          "name": "Kasumi Miwa",
-          "value": 2816,
-          "gender": "Mujer",
-          "source": "Jujutsu Kaisen",
-          "keyword": "miwa_kasumi",
-          "id": "9d61bed9",
-          "reservedBy": "5215591671116@s.whatsapp.net",
-          "reservedUntil": 1754176163009,
-          "expiresAt": 1754176203009
-        }
-      ]
+      "personajesReservados": []
     },
     "status@broadcast": {
       "users": {
@@ -1632,7 +1607,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     }
   },
   "settings": {
@@ -1654,7 +1630,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 436,
+      "botcommando": 440,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
