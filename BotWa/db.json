@@ -128,7 +128,7 @@
     "5492974124262@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ÃªÂ¯Â­   ÃªÂ¯Â­  ÃªÂ¯Â­ Ã°ÂÂÂÃ°ÂÂÂ°Ã¯Â¼Â«Ã°ÂÂÂ° Ã¢ÂÂ Ã°ÂÂÂ¾",
+      "name": "꯭   ꯭  ꯭ 𝐋𝒰Ｋ𝙰 ☆ 🐾",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -478,12 +478,12 @@
         "5492974124262@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 15,
-          "usedcommands": 1,
+          "exp": 48,
+          "usedcommands": 2,
           "level": 2,
           "banned": false,
           "reason": "",
-          "usedTime": 1754149288295
+          "usedTime": 1754151558468
         },
         "595973582789@s.whatsapp.net": {
           "chocolates": 6389,
@@ -577,32 +577,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "51914114673@s.whatsapp.net",
-          "name": "Chara",
-          "value": 39279,
-          "gender": "Desconocido",
-          "source": "Undertale",
-          "keyword": "chara",
-          "id": "44a3c49a",
-          "reservedBy": "51914114673@s.whatsapp.net",
-          "reservedUntil": 1754150181230,
-          "expiresAt": 1754150221230
-        },
-        {
-          "userId": "573225834343@s.whatsapp.net",
-          "name": "Lihua",
-          "value": 27196,
-          "gender": "Mujer",
-          "source": "Kusuriya no Hitorigoto",
-          "keyword": "lihua_(kusuriya_no_hitorigoto)",
-          "id": "eb257dde",
-          "reservedBy": "573225834343@s.whatsapp.net",
-          "reservedUntil": 1754151189865,
-          "expiresAt": 1754151229865
-        }
-      ]
+      "personajesReservados": []
     },
     "status@broadcast": {
       "users": {
@@ -652,7 +627,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     },
     "120363305941657414@newsletter": {
       "users": {
@@ -677,7 +653,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     }
   },
   "settings": {
@@ -699,7 +676,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 144,
+      "botcommando": 145,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
