@@ -1050,14 +1050,14 @@
           "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 15000956,
+          "chocolates": 14000956,
           "bank": 0,
-          "exp": 7309,
-          "usedcommands": 40,
+          "exp": 7462,
+          "usedcommands": 43,
           "level": 31,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176895597,
+          "usedTime": 1754177109343,
           "workCooldown": 1754164689110,
           "crimeCooldown": 1754164684190,
           "slutCooldown": 1754164685108,
@@ -1088,12 +1088,12 @@
         "51922353722@s.whatsapp.net": {
           "chocolates": 21553,
           "bank": 0,
-          "exp": 737,
-          "usedcommands": 13,
+          "exp": 797,
+          "usedcommands": 14,
           "level": 12,
           "banned": false,
           "reason": "",
-          "usedTime": 1754177033936,
+          "usedTime": 1754177103084,
           "mineCooldown": 1754176962579,
           "workCooldown": 1754177114846,
           "roboCooldown": 1754178570586,
@@ -1610,6 +1610,40 @@
       "bannedGrupo": false,
       "expired": 0,
       "personajesReservados": []
+    },
+    "120363419171116775@newsletter": {
+      "users": {
+        "573019448245@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5218713339906@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -1631,7 +1665,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 475,
+      "botcommando": 480,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
