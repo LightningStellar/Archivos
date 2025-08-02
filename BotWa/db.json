@@ -545,6 +545,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "145312148664521@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "No generado",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -805,12 +814,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 34193,
           "bank": 0,
-          "exp": 2493,
-          "usedcommands": 53,
-          "level": 20,
+          "exp": 2597,
+          "usedcommands": 55,
+          "level": 21,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176432998,
+          "usedTime": 1754176509318,
           "rwCooldown": 1754177043009,
           "buyCooldown": 1754149168849,
           "characters": [
@@ -1077,18 +1086,19 @@
           "personajesEnVenta": []
         },
         "51922353722@s.whatsapp.net": {
-          "chocolates": 10841,
+          "chocolates": 14499,
           "bank": 0,
-          "exp": 359,
-          "usedcommands": 7,
-          "level": 9,
+          "exp": 494,
+          "usedcommands": 9,
+          "level": 11,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176362575,
+          "usedTime": 1754176514844,
           "mineCooldown": 1754176962579,
-          "workCooldown": 1754160742214,
+          "workCooldown": 1754177114846,
           "roboCooldown": 1754161821513,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rtCooldown": 1754177074269
         },
         "56920449984@s.whatsapp.net": {
           "chocolates": 3642,
@@ -1422,6 +1432,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "145312148664521@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -1636,7 +1655,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 426,
+      "botcommando": 430,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
