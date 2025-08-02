@@ -456,6 +456,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215512013931@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "tׁׅꫀׁׅܻ݊ɑׁׅꩇׁׅ֪݊  ꩇׁׅ֪݊ υ",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1202,11 +1211,30 @@
         "5492324347631@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
+          "exp": 366,
+          "usedcommands": 9,
+          "level": 9,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754174526715,
+          "dailyStreak": 1,
+          "lastDaily": 1754174494164,
+          "nextReward": 31925,
+          "workCooldown": 1754175102032,
+          "crimeCooldown": 1754175104008,
+          "slutCooldown": 1754175112757,
+          "mineCooldown": 1754175115055,
+          "rtCooldown": 1754175126717
+        },
+        "5215512013931@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 88,
+          "usedcommands": 1,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "usedTime": 1754174545462
         }
       },
       "sWelcome": "",
@@ -1369,7 +1397,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 367,
+      "botcommando": 377,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
