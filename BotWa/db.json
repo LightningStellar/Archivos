@@ -1167,12 +1167,12 @@
         "56933563394@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 38,
-          "usedcommands": 1,
-          "level": 0,
+          "exp": 61,
+          "usedcommands": 2,
+          "level": 4,
           "banned": false,
           "reason": "",
-          "usedTime": 1754173405662
+          "usedTime": 1754173441059
         }
       },
       "sWelcome": "",
@@ -1310,7 +1310,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 365,
+      "botcommando": 366,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
