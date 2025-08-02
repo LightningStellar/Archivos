@@ -240,19 +240,20 @@
         "17722687511@s.whatsapp.net": {
           "chocolates": 80361,
           "bank": 0,
-          "exp": 717,
-          "usedcommands": 14,
-          "level": 12,
+          "exp": 830,
+          "usedcommands": 16,
+          "level": 13,
           "banned": false,
           "reason": "",
-          "usedTime": 1754147502136,
+          "usedTime": 1754147546794,
           "workCooldown": 1754148035398,
           "mineCooldown": 1754148041106,
           "dailyStreak": 1,
           "lastDaily": 1754146287669,
           "nextReward": 35103,
           "crimeCooldown": 1754147102227,
-          "rtCooldown": 1754147994459
+          "rtCooldown": 1754147994459,
+          "rwCooldown": 1754148446795
         },
         "5491150611316@s.whatsapp.net": {
           "chocolates": 77013,
@@ -302,12 +303,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 28927,
           "bank": 0,
-          "exp": 448,
-          "usedcommands": 9,
-          "level": 9,
+          "exp": 577,
+          "usedcommands": 12,
+          "level": 11,
           "banned": false,
           "reason": "",
-          "usedTime": 1754147487688,
+          "usedTime": 1754147560470,
           "rwCooldown": 1754148165004,
           "buyCooldown": 0,
           "characters": [],
@@ -369,6 +370,18 @@
           "reservedBy": "5215591671116@s.whatsapp.net",
           "reservedUntil": 1754147285004,
           "expiresAt": 1754147325004
+        },
+        {
+          "userId": "17722687511@s.whatsapp.net",
+          "name": "Kikuri Hiroi",
+          "value": 4500,
+          "gender": "Mujer",
+          "source": "Bocchi The Rock",
+          "keyword": "hiroi_kikuri",
+          "id": "77f21038",
+          "reservedBy": "17722687511@s.whatsapp.net",
+          "reservedUntil": 1754147566795,
+          "expiresAt": 1754147606795
         }
       ]
     },
@@ -416,7 +429,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 52,
+      "botcommando": 57,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
