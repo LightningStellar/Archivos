@@ -501,6 +501,14 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "120363203805910750@newsletter": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -655,12 +663,12 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 424,
-          "usedcommands": 10,
+          "exp": 510,
+          "usedcommands": 12,
           "level": 10,
           "banned": false,
           "reason": "",
-          "usedTime": 1754175532822,
+          "usedTime": 1754176030093,
           "personajesEnVenta": []
         },
         "573019448245@s.whatsapp.net": {
@@ -693,21 +701,21 @@
           "personajesEnVenta": []
         },
         "5491150611316@s.whatsapp.net": {
-          "chocolates": 82923,
+          "chocolates": 83283,
           "bank": 0,
-          "exp": 1288,
-          "usedcommands": 26,
+          "exp": 1659,
+          "usedcommands": 29,
           "level": 16,
           "banned": false,
           "reason": "",
-          "usedTime": 1754168671848,
+          "usedTime": 1754176008927,
           "dailyStreak": 1,
           "lastDaily": 1754146425474,
           "nextReward": 5574,
-          "workCooldown": 1754169232750,
+          "workCooldown": 1754176597615,
           "crimeCooldown": 1754169252482,
           "mineCooldown": 1754169242423,
-          "rtCooldown": 1754169212116,
+          "rtCooldown": 1754176590712,
           "rwCooldown": 1754148786546,
           "buyCooldown": 1754148817205,
           "characters": [
@@ -723,7 +731,7 @@
           ],
           "characterCount": null,
           "totalRwcoins": null,
-          "pptCooldown": 1754148779791,
+          "pptCooldown": 1754176609064,
           "personajesEnVenta": [],
           "slutCooldown": 1754162480358
         },
@@ -1467,6 +1475,30 @@
       "bannedGrupo": false,
       "expired": 0,
       "personajesReservados": []
+    },
+    "120363203805910750@newsletter": {
+      "users": {
+        "120363203805910750@newsletter": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false
     }
   },
   "settings": {
@@ -1488,7 +1520,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 389,
+      "botcommando": 394,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
