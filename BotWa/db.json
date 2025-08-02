@@ -721,12 +721,12 @@
         "5491150611316@s.whatsapp.net": {
           "chocolates": 83283,
           "bank": 0,
-          "exp": 1659,
-          "usedcommands": 29,
-          "level": 16,
+          "exp": 1700,
+          "usedcommands": 30,
+          "level": 17,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176008927,
+          "usedTime": 1754176113478,
           "dailyStreak": 1,
           "lastDaily": 1754146425474,
           "nextReward": 5574,
@@ -734,7 +734,7 @@
           "crimeCooldown": 1754169252482,
           "mineCooldown": 1754169242423,
           "rtCooldown": 1754176590712,
-          "rwCooldown": 1754148786546,
+          "rwCooldown": 1754177013479,
           "buyCooldown": 1754148817205,
           "characters": [
             {
@@ -787,13 +787,13 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 31339,
           "bank": 0,
-          "exp": 2076,
-          "usedcommands": 45,
+          "exp": 2210,
+          "usedcommands": 48,
           "level": 19,
           "banned": false,
           "reason": "",
-          "usedTime": 1754166817082,
-          "rwCooldown": 1754149152369,
+          "usedTime": 1754176147324,
+          "rwCooldown": 1754177043009,
           "buyCooldown": 1754149168849,
           "characters": [
             {
@@ -1185,14 +1185,14 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 6228048,
+          "chocolates": 6189780,
           "bank": 0,
-          "exp": 1183,
-          "usedcommands": 23,
-          "level": 15,
+          "exp": 1422,
+          "usedcommands": 27,
+          "level": 16,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176103502,
+          "usedTime": 1754176141125,
           "dailyStreak": 1,
           "lastDaily": 1754165069941,
           "nextReward": 27349,
@@ -1200,7 +1200,22 @@
           "crimeCooldown": 1754165698725,
           "mineCooldown": 1754165709293,
           "rtCooldown": 1754176180546,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "rwCooldown": 1754177022058,
+          "buyCooldown": 1754177031722,
+          "characters": [
+            {
+              "name": "Kisaki",
+              "value": 38268,
+              "gender": "Mujer",
+              "source": "Blue Archive",
+              "keyword": "kisaki_(blue_archive)",
+              "claim": "sábado, 2 de agosto de 2025",
+              "user": "5493764838767@s.whatsapp.net"
+            }
+          ],
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "233680765198555@lid": {
           "chocolates": 0,
@@ -1363,11 +1378,12 @@
         "5350194597@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
+          "exp": 98,
+          "usedcommands": 2,
+          "level": 3,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "usedTime": 1754176137939
         }
       },
       "sWelcome": "",
@@ -1382,7 +1398,32 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "5491150611316@s.whatsapp.net",
+          "name": "Plana",
+          "value": 48297,
+          "gender": "Mujer",
+          "source": "Blue Archive",
+          "keyword": "plana_(blue_archive)",
+          "id": "7ce60098",
+          "reservedBy": "5491150611316@s.whatsapp.net",
+          "reservedUntil": 1754176133479,
+          "expiresAt": 1754176173479
+        },
+        {
+          "userId": "5215591671116@s.whatsapp.net",
+          "name": "Kasumi Miwa",
+          "value": 2816,
+          "gender": "Mujer",
+          "source": "Jujutsu Kaisen",
+          "keyword": "miwa_kasumi",
+          "id": "9d61bed9",
+          "reservedBy": "5215591671116@s.whatsapp.net",
+          "reservedUntil": 1754176163009,
+          "expiresAt": 1754176203009
+        }
+      ]
     },
     "status@broadcast": {
       "users": {
@@ -1556,7 +1597,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 396,
+      "botcommando": 406,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
