@@ -150,6 +150,16 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
+          "exp": 21,
+          "usedcommands": 2,
+          "level": 3,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754146106108
+        },
+        "573019448245@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
           "exp": 0,
           "usedcommands": 0,
           "level": 0,
@@ -165,9 +175,10 @@
       "gacha": true,
       "rpg": true,
       "adminonly": false,
-      "primaryBot": null,
+      "primaryBot": "573019448245@s.whatsapp.net",
       "antilinks": true,
-      "bannedGrupo": false
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -189,7 +200,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 7,
+      "botcommando": 9,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
