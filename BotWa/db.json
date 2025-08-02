@@ -490,14 +490,14 @@
           "personajesEnVenta": []
         },
         "573503329918@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 15140,
-          "exp": 1383,
-          "usedcommands": 29,
-          "level": 16,
+          "chocolates": 2500,
+          "bank": 52132,
+          "exp": 3544,
+          "usedcommands": 33,
+          "level": 23,
           "banned": false,
           "reason": "",
-          "usedTime": 1754155592246,
+          "usedTime": 1754155815567,
           "buyCooldown": 1754148285325,
           "rwCooldown": 1754148238121,
           "characters": [
@@ -517,7 +517,11 @@
           "rtCooldown": 1754155768533,
           "workCooldown": 1754155752733,
           "personajesEnVenta": [],
-          "roboCooldown": 1754157155889
+          "roboCooldown": 1754157155889,
+          "dailyStreak": 1,
+          "lastDaily": 1754155769307,
+          "nextReward": 32472,
+          "lastMonthly": 1754155800246
         },
         "51926887094@s.whatsapp.net": {
           "chocolates": 18816,
@@ -683,14 +687,14 @@
           "reason": ""
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 15968,
+          "chocolates": 34936,
           "bank": 0,
-          "exp": 1296,
-          "usedcommands": 8,
-          "level": 10,
+          "exp": 5997,
+          "usedcommands": 14,
+          "level": 29,
           "banned": false,
           "reason": "",
-          "usedTime": 1754155767238,
+          "usedTime": 1754155824598,
           "workCooldown": 1754156342513,
           "crimeCooldown": 1754156347460,
           "slutCooldown": 1754156350631,
@@ -698,7 +702,8 @@
           "lastDaily": 1754155755870,
           "nextReward": 4457,
           "mineCooldown": 1754156359557,
-          "lastWeekly": 1754155767241
+          "lastWeekly": 1754155767241,
+          "lastMonthly": 1754155777690
         }
       },
       "sWelcome": "",
@@ -828,7 +833,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 203,
+      "botcommando": 213,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
