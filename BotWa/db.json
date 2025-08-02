@@ -124,6 +124,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5492974124262@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "꯭   ꯭  ꯭ 𝐋𝒰Ｋ𝙰 ☆ 🐾",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -330,12 +339,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 31339,
           "bank": 0,
-          "exp": 1656,
-          "usedcommands": 35,
+          "exp": 1663,
+          "usedcommands": 36,
           "level": 17,
           "banned": false,
           "reason": "",
-          "usedTime": 1754149266802,
+          "usedTime": 1754149338325,
           "rwCooldown": 1754149152369,
           "buyCooldown": 1754149168849,
           "characters": [
@@ -403,6 +412,16 @@
           "mineCooldown": 1754148612283,
           "slutCooldown": 1754148615453,
           "rtCooldown": 1754148628100
+        },
+        "5492974124262@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 15,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754149288295
         }
       },
       "sWelcome": "",
@@ -489,7 +508,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 114,
+      "botcommando": 116,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
