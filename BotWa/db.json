@@ -1069,20 +1069,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "5219921415493@s.whatsapp.net",
-          "name": "Sailor Mercury",
-          "value": 9291,
-          "gender": "Mujer",
-          "source": "Sailor Moon",
-          "keyword": "sailor_mercury",
-          "id": "f5620898",
-          "reservedBy": "5219921415493@s.whatsapp.net",
-          "reservedUntil": 1754170383847,
-          "expiresAt": 1754170423847
-        }
-      ]
+      "personajesReservados": []
     },
     "status@broadcast": {
       "users": {
