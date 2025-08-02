@@ -370,6 +370,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5214446686595@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "🐼𝔫𝔞𝔫𝔦 𝔠𝔱🐼",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -591,12 +600,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 31339,
           "bank": 0,
-          "exp": 1936,
-          "usedcommands": 42,
-          "level": 18,
+          "exp": 1986,
+          "usedcommands": 43,
+          "level": 19,
           "banned": false,
           "reason": "",
-          "usedTime": 1754165617440,
+          "usedTime": 1754166597062,
           "rwCooldown": 1754149152369,
           "buyCooldown": 1754149168849,
           "characters": [
@@ -736,7 +745,7 @@
           "personajesEnVenta": []
         },
         "584249122334@s.whatsapp.net": {
-          "chocolates": 1964,
+          "chocolates": 5580,
           "bank": 58681,
           "exp": 4287,
           "usedcommands": 53,
@@ -1008,6 +1017,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5214446686595@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 53,
+          "usedcommands": 1,
+          "level": 4,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754166609001
         }
       },
       "sWelcome": "",
@@ -1145,7 +1164,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 325,
+      "botcommando": 327,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
