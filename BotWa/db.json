@@ -62,6 +62,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5491150611316@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "@MARIACHI.FF",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -198,6 +207,19 @@
           "dailyStreak": 1,
           "lastDaily": 1754146287669,
           "nextReward": 35103
+        },
+        "5491150611316@s.whatsapp.net": {
+          "chocolates": 4561,
+          "bank": 0,
+          "exp": 53,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754146425472,
+          "dailyStreak": 1,
+          "lastDaily": 1754146425474,
+          "nextReward": 5574
         }
       },
       "sWelcome": "",
@@ -257,7 +279,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 13,
+      "botcommando": 14,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
