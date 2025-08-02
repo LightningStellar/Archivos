@@ -150,6 +150,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573147626376@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝕵𝖚𝖆𝖓",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -452,6 +461,16 @@
           "workCooldown": 1754150353839,
           "mineCooldown": 1754150360187,
           "rtCooldown": 1754150371936
+        },
+        "573147626376@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 4,
+          "usedcommands": 1,
+          "level": 1,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754150039561
         }
       },
       "sWelcome": "",
@@ -563,7 +582,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 122,
+      "botcommando": 123,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
