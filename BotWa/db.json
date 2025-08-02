@@ -328,33 +328,45 @@
           "reason": ""
         },
         "5215591671116@s.whatsapp.net": {
-          "chocolates": 30023,
+          "chocolates": 27385,
           "bank": 0,
-          "exp": 959,
-          "usedcommands": 21,
-          "level": 14,
+          "exp": 1118,
+          "usedcommands": 25,
+          "level": 15,
           "banned": false,
           "reason": "",
-          "usedTime": 1754148218136,
-          "rwCooldown": 1754148165004,
-          "buyCooldown": 0,
-          "characters": [],
+          "usedTime": 1754148268845,
+          "rwCooldown": 1754149152369,
+          "buyCooldown": 1754149168849,
+          "characters": [
+            {
+              "name": "Lishu",
+              "value": 2638,
+              "gender": "Mujer",
+              "source": "Kusuriya no Hitorigoto",
+              "keyword": "lishu_(kusuriya_no_hitorigoto)",
+              "claim": "sábado, 2 de agosto de 2025",
+              "user": "5215591671116@s.whatsapp.net"
+            }
+          ],
           "dailyStreak": 1,
           "lastDaily": 1754147302825,
           "nextReward": 21480,
           "mineCooldown": 1754148808148,
           "crimeCooldown": 1754148794343,
-          "workCooldown": 1754148680130
+          "workCooldown": 1754148680130,
+          "characterCount": null,
+          "totalRwcoins": null
         },
         "573503329918@s.whatsapp.net": {
-          "chocolates": 1814,
+          "chocolates": 814,
           "bank": 0,
-          "exp": 681,
-          "usedcommands": 15,
-          "level": 12,
+          "exp": 749,
+          "usedcommands": 16,
+          "level": 13,
           "banned": false,
           "reason": "",
-          "usedTime": 1754148207551,
+          "usedTime": 1754148237336,
           "buyCooldown": 1754148285325,
           "rwCooldown": 1754148238121,
           "characters": [
@@ -371,7 +383,7 @@
           "mineCooldown": 1754148782076,
           "characterCount": null,
           "totalRwcoins": null,
-          "rtCooldown": 0,
+          "rtCooldown": 1754148837339,
           "workCooldown": 1754148773574
         },
         "51926887094@s.whatsapp.net": {
@@ -452,7 +464,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 85,
+      "botcommando": 90,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
