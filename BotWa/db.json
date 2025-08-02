@@ -213,6 +213,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "573204905292@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Lam",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -627,6 +636,16 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "573204905292@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 44,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754155046801
         }
       },
       "sWelcome": "",
@@ -743,7 +762,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 175,
+      "botcommando": 176,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
