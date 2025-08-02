@@ -240,6 +240,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "50256925876@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Dulcesito africano",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -712,6 +721,19 @@
           "lastWeekly": 1754155767241,
           "lastMonthly": 1754155777690,
           "rtCooldown": 1754156438166
+        },
+        "50256925876@s.whatsapp.net": {
+          "chocolates": 2137,
+          "bank": 0,
+          "exp": 194,
+          "usedcommands": 4,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754156774609,
+          "slutCooldown": 1754157357165,
+          "workCooldown": 1754157360516,
+          "mineCooldown": 1754157364513
         }
       },
       "sWelcome": "",
@@ -841,7 +863,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 237,
+      "botcommando": 241,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
