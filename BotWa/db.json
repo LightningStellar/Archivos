@@ -561,12 +561,12 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 4921,
           "bank": 0,
-          "exp": 591,
-          "usedcommands": 13,
+          "exp": 690,
+          "usedcommands": 14,
           "level": 11,
           "banned": false,
           "reason": "",
-          "usedTime": 1754175622433,
+          "usedTime": 1754177183615,
           "workCooldown": 1754146216149,
           "personajesEnVenta": []
         },
@@ -1086,19 +1086,22 @@
           "personajesEnVenta": []
         },
         "51922353722@s.whatsapp.net": {
-          "chocolates": 21553,
+          "chocolates": 48775,
           "bank": 0,
-          "exp": 797,
-          "usedcommands": 14,
-          "level": 12,
+          "exp": 822,
+          "usedcommands": 15,
+          "level": 13,
           "banned": false,
           "reason": "",
-          "usedTime": 1754177103084,
+          "usedTime": 1754177142143,
           "mineCooldown": 1754176962579,
           "workCooldown": 1754177114846,
           "roboCooldown": 1754178570586,
           "personajesEnVenta": [],
-          "rtCooldown": 1754177074269
+          "rtCooldown": 1754177074269,
+          "dailyStreak": 1,
+          "lastDaily": 1754177142145,
+          "nextReward": 8166
         },
         "56920449984@s.whatsapp.net": {
           "chocolates": 3642,
@@ -1665,7 +1668,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 480,
+      "botcommando": 482,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
