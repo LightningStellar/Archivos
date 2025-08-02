@@ -353,6 +353,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493764838767@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Obito Uchiha.",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -965,6 +974,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5493764838767@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 57,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754165057516
         }
       },
       "sWelcome": "",
@@ -1102,7 +1121,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 302,
+      "botcommando": 303,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
