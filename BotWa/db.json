@@ -544,12 +544,12 @@
         "584249122334@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 742,
-          "usedcommands": 12,
+          "exp": 782,
+          "usedcommands": 13,
           "level": 12,
           "banned": false,
           "reason": "",
-          "usedTime": 1754152846274
+          "usedTime": 1754152992351
         },
         "573183532216@s.whatsapp.net": {
           "chocolates": 0,
@@ -579,7 +579,7 @@
           "bank": 0,
           "exp": 46,
           "usedcommands": 1,
-          "level": 0,
+          "level": 4,
           "banned": false,
           "reason": "",
           "usedTime": 1754152920383
@@ -696,7 +696,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 168,
+      "botcommando": 169,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
