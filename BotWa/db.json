@@ -765,6 +765,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5218712620915@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -778,7 +787,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "personajesReservados": []
+      "personajesReservados": [],
+      "expired": 0
     },
     "5215591671116@s.whatsapp.net": {
       "users": {
