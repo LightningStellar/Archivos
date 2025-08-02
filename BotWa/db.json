@@ -339,12 +339,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 31339,
           "bank": 0,
-          "exp": 1663,
-          "usedcommands": 36,
+          "exp": 1712,
+          "usedcommands": 37,
           "level": 17,
           "banned": false,
           "reason": "",
-          "usedTime": 1754149338325,
+          "usedTime": 1754149365614,
           "rwCooldown": 1754149152369,
           "buyCooldown": 1754149168849,
           "characters": [
@@ -418,7 +418,7 @@
           "bank": 0,
           "exp": 15,
           "usedcommands": 1,
-          "level": 0,
+          "level": 2,
           "banned": false,
           "reason": "",
           "usedTime": 1754149288295
@@ -508,7 +508,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 116,
+      "botcommando": 117,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
