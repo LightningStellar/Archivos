@@ -584,17 +584,18 @@
         "584249122334@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 1010,
-          "usedcommands": 19,
+          "exp": 1051,
+          "usedcommands": 21,
           "level": 14,
           "banned": false,
           "reason": "",
-          "usedTime": 1754155381592,
+          "usedTime": 1754155463300,
           "personajesEnVenta": [],
           "workCooldown": 1754155767657,
           "slutCooldown": 1754155842535,
           "roboCooldown": 0,
-          "crimeCooldown": 1754155981594
+          "crimeCooldown": 1754155981594,
+          "pptCooldown": 0
         },
         "573183532216@s.whatsapp.net": {
           "chocolates": 0,
@@ -768,7 +769,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 189,
+      "botcommando": 191,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
