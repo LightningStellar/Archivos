@@ -222,6 +222,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51973271365@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "frdy",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -586,7 +595,7 @@
           "bank": 0,
           "exp": 1150,
           "usedcommands": 22,
-          "level": 14,
+          "level": 15,
           "banned": false,
           "reason": "",
           "usedTime": 1754155518913,
@@ -654,6 +663,15 @@
           "banned": false,
           "reason": "",
           "usedTime": 1754155046801
+        },
+        "51973271365@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
