@@ -1655,7 +1655,8 @@
           "level": 4,
           "banned": false,
           "reason": "",
-          "usedTime": 1754182638651
+          "usedTime": 1754182638651,
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
@@ -1940,7 +1941,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
