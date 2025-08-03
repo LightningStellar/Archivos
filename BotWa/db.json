@@ -502,6 +502,33 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "59894729013@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nata❺",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51950035502@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Anthony",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "5492916450307@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𓂃 ࣪˖ ⋆.˚ ʚїɞ ⋆ єℓℓ ƈσɳƚɾҽɾαx ᜊ ⋆ ʚїɞ .˚⋆ ࣪˖ 𓂃",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1375,6 +1402,34 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "59894729013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51950035502@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "5492916450307@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 190,
+          "usedcommands": 2,
+          "level": 5,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754189816017
         }
       },
       "sWelcome": "",
@@ -1747,7 +1802,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 725,
+      "botcommando": 727,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
