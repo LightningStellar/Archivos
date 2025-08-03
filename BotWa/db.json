@@ -615,6 +615,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5219988940312@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Concepción",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -883,7 +892,7 @@
           "personajesEnVenta": []
         },
         "5215591671116@s.whatsapp.net": {
-          "chocolates": 2272,
+          "chocolates": 2155,
           "bank": 0,
           "exp": 291,
           "usedcommands": 104,
@@ -1170,17 +1179,17 @@
           "personajesEnVenta": []
         },
         "51922353722@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 117,
           "bank": 72241,
-          "exp": 720,
-          "usedcommands": 55,
+          "exp": 887,
+          "usedcommands": 57,
           "level": 15,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181826956,
+          "usedTime": 1754181904109,
           "mineCooldown": 1754182221347,
           "workCooldown": 1754180474242,
-          "roboCooldown": 1754181554319,
+          "roboCooldown": 1754183705678,
           "personajesEnVenta": [],
           "rtCooldown": 1754182389917,
           "dailyStreak": 1,
@@ -1606,6 +1615,16 @@
           "lastDaily": 1754181821714,
           "nextReward": 19642,
           "rtCooldown": 1754182435989
+        },
+        "5219988940312@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 75,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754181926051
         }
       },
       "sWelcome": "",
@@ -1912,7 +1931,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 618,
+      "botcommando": 621,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
