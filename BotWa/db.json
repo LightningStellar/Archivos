@@ -874,16 +874,16 @@
           "personajesEnVenta": []
         },
         "5215591671116@s.whatsapp.net": {
-          "chocolates": 38590,
+          "chocolates": 391,
           "bank": 0,
-          "exp": 83,
-          "usedcommands": 99,
+          "exp": 221,
+          "usedcommands": 102,
           "level": 34,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181481061,
-          "rwCooldown": 1754177043009,
-          "buyCooldown": 1754149168849,
+          "usedTime": 1754181557639,
+          "rwCooldown": 1754182442306,
+          "buyCooldown": 1754182457642,
           "characters": [
             {
               "name": "Lishu",
@@ -893,6 +893,15 @@
               "keyword": "lishu_(kusuriya_no_hitorigoto)",
               "claim": "sÃÂÃÂ¡bado, 2 de agosto de 2025",
               "user": "5215591671116@s.whatsapp.net"
+            },
+            {
+              "name": "Hina",
+              "value": 38199,
+              "gender": "Mujer",
+              "source": "Blue Archive",
+              "keyword": "hina_(blue_archive)",
+              "claim": "domingo, 3 de agosto de 2025",
+              "user": "5215591671116@s.whatsapp.net"
             }
           ],
           "dailyStreak": 1,
@@ -901,8 +910,8 @@
           "mineCooldown": 1754180183387,
           "crimeCooldown": 1754148794343,
           "workCooldown": 1754180479017,
-          "characterCount": null,
-          "totalRwcoins": null,
+          "characterCount": 1,
+          "totalRwcoins": 38199,
           "personajesEnVenta": [],
           "roboCooldown": 1754181530970,
           "lastMonthly": 1754180218018,
@@ -1152,14 +1161,14 @@
           "personajesEnVenta": []
         },
         "51922353722@s.whatsapp.net": {
-          "chocolates": 7347,
-          "bank": 39236,
-          "exp": 53,
-          "usedcommands": 43,
+          "chocolates": 46583,
+          "bank": 0,
+          "exp": 141,
+          "usedcommands": 45,
           "level": 15,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181456910,
+          "usedTime": 1754181566693,
           "mineCooldown": 1754180209765,
           "workCooldown": 1754180474242,
           "roboCooldown": 1754181554319,
@@ -1169,7 +1178,8 @@
           "lastDaily": 1754177142145,
           "nextReward": 8166,
           "pptCooldown": 1754180246578,
-          "crimeCooldown": 1754180859949
+          "crimeCooldown": 1754180859949,
+          "buyCooldown": 0
         },
         "56920449984@s.whatsapp.net": {
           "chocolates": 3642,
@@ -1286,14 +1296,14 @@
           "personajesEnVenta": []
         },
         "5493764838767@s.whatsapp.net": {
-          "chocolates": 90169463,
+          "chocolates": 90143167,
           "bank": 0,
-          "exp": 2888,
-          "usedcommands": 58,
-          "level": 21,
+          "exp": 3016,
+          "usedcommands": 62,
+          "level": 22,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181457011,
+          "usedTime": 1754181541219,
           "dailyStreak": 1,
           "lastDaily": 1754165069941,
           "nextReward": 27349,
@@ -1302,8 +1312,8 @@
           "mineCooldown": 1754177317452,
           "rtCooldown": 1754182057013,
           "personajesEnVenta": [],
-          "rwCooldown": 1754179752111,
-          "buyCooldown": 1754179765854,
+          "rwCooldown": 1754182416705,
+          "buyCooldown": 1754182432820,
           "characters": [
             {
               "name": "Kisaki",
@@ -1321,6 +1331,15 @@
               "source": "Re:Zero",
               "keyword": "satella_(re:zero)",
               "claim": "sábado, 2 de agosto de 2025",
+              "user": "5493764838767@s.whatsapp.net"
+            },
+            {
+              "name": "Kiwi Araga",
+              "value": 26296,
+              "gender": "Mujer",
+              "source": "Mahou Shoujo ni Akogarate",
+              "keyword": "araga_kiwi",
+              "claim": "domingo, 3 de agosto de 2025",
               "user": "5493764838767@s.whatsapp.net"
             }
           ],
@@ -1555,12 +1574,15 @@
         "5491125933603@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 106,
-          "usedcommands": 2,
+          "exp": 136,
+          "usedcommands": 5,
           "level": 6,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181464196
+          "usedTime": 1754181563166,
+          "buyCooldown": 0,
+          "rwCooldown": 1754182448527,
+          "characters": []
         }
       },
       "sWelcome": "",
@@ -1575,7 +1597,20 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "5491125933603@s.whatsapp.net",
+          "name": "Mahoraga",
+          "value": 16826,
+          "gender": "Hombre",
+          "source": "Jujutsu Kaisen",
+          "keyword": "mahoraga_(jujutsu_kaisen)",
+          "id": "efe349cd",
+          "reservedBy": "5491125933603@s.whatsapp.net",
+          "reservedUntil": 1754181568527,
+          "expiresAt": 1754181608527
+        }
+      ]
     },
     "status@broadcast": {
       "users": {
@@ -1854,7 +1889,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 589,
+      "botcommando": 601,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
