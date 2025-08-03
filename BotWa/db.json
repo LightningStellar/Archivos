@@ -867,12 +867,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 38590,
           "bank": 0,
-          "exp": 67,
-          "usedcommands": 86,
+          "exp": 92,
+          "usedcommands": 88,
           "level": 34,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181011539,
+          "usedTime": 1754181080535,
           "rwCooldown": 1754177043009,
           "buyCooldown": 1754149168849,
           "characters": [
@@ -1331,12 +1331,12 @@
         "5214446686595@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 53,
-          "usedcommands": 1,
-          "level": 4,
+          "exp": 95,
+          "usedcommands": 2,
+          "level": 5,
           "banned": false,
           "reason": "",
-          "usedTime": 1754166609001,
+          "usedTime": 1754181046903,
           "personajesEnVenta": []
         },
         "5219921415493@s.whatsapp.net": {
@@ -1789,6 +1789,31 @@
       "bannedGrupo": false,
       "expired": 0,
       "personajesReservados": []
+    },
+    "51960821201@s.whatsapp.net": {
+      "users": {
+        "51960821201@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -1810,7 +1835,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 567,
+      "botcommando": 570,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
