@@ -624,6 +624,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "18292181108@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "frankmonserrat5",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1632,6 +1641,16 @@
           "reason": "",
           "usedTime": 1754181926051,
           "personajesEnVenta": []
+        },
+        "18292181108@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 59,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754182638651
         }
       },
       "sWelcome": "",
@@ -1927,7 +1946,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 630,
+      "botcommando": 631,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
