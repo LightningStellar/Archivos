@@ -633,6 +633,23 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "59894729013@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nata❺",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "200227667619978@lid": {
+      "metadatos": null,
+      "metadatos2": null,
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -904,12 +921,12 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 2155,
           "bank": 0,
-          "exp": 623,
-          "usedcommands": 111,
+          "exp": 715,
+          "usedcommands": 112,
           "level": 34,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188392691,
+          "usedTime": 1754188468080,
           "rwCooldown": 1754189051239,
           "buyCooldown": 1754182457642,
           "characters": [
@@ -1064,12 +1081,12 @@
         "584249122334@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 67943,
-          "exp": 4923,
-          "usedcommands": 67,
-          "level": 26,
+          "exp": 5018,
+          "usedcommands": 69,
+          "level": 27,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188431337,
+          "usedTime": 1754188504971,
           "personajesEnVenta": [],
           "workCooldown": 1754177297424,
           "slutCooldown": 1754176864437,
@@ -1077,7 +1094,7 @@
           "crimeCooldown": 1754155981594,
           "pptCooldown": 0,
           "rwCooldown": 1754156418915,
-          "mineCooldown": 1754177322200,
+          "mineCooldown": 1754189104973,
           "dailyStreak": 1,
           "lastDaily": 1754155934096,
           "nextReward": 34932,
@@ -1623,19 +1640,23 @@
           "personajesEnVenta": []
         },
         "5216422302773@s.whatsapp.net": {
-          "chocolates": 0,
+          "chocolates": 2377,
           "bank": 0,
-          "exp": 542,
-          "usedcommands": 8,
-          "level": 11,
+          "exp": 790,
+          "usedcommands": 12,
+          "level": 12,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188338551,
+          "usedTime": 1754188508935,
           "dailyStreak": 1,
           "lastDaily": 1754181821714,
           "nextReward": 19642,
           "rtCooldown": 1754182435989,
-          "personajesEnVenta": []
+          "personajesEnVenta": [],
+          "workCooldown": 1754189092618,
+          "slutCooldown": 1754189099267,
+          "crimeCooldown": 1754189103926,
+          "mineCooldown": 1754189108937
         },
         "5219988940312@s.whatsapp.net": {
           "chocolates": 0,
@@ -1658,6 +1679,15 @@
           "reason": "",
           "usedTime": 1754182638651,
           "personajesEnVenta": []
+        },
+        "200227667619978@lid": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -1972,6 +2002,31 @@
       "bannedGrupo": false,
       "expired": 0,
       "personajesReservados": []
+    },
+    "59894729013@s.whatsapp.net": {
+      "users": {
+        "59894729013@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -1993,7 +2048,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 674,
+      "botcommando": 681,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
