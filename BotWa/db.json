@@ -36,15 +36,6 @@
       "marry": "",
       "description": ""
     },
-    "573019448245@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "Rikka Takanashi",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
     "5219996125657@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
@@ -76,23 +67,6 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Johan",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
-    "51950035502@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "Anthony",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
-    "90611529064550@lid": {
-      "metadatos": null,
-      "metadatos2": null,
       "genre": "",
       "birth": "",
       "marry": "",
@@ -178,15 +152,6 @@
       "marry": "17722687511@s.whatsapp.net",
       "description": ""
     },
-    "573183532216@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "ÃÂÃÂ£ÃÂÃÂÃÂÃÂ·ÃÂÃÂ¯ÃÂÃÂ¸ÃÂÃÂMariÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¤ÃÂÃÂ¯ÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂ¸ÃÂÃÂ^ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¯ÃÂÃÂ»ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢^ÃÂÃÂ ÃÂÃÂ¸ÃÂÃÂ",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
     "573225834343@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
@@ -218,15 +183,6 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Lam",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
-    "51973271365@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "frdy",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -268,15 +224,6 @@
       "marry": "",
       "description": ""
     },
-    "51977371988@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "PÃÂÃÂÃÂÃÂ¤ntÃÂÃÂÃÂÃÂ¢",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
     "573202902137@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
@@ -290,15 +237,6 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "..",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
-    "51917740435@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": ".",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -668,6 +606,15 @@
       "birth": "martes, 28 de enero",
       "marry": "",
       "description": ""
+    },
+    "573019448245@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Rikka Takanashi",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -833,22 +780,12 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 922,
-          "usedcommands": 19,
+          "exp": 986,
+          "usedcommands": 21,
           "level": 14,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188973587,
-          "personajesEnVenta": []
-        },
-        "573019448245@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
+          "usedTime": 1754189654719,
           "personajesEnVenta": []
         },
         "17722687511@s.whatsapp.net": {
@@ -916,35 +853,15 @@
           "usedTime": 1754146731035,
           "personajesEnVenta": []
         },
-        "51950035502@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
-          "personajesEnVenta": []
-        },
-        "90611529064550@lid": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
-          "personajesEnVenta": []
-        },
         "5215591671116@s.whatsapp.net": {
           "chocolates": 2155,
           "bank": 0,
-          "exp": 741,
-          "usedcommands": 113,
+          "exp": 767,
+          "usedcommands": 114,
           "level": 34,
           "banned": false,
           "reason": "",
-          "usedTime": 1754189540110,
+          "usedTime": 1754189641459,
           "rwCooldown": 1754189051239,
           "buyCooldown": 1754182457642,
           "characters": [
@@ -1099,12 +1016,12 @@
         "584249122334@s.whatsapp.net": {
           "chocolates": 2637,
           "bank": 65213,
-          "exp": 5564,
-          "usedcommands": 79,
+          "exp": 5572,
+          "usedcommands": 80,
           "level": 28,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188845515,
+          "usedTime": 1754189616161,
           "personajesEnVenta": [],
           "workCooldown": 1754189114464,
           "slutCooldown": 1754189240142,
@@ -1120,16 +1037,6 @@
           "buyCooldown": 0,
           "rtCooldown": 1754158903083,
           "characters": []
-        },
-        "573183532216@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
-          "personajesEnVenta": []
         },
         "573225834343@s.whatsapp.net": {
           "chocolates": 15528,
@@ -1160,13 +1067,13 @@
         "573247771279@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 10,
-          "usedcommands": 1,
+          "exp": 90,
+          "usedcommands": 2,
           "level": 2,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
-          "usedTime": 1754155145782
+          "usedTime": 1754189634659
         },
         "573204905292@s.whatsapp.net": {
           "chocolates": 0,
@@ -1177,16 +1084,6 @@
           "banned": false,
           "reason": "",
           "usedTime": 1754155046801,
-          "personajesEnVenta": []
-        },
-        "51973271365@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
           "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
@@ -1258,16 +1155,6 @@
           "usedTime": 1754168455393,
           "workCooldown": 1754169055396
         },
-        "51977371988@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
-          "personajesEnVenta": []
-        },
         "573202902137@s.whatsapp.net": {
           "chocolates": 1031,
           "bank": 0,
@@ -1294,16 +1181,6 @@
           "personajesEnVenta": [],
           "roboCooldown": 1754182166615,
           "rtCooldown": 1754181023909
-        },
-        "51917740435@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
-          "personajesEnVenta": []
         },
         "68462449811551@lid": {
           "chocolates": 0,
@@ -1740,6 +1617,15 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "573019448245@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -2112,7 +1998,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 718,
+      "botcommando": 723,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
