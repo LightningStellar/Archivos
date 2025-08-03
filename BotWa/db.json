@@ -1179,14 +1179,14 @@
           "personajesEnVenta": []
         },
         "51922353722@s.whatsapp.net": {
-          "chocolates": 4107,
-          "bank": 72358,
-          "exp": 1061,
-          "usedcommands": 60,
+          "chocolates": 0,
+          "bank": 76465,
+          "exp": 1159,
+          "usedcommands": 62,
           "level": 15,
           "banned": false,
           "reason": "",
-          "usedTime": 1754182019850,
+          "usedTime": 1754182069553,
           "mineCooldown": 1754182221347,
           "workCooldown": 1754180474242,
           "roboCooldown": 1754183705678,
@@ -1639,20 +1639,7 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": [
-        {
-          "userId": "5491125933603@s.whatsapp.net",
-          "name": "Mahoraga",
-          "value": 16826,
-          "gender": "Hombre",
-          "source": "Jujutsu Kaisen",
-          "keyword": "mahoraga_(jujutsu_kaisen)",
-          "id": "efe349cd",
-          "reservedBy": "5491125933603@s.whatsapp.net",
-          "reservedUntil": 1754181568527,
-          "expiresAt": 1754181608527
-        }
-      ]
+      "personajesReservados": []
     },
     "status@broadcast": {
       "users": {
@@ -1909,7 +1896,8 @@
       "primaryBot": null,
       "antilinks": true,
       "bannedGrupo": false,
-      "expired": 0
+      "expired": 0,
+      "personajesReservados": []
     }
   },
   "settings": {
@@ -1931,7 +1919,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 624,
+      "botcommando": 626,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
