@@ -659,6 +659,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5216421056593@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "𝐑𝐈𝐍𝐓𝐀𝐑𝐎𝐔 - 𝐌𝐃",
+      "genre": "Hombre",
+      "birth": "martes, 28 de enero",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1088,21 +1097,21 @@
           "personajesEnVenta": []
         },
         "584249122334@s.whatsapp.net": {
-          "chocolates": 2611,
+          "chocolates": 2637,
           "bank": 65213,
-          "exp": 5313,
-          "usedcommands": 74,
-          "level": 27,
+          "exp": 5493,
+          "usedcommands": 77,
+          "level": 28,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188694903,
+          "usedTime": 1754188812078,
           "personajesEnVenta": [],
           "workCooldown": 1754189114464,
           "slutCooldown": 1754189240142,
           "roboCooldown": 1754190007079,
           "crimeCooldown": 1754155981594,
-          "pptCooldown": 0,
-          "rwCooldown": 1754156418915,
+          "pptCooldown": 1754189375227,
+          "rwCooldown": 1754189712081,
           "mineCooldown": 1754189104973,
           "dailyStreak": 1,
           "lastDaily": 1754155934096,
@@ -1710,6 +1719,17 @@
           "banned": false,
           "reason": "",
           "usedTime": 1754188702125
+        },
+        "5216421056593@s.whatsapp.net": {
+          "chocolates": 3179,
+          "bank": 0,
+          "exp": 268,
+          "usedcommands": 4,
+          "level": 7,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754188804009,
+          "workCooldown": 1754189365243
         }
       },
       "sWelcome": "",
@@ -1736,6 +1756,18 @@
           "reservedBy": "5215591671116@s.whatsapp.net",
           "reservedUntil": 1754188171239,
           "expiresAt": 1754188211239
+        },
+        {
+          "userId": "584249122334@s.whatsapp.net",
+          "name": "Shiroko",
+          "value": 12988,
+          "gender": "Mujer",
+          "source": "Blue Archive",
+          "keyword": "shiroko_(blue_archive)",
+          "id": "27a74615",
+          "reservedBy": "584249122334@s.whatsapp.net",
+          "reservedUntil": 1754188832081,
+          "expiresAt": 1754188872081
         }
       ]
     },
@@ -2054,7 +2086,7 @@
   "settings": {
     "5218713339906@s.whatsapp.net": {
       "self": false,
-      "botcommando": 9,
+      "botcommando": 10,
       "prefix": "/",
       "namebot": "Rikka Takanashi",
       "namebot2": "Rikka",
@@ -2070,7 +2102,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 702,
+      "botcommando": 708,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
