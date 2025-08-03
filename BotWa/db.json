@@ -904,13 +904,13 @@
         "5215591671116@s.whatsapp.net": {
           "chocolates": 2155,
           "bank": 0,
-          "exp": 291,
-          "usedcommands": 104,
+          "exp": 389,
+          "usedcommands": 107,
           "level": 34,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181633004,
-          "rwCooldown": 1754182442306,
+          "usedTime": 1754188151237,
+          "rwCooldown": 1754189051239,
           "buyCooldown": 1754182457642,
           "characters": [
             {
@@ -1290,19 +1290,20 @@
           "personajesEnVenta": []
         },
         "573234656022@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 451,
-          "usedcommands": 9,
-          "level": 10,
+          "chocolates": 5695,
+          "bank": 5,
+          "exp": 609,
+          "usedcommands": 14,
+          "level": 11,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188074015,
-          "slutCooldown": 1754162499297,
+          "usedTime": 1754188153171,
+          "slutCooldown": 1754188717628,
           "roboCooldown": 0,
           "personajesEnVenta": [],
           "workCooldown": 1754169095046,
-          "crimeCooldown": 1754169263659
+          "crimeCooldown": 1754188709862,
+          "mineCooldown": 1754188727228
         },
         "83374492401788@lid": {
           "chocolates": 0,
@@ -1671,7 +1672,20 @@
       "antilinks": true,
       "bannedGrupo": false,
       "expired": 0,
-      "personajesReservados": []
+      "personajesReservados": [
+        {
+          "userId": "5215591671116@s.whatsapp.net",
+          "name": "Zoro Roronoa",
+          "value": 29278,
+          "gender": "Hombre",
+          "source": "One Piece",
+          "keyword": "zoro_roronoa",
+          "id": "fe15aa50",
+          "reservedBy": "5215591671116@s.whatsapp.net",
+          "reservedUntil": 1754188171239,
+          "expiresAt": 1754188211239
+        }
+      ]
     },
     "status@broadcast": {
       "users": {
@@ -1979,7 +1993,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 650,
+      "botcommando": 658,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
