@@ -856,14 +856,14 @@
           "personajesEnVenta": []
         },
         "5215591671116@s.whatsapp.net": {
-          "chocolates": 36895,
-          "bank": 0,
-          "exp": 2974,
-          "usedcommands": 64,
+          "chocolates": 0,
+          "bank": 36895,
+          "exp": 3183,
+          "usedcommands": 67,
           "level": 22,
           "banned": false,
           "reason": "",
-          "usedTime": 1754179748629,
+          "usedTime": 1754179827299,
           "rwCooldown": 1754177043009,
           "buyCooldown": 1754149168849,
           "characters": [
@@ -1096,14 +1096,14 @@
           "personajesEnVenta": []
         },
         "5493534413480@s.whatsapp.net": {
-          "chocolates": 14000956,
-          "bank": 0,
-          "exp": 7462,
-          "usedcommands": 43,
-          "level": 31,
+          "chocolates": 0,
+          "bank": 12004385,
+          "exp": 7602,
+          "usedcommands": 46,
+          "level": 32,
           "banned": false,
           "reason": "",
-          "usedTime": 1754177109343,
+          "usedTime": 1754179804446,
           "workCooldown": 1754164689110,
           "crimeCooldown": 1754164684190,
           "slutCooldown": 1754164685108,
@@ -1113,9 +1113,9 @@
           "mineCooldown": 1754164694564,
           "lastWeekly": 1754155767241,
           "lastMonthly": 1754155777690,
-          "rtCooldown": 1754177495600,
+          "rtCooldown": 1754180376351,
           "personajesEnVenta": [],
-          "roboCooldown": 1754178589067
+          "roboCooldown": 1754181587517
         },
         "50256925876@s.whatsapp.net": {
           "chocolates": 2137,
@@ -1132,7 +1132,7 @@
           "personajesEnVenta": []
         },
         "51922353722@s.whatsapp.net": {
-          "chocolates": 26169,
+          "chocolates": 22740,
           "bank": 22000,
           "exp": 608,
           "usedcommands": 28,
@@ -1784,7 +1784,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 514,
+      "botcommando": 520,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
