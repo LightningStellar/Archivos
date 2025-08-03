@@ -729,7 +729,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
@@ -1181,12 +1182,12 @@
         "51922353722@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 76465,
-          "exp": 1159,
-          "usedcommands": 62,
+          "exp": 14,
+          "usedcommands": 63,
           "level": 15,
           "banned": false,
           "reason": "",
-          "usedTime": 1754182069553,
+          "usedTime": 1754182112415,
           "mineCooldown": 1754182221347,
           "workCooldown": 1754180474242,
           "roboCooldown": 1754183705678,
@@ -1574,7 +1575,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         },
         "51960821201@s.whatsapp.net": {
           "chocolates": 49358,
@@ -1587,7 +1589,8 @@
           "usedTime": 1754180406493,
           "dailyStreak": 1,
           "lastDaily": 1754180406497,
-          "nextReward": 38777
+          "nextReward": 38777,
+          "personajesEnVenta": []
         },
         "5491125933603@s.whatsapp.net": {
           "chocolates": 0,
@@ -1600,7 +1603,8 @@
           "usedTime": 1754181563166,
           "buyCooldown": 0,
           "rwCooldown": 1754182448527,
-          "characters": []
+          "characters": [],
+          "personajesEnVenta": []
         },
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
@@ -1614,7 +1618,8 @@
           "dailyStreak": 1,
           "lastDaily": 1754181821714,
           "nextReward": 19642,
-          "rtCooldown": 1754182435989
+          "rtCooldown": 1754182435989,
+          "personajesEnVenta": []
         },
         "5219988940312@s.whatsapp.net": {
           "chocolates": 0,
@@ -1624,7 +1629,8 @@
           "level": 0,
           "banned": false,
           "reason": "",
-          "usedTime": 1754181926051
+          "usedTime": 1754181926051,
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
@@ -1882,7 +1888,8 @@
           "usedcommands": 0,
           "level": 0,
           "banned": false,
-          "reason": ""
+          "reason": "",
+          "personajesEnVenta": []
         }
       },
       "sWelcome": "",
@@ -1919,7 +1926,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 626,
+      "botcommando": 627,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
