@@ -529,6 +529,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "595994943779@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Ivonn",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51960821201@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "A💗💫",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -919,12 +937,12 @@
         "584249122334@s.whatsapp.net": {
           "chocolates": 2637,
           "bank": 65213,
-          "exp": 5572,
-          "usedcommands": 80,
+          "exp": 5719,
+          "usedcommands": 82,
           "level": 28,
           "banned": false,
           "reason": "",
-          "usedTime": 1754189616161,
+          "usedTime": 1754189878290,
           "personajesEnVenta": [],
           "workCooldown": 1754189114464,
           "slutCooldown": 1754189240142,
@@ -1424,12 +1442,30 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 190,
-          "usedcommands": 2,
-          "level": 5,
+          "exp": 290,
+          "usedcommands": 7,
+          "level": 8,
           "banned": false,
           "reason": "",
-          "usedTime": 1754189816017
+          "usedTime": 1754189892747
+        },
+        "595994943779@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        },
+        "51960821201@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -1802,7 +1838,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 727,
+      "botcommando": 735,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
