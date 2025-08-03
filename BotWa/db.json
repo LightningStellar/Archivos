@@ -101,7 +101,7 @@
     "5215591671116@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "à¼ºá¦à¼ ShikokuâYamashiro à¼á¦à¼»",
+      "name": "༺ღ༒ Shikoku—Yamashiro ༒ღ༻",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -332,7 +332,7 @@
     "573234656022@s.whatsapp.net": {
       "metadatos": null,
       "metadatos2": null,
-      "name": "ðð¥00:00ð¥ð",
+      "name": "😈🔥00:00🔥😈",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -798,12 +798,12 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 510,
-          "usedcommands": 12,
-          "level": 10,
+          "exp": 882,
+          "usedcommands": 18,
+          "level": 13,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176030093,
+          "usedTime": 1754188091387,
           "personajesEnVenta": []
         },
         "573019448245@s.whatsapp.net": {
@@ -1292,12 +1292,12 @@
         "573234656022@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 443,
-          "usedcommands": 8,
+          "exp": 451,
+          "usedcommands": 9,
           "level": 10,
           "banned": false,
           "reason": "",
-          "usedTime": 1754168663657,
+          "usedTime": 1754188074015,
           "slutCooldown": 1754162499297,
           "roboCooldown": 0,
           "personajesEnVenta": [],
@@ -1975,11 +1975,11 @@
       "botmod": false
     },
     "573019448245@s.whatsapp.net": {
-      "botprem": true,
-      "tipo": "Prem",
-      "botmod": false,
+      "botprem": false,
+      "tipo": "Mod",
+      "botmod": true,
       "self": false,
-      "botcommando": 642,
+      "botcommando": 650,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
