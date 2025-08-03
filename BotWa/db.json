@@ -233,23 +233,6 @@
       "marry": "",
       "description": ""
     },
-    "51962264360@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "..",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
-    "68462449811551@lid": {
-      "metadatos": null,
-      "metadatos2": null,
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
     "264725141168311@lid": {
       "metadatos": null,
       "metadatos2": null,
@@ -572,15 +555,6 @@
       "marry": "",
       "description": ""
     },
-    "59894729013@s.whatsapp.net": {
-      "metadatos": null,
-      "metadatos2": null,
-      "name": "Nata❺",
-      "genre": "",
-      "birth": "",
-      "marry": "",
-      "description": ""
-    },
     "200227667619978@lid": {
       "metadatos": null,
       "metadatos2": null,
@@ -611,6 +585,15 @@
       "metadatos": null,
       "metadatos2": null,
       "name": "Rikka Takanashi",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "59894729013@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Nata❺",
       "genre": "",
       "birth": "",
       "marry": "",
@@ -780,12 +763,12 @@
         "5492916450307@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 986,
-          "usedcommands": 21,
+          "exp": 989,
+          "usedcommands": 22,
           "level": 14,
           "banned": false,
           "reason": "",
-          "usedTime": 1754189654719,
+          "usedTime": 1754189714867,
           "personajesEnVenta": []
         },
         "17722687511@s.whatsapp.net": {
@@ -1069,7 +1052,7 @@
           "bank": 0,
           "exp": 90,
           "usedcommands": 2,
-          "level": 2,
+          "level": 5,
           "banned": false,
           "reason": "",
           "personajesEnVenta": [],
@@ -1165,31 +1148,6 @@
           "reason": "",
           "usedTime": 1754160474291,
           "workCooldown": 1754161068880,
-          "personajesEnVenta": []
-        },
-        "51962264360@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 4429,
-          "exp": 434,
-          "usedcommands": 9,
-          "level": 10,
-          "banned": false,
-          "reason": "",
-          "usedTime": 1754180428397,
-          "workCooldown": 1754161672872,
-          "mineCooldown": 1754161675721,
-          "personajesEnVenta": [],
-          "roboCooldown": 1754182166615,
-          "rtCooldown": 1754181023909
-        },
-        "68462449811551@lid": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": "",
           "personajesEnVenta": []
         },
         "264725141168311@lid": {
@@ -1609,15 +1567,6 @@
           "usedTime": 1754189590479,
           "workCooldown": 1754189365243
         },
-        "59894729013@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 0,
-          "exp": 0,
-          "usedcommands": 0,
-          "level": 0,
-          "banned": false,
-          "reason": ""
-        },
         "573019448245@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
@@ -1998,7 +1947,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 723,
+      "botcommando": 724,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
