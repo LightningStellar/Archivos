@@ -588,6 +588,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "51960821201@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "A💗💫",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -856,14 +865,14 @@
           "personajesEnVenta": []
         },
         "5215591671116@s.whatsapp.net": {
-          "chocolates": 1695,
-          "bank": 36895,
-          "exp": 8440,
-          "usedcommands": 75,
+          "chocolates": 38590,
+          "bank": 0,
+          "exp": 8471,
+          "usedcommands": 76,
           "level": 33,
           "banned": false,
           "reason": "",
-          "usedTime": 1754180230415,
+          "usedTime": 1754180425780,
           "rwCooldown": 1754177043009,
           "buyCooldown": 1754149168849,
           "characters": [
@@ -1187,18 +1196,19 @@
           "personajesEnVenta": []
         },
         "51962264360@s.whatsapp.net": {
-          "chocolates": 7929,
+          "chocolates": 4429,
           "bank": 0,
-          "exp": 118,
-          "usedcommands": 4,
-          "level": 4,
+          "exp": 360,
+          "usedcommands": 8,
+          "level": 9,
           "banned": false,
           "reason": "",
-          "usedTime": 1754180366613,
+          "usedTime": 1754180423906,
           "workCooldown": 1754161672872,
           "mineCooldown": 1754161675721,
           "personajesEnVenta": [],
-          "roboCooldown": 1754182166615
+          "roboCooldown": 1754182166615,
+          "rtCooldown": 1754181023909
         },
         "51917740435@s.whatsapp.net": {
           "chocolates": 0,
@@ -1518,6 +1528,19 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "51960821201@s.whatsapp.net": {
+          "chocolates": 49358,
+          "bank": 0,
+          "exp": 47,
+          "usedcommands": 2,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754180406493,
+          "dailyStreak": 1,
+          "lastDaily": 1754180406497,
+          "nextReward": 38777
         }
       },
       "sWelcome": "",
@@ -1786,7 +1809,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 541,
+      "botcommando": 548,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
