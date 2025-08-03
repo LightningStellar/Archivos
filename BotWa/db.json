@@ -650,6 +650,15 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5215525237149@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "💕☕ Coffee's Versión ☕💕",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -1642,12 +1651,12 @@
         "5216422302773@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 1677,
-          "usedcommands": 22,
+          "exp": 1727,
+          "usedcommands": 23,
           "level": 17,
           "banned": false,
           "reason": "",
-          "usedTime": 1754188697779,
+          "usedTime": 1754188732311,
           "dailyStreak": 1,
           "lastDaily": 1754181821714,
           "nextReward": 19642,
@@ -1691,6 +1700,16 @@
           "level": 0,
           "banned": false,
           "reason": ""
+        },
+        "5215525237149@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 99,
+          "usedcommands": 1,
+          "level": 0,
+          "banned": false,
+          "reason": "",
+          "usedTime": 1754188702125
         }
       },
       "sWelcome": "",
@@ -2051,7 +2070,7 @@
       "tipo": "Mod",
       "botmod": true,
       "self": false,
-      "botcommando": 700,
+      "botcommando": 702,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
