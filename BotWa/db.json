@@ -570,6 +570,24 @@
       "birth": "",
       "marry": "",
       "description": ""
+    },
+    "5493425667767@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "͟͞🔖⸸͜𝆞༝⟅ẹ𝆬υ⟆༝͜𝆞⸸.er/k",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
+    },
+    "51921831386@s.whatsapp.net": {
+      "metadatos": null,
+      "metadatos2": null,
+      "name": "Thomas Fabrizio",
+      "genre": "",
+      "birth": "",
+      "marry": "",
+      "description": ""
     }
   },
   "chats": {
@@ -667,6 +685,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "5493425667767@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -1104,14 +1131,14 @@
           "personajesEnVenta": []
         },
         "51922353722@s.whatsapp.net": {
-          "chocolates": 0,
-          "bank": 47445,
-          "exp": 288,
-          "usedcommands": 20,
+          "chocolates": 47445,
+          "bank": 0,
+          "exp": 356,
+          "usedcommands": 22,
           "level": 14,
           "banned": false,
           "reason": "",
-          "usedTime": 1754178145885,
+          "usedTime": 1754179325351,
           "mineCooldown": 1754176962579,
           "workCooldown": 1754177114846,
           "roboCooldown": 1754178570586,
@@ -1479,6 +1506,15 @@
           "banned": false,
           "reason": "",
           "personajesEnVenta": []
+        },
+        "51921831386@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
         }
       },
       "sWelcome": "",
@@ -1747,7 +1783,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 493,
+      "botcommando": 495,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
