@@ -1420,14 +1420,19 @@
         },
         "5219987697583@s.whatsapp.net": {
           "chocolates": 0,
-          "bank": 0,
-          "exp": 217,
-          "usedcommands": 3,
-          "level": 8,
+          "bank": 41762,
+          "exp": 442,
+          "usedcommands": 7,
+          "level": 10,
           "banned": false,
           "reason": "",
-          "usedTime": 1754182667135,
-          "personajesEnVenta": []
+          "usedTime": 1754183118039,
+          "personajesEnVenta": [],
+          "workCooldown": 1754183701220,
+          "dailyStreak": 1,
+          "lastDaily": 1754183103934,
+          "nextReward": 17086,
+          "rtCooldown": 0
         },
         "258892692984006@lid": {
           "chocolates": 0,
@@ -1550,12 +1555,12 @@
         "59162934727@s.whatsapp.net": {
           "chocolates": 0,
           "bank": 0,
-          "exp": 60,
-          "usedcommands": 1,
+          "exp": 112,
+          "usedcommands": 2,
           "level": 4,
           "banned": false,
           "reason": "",
-          "usedTime": 1754176188915,
+          "usedTime": 1754183102115,
           "personajesEnVenta": []
         },
         "51944492617@s.whatsapp.net": {
@@ -1925,6 +1930,31 @@
       "bannedGrupo": false,
       "expired": 0,
       "personajesReservados": []
+    },
+    "51917740435@s.whatsapp.net": {
+      "users": {
+        "51917740435@s.whatsapp.net": {
+          "chocolates": 0,
+          "bank": 0,
+          "exp": 0,
+          "usedcommands": 0,
+          "level": 0,
+          "banned": false,
+          "reason": ""
+        }
+      },
+      "sWelcome": "",
+      "sBye": "",
+      "welcome": true,
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "rpg": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "bannedGrupo": false,
+      "expired": 0
     }
   },
   "settings": {
@@ -1946,7 +1976,7 @@
       "tipo": "Prem",
       "botmod": false,
       "self": false,
-      "botcommando": 636,
+      "botcommando": 641,
       "namebot": "Rikka Takanashi",
       "prefix": "/",
       "namebot2": "Rikka",
